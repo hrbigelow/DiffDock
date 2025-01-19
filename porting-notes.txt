@@ -1,0 +1,92 @@
+Getting to know uv:
+
+uv add torch==2.4.0 torchaudio==2.4.0 torchvision==0.19.0 --index https://pypi.org/simple --index https://download.pytorch.org/whl/cu121
+uv add torch-scatter torch-sparse torch-spline-conv torch-cluster -f https://data.pyg.org/whl/torch-2.4.0%2Bcu121.html
+
+Oddly, the '-f' switch here doesn't get recorded in pyproject.toml.  (Using --index)
+does add entries under 'tool.uv.index'.
+
+However, I do see the sources in the uv.lock file.
+
+Successful UV commands:
+
+# As noted above, torch must be installed alongside torchaudio and torchvision
+# Once you choose a torch version (here, 2.4.0), the page at
+# https://pytorch.org/get-started/previous-versions/ directs you to which versions of
+# torchaudio and torchvision must be installed
+# Additionally, the --index https://pypi.org/simple must be provided before
+# --index https://download.pytorch.org/whl/cu121 in order to avoid a warning about
+# markupsafe.  Not sure why.
+uv add torch==2.4.0 torchaudio==2.4.0 torchvision==0.19.0 --index https://pypi.org/simple --index https://download.pytorch.org/whl/cu121
+
+# Including the -f option here is as directed at
+# https://github.com/rusty1s/pytorch_scatter?tab=readme-ov-file#pytorch-25 # but for pytorch 2.4.0
+uv add torch-scatter torch-sparse torch-spline-conv torch-cluster -f https://data.pyg.org/whl/torch-2.4.0%2Bcu121.html
+uv add "dllogger @ git+https://github.com/NVIDIA/dllogger.git"
+
+# The pl_upgrades branch is designated at https://openfold.readthedocs.io/en/latest/Installation.html#Environment-specific-modifications
+# for using openfold with CUDA 12.1
+uv add "openfold @ git+https://github.com/aqlaboratory/openfold.git@pl_upgrades" --no-build-isolation
+
+# The issue at https://github.com/facebookresearch/esm/issues/460 explains
+# https://github.com/facebookresearch/esm/issues/460#issuecomment-1455204479
+# that you can sidestep the dependency on deepspeed
+# There doesn't seem to be a way to directly do this with `uv add`
+uv pip install fair-esm[esmfold]==2.0.0 --no-deps
+
+# The following 
+uv add e3nn
+uv add torch_geometric
+uv add pytorch-lightning
+uv add networkx
+uv add pandas
+uv add pybind11
+uv add rdkit
+uv add scikit-learn
+uv add gradio
+uv add requests
+uv add torchmetrics
+uv add prody
+uv add scipy
+
+
+
+Quirk with installing torch:
+
+There is a confusing bug in torch installation workflow.  If you only install torch:
+
+python3 -m venv myenv
+source myenv/bin/activate
+# if I only install torch (without torchaudio and torchvision) ...
+pip install torch==2.4.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+python -c 'import torch'
+/home/henry/ai/projects/venv-test/myvenv/lib/python3.11/site-packages/torch/_subclasses/functional_tensor.py:258: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at ../torch/csrc/utils/tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+
+# But, if I install torchaudio and torchvision ...
+pip install torchvision==0.19.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cu121
+python -c 'import torch'
+# success - no error messages
+
+
+
+CUDA availability on Modal:
+
+From https://modal.com/docs/guide/cuda#using-cuda-on-modal
+
+"""
+Make sure to choose a version of CUDA that is no greater than 12.4, the version
+provided by the host machine. Older minor (12.*) versions are guaranteed to be
+compatible with the host machine’s driver, but older major (11.*, 10.*, etc.)
+versions may not be.
+"""
+
+I suppose this means I should avoid trying to use 11.7 or 11.8.
+
+There isn't much in DiffDock issues page demonstrating it running on CUDA 12.*.
+There are many DiffDock forks, but the most popular ones still run using pytorch
+1.12.* or 1.13.* on CUDA 11.7 or 11.8.  I'm trying to find a config for CUDA 12.1
+and Pytorch 2.* that works.
+
+
