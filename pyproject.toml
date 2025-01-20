@@ -38,3 +38,7 @@ url = "https://pypi.org/simple"
 
 [[tool.uv.index]]
 url = "https://download.pytorch.org/whl/cu121"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
