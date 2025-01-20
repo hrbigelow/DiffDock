@@ -5,14 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "torch-scatter>=2.1.2",
     "torch==2.4.0",
     "torchaudio==2.4.0",
     "torchvision==0.19.0",
+    "torch-scatter>=2.1.2",
     "torch-sparse>=0.6.18",
     "torch-spline-conv>=1.2.2",
     "torch-cluster>=1.6.3",
-    "dllogger",
+    "dllogger @ git+https://github.com/NVIDIA/dllogger.git",
     "e3nn>=0.5.4",
     "torch-geometric>=2.6.1",
     "pytorch-lightning>=2.5.0.post0",
@@ -21,7 +21,7 @@ dependencies = [
     "pybind11>=2.13.6",
     "rdkit>=2024.9.4",
     "scikit-learn>=1.6.1",
-    "openfold",
+    "openfold @ git+https://github.com/aqlaboratory/openfold.git@pl_upgrades",
     "gradio>=5.12.0",
     "requests>=2.32.3",
     "torchmetrics>=1.6.1",
@@ -29,16 +29,10 @@ dependencies = [
     "scipy>=1.15.1",
 ]
 
-[tool.uv.sources]
-dllogger = { git = "https://github.com/NVIDIA/dllogger.git" }
-openfold = { git = "https://github.com/aqlaboratory/openfold.git", rev = "pl_upgrades" }
-
-[[tool.uv.index]]
-url = "https://pypi.org/simple"
-
-[[tool.uv.index]]
-url = "https://download.pytorch.org/whl/cu121"
-
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+

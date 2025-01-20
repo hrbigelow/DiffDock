@@ -1,6 +1,12 @@
 # DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
 [![Open in HuggingFace](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web)
 
+## Installation
+
+    # Install torch==2.4.0 torchaudio==2.4.0 torchvision==0.19.0
+    pip install "diffdock @ git+https://github.com/hrbigelow/diffdock.git@modal-port" \
+      --find-links https://data.pyg.org/whl/torch-2.4.0+cu121.html
+
 
 ![Alt Text](overview.png)
 
