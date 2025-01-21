@@ -78,19 +78,24 @@ def get_parser():
     parser.add_argument('--save_visualisation', action='store_true', default=False, help='Save a pdb file with all of the steps of the reverse diffusion')
     parser.add_argument('--samples_per_complex', type=int, default=10, help='Number of samples to generate')
 
-    parser.add_argument('--model_dir', type=str, default=None, help='Path to folder
-                        with trained score model and hyperparameters')
+    parser.add_argument(
+            '--model_dir', type=str, default=None, 
+            help='Path to folder with trained score model and hyperparameters')
     parser.add_argument('--ckpt', type=str,
                         default='best_ema_inference_epoch_model.pt', 
                         help='Checkpoint to use for the score model')
-    parser.add_argument('--confidence_model_dir', type=str, default=None, help='Path
-                        to folder with trained confidence model and hyperparameters')
-    parser.add_argument('--confidence_ckpt', type=str, default='best_model.pt', help='Checkpoint to use for the confidence model')
+    parser.add_argument(
+            '--confidence_model_dir', type=str, default=None, 
+            help='Path to folder with trained confidence model and hyperparameters')
+    parser.add_argument('--confidence_ckpt', type=str, default='best_model.pt', 
+                        help='Checkpoint to use for the confidence model')
 
     parser.add_argument('--batch_size', type=int, default=10, help='')
     parser.add_argument('--no_final_step_noise', action='store_true', default=True, help='Use no noise in the final step of the reverse diffusion')
-    parser.add_argument('--inference_steps', type=int, default=20, help='Number of denoising steps')
-    parser.add_argument('--actual_steps', type=int, default=None, help='Number of denoising steps that are actually performed')
+    parser.add_argument('--inference_steps', type=int, default=20, 
+                        help='Number of denoising steps')
+    parser.add_argument('--actual_steps', type=int, default=None, 
+                        help='Number of denoising steps that are actually performed')
 
     parser.add_argument('--old_score_model', action='store_true', default=False, help='')
     parser.add_argument('--old_confidence_model', action='store_true', default=True, help='')
@@ -173,6 +178,9 @@ def main(config: str="default_inference_args.yaml",
                         arg_dict[key].append(v)
                 else:
                     arg_dict[key] = value
+
+    print('Called with arguments: ')
+    pprint.pprint(args)
 
     # Download models if they don't exist locally
     if not os.path.exists(args.model_dir):
