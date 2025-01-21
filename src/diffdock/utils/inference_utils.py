@@ -116,9 +116,11 @@ def generate_ESM_structure(model, filename, sequence):
 
 
 class InferenceDataset(Dataset):
-    def __init__(self, out_dir, complex_names, protein_files, ligand_descriptions, protein_sequences, lm_embeddings,
-                 receptor_radius=30, c_alpha_max_neighbors=None, precomputed_lm_embeddings=None,
-                 remove_hs=False, all_atoms=False, atom_radius=5, atom_max_neighbors=None, knn_only_graph=False):
+    def __init__(self, out_dir, complex_names, protein_files, ligand_descriptions,
+                 protein_sequences, lm_embeddings, receptor_radius=30,
+                 c_alpha_max_neighbors=None, precomputed_lm_embeddings=None,
+                 remove_hs=False, all_atoms=False, atom_radius=5,
+                 atom_max_neighbors=None, knn_only_graph=False):
 
         super(InferenceDataset, self).__init__()
         self.receptor_radius = receptor_radius
