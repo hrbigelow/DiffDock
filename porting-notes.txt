@@ -89,4 +89,16 @@ There are many DiffDock forks, but the most popular ones still run using pytorch
 1.12.* or 1.13.* on CUDA 11.7 or 11.8.  I'm trying to find a config for CUDA 12.1
 and Pytorch 2.* that works.
 
+Getting some introspection for the running process
+
+Added SIGQUIT handler to main app code.  Then, in one terminal:
+
+terminal1 $ modal run main.py
+terminal2 $ modal shell $(modal container list --json | jq -r '.[0]["Container ID"]')
+
+From within the container shell:
+ps aux | grep python
+kill -3 <PID>
+
+Then, a stacktrace appears in terminal1.
 
