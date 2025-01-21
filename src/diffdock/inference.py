@@ -1,3 +1,4 @@
+import fire
 import functools
 import logging
 import pprint
@@ -5,9 +6,11 @@ import traceback
 from argparse import ArgumentParser, Namespace, FileType
 import copy
 import os
+import sys
 from functools import partial
 import warnings
 from typing import Mapping, Optional
+from types import SimpleNamespace
 
 import yaml
 
@@ -57,11 +60,16 @@ REMOTE_URLS = [f"{REPOSITORY_URL}/releases/latest/download/diffdock_models.zip",
 def get_parser():
     parser = ArgumentParser()
     parser.add_argument('--config', type=FileType(mode='r'), default='default_inference_args.yaml')
-    parser.add_argument('--protein_ligand_csv', type=str, default=None, help='Path to a .csv file specifying the input as described in the README. If this is not None, it will be used instead of the --protein_path, --protein_sequence and --ligand parameters')
-    parser.add_argument('--complex_name', type=str, default=None, help='Name that the complex will be saved with')
-    parser.add_argument('--protein_path', type=str, default=None, help='Path to the protein file')
-    parser.add_argument('--protein_sequence', type=str, default=None, help='Sequence of the protein for ESMFold, this is ignored if --protein_path is not None')
-    parser.add_argument('--ligand_description', type=str, default='CCCCC(NC(=O)CCC(=O)O)P(=O)(O)OC1=CC=CC=C1', help='Either a SMILES string or the path to a molecule file that rdkit can read')
+    parser.add_argument('--protein_ligand_csv', type=str, default=None, 
+                        help='Path to a .csv file specifying the input as described in the README. If this is not None, it will be used instead of the --protein_path, --protein_sequence and --ligand parameters')
+    parser.add_argument('--complex_name', type=str, default=None, 
+                        help='Name that the complex will be saved with')
+    parser.add_argument('--protein_path', type=str, default=None, 
+                        help='Path to the protein file')
+    parser.add_argument('--protein_sequence', type=str, default=None, 
+                        help='Sequence of the protein for ESMFold, this is ignored if --protein_path is not None')
+    parser.add_argument('--ligand_description', type=str, default='CCCCC(NC(=O)CCC(=O)O)P(=O)(O)OC1=CC=CC=C1', 
+                        help='Either a SMILES string or the path to a molecule file that rdkit can read')
 
     parser.add_argument('-l', '--log', '--loglevel', type=str, default='WARNING', dest="loglevel",
                         help='Log level. Default %(default)s')
@@ -70,9 +78,13 @@ def get_parser():
     parser.add_argument('--save_visualisation', action='store_true', default=False, help='Save a pdb file with all of the steps of the reverse diffusion')
     parser.add_argument('--samples_per_complex', type=int, default=10, help='Number of samples to generate')
 
-    parser.add_argument('--model_dir', type=str, default=None, help='Path to folder with trained score model and hyperparameters')
-    parser.add_argument('--ckpt', type=str, default='best_ema_inference_epoch_model.pt', help='Checkpoint to use for the score model')
-    parser.add_argument('--confidence_model_dir', type=str, default=None, help='Path to folder with trained confidence model and hyperparameters')
+    parser.add_argument('--model_dir', type=str, default=None, help='Path to folder
+                        with trained score model and hyperparameters')
+    parser.add_argument('--ckpt', type=str,
+                        default='best_ema_inference_epoch_model.pt', 
+                        help='Checkpoint to use for the score model')
+    parser.add_argument('--confidence_model_dir', type=str, default=None, help='Path
+                        to folder with trained confidence model and hyperparameters')
     parser.add_argument('--confidence_ckpt', type=str, default='best_model.pt', help='Checkpoint to use for the confidence model')
 
     parser.add_argument('--batch_size', type=int, default=10, help='')
@@ -105,20 +117,62 @@ def get_parser():
     return parser
 
 
-def main(args):
+def main(config: str="default_inference_args.yaml",
+         protein_ligand_csv: str=None,
+         complex_name: str=None,
+         protein_path: str=None,
+         protein_sequence: str=None,
+         ligand_description: str="CCCCC(NC(=O)CCC(=O)O)P(=O)(O)OC1=CC=CC=C1",
+         loglevel: str="WARNING",
+         out_dir: str="results/user_inference",
+         save_visualization: bool=False,
+         samples_per_complex: int=10,
+         model_dir: str=None,
+         ckpt: str="best_ema_inference_epochS_model.pt",
+         confidence_model_dir: str=None,
+         confidence_ckpt: str="best_model.py",
+         batch_size: int=10,
+         no_final_step_noise: bool=True,
+         inference_steps: int=20,
+         actual_steps: int=None,
+         old_score_model: bool=False,
+         old_confidence_model: bool=True,
+         initial_noise_std_proportion: float=-1.0,
+         choose_residue: bool=False,
+         temp_sampling_tr: float=1.0,
+         temp_psi_tr: float=0.0,
+         temp_sigma_data_tr: float=0.5,
+         temp_sampling_rot: float=1.0,
+         temp_psi_rot: float=0.0,
+         temp_sigma_data_rot: float=0.5,
+         temp_sampling_tor: float=1.0,
+         temp_psi_tor: float=0.0,
+         temp_sigma_data_tor: float=0.5,
+         gnina_minimize: bool=False,
+         gnina_path: str="gnina",
+         gnina_log_file: str="gnina_log.txt",
+         gnina_full_dock: bool=False,
+         gnina_autobox_add:float=4.0,
+         gnina_poses_to_optimize: int=1,
+        ):
+    """
 
-    configure_logger(args.loglevel)
+    """
+    args = SimpleNamespace(**locals())
+
+    configure_logger(loglevel)
     logger = get_logger()
 
-    if args.config:
-        config_dict = yaml.load(args.config, Loader=yaml.FullLoader)
-        arg_dict = args.__dict__
-        for key, value in config_dict.items():
-            if isinstance(value, list):
-                for v in value:
-                    arg_dict[key].append(v)
-            else:
-                arg_dict[key] = value
+    if config:
+        with open(config, 'r') as fh:
+            config_dict = yaml.load(fh, Loader=yaml.FullLoader)
+            arg_dict = args.__dict__
+            for key, value in config_dict.items():
+                if isinstance(value, list):
+                    for v in value:
+                        arg_dict[key].append(v)
+                else:
+                    arg_dict[key] = value
 
     # Download models if they don't exist locally
     if not os.path.exists(args.model_dir):
@@ -314,5 +368,4 @@ def main(args):
 
 
 if __name__ == "__main__":
-    _args = get_parser().parse_args()
-    main(_args)
+    fire.Fire(main)

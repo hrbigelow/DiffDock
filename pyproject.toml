@@ -27,6 +27,7 @@ dependencies = [
     "torchmetrics>=1.6.1",
     "prody>=2.3.1",
     "scipy>=1.15.1",
+    "fire>=0.7.0",
 ]
 
 [build-system]
