@@ -107,4 +107,11 @@ Then, a stacktrace appears in terminal1.
 
 Currently I have 
 
+TODO
 
+- accept inputs
+- compelling demo (Modal map, star map)
+    use local entrypoint  
+    file munging
+  
+  

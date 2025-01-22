@@ -7,6 +7,7 @@ from argparse import ArgumentParser, Namespace, FileType
 import copy
 import os
 import sys
+import json
 from functools import partial
 import warnings
 from typing import Mapping, Optional
@@ -179,8 +180,7 @@ def main(config: str="default_inference_args.yaml",
                 else:
                     arg_dict[key] = value
 
-    print('Called with arguments: ')
-    pprint.pprint(args)
+    # print(json.dumps(args.__dict__, indent=2))
 
     # Download models if they don't exist locally
     if not os.path.exists(args.model_dir):
