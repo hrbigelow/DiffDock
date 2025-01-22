@@ -17,7 +17,6 @@ signal.signal(signal.SIGQUIT, handle_sigquit)
 here = Path(__file__).parent
 
 app = modal.App()
-pyg_link = "https://data.pyg.org/whl/torch-2.4.0+cu121.html"
 image = (
         modal.Image.from_registry("pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel", 
                                   add_python="3.11")
@@ -25,7 +24,9 @@ image = (
         .run_commands(
             "pip install fair-esm[esmfold]==2.0.0 --no-deps"
             )
-        .pip_install_from_pyproject(here / "pyproject.toml", find_links=pyg_link)
+        .pip_install_from_pyproject(
+            here / "pyproject.toml", 
+            find_links="https://data.pyg.org/whl/torch-2.4.0+cu121.html")
         .env({'TORCH_HOME': "/app/cache"})
         # must be last (to get nice mounting behavior)
         .add_local_dir(here / "src/diffdock", "/root/diffdock")

@@ -261,7 +261,9 @@ def main(config: str="default_inference_args.yaml",
     t_to_sigma = partial(t_to_sigma_compl, args=score_model_args)
 
     model = get_model(score_model_args, device, t_to_sigma=t_to_sigma, no_parallel=True, old=args.old_score_model)
-    state_dict = torch.load(f'{args.model_dir}/{args.ckpt}', map_location=torch.device('cpu'))
+    state_dict = torch.load(f'{args.model_dir}/{args.ckpt}', 
+                            map_location=torch.device('cpu'),
+                            weights_only=True)
     model.load_state_dict(state_dict, strict=True)
     model = model.to(device)
     model.eval()
@@ -269,7 +271,10 @@ def main(config: str="default_inference_args.yaml",
     if args.confidence_model_dir is not None:
         confidence_model = get_model(confidence_args, device, t_to_sigma=t_to_sigma, no_parallel=True,
                                      confidence_mode=True, old=args.old_confidence_model)
-        state_dict = torch.load(f'{args.confidence_model_dir}/{args.confidence_ckpt}', map_location=torch.device('cpu'))
+        state_dict = torch.load(
+                f'{args.confidence_model_dir}/{args.confidence_ckpt}', 
+                map_location=torch.device('cpu'),
+                weights_only=True)
         confidence_model.load_state_dict(state_dict, strict=True)
         confidence_model = confidence_model.to(device)
         confidence_model.eval()
