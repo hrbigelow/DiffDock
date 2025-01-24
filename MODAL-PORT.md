@@ -23,11 +23,11 @@
 At the first large-scale run (`--inputs data/dockgen.json`, `concurrency_limit=10`) 
 there is apparently a gradual CPU memory leak (and then something more sudden):
 
-<img src="./data/first_large_run.png"></img>
+<img src="./img/first_large_run.png"></img>
 
 Next was to add batched dispatch.  Each invocation of 
 
-<img src="./data/batch5_run1.png"></img>
+<img src="./img/batch5_run1.png"></img>
 
 Memory leak
 
@@ -68,5 +68,5 @@ Secondly, I ported `app.py` to now use a `app.cls()`.  Here, instantiation of
 `Inference()` class is done in `@modal.enter` function, and the `main` call in the
 `@modal.method` function.  The leak is now solved:
 
-<img src="./data/after_cls_refactor.png"></img>
+<img src="./img/after_cls_refactor.png"></img>
 
