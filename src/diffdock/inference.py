@@ -95,16 +95,6 @@ class Inference:
             gnina_poses_to_optimize: int=1):
         """
         Partial list of input argument annotations:
-        protein_ligand_csv: 
-          Path to a .csv file specifying the input as described in the README. If this is not None, it will be used instead of the --protein_path, --protein_sequence and --ligand parameters
-        complex_names:
-          List of names that the complex will be saved with
-        protein_paths:
-          List of paths to protein files
-        protein_sequences:
-          List of Sequences of the protein for ESMFold, this is ignored if --protein_path is not None
-        ligand_descriptions:
-          List of either SMILES strings or paths to a molecule file that rdkit can read
         out_dir:
           Directory where the outputs will be written to
         save_visualization:

@@ -45,13 +45,9 @@ image = (
         # this allows `diffdock` package to be imported without pip install, 
         # since Modal adds /root to sys.path
         .add_local_dir(here / "src/diffdock", "/root/diffdock")
-        # .add_local_file(here / "data/dockgen.json", "/root/")
-        # .add_local_file(here / "data/hps.json", "/root/")
+        .add_local_file(here / "data/hps.json", "/root/hps.json")
         )
 
-# global file paths
-# HPS_PATH = Path("/root/hps.json")
-# INPUTS_PATH = Path("/root/dockgen.json")
 
 volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
 MODEL_DIR = Path("/app")
@@ -60,10 +56,10 @@ MODEL_DIR = Path("/app")
 class Model:
     @modal.enter()
     def on_startup(self):
-        self.hps = json.loads(HPS_PATH.read_text())
+        hps = json.loads(Path("/root/hps.json").read_text())
         os.chdir(MODEL_DIR)
         from diffdock import inference
-        self.ddif = inference.Inference(**self.hps)
+        self.ddif = inference.Inference(**hps)
 
     @modal.method()
     def dock(self, input: dict):
@@ -73,46 +69,24 @@ class Model:
           - protein_paths: List of string, local paths to pdb file
           - ligand_descriptions: List of string, local paths to ligand .sdf file 
         """
-        # help(inference)
         print(f"Processing {input['complex_names']}...")
         self.ddif.main(**input)
         return input["complex_names"]
 
 @app.local_entrypoint()
-def main(hps: str, inputs: str, batch_size: int):
+def main(inputs_json: str, batch_size: int):
     """
     hps: JSON file with kwargs to inference.py::main function
     inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
     batch_size: number of protein-ligand pairs to submit for each job
     """
-    inputs = json.loads(Path(inputs).read_text())
-    hps = json.loads(Path(hps).read_text())
+    inputs = json.loads(Path(inputs_json).read_text())
     batched = batch_inputs(inputs, batch_size)
-
-    # model = Model()
+    model = Model()
+    print("finished instantiating Model class")
     # outputs only written to volume (for now)
-    # for result in model.dock.map(batched, order_outputs=False):
-     #    print(result)
-
-
-
-@app.function(gpu="H100", image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
-# @app.function(image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
-def dock(input: dict, *, hps: dict):
-    """
-    hps: dict of hyperparameters 
-    input: dict with keys pointing to parallel lists:
-      - complex_names: List of string, arbitrary names
-      - protein_paths: List of string, local paths to pdb file
-      - ligand_descriptions: List of string, local paths to ligand .sdf file 
-    """
-    os.chdir(MODEL_DIR)
-    from diffdock import inference
-    ddif = inference.Inference(**hps)
-    # help(inference)
-    print(f"Processing {input['complex_names']}...")
-    ddif.main(**input)
-    return input["complex_names"]
+    for result in model.dock.map(batched, order_outputs=False):
+        print(result)
 
 def _leaktest():
     # run some ablation of dock function (ablating code in inference.py) to see

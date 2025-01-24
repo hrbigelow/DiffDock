@@ -43,10 +43,10 @@ def set_nones(l):
     return [s if str(s) != 'nan' else None for s in l]
 
 
-def get_sequences(protein_files):
+def get_sequences(protein_paths):
     new_sequences = []
-    for i in range(len(protein_files)):
-        new_sequences.append(get_sequences_from_pdbfile(protein_files[i]))
+    for i in range(len(protein_paths)):
+        new_sequences.append(get_sequences_from_pdbfile(protein_paths[i]))
     return new_sequences
 
 
@@ -138,30 +138,30 @@ class InferenceDataset(Dataset):
 
     def initialize(self, 
                    complex_names: List[str],
-                   protein_files: List[str],
+                   protein_paths: List[str],
                    ligand_descriptions: List[str]):
         """
         Initialize the dataset with specific protein-ligand pairs
         """
         self.complex_names = complex_names
-        self.protein_files = protein_files
+        self.protein_paths = protein_paths
         self.ligand_descriptions = ligand_descriptions
         self.lm_embeddings = [None] * len(self.complex_names)
 
         # generate structures with ESMFold
-        if None in protein_files:
+        if None in protein_paths:
             print("generating missing structures with ESMFold")
             model = esm.pretrained.esmfold_v1()
             model = model.eval().cuda()
 
-            for i in range(len(protein_files)):
-                if protein_files[i] is None:
-                    self.protein_files[i] = f"{self.out_dir}/{complex_names[i]}/{complex_names[i]}_esmfold.pdb"
+            for i in range(len(protein_paths)):
+                if protein_paths[i] is None:
+                    self.protein_paths[i] = f"{self.out_dir}/{complex_names[i]}/{complex_names[i]}_esmfold.pdb"
 
     def compute_lm_embeddings(self):
         print("Generating ESM language model embeddings")
 
-        self.protein_sequences = get_sequences(self.protein_files)
+        self.protein_sequences = get_sequences(self.protein_paths)
         labels, sequences = [], []
         for i in range(len(self.protein_sequences)):
             s = self.protein_sequences[i].split(':')
@@ -185,7 +185,7 @@ class InferenceDataset(Dataset):
 
     def get(self, idx):
         name, protein_file, ligand_description, lm_embedding = \
-            (self.complex_names[idx], self.protein_files[idx],
+            (self.complex_names[idx], self.protein_paths[idx],
              self.ligand_descriptions[idx], self.lm_embeddings[idx])
 
         # build the pytorch geometric heterogeneous graph
@@ -238,6 +238,12 @@ class InferenceDataset(Dataset):
         if self.all_atoms:
             complex_graph['atom'].pos -= protein_center
 
+        if not hasattr(complex_graph['ligand'], 'pos'):
+            print(f"Skipping {name} because ligand has no `pos` attribute")
+            complex_graph['success'] = False
+            return complex_graph
+
+
         ligand_center = torch.mean(complex_graph['ligand'].pos, dim=0, keepdim=True)
         complex_graph['ligand'].pos -= ligand_center
 
@@ -245,3 +251,4 @@ class InferenceDataset(Dataset):
         complex_graph.mol = mol
         complex_graph['success'] = True
         return complex_graph
+
