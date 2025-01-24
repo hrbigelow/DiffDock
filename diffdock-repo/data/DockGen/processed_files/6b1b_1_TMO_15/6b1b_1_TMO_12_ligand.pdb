@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and... resnum `2004`)'
+HETATM    1  CAA TMO B2004       4.689  40.442  46.559  1.00 25.56         A C  
+ANISOU    1  CAA TMO B2004        0      0      0      0      0      0     A C  
+HETATM    2  NAC TMO B2004       4.148  39.293  45.852  1.00 36.10         A N  
+ANISOU    2  NAC TMO B2004        0      0      0      0      0      0     A N  
+HETATM    3  CAD TMO B2004       2.708  39.372  45.929  1.00 31.19         A C  
+ANISOU    3  CAD TMO B2004        0      0      0      0      0      0     A C  
+HETATM    4  CAB TMO B2004       4.494  39.364  44.444  1.00 33.66         A C  
+ANISOU    4  CAB TMO B2004        0      0      0      0      0      0     A C  
+HETATM    5  OAE TMO B2004       4.625  38.093  46.419  1.00 37.26         A O  
+ANISOU    5  OAE TMO B2004        0      0      0      0      0      0     A O  

@@ -1,0 +1,25 @@
+REMARK Selection '(segment D) and...d resnum `802`)'
+HETATM    1  C1  GAF A 802      13.245  10.347 -78.313  1.00 30.00         D C  
+ANISOU    1  C1  GAF A 802        0      0      0      0      0      0     D C  
+HETATM    2  C2  GAF A 802      14.521  10.328 -79.253  1.00 30.55         D C  
+ANISOU    2  C2  GAF A 802        0      0      0      0      0      0     D C  
+HETATM    3  F2  GAF A 802      14.348  11.311 -80.170  1.00 30.88         D F  
+ANISOU    3  F2  GAF A 802        0      0      0      0      0      0     D F  
+HETATM    4  C3  GAF A 802      14.685   9.020 -79.976  1.00 27.71         D C  
+ANISOU    4  C3  GAF A 802        0      0      0      0      0      0     D C  
+HETATM    5  O3  GAF A 802      15.842   9.075 -80.760  1.00 27.66         D O  
+ANISOU    5  O3  GAF A 802        0      0      0      0      0      0     D O  
+HETATM    6  C4  GAF A 802      14.634   7.793 -79.116  1.00 28.98         D C  
+ANISOU    6  C4  GAF A 802        0      0      0      0      0      0     D C  
+HETATM    7  O4  GAF A 802      15.758   7.771 -78.249  1.00 32.64         D O  
+ANISOU    7  O4  GAF A 802        0      0      0      0      0      0     D O  
+HETATM    8  C5  GAF A 802      13.360   7.880 -78.223  1.00 31.70         D C  
+ANISOU    8  C5  GAF A 802        0      0      0      0      0      0     D C  
+HETATM    9  O5  GAF A 802      13.282   9.153 -77.468  1.00 28.82         D O  
+ANISOU    9  O5  GAF A 802        0      0      0      0      0      0     D O  
+HETATM   10  C6  GAF A 802      13.383   6.637 -77.344  1.00 34.62         D C  
+ANISOU   10  C6  GAF A 802        0      0      0      0      0      0     D C  
+HETATM   11  O6  GAF A 802      12.428   6.743 -76.272  1.00 44.49         D O  
+ANISOU   11  O6  GAF A 802        0      0      0      0      0      0     D O  
+HETATM   12  O1  GAF A 802      12.078  10.295 -79.182  1.00 33.39         D O  
+ANISOU   12  O1  GAF A 802        0      0      0      0      0      0     D O  

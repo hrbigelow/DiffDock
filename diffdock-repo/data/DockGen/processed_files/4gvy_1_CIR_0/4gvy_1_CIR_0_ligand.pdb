@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and...d resnum `403`)'
+HETATM    1  C1  CIR A 403      33.227   5.874  42.406  1.00 22.28         A C  
+ANISOU    1  C1  CIR A 403        0      0      0      0      0      0     A C  
+HETATM    2  O1  CIR A 403      33.197   6.788  43.241  1.00 22.99         A O  
+ANISOU    2  O1  CIR A 403        0      0      0      0      0      0     A O  
+HETATM    3  O2  CIR A 403      33.650   4.708  42.603  1.00 23.84         A O  
+ANISOU    3  O2  CIR A 403        0      0      0      0      0      0     A O  
+HETATM    4  C2  CIR A 403      32.680   6.169  40.931  1.00 21.73         A C  
+ANISOU    4  C2  CIR A 403        0      0      0      0      0      0     A C  
+HETATM    5  N2  CIR A 403      33.122   5.078  40.054  1.00 17.89         A N  
+ANISOU    5  N2  CIR A 403        0      0      0      0      0      0     A N  
+HETATM    6  C3  CIR A 403      31.124   6.221  41.019  1.00 24.45         A C  
+ANISOU    6  C3  CIR A 403        0      0      0      0      0      0     A C  
+HETATM    7  C4  CIR A 403      30.451   5.012  41.708  1.00 26.83         A C  
+ANISOU    7  C4  CIR A 403        0      0      0      0      0      0     A C  
+HETATM    8  C5  CIR A 403      28.943   5.316  42.020  1.00 30.80         A C  
+ANISOU    8  C5  CIR A 403        0      0      0      0      0      0     A C  
+HETATM    9  N6  CIR A 403      28.765   6.692  42.536  1.00 31.02         A N  
+ANISOU    9  N6  CIR A 403        0      0      0      0      0      0     A N  
+HETATM   10  C7  CIR A 403      28.527   6.929  43.882  1.00 32.17         A C  
+ANISOU   10  C7  CIR A 403        0      0      0      0      0      0     A C  
+HETATM   11  O7  CIR A 403      28.427   6.010  44.738  1.00 28.32         A O  
+ANISOU   11  O7  CIR A 403        0      0      0      0      0      0     A O  
+HETATM   12  N8  CIR A 403      28.387   8.235  44.325  1.00 32.58         A N  
+ANISOU   12  N8  CIR A 403        0      0      0      0      0      0     A N  

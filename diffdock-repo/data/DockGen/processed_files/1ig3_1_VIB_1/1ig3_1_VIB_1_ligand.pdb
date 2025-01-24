@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and...d resnum `501`)'
+HETATM    1  CM2 VIB B 501      19.339  39.651  23.030  1.00 35.09         A C  
+HETATM    2  N4A VIB B 501      23.987  39.071  21.498  1.00 34.60         A N  
+HETATM    3  CM4 VIB B 501      25.675  40.226  16.958  1.00 35.89         A C  
+HETATM    4  O1  VIB B 501      28.125  44.516  15.989  1.00 45.22         A O  
+HETATM    5  C7  VIB B 501      27.040  44.114  16.802  1.00 41.05         A C  
+HETATM    6  C6  VIB B 501      27.376  42.745  17.446  1.00 39.72         A C  
+HETATM    7  C2  VIB B 501      24.310  42.124  19.721  1.00 36.40         A C  
+HETATM    8  S1  VIB B 501      25.553  43.365  19.604  1.00 33.44         A S  
+HETATM    9  C5  VIB B 501      26.165  42.359  18.243  1.00 36.75         A C  
+HETATM   10  C4  VIB B 501      25.395  41.255  18.046  1.00 36.97         A C  
+HETATM   11  N3  VIB B 501      24.409  41.185  18.873  1.00 36.65         A N  
+HETATM   12  C7A VIB B 501      23.419  40.096  18.872  1.00 34.20         A C  
+HETATM   13  C4A VIB B 501      22.675  39.470  21.215  1.00 34.74         A C  
+HETATM   14  N3A VIB B 501      21.693  39.368  22.208  1.00 34.10         A N  
+HETATM   15  C2A VIB B 501      20.374  39.767  21.951  1.00 35.70         A C  
+HETATM   16  N1A VIB B 501      20.034  40.282  20.681  1.00 33.64         A N  
+HETATM   17  C6A VIB B 501      21.018  40.388  19.676  1.00 34.36         A C  
+HETATM   18  C5A VIB B 501      22.352  39.985  19.942  1.00 35.40         A C  

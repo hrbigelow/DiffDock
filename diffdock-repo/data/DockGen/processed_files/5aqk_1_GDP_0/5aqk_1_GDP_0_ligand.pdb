@@ -1,0 +1,57 @@
+REMARK Selection '(segment A) and... resnum `1260`)'
+HETATM    1  PB  GDP B1260      43.277  35.115 155.708  1.00 78.68         A P  
+ANISOU    1  PB  GDP B1260        0      0      0      0      0      0     A P  
+HETATM    2  O1B GDP B1260      43.052  33.981 154.752  1.00 80.09         A O  
+ANISOU    2  O1B GDP B1260        0      0      0      0      0      0     A O  
+HETATM    3  O2B GDP B1260      42.453  34.990 157.009  1.00 78.62         A O  
+ANISOU    3  O2B GDP B1260        0      0      0      0      0      0     A O  
+HETATM    4  O3B GDP B1260      42.982  36.485 155.079  1.00 80.83         A O  
+ANISOU    4  O3B GDP B1260        0      0      0      0      0      0     A O  
+HETATM    5  O3A GDP B1260      44.816  35.150 156.126  1.00 74.27         A O  
+ANISOU    5  O3A GDP B1260        0      0      0      0      0      0     A O  
+HETATM    6  PA  GDP B1260      45.822  34.016 156.624  1.00 67.93         A P  
+ANISOU    6  PA  GDP B1260        0      0      0      0      0      0     A P  
+HETATM    7  O1A GDP B1260      46.149  33.096 155.504  1.00 67.33         A O  
+ANISOU    7  O1A GDP B1260        0      0      0      0      0      0     A O  
+HETATM    8  O2A GDP B1260      47.096  34.698 157.105  1.00 67.48         A O  
+ANISOU    8  O2A GDP B1260        0      0      0      0      0      0     A O  
+HETATM    9  O5' GDP B1260      45.029  33.356 157.855  1.00 61.56         A O  
+ANISOU    9  O5' GDP B1260        0      0      0      0      0      0     A O  
+HETATM   10  C5' GDP B1260      45.538  32.576 158.959  1.00 53.60         A C  
+ANISOU   10  C5' GDP B1260        0      0      0      0      0      0     A C  
+HETATM   11  C4' GDP B1260      44.882  32.965 160.267  1.00 46.46         A C  
+ANISOU   11  C4' GDP B1260        0      0      0      0      0      0     A C  
+HETATM   12  O4' GDP B1260      45.893  33.096 161.292  1.00 41.57         A O  
+ANISOU   12  O4' GDP B1260        0      0      0      0      0      0     A O  
+HETATM   13  C3' GDP B1260      44.117  34.287 160.306  1.00 44.70         A C  
+ANISOU   13  C3' GDP B1260        0      0      0      0      0      0     A C  
+HETATM   14  O3' GDP B1260      43.145  34.296 161.345  1.00 42.52         A O  
+ANISOU   14  O3' GDP B1260        0      0      0      0      0      0     A O  
+HETATM   15  C2' GDP B1260      45.228  35.282 160.634  1.00 44.37         A C  
+ANISOU   15  C2' GDP B1260        0      0      0      0      0      0     A C  
+HETATM   16  O2' GDP B1260      44.758  36.494 161.210  1.00 47.44         A O  
+ANISOU   16  O2' GDP B1260        0      0      0      0      0      0     A O  
+HETATM   17  C1' GDP B1260      46.077  34.464 161.616  1.00 39.94         A C  
+ANISOU   17  C1' GDP B1260        0      0      0      0      0      0     A C  
+HETATM   18  N9  GDP B1260      47.508  34.761 161.533  1.00 34.92         A N  
+ANISOU   18  N9  GDP B1260        0      0      0      0      0      0     A N  
+HETATM   19  C8  GDP B1260      48.180  35.434 160.540  1.00 32.81         A C  
+ANISOU   19  C8  GDP B1260        0      0      0      0      0      0     A C  
+HETATM   20  N7  GDP B1260      49.453  35.605 160.803  1.00 29.88         A N  
+ANISOU   20  N7  GDP B1260        0      0      0      0      0      0     A N  
+HETATM   21  C5  GDP B1260      49.629  34.998 162.036  1.00 25.41         A C  
+ANISOU   21  C5  GDP B1260        0      0      0      0      0      0     A C  
+HETATM   22  C6  GDP B1260      50.778  34.830 162.813  1.00 25.82         A C  
+ANISOU   22  C6  GDP B1260        0      0      0      0      0      0     A C  
+HETATM   23  O6  GDP B1260      51.865  35.368 162.616  1.00 25.22         A O  
+ANISOU   23  O6  GDP B1260        0      0      0      0      0      0     A O  
+HETATM   24  N1  GDP B1260      50.560  34.051 163.940  1.00 28.49         A N  
+ANISOU   24  N1  GDP B1260        0      0      0      0      0      0     A N  
+HETATM   25  C2  GDP B1260      49.348  33.523 164.302  1.00 27.06         A C  
+ANISOU   25  C2  GDP B1260        0      0      0      0      0      0     A C  
+HETATM   26  N2  GDP B1260      49.295  32.846 165.450  1.00 25.46         A N  
+ANISOU   26  N2  GDP B1260        0      0      0      0      0      0     A N  
+HETATM   27  N3  GDP B1260      48.239  33.701 163.588  1.00 25.03         A N  
+ANISOU   27  N3  GDP B1260        0      0      0      0      0      0     A N  
+HETATM   28  C4  GDP B1260      48.446  34.451 162.484  1.00 27.67         A C  
+ANISOU   28  C4  GDP B1260        0      0      0      0      0      0     A C  

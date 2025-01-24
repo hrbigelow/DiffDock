@@ -1,0 +1,57 @@
+REMARK Selection '(segment A) and...d resnum `202`)'
+HETATM    1  N1  DCP B 202      14.518  84.338  25.578  1.00 82.17         A N  
+ANISOU    1  N1  DCP B 202        0      0      0      0      0      0     A N  
+HETATM    2  C2  DCP B 202      15.820  84.590  25.840  1.00 82.26         A C  
+ANISOU    2  C2  DCP B 202        0      0      0      0      0      0     A C  
+HETATM    3  N3  DCP B 202      16.449  85.624  25.249  1.00 77.19         A N  
+ANISOU    3  N3  DCP B 202        0      0      0      0      0      0     A N  
+HETATM    4  C4  DCP B 202      15.813  86.424  24.369  1.00 65.28         A C  
+ANISOU    4  C4  DCP B 202        0      0      0      0      0      0     A C  
+HETATM    5  C5  DCP B 202      14.477  86.166  24.079  1.00 60.90         A C  
+ANISOU    5  C5  DCP B 202        0      0      0      0      0      0     A C  
+HETATM    6  C6  DCP B 202      13.846  85.099  24.701  1.00 68.89         A C  
+ANISOU    6  C6  DCP B 202        0      0      0      0      0      0     A C  
+HETATM    7  O2  DCP B 202      16.449  83.925  26.601  1.00 82.53         A O  
+ANISOU    7  O2  DCP B 202        0      0      0      0      0      0     A O  
+HETATM    8  N4  DCP B 202      16.480  87.526  23.721  1.00 55.86         A N  
+ANISOU    8  N4  DCP B 202        0      0      0      0      0      0     A N  
+HETATM    9  C1' DCP B 202      13.742  83.228  26.147  1.00 86.20         A C  
+ANISOU    9  C1' DCP B 202        0      0      0      0      0      0     A C  
+HETATM   10  C2' DCP B 202      13.757  82.964  27.621  1.00 84.54         A C  
+ANISOU   10  C2' DCP B 202        0      0      0      0      0      0     A C  
+HETATM   11  C3' DCP B 202      12.626  82.139  27.807  1.00 84.52         A C  
+ANISOU   11  C3' DCP B 202        0      0      0      0      0      0     A C  
+HETATM   12  C4' DCP B 202      11.862  82.208  26.537  1.00 87.54         A C  
+ANISOU   12  C4' DCP B 202        0      0      0      0      0      0     A C  
+HETATM   13  O4' DCP B 202      12.382  83.317  25.864  1.00 85.54         A O  
+ANISOU   13  O4' DCP B 202        0      0      0      0      0      0     A O  
+HETATM   14  O3' DCP B 202      13.036  80.811  27.998  1.00 85.65         A O  
+ANISOU   14  O3' DCP B 202        0      0      0      0      0      0     A O  
+HETATM   15  C5' DCP B 202      10.416  82.360  26.778  1.00 88.20         A C  
+ANISOU   15  C5' DCP B 202        0      0      0      0      0      0     A C  
+HETATM   16  O5' DCP B 202       9.553  81.912  25.793  1.00 88.46         A O  
+ANISOU   16  O5' DCP B 202        0      0      0      0      0      0     A O  
+HETATM   17  PA  DCP B 202       8.915  80.488  25.887  1.00157.50         A P  
+ANISOU   17  PA  DCP B 202        0      0      0      0      0      0     A P  
+HETATM   18  O1A DCP B 202      10.041  79.451  26.122  1.00159.05         A O  
+ANISOU   18  O1A DCP B 202        0      0      0      0      0      0     A O  
+HETATM   19  O2A DCP B 202       8.201  80.169  24.552  1.00156.93         A O  
+ANISOU   19  O2A DCP B 202        0      0      0      0      0      0     A O  
+HETATM   20  O3A DCP B 202       7.865  80.403  27.075  1.00 85.61         A O  
+ANISOU   20  O3A DCP B 202        0      0      0      0      0      0     A O  
+HETATM   21  PB  DCP B 202       6.941  79.161  27.174  1.00121.19         A P  
+ANISOU   21  PB  DCP B 202        0      0      0      0      0      0     A P  
+HETATM   22  O1B DCP B 202       7.659  77.970  26.625  1.00119.89         A O  
+ANISOU   22  O1B DCP B 202        0      0      0      0      0      0     A O  
+HETATM   23  O2B DCP B 202       5.691  79.430  26.337  1.00123.16         A O  
+ANISOU   23  O2B DCP B 202        0      0      0      0      0      0     A O  
+HETATM   24  O3B DCP B 202       6.517  78.859  28.665  1.00228.07         A O  
+ANISOU   24  O3B DCP B 202        0      0      0      0      0      0     A O  
+HETATM   25  PG  DCP B 202       5.570  77.636  28.980  1.00126.72         A P  
+ANISOU   25  PG  DCP B 202        0      0      0      0      0      0     A P  
+HETATM   26  O1G DCP B 202       4.233  77.862  28.278  1.00128.27         A O  
+ANISOU   26  O1G DCP B 202        0      0      0      0      0      0     A O  
+HETATM   27  O2G DCP B 202       5.328  77.531  30.480  1.00125.82         A O  
+ANISOU   27  O2G DCP B 202        0      0      0      0      0      0     A O  
+HETATM   28  O3G DCP B 202       6.209  76.297  28.489  1.00100.91         A O  
+ANISOU   28  O3G DCP B 202        0      0      0      0      0      0     A O  

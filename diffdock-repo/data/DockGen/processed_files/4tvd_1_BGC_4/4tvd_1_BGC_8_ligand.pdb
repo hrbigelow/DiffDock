@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and... resnum `2904`)'
+HETATM    1  C2  BGC A2904       1.594 -58.077  11.783  1.00 79.54         A C  
+HETATM    2  C3  BGC A2904       1.559 -58.048  10.270  1.00 81.31         A C  
+HETATM    3  C4  BGC A2904       0.878 -56.735   9.886  1.00 82.72         A C  
+HETATM    4  C5  BGC A2904       1.753 -55.571  10.369  1.00 84.42         A C  
+HETATM    5  C6  BGC A2904       1.222 -54.195   9.935  1.00 83.34         A C  
+HETATM    6  C1  BGC A2904       2.408 -56.878  12.291  1.00 77.84         A C  
+HETATM    7  O1  BGC A2904       2.373 -56.849  13.704  1.00 68.76         A O  
+HETATM    8  O2  BGC A2904       2.107 -59.328  12.187  1.00 75.89         A O  
+HETATM    9  O3  BGC A2904       0.870 -59.188   9.799  1.00 78.49         A O  
+HETATM   10  O4  BGC A2904       0.637 -56.699   8.501  1.00 84.69         A O  
+HETATM   11  O5  BGC A2904       1.881 -55.654  11.787  1.00 85.09         A O  
+HETATM   12  O6  BGC A2904       1.167 -53.294  11.026  1.00 82.69         A O  

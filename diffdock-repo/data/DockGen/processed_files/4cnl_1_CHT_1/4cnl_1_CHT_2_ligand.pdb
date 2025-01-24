@@ -1,0 +1,8 @@
+REMARK Selection '(segment A) and... resnum `1277`)'
+HETATM    1  C4  CHT A1277     -22.842  -3.762  20.859  1.00 29.29         A C  
+HETATM    2  C5  CHT A1277     -21.733  -4.653  20.317  1.00 32.26         A C  
+HETATM    3  C6  CHT A1277     -19.859  -5.899  21.004  1.00 25.66         A C  
+HETATM    4  C7  CHT A1277     -20.852  -4.331  22.462  1.00 30.00         A C  
+HETATM    5  C8  CHT A1277     -21.984  -6.330  21.924  1.00 42.66         A C  
+HETATM    6  O6  CHT A1277     -23.480  -3.135  19.756  1.00 35.62         A O  
+HETATM    7  N1  CHT A1277     -21.099  -5.307  21.432  1.00 41.28         A N  

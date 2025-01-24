@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and...d resnum `400`)'
+HETATM    1  N   ASP C 400     -29.640  18.725 -47.889  1.00 25.84         A N  
+HETATM    2  CA  ASP C 400     -31.040  19.127 -48.233  1.00 26.32         A C  
+HETATM    3  C   ASP C 400     -31.893  18.810 -47.047  1.00 27.50         A C  
+HETATM    4  O   ASP C 400     -32.294  17.675 -46.805  1.00 25.40         A O  
+HETATM    5  CB  ASP C 400     -31.519  18.370 -49.529  1.00 27.47         A C  
+HETATM    6  CG  ASP C 400     -32.895  18.852 -50.060  1.00 30.47         A C  
+HETATM    7  OD1 ASP C 400     -33.125  18.702 -51.272  1.00 32.77         A O  
+HETATM    8  OD2 ASP C 400     -33.774  19.409 -49.343  1.00 25.74         A O  
+HETATM    9  OXT ASP C 400     -32.180  19.721 -46.217  1.00 27.18         A O  

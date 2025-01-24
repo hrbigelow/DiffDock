@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `601`)'
+HETATM    1  CAA H7Y A 601      18.428  13.143  41.051  1.00 18.91         A C  
+HETATM    2  CAD H7Y A 601      18.171  13.787  39.697  1.00 16.12         A C  
+HETATM    3  CAE H7Y A 601      17.278  13.184  38.703  1.00 15.56         A C  
+HETATM    4  CAJ H7Y A 601      17.125  13.674  37.413  1.00 14.34         A C  
+HETATM    5  CAH H7Y A 601      17.449  14.999  37.027  1.00 13.58         A C  
+HETATM    6  CAF H7Y A 601      16.627  12.768  36.472  1.00 13.26         A C  
+HETATM    7  CAG H7Y A 601      16.494  13.078  35.185  1.00 14.40         A C  
+HETATM    8  CAK H7Y A 601      16.850  14.356  34.771  1.00 12.86         A C  
+HETATM    9  OAC H7Y A 601      16.714  14.760  33.476  1.00 11.99         A O  
+HETATM   10  CAL H7Y A 601      17.276  15.312  35.704  1.00 13.95         A C  
+HETATM   11  OAI H7Y A 601      17.533  16.582  35.139  1.00 16.71         A O  
+HETATM   12  CAB H7Y A 601      18.064  17.614  36.004  1.00 17.99         A C  

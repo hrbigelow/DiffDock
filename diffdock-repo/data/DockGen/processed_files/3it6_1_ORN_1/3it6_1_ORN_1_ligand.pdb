@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and...and resnum `1`)'
+HETATM    1  N   ORN D   1      21.580  20.200  46.065  1.00 30.26         A N  
+HETATM    2  CA  ORN D   1      20.138  19.857  46.173  1.00 30.59         A C  
+HETATM    3  CB  ORN D   1      19.676  19.124  44.902  1.00 30.56         A C  
+HETATM    4  CG  ORN D   1      18.170  19.002  44.731  1.00 29.70         A C  
+HETATM    5  CD  ORN D   1      17.733  18.154  43.543  1.00 28.37         A C  
+HETATM    6  NE  ORN D   1      16.279  18.036  43.493  1.00 27.88         A N  
+HETATM    7  C   ORN D   1      19.871  19.007  47.417  1.00 30.57         A C  
+HETATM    8  O   ORN D   1      20.738  18.277  47.896  1.00 30.78         A O  
+HETATM    9  OXT ORN D   1      18.775  19.025  47.968  1.00 30.46         A O  

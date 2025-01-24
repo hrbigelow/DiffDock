@@ -76,7 +76,6 @@ class Model:
 @app.local_entrypoint()
 def main(inputs_json: str, batch_size: int):
     """
-    hps: JSON file with kwargs to inference.py::main function
     inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
     batch_size: number of protein-ligand pairs to submit for each job
     """
@@ -88,26 +87,3 @@ def main(inputs_json: str, batch_size: int):
     for result in model.dock.map(batched, order_outputs=False):
         print(result)
 
-def _leaktest():
-    # run some ablation of dock function (ablating code in inference.py) to see
-    # what is responsible for the CPU memory leak
-    """
-    When I run this using:
-    laptop $ modal shell app.py
-    container $ python
-    container $ >>> import app
-    container $ >>> app._leaktest() 
-
-    I get this warning, but I do have access to the mounted `diffdock-vol`:
-    /pkg/modal/functions.py:1382: 
-      UserWarning: The dock function is executing locally and will not have access to
-      the mounted Volume or NetworkFileSystem data
-    """
-    import resource
-    hps = json.loads(Path("/root/hps.json").read_text())
-    inputs = json.loads(Path("/root/dockgen.json").read_text())
-    batched = batch_inputs(inputs, 10)
-    for batch in batched[:10]:
-        dock.local(batch, hps=hps)
-        usage = resource.getrusage(resource.RUSAGE_SELF)
-        print(usage.ru_maxrss)

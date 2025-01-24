@@ -1,0 +1,69 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C1  PJZ A 301      -8.863   5.816 -18.698  1.00 53.00         A C  
+ANISOU    1  C1  PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    2  C2  PJZ A 301      -7.637   5.179 -18.138  1.00 45.57         A C  
+ANISOU    2  C2  PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    3  O2  PJZ A 301      -7.593   4.858 -16.799  1.00131.04         A O  
+ANISOU    3  O2  PJZ A 301        0      0      0      0      0      0     A O  
+HETATM    4  C3  PJZ A 301      -6.551   4.763 -19.073  1.00116.17         A C  
+ANISOU    4  C3  PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    5  O3  PJZ A 301      -6.809   4.721 -20.423  1.00132.59         A O  
+ANISOU    5  O3  PJZ A 301        0      0      0      0      0      0     A O  
+HETATM    6  C12 PJZ A 301      -1.814  -5.497 -10.394  1.00 76.49         A C  
+ANISOU    6  C12 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    7  C13 PJZ A 301      -2.563  -4.229 -10.254  1.00 19.97         A C  
+ANISOU    7  C13 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    8  C14 PJZ A 301      -2.715  -3.444 -11.502  1.00 22.84         A C  
+ANISOU    8  C14 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM    9  C15 PJZ A 301      -4.032  -2.835 -11.804  1.00 19.72         A C  
+ANISOU    9  C15 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   10  C16 PJZ A 301      -4.301  -2.338 -13.180  1.00 25.70         A C  
+ANISOU   10  C16 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   11  C17 PJZ A 301      -5.647  -1.777 -13.476  1.00 33.88         A C  
+ANISOU   11  C17 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   12  C18 PJZ A 301      -5.899  -1.136 -14.796  1.00 33.66         A C  
+ANISOU   12  C18 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   13  C19 PJZ A 301      -6.792  -1.816 -15.774  1.00 31.17         A C  
+ANISOU   13  C19 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   14  C20 PJZ A 301      -6.993  -1.202 -17.118  1.00 33.25         A C  
+ANISOU   14  C20 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   15  C21 PJZ A 301      -8.373  -1.092 -17.668  1.00 47.47         A C  
+ANISOU   15  C21 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   16  C22 PJZ A 301      -8.667  -0.119 -18.757  1.00 35.40         A C  
+ANISOU   16  C22 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   17  C23 PJZ A 301      -7.770  -0.035 -19.945  1.00 46.97         A C  
+ANISOU   17  C23 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   18  C24 PJZ A 301      -7.927   1.109 -20.887  1.00 46.85         A C  
+ANISOU   18  C24 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   19  C25 PJZ A 301      -7.854   2.498 -20.353  1.00 83.09         A C  
+ANISOU   19  C25 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   20  C26 PJZ A 301      -6.999   3.508 -21.038  1.00 81.00         A C  
+ANISOU   20  C26 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   21  O28 PJZ A 301      -6.874   3.441 -22.405  1.00 65.04         A O  
+ANISOU   21  O28 PJZ A 301        0      0      0      0      0      0     A O  
+HETATM   22  C35 PJZ A 301      -1.290  -1.486  -4.435  1.00 21.20         A C  
+ANISOU   22  C35 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   23  C36 PJZ A 301      -1.794  -1.520  -5.838  1.00 41.52         A C  
+ANISOU   23  C36 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   24  C37 PJZ A 301      -2.384  -0.293  -6.444  1.00 19.52         A C  
+ANISOU   24  C37 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   25  C38 PJZ A 301      -3.000  -0.376  -7.800  1.00 26.52         A C  
+ANISOU   25  C38 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   26  C39 PJZ A 301      -3.401   0.860  -8.528  1.00 24.01         A C  
+ANISOU   26  C39 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   27  C40 PJZ A 301      -3.913   0.756  -9.927  1.00 30.13         A C  
+ANISOU   27  C40 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   28  C41 PJZ A 301      -4.696   1.875 -10.530  1.00 33.27         A C  
+ANISOU   28  C41 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   29  C42 PJZ A 301      -5.044   1.845 -11.983  1.00 32.81         A C  
+ANISOU   29  C42 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   30  C43 PJZ A 301      -5.403   3.114 -12.682  1.00 30.37         A C  
+ANISOU   30  C43 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   31  C44 PJZ A 301      -5.385   3.183 -14.173  1.00 39.38         A C  
+ANISOU   31  C44 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   32  C45 PJZ A 301      -6.603   3.621 -14.918  1.00 39.92         A C  
+ANISOU   32  C45 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   33  C46 PJZ A 301      -6.456   4.347 -16.215  1.00 67.60         A C  
+ANISOU   33  C46 PJZ A 301        0      0      0      0      0      0     A C  
+HETATM   34  O47 PJZ A 301      -5.259   4.979 -16.456  1.00101.86         A O  
+ANISOU   34  O47 PJZ A 301        0      0      0      0      0      0     A O  

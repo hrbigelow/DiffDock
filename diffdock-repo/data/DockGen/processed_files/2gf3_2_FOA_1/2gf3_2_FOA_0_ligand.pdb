@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  C1  FOA B 401      42.301  28.539  17.774  1.00 16.33         A C  
+HETATM    2  C2  FOA B 401      41.880  29.838  18.204  1.00 17.08         A C  
+HETATM    3  C3  FOA B 401      42.118  30.448  19.355  1.00 13.32         A C  
+HETATM    4  C4  FOA B 401      41.502  31.680  19.253  1.00 20.11         A C  
+HETATM    5  C5  FOA B 401      40.910  31.769  18.049  1.00 19.66         A C  
+HETATM    6  O6  FOA B 401      41.969  28.155  16.624  1.00 18.28         A O  
+HETATM    7  O7  FOA B 401      42.980  27.888  18.581  1.00 17.23         A O  
+HETATM    8  O8  FOA B 401      41.122  30.631  17.348  1.00 22.51         A O  

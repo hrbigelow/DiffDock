@@ -1,0 +1,55 @@
+REMARK Selection '(segment A) and...d resnum `500`)'
+HETATM    1  N   SAM B 500      47.427  35.964  68.954  1.00 27.96         A N  
+ANISOU    1  N   SAM B 500     3502   3587   3533      2    -81    -19     A N  
+HETATM    2  CA  SAM B 500      47.876  37.247  69.542  1.00 28.41         A C  
+ANISOU    2  CA  SAM B 500     3502   3617   3674     28    -95    -16     A C  
+HETATM    3  C   SAM B 500      49.105  37.040  70.470  1.00 28.51         A C  
+ANISOU    3  C   SAM B 500     3545   3598   3687    -40   -137      0     A C  
+HETATM    4  O   SAM B 500      49.327  35.871  70.854  1.00 28.10         A O  
+ANISOU    4  O   SAM B 500     3390   3509   3776   -126   -183     47     A O  
+HETATM    5  OXT SAM B 500      49.840  38.014  70.809  1.00 27.26         A O  
+ANISOU    5  OXT SAM B 500     3416   3458   3483   -112   -148    -51     A O  
+HETATM    6  CB  SAM B 500      46.738  37.725  70.419  1.00 29.15         A C  
+ANISOU    6  CB  SAM B 500     3673   3664   3736     52    -11     32     A C  
+HETATM    7  CG  SAM B 500      47.020  39.143  70.941  1.00 30.11         A C  
+ANISOU    7  CG  SAM B 500     3814   3761   3864    -33    -78     -5     A C  
+HETATM    8  SD  SAM B 500      46.347  40.342  69.778  1.00 30.28         A S  
+ANISOU    8  SD  SAM B 500     4128   3612   3762   -182   -119   -112     A S  
+HETATM    9  CE  SAM B 500      47.824  40.566  68.776  1.00 34.37         A C  
+ANISOU    9  CE  SAM B 500     4407   4364   4288    -98     61    -22     A C  
+HETATM   10  C5' SAM B 500      45.940  41.832  70.737  1.00 28.43         A C  
+ANISOU   10  C5' SAM B 500     3630   3554   3615    148    -11     83     A C  
+HETATM   11  C4' SAM B 500      45.441  43.055  69.915  1.00 24.79         A C  
+ANISOU   11  C4' SAM B 500     3063   3309   3046   -194    -10     28     A C  
+HETATM   12  O4' SAM B 500      46.425  43.263  68.892  1.00 23.71         A O  
+ANISOU   12  O4' SAM B 500     3118   3149   2742   -144     65    174     A O  
+HETATM   13  C3' SAM B 500      44.149  42.652  69.213  1.00 21.24         A C  
+ANISOU   13  C3' SAM B 500     2741   2676   2652      5    -17    114     A C  
+HETATM   14  O3' SAM B 500      43.084  43.198  69.967  1.00 19.96         A O  
+ANISOU   14  O3' SAM B 500     2716   2548   2318   -254    -82     -5     A O  
+HETATM   15  C2' SAM B 500      44.314  43.262  67.761  1.00 20.87         A C  
+ANISOU   15  C2' SAM B 500     2591   2789   2550    -33    -11     85     A C  
+HETATM   16  O2' SAM B 500      43.290  44.266  67.399  1.00 20.79         A O  
+ANISOU   16  O2' SAM B 500     2861   2669   2369    101    -23    217     A O  
+HETATM   17  C1' SAM B 500      45.725  43.933  67.834  1.00 22.22         A C  
+ANISOU   17  C1' SAM B 500     2616   3035   2789   -157     51     34     A C  
+HETATM   18  N9  SAM B 500      46.478  43.600  66.591  1.00 22.28         A N  
+ANISOU   18  N9  SAM B 500     2796   2890   2777   -118      1    -79     A N  
+HETATM   19  C8  SAM B 500      46.812  42.349  66.184  1.00 23.74         A C  
+ANISOU   19  C8  SAM B 500     3152   2926   2940     26    115     13     A C  
+HETATM   20  N7  SAM B 500      47.472  42.412  65.037  1.00 23.24         A N  
+ANISOU   20  N7  SAM B 500     3130   2782   2914     64    165    -75     A N  
+HETATM   21  C5  SAM B 500      47.593  43.688  64.696  1.00 22.87         A C  
+ANISOU   21  C5  SAM B 500     2972   2908   2809     61    149     49     A C  
+HETATM   22  C6  SAM B 500      48.185  44.297  63.570  1.00 23.91         A C  
+ANISOU   22  C6  SAM B 500     3234   2890   2959    -38    157    -18     A C  
+HETATM   23  N6  SAM B 500      48.812  43.615  62.559  1.00 20.95         A N  
+ANISOU   23  N6  SAM B 500     2677   2824   2458   -178    168    127     A N  
+HETATM   24  N1  SAM B 500      48.078  45.671  63.542  1.00 23.83         A N  
+ANISOU   24  N1  SAM B 500     3160   2962   2929     35    114     57     A N  
+HETATM   25  C2  SAM B 500      47.479  46.407  64.615  1.00 22.68         A C  
+ANISOU   25  C2  SAM B 500     2965   2777   2873    109     55    135     A C  
+HETATM   26  N3  SAM B 500      46.921  45.796  65.633  1.00 21.00         A N  
+ANISOU   26  N3  SAM B 500     2716   2768   2493    -69   -133    -27     A N  
+HETATM   27  C4  SAM B 500      46.971  44.455  65.693  1.00 21.78         A C  
+ANISOU   27  C4  SAM B 500     2957   2745   2572     50   -135     42     A C  

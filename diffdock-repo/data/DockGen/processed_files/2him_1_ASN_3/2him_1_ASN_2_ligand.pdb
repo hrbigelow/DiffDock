@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and... resnum `8003`)'
+HETATM    1  N   ASN C8003     -23.260   3.629  11.106  1.00 21.79         A N  
+HETATM    2  CA  ASN C8003     -23.122   2.300  11.631  1.00 22.78         A C  
+HETATM    3  C   ASN C8003     -21.743   1.798  11.126  1.00 23.54         A C  
+HETATM    4  O   ASN C8003     -21.570   0.560  11.193  1.00 26.20         A O  
+HETATM    5  CB  ASN C8003     -24.303   1.414  11.163  1.00 21.75         A C  
+HETATM    6  CG  ASN C8003     -24.427   1.138   9.617  1.00 20.91         A C  
+HETATM    7  OD1 ASN C8003     -23.953   1.916   8.764  1.00 21.64         A O  
+HETATM    8  ND2 ASN C8003     -25.054   0.021   9.275  1.00 19.38         A N  
+HETATM    9  OXT ASN C8003     -20.903   2.637  10.677  1.00 23.57         A O  

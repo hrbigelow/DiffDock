@@ -1,0 +1,107 @@
+REMARK Selection '(segment A) and...d resnum `502`)'
+HETATM    1  C1  QMD B 502      42.782  18.171  14.454  1.00 41.88         A C  
+ANISOU    1  C1  QMD B 502        0      0      0      0      0      0     A C  
+HETATM    2  O1  QMD B 502      42.919  16.897  13.836  1.00 49.13         A O  
+ANISOU    2  O1  QMD B 502        0      0      0      0      0      0     A O  
+HETATM    3  C2  QMD B 502      43.544  19.247  13.736  1.00 47.72         A C  
+ANISOU    3  C2  QMD B 502        0      0      0      0      0      0     A C  
+HETATM    4  O2  QMD B 502      43.939  18.861  12.417  1.00 54.99         A O  
+ANISOU    4  O2  QMD B 502        0      0      0      0      0      0     A O  
+HETATM    5  C3  QMD B 502      46.070  17.761   9.814  1.00 73.55         A C  
+ANISOU    5  C3  QMD B 502        0      0      0      0      0      0     A C  
+HETATM    6  O3  QMD B 502      45.677  17.707  13.598  1.00 65.55         A O1-
+ANISOU    6  O3  QMD B 502        0      0      0      0      0      0     A O1-
+HETATM    7  C4  QMD B 502      44.904  17.990   9.067  1.00 69.32         A C  
+ANISOU    7  C4  QMD B 502        0      0      0      0      0      0     A C  
+HETATM    8  O4  QMD B 502      44.287  16.514  11.832  1.00 68.17         A O  
+ANISOU    8  O4  QMD B 502        0      0      0      0      0      0     A O  
+HETATM    9  C5  QMD B 502      47.206  17.032   9.366  1.00 79.25         A C  
+ANISOU    9  C5  QMD B 502        0      0      0      0      0      0     A C  
+HETATM   10  O5  QMD B 502      46.069  18.217  11.121  1.00 72.09         A O  
+ANISOU   10  O5  QMD B 502        0      0      0      0      0      0     A O  
+HETATM   11  C6  QMD B 502      43.222  18.016  15.907  1.00 34.75         A C  
+ANISOU   11  C6  QMD B 502        0      0      0      0      0      0     A C  
+HETATM   12  O6  QMD B 502      47.031  16.089   8.565  1.00 80.12         A O1-
+ANISOU   12  O6  QMD B 502        0      0      0      0      0      0     A O1-
+HETATM   13  C7  QMD B 502      41.982  18.029  16.788  1.00 29.91         A C  
+ANISOU   13  C7  QMD B 502        0      0      0      0      0      0     A C  
+HETATM   14  C8  QMD B 502      40.970  16.980  16.339  1.00 28.50         A C  
+ANISOU   14  C8  QMD B 502        0      0      0      0      0      0     A C  
+HETATM   15  C9  QMD B 502      38.721  17.725  16.964  1.00 25.31         A C  
+ANISOU   15  C9  QMD B 502        0      0      0      0      0      0     A C  
+HETATM   16  O8  QMD B 502      44.114  19.025  16.304  1.00 30.41         A O  
+ANISOU   16  O8  QMD B 502        0      0      0      0      0      0     A O  
+HETATM   17  C10 QMD B 502      37.702  17.844  17.908  1.00 22.69         A C  
+ANISOU   17  C10 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   18  C11 QMD B 502      37.857  17.276  19.165  1.00 21.65         A C  
+ANISOU   18  C11 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   19  C12 QMD B 502      39.001  16.596  19.497  1.00 24.04         A C  
+ANISOU   19  C12 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   20  C13 QMD B 502      39.167  15.996  20.755  1.00 23.62         A C  
+ANISOU   20  C13 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   21  C14 QMD B 502      40.304  15.323  21.069  1.00 22.89         A C  
+ANISOU   21  C14 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   22  C15 QMD B 502      41.316  15.202  20.147  1.00 29.94         A C  
+ANISOU   22  C15 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   23  C16 QMD B 502      41.173  15.785  18.856  1.00 34.10         A C  
+ANISOU   23  C16 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   24  C17 QMD B 502      40.007  16.479  18.538  1.00 31.85         A C  
+ANISOU   24  C17 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   25  C18 QMD B 502      36.494  18.559  17.541  1.00 20.53         A C  
+ANISOU   25  C18 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   26  C19 QMD B 502      37.465  18.958  15.362  1.00 29.36         A C  
+ANISOU   26  C19 QMD B 502        0      0      0      0      0      0     A C  
+HETATM   27  N1  QMD B 502      39.841  17.017  17.272  1.00 28.74         A N  
+ANISOU   27  N1  QMD B 502        0      0      0      0      0      0     A N  
+HETATM   28  N2  QMD B 502      36.461  19.074  16.274  1.00 24.49         A N  
+ANISOU   28  N2  QMD B 502        0      0      0      0      0      0     A N  
+HETATM   29  N3  QMD B 502      38.583  18.276  15.732  1.00 31.31         A N  
+ANISOU   29  N3  QMD B 502        0      0      0      0      0      0     A N  
+HETATM   30  O10 QMD B 502      42.348  14.595  20.435  1.00 26.56         A O  
+ANISOU   30  O10 QMD B 502        0      0      0      0      0      0     A O  
+HETATM   31  O11 QMD B 502      35.543  18.723  18.277  1.00 25.49         A O  
+ANISOU   31  O11 QMD B 502        0      0      0      0      0      0     A O  
+HETATM   32  O12 QMD B 502      37.373  19.447  14.265  1.00 34.63         A O  
+ANISOU   32  O12 QMD B 502        0      0      0      0      0      0     A O  
+HETATM   33  O7  QMD B 502      48.299  17.377   9.781  1.00 80.74         A O  
+ANISOU   33  O7  QMD B 502        0      0      0      0      0      0     A O  
+HETATM   34  O9  QMD B 502      41.392  19.295  16.743  1.00 20.45         A O  
+ANISOU   34  O9  QMD B 502        0      0      0      0      0      0     A O  
+HETATM   35  P1  QMD B 502      45.032  17.728  12.264  1.00 67.03         A P  
+ANISOU   35  P1  QMD B 502        0      0      0      0      0      0     A P  
+HETATM   36  H2  QMD B 502      41.809  18.418  14.445  1.00 50.24         A H  
+ANISOU   36  H2  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   37  H1  QMD B 502      42.630  16.911  13.038  1.00 58.94         A H  
+ANISOU   37  H1  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   38  H4  QMD B 502      42.988  20.052  13.680  1.00 57.25         A H  
+ANISOU   38  H4  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   39  H3  QMD B 502      44.346  19.471  14.252  1.00 57.25         A H  
+ANISOU   39  H3  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   40  H6  QMD B 502      44.855  17.693   8.158  1.00 83.17         A H  
+ANISOU   40  H6  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   41  H5  QMD B 502      44.163  18.445   9.468  1.00 83.17         A H  
+ANISOU   41  H5  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   42  H7  QMD B 502      43.675  17.140  16.007  1.00 41.68         A H  
+ANISOU   42  H7  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   43  H9  QMD B 502      42.252  17.839  17.723  1.00 35.87         A H  
+ANISOU   43  H9  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   44  H11 QMD B 502      41.378  16.091  16.347  1.00 34.18         A H  
+ANISOU   44  H11 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   45  H12 QMD B 502      40.659  17.177  15.433  1.00 34.18         A H  
+ANISOU   45  H12 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   46  H8  QMD B 502      44.801  18.989  15.809  1.00 36.48         A H  
+ANISOU   46  H8  QMD B 502        0      0      0      0      0      0     A H  
+HETATM   47  H13 QMD B 502      37.151  17.342  19.790  1.00 25.96         A H  
+ANISOU   47  H13 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   48  H14 QMD B 502      38.480  16.064  21.396  1.00 28.32         A H  
+ANISOU   48  H14 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   49  H15 QMD B 502      40.404  14.935  21.921  1.00 27.45         A H  
+ANISOU   49  H15 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   50  H16 QMD B 502      41.873  15.720  18.221  1.00 40.90         A H  
+ANISOU   50  H16 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   51  H17 QMD B 502      35.743  19.524  16.026  1.00 29.37         A H  
+ANISOU   51  H17 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   52  H10 QMD B 502      41.174  19.475  15.944  1.00 24.53         A H  
+ANISOU   52  H10 QMD B 502        0      0      0      0      0      0     A H  
+HETATM   53  H22 QMD B 502      39.242  18.208  15.147  1.00 37.56         A H  
+ANISOU   53  H22 QMD B 502        0      0      0      0      0      0     A H  

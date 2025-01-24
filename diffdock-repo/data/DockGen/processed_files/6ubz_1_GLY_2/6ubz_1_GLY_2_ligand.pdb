@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `902`)'
+HETATM    1  N   GLY B 902      -9.926 -18.225 244.277  1.00 35.94         A N  
+ANISOU    1  N   GLY B 902        0      0      0      0      0      0     A N  
+HETATM    2  CA  GLY B 902      -9.289 -19.518 244.324  1.00 31.34         A C  
+ANISOU    2  CA  GLY B 902        0      0      0      0      0      0     A C  
+HETATM    3  C   GLY B 902      -7.963 -19.497 243.610  1.00 29.09         A C  
+ANISOU    3  C   GLY B 902        0      0      0      0      0      0     A C  
+HETATM    4  O   GLY B 902      -7.583 -18.498 242.974  1.00 34.25         A O  
+ANISOU    4  O   GLY B 902        0      0      0      0      0      0     A O  
+HETATM    5  OXT GLY B 902      -7.249 -20.486 243.663  1.00 31.87         A O  
+ANISOU    5  OXT GLY B 902        0      0      0      0      0      0     A O  

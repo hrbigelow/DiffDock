@@ -1,0 +1,29 @@
+REMARK Selection '(segment B) and... resnum `1241`)'
+HETATM    1  C1  RP5 A1241       6.370   9.184 -19.176  1.00 96.60         B C  
+ANISOU    1  C1  RP5 A1241        0      0      0      0      0      0     B C  
+HETATM    2  O4  RP5 A1241       6.729   9.348 -20.624  1.00102.50         B O  
+ANISOU    2  O4  RP5 A1241        0      0      0      0      0      0     B O  
+HETATM    3  C2  RP5 A1241       7.656   8.438 -18.557  1.00118.04         B C  
+ANISOU    3  C2  RP5 A1241        0      0      0      0      0      0     B C  
+HETATM    4  O2  RP5 A1241       7.454   8.212 -17.090  1.00118.48         B O  
+ANISOU    4  O2  RP5 A1241        0      0      0      0      0      0     B O  
+HETATM    5  C3  RP5 A1241       8.673   9.081 -19.207  1.00119.34         B C  
+ANISOU    5  C3  RP5 A1241        0      0      0      0      0      0     B C  
+HETATM    6  O3  RP5 A1241       9.047  10.147 -18.242  1.00116.21         B O  
+ANISOU    6  O3  RP5 A1241        0      0      0      0      0      0     B O  
+HETATM    7  C4  RP5 A1241       7.964   9.741 -20.563  1.00110.58         B C  
+ANISOU    7  C4  RP5 A1241        0      0      0      0      0      0     B C  
+HETATM    8  C5  RP5 A1241       8.689   9.316 -21.792  1.00113.82         B C  
+ANISOU    8  C5  RP5 A1241        0      0      0      0      0      0     B C  
+HETATM    9  O5  RP5 A1241       7.800   8.620 -22.637  1.00113.49         B O  
+ANISOU    9  O5  RP5 A1241        0      0      0      0      0      0     B O  
+HETATM   10  P'  RP5 A1241       8.408   7.768 -23.817  1.00 98.22         B P  
+ANISOU   10  P'  RP5 A1241        0      0      0      0      0      0     B P  
+HETATM   11  O1X RP5 A1241       8.968   8.681 -24.881  1.00 98.35         B O  
+ANISOU   11  O1X RP5 A1241        0      0      0      0      0      0     B O  
+HETATM   12  O2X RP5 A1241       9.517   6.898 -23.282  1.00102.46         B O  
+ANISOU   12  O2X RP5 A1241        0      0      0      0      0      0     B O  
+HETATM   13  O3X RP5 A1241       7.317   6.893 -24.381  1.00111.75         B O  
+ANISOU   13  O3X RP5 A1241        0      0      0      0      0      0     B O  
+HETATM   14  O1  RP5 A1241       5.320   8.471 -19.042  1.00 92.46         B O  
+ANISOU   14  O1  RP5 A1241        0      0      0      0      0      0     B O  

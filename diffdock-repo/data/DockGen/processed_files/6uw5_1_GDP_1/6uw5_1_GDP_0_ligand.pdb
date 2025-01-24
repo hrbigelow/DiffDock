@@ -1,0 +1,57 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  PB  GDP B 401      46.774  16.692  11.910  1.00 37.50         A P  
+ANISOU    1  PB  GDP B 401     4283   3940   6025    471      7   -683     A P  
+HETATM    2  O1B GDP B 401      46.134  17.668  11.012  1.00 49.93         A O  
+ANISOU    2  O1B GDP B 401     5843   5591   7536    492    -41   -641     A O  
+HETATM    3  O2B GDP B 401      47.784  17.258  12.832  1.00 30.18         A O1-
+ANISOU    3  O2B GDP B 401     3302   2970   5194    492     70   -626     A O1-
+HETATM    4  O3B GDP B 401      45.865  15.741  12.575  1.00 42.97         A O  
+ANISOU    4  O3B GDP B 401     4944   4619   6762    405    -57   -733     A O  
+HETATM    5  O3A GDP B 401      47.518  15.797  10.836  1.00 49.45         A O  
+ANISOU    5  O3A GDP B 401     5900   5431   7458    492     57   -731     A O  
+HETATM    6  PA  GDP B 401      48.943  16.073  10.173  1.00 47.13         A P  
+ANISOU    6  PA  GDP B 401     5649   5100   7156    558    168   -699     A P  
+HETATM    7  O1A GDP B 401      49.226  17.505   9.901  1.00 45.53         A O1-
+ANISOU    7  O1A GDP B 401     5412   4928   6959    606    202   -616     A O1-
+HETATM    8  O2A GDP B 401      49.835  15.244  11.004  1.00 46.59         A O  
+ANISOU    8  O2A GDP B 401     5558   4959   7183    556    230   -701     A O  
+HETATM    9  O5' GDP B 401      48.729  15.431   8.767  1.00 36.58         A O  
+ANISOU    9  O5' GDP B 401     4427   3783   5689    566    166   -758     A O  
+HETATM   10  C5' GDP B 401      47.740  16.041   7.980  1.00 42.32         A C  
+ANISOU   10  C5' GDP B 401     5163   4591   6324    561     91   -753     A C  
+HETATM   11  C4' GDP B 401      48.315  16.506   6.670  1.00 46.52         A C  
+ANISOU   11  C4' GDP B 401     5767   5153   6754    623    140   -727     A C  
+HETATM   12  O4' GDP B 401      48.657  15.370   5.914  1.00 43.43         A O  
+ANISOU   12  O4' GDP B 401     5480   4726   6294    615    171   -801     A O  
+HETATM   13  C3' GDP B 401      47.256  17.212   5.864  1.00 45.70         A C  
+ANISOU   13  C3' GDP B 401     5669   5144   6549    626     61   -709     A C  
+HETATM   14  O3' GDP B 401      47.331  18.624   6.013  1.00 62.78         A O  
+ANISOU   14  O3' GDP B 401     7780   7338   8737    677     84   -618     A O  
+HETATM   15  C2' GDP B 401      47.469  16.767   4.435  1.00 49.42         A C  
+ANISOU   15  C2' GDP B 401     6264   5629   6883    646     85   -755     A C  
+HETATM   16  O2' GDP B 401      48.031  17.781   3.618  1.00 50.96         A O  
+ANISOU   16  O2' GDP B 401     6485   5855   7022    721    142   -687     A O  
+HETATM   17  C1' GDP B 401      48.481  15.663   4.550  1.00 47.14         A C  
+ANISOU   17  C1' GDP B 401     6036   5248   6627    646    170   -806     A C  
+HETATM   18  N9  GDP B 401      47.991  14.459   3.875  1.00 55.20         A N  
+ANISOU   18  N9  GDP B 401     7157   6262   7554    597    134   -907     A N  
+HETATM   19  C8  GDP B 401      46.894  13.770   4.172  1.00 53.50         A C  
+ANISOU   19  C8  GDP B 401     6929   6062   7336    513     37   -970     A C  
+HETATM   20  N7  GDP B 401      46.759  12.720   3.347  1.00 51.87         A N  
+ANISOU   20  N7  GDP B 401     6842   5837   7029    476     33  -1061     A N  
+HETATM   21  C5  GDP B 401      47.797  12.734   2.513  1.00 53.28         A C  
+ANISOU   21  C5  GDP B 401     7113   5985   7145    544    134  -1054     A C  
+HETATM   22  C6  GDP B 401      48.271  11.907   1.398  1.00 52.24         A C  
+ANISOU   22  C6  GDP B 401     7136   5816   6897    556    196  -1122     A C  
+HETATM   23  O6  GDP B 401      47.636  10.908   1.032  1.00 50.34         A O  
+ANISOU   23  O6  GDP B 401     6977   5564   6585    483    147  -1218     A O  
+HETATM   24  N1  GDP B 401      49.393  12.276   0.801  1.00 56.63         A N  
+ANISOU   24  N1  GDP B 401     7744   6349   7425    645    309  -1078     A N  
+HETATM   25  C2  GDP B 401      50.100  13.349   1.168  1.00 59.89         A C  
+ANISOU   25  C2  GDP B 401     8072   6770   7912    717    366   -975     A C  
+HETATM   26  N2  GDP B 401      51.234  13.638   0.494  1.00 60.80         A N  
+ANISOU   26  N2  GDP B 401     8242   6862   7998    801    484   -931     A N  
+HETATM   27  N3  GDP B 401      49.732  14.149   2.183  1.00 51.79         A N  
+ANISOU   27  N3  GDP B 401     6909   5776   6993    701    309   -916     A N  
+HETATM   28  C4  GDP B 401      48.607  13.886   2.866  1.00 55.84         A C  
+ANISOU   28  C4  GDP B 401     7361   6314   7542    623    199   -950     A C  

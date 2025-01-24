@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and... resnum `8001`)'
+HETATM    1  N   ASN A8001     -19.915  -3.686  16.842  1.00 22.19         A N  
+HETATM    2  CA  ASN A8001     -20.288  -2.350  16.493  1.00 22.80         A C  
+HETATM    3  C   ASN A8001     -19.148  -1.838  15.570  1.00 23.31         A C  
+HETATM    4  O   ASN A8001     -19.082  -0.596  15.438  1.00 25.67         A O  
+HETATM    5  CB  ASN A8001     -20.479  -1.494  17.773  1.00 21.35         A C  
+HETATM    6  CG  ASN A8001     -19.206  -1.225  18.661  1.00 20.41         A C  
+HETATM    7  OD1 ASN A8001     -18.222  -1.997  18.664  1.00 19.61         A O  
+HETATM    8  ND2 ASN A8001     -19.235  -0.120  19.396  1.00 17.61         A N  
+HETATM    9  OXT ASN A8001     -18.368  -2.680  15.033  1.00 23.61         A O  

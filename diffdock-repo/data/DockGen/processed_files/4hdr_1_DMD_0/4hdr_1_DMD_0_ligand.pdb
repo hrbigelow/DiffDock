@@ -1,0 +1,12 @@
+REMARK Selection '(segment A) and...d resnum `801`)'
+HETATM    1  N3  DMD A 801       4.692 -43.827  62.331  1.00 23.82         A N  
+HETATM    2  N1  DMD A 801       2.495 -44.091  62.815  1.00 24.84         A N  
+HETATM    3  C2  DMD A 801       3.438 -43.231  62.438  1.00 25.54         A C  
+HETATM    4  C7A DMD A 801       3.052 -45.303  63.015  1.00 22.84         A C  
+HETATM    5  C3A DMD A 801       4.506 -45.126  62.711  1.00 20.07         A C  
+HETATM    6  C4  DMD A 801       5.354 -46.269  62.775  1.00 23.26         A C  
+HETATM    7  C5  DMD A 801       4.803 -47.477  63.145  1.00 20.58         A C  
+HETATM    8  C6  DMD A 801       3.349 -47.612  63.436  1.00 23.89         A C  
+HETATM    9  C7  DMD A 801       2.451 -46.537  63.371  1.00 20.92         A C  
+HETATM   10  C8  DMD A 801       5.650 -48.718  63.269  1.00 22.99         A C  
+HETATM   11  C9  DMD A 801       2.781 -48.974  63.804  1.00 24.59         A C  

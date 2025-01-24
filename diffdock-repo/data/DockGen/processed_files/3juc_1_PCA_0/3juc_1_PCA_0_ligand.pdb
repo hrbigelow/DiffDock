@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and... resnum `1001`)'
+HETATM    1  N   PCA A1001      -1.450  -0.998  13.700  1.00 10.13         A N  
+ANISOU    1  N   PCA A1001     1369   1227   1251    -32    -33    143     A N  
+HETATM    2  CA  PCA A1001      -0.112  -0.833  13.161  1.00  8.05         A C  
+ANISOU    2  CA  PCA A1001     1223    925    909    -11     17     95     A C  
+HETATM    3  CB  PCA A1001      -0.262  -1.441  11.703  1.00  9.40         A C  
+ANISOU    3  CB  PCA A1001     1358   1227    985    105    147    254     A C  
+HETATM    4  CG  PCA A1001      -1.673  -1.000  11.321  1.00  9.92         A C  
+ANISOU    4  CG  PCA A1001     1484   1178   1108    -92     62   -139     A C  
+HETATM    5  CD  PCA A1001      -2.373  -0.901  12.681  1.00 10.17         A C  
+ANISOU    5  CD  PCA A1001     1332   1285   1246     -5    117    100     A C  
+HETATM    6  OE  PCA A1001      -3.572  -0.741  12.892  1.00 10.36         A O  
+ANISOU    6  OE  PCA A1001     1569   1067   1297    -25    344     60     A O  
+HETATM    7  C   PCA A1001       0.308   0.611  13.145  1.00  7.31         A C  
+ANISOU    7  C   PCA A1001     1024   1024    726     87    150    103     A C  
+HETATM    8  O   PCA A1001       1.303   0.901  12.478  1.00  7.21         A O  
+ANISOU    8  O   PCA A1001     1099    818    820     31     45    -60     A O  
+HETATM    9  OXT PCA A1001      -0.367   1.454  13.798  1.00  7.42         A O  
+ANISOU    9  OXT PCA A1001     1107    954    755      5      5    136     A O  

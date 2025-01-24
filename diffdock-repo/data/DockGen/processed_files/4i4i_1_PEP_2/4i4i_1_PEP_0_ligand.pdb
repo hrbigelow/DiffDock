@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  C1  PEP C 401     -15.261 -35.734  21.995  1.00 53.22         A C  
+HETATM    2  O1  PEP C 401     -15.968 -36.255  23.118  1.00 47.60         A O  
+HETATM    3  O2' PEP C 401     -15.832 -36.190  20.806  1.00 41.93         A O  
+HETATM    4  C2  PEP C 401     -15.212 -34.176  22.026  1.00 68.89         A C  
+HETATM    5  C3  PEP C 401     -15.815 -33.622  20.729  1.00 32.07         A C  
+HETATM    6  O2  PEP C 401     -15.917 -33.678  23.130  1.00 56.37         A O  
+HETATM    7  P   PEP C 401     -15.860 -32.071  23.543  1.00 60.45         A P  
+HETATM    8  O1P PEP C 401     -15.541 -31.863  25.151  1.00 55.19         A O  
+HETATM    9  O2P PEP C 401     -14.698 -31.303  22.686  1.00 41.75         A O  
+HETATM   10  O3P PEP C 401     -17.181 -31.501  23.266  1.00 65.16         A O  

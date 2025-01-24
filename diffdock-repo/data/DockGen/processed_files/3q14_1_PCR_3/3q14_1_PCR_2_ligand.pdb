@@ -1,0 +1,17 @@
+REMARK Selection '(segment A) and... resnum `6029`)'
+HETATM    1  CB  PCR E6029     -18.529   5.031  18.431  1.00 48.20         A C  
+ANISOU    1  CB  PCR E6029        0      0      0      0      0      0     A C  
+HETATM    2  CG  PCR E6029     -19.821   4.653  19.063  1.00 33.85         A C  
+ANISOU    2  CG  PCR E6029        0      0      0      0      0      0     A C  
+HETATM    3  CD1 PCR E6029     -19.880   3.510  19.841  1.00 31.65         A C  
+ANISOU    3  CD1 PCR E6029        0      0      0      0      0      0     A C  
+HETATM    4  CE1 PCR E6029     -21.077   3.136  20.431  1.00 40.32         A C  
+ANISOU    4  CE1 PCR E6029        0      0      0      0      0      0     A C  
+HETATM    5  CD2 PCR E6029     -20.957   5.423  18.869  1.00 25.33         A C  
+ANISOU    5  CD2 PCR E6029        0      0      0      0      0      0     A C  
+HETATM    6  CE2 PCR E6029     -22.156   5.053  19.455  1.00 34.90         A C  
+ANISOU    6  CE2 PCR E6029        0      0      0      0      0      0     A C  
+HETATM    7  CZ  PCR E6029     -22.214   3.907  20.237  1.00 40.76         A C  
+ANISOU    7  CZ  PCR E6029        0      0      0      0      0      0     A C  
+HETATM    8  OH  PCR E6029     -23.397   3.532  20.825  1.00 49.27         A O  
+ANISOU    8  OH  PCR E6029        0      0      0      0      0      0     A O  

@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and...d resnum `202`)'
+HETATM    1  CAA O4B A 202      10.636  -6.743 -16.825  1.00 22.02         A C  
+HETATM    2  OAM O4B A 202       9.304  -6.692 -16.723  1.00 19.43         A O  
+HETATM    3  CAC O4B A 202       8.754  -7.707 -16.098  1.00 19.38         A C  
+HETATM    4  CAD O4B A 202       7.356  -7.692 -15.919  1.00 22.36         A C  
+HETATM    5  OAO O4B A 202       6.728  -7.665 -17.158  1.00 20.16         A O  
+HETATM    6  CAG O4B A 202       5.397  -7.585 -17.190  1.00 20.03         A C  
+HETATM    7  CAH O4B A 202       4.901  -7.710 -18.493  1.00 21.12         A C  
+HETATM    8  OAQ O4B A 202       5.209  -6.531 -19.239  1.00 18.44         A O  
+HETATM    9  CAK O4B A 202       4.672  -6.668 -20.542  1.00 19.00         A C  
+HETATM   10  CAL O4B A 202       5.110  -5.482 -21.256  1.00 17.18         A C  
+HETATM   11  OAR O4B A 202       6.584  -5.451 -21.548  1.00 17.70         A O  
+HETATM   12  CAJ O4B A 202       7.063  -4.399 -22.277  1.00 17.38         A C  
+HETATM   13  CAI O4B A 202       8.488  -4.452 -22.406  1.00 20.82         A C  
+HETATM   14  OAP O4B A 202       9.115  -4.335 -21.146  1.00 20.90         A O  
+HETATM   15  CAF O4B A 202      10.558  -4.538 -21.074  1.00 23.08         A C  
+HETATM   16  CAE O4B A 202      10.928  -4.343 -19.631  1.00 20.51         A C  
+HETATM   17  OAN O4B A 202      10.688  -5.436 -18.950  1.00 19.99         A O  
+HETATM   18  CAB O4B A 202      11.133  -5.547 -17.533  1.00 19.54         A C  

@@ -1,0 +1,141 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C11ALLL A 301     108.567 -18.118  -7.598  0.19 24.19         A C  
+ANISOU    1  C11ALLL A 301     2892   3081   3217   -117    203    -36     A C  
+HETATM    2  O11ALLL A 301     109.469 -18.078  -6.476  0.19 21.51         A O  
+ANISOU    2  O11ALLL A 301     2669   2772   2733    -72    -22     64     A O  
+HETATM    3  C21ALLL A 301     107.231 -18.695  -7.113  0.19 25.61         A C  
+ANISOU    3  C21ALLL A 301     2960   3226   3545   -130    341    -78     A C  
+HETATM    4  N21ALLL A 301     107.441 -19.795  -6.192  0.19 26.22         A N  
+ANISOU    4  N21ALLL A 301     2985   3299   3676   -143    383    -71     A N  
+HETATM    5  C31ALLL A 301     106.493 -19.287  -8.293  0.19 26.05         A C  
+ANISOU    5  C31ALLL A 301     2987   3285   3626   -121    357    -28     A C  
+HETATM    6  C41ALLL A 301     107.281 -20.546  -8.706  0.19 26.37         A C  
+ANISOU    6  C41ALLL A 301     3021   3333   3665   -127    341     34     A C  
+HETATM    7  C51ALLL A 301     108.785 -20.303  -8.514  0.19 26.39         A C  
+ANISOU    7  C51ALLL A 301     3035   3328   3665   -139    312     19     A C  
+HETATM    8  O51ALLL A 301     109.071 -18.923  -8.667  0.19 25.64         A O  
+ANISOU    8  O51ALLL A 301     3002   3242   3498   -133    208    -33     A O  
+HETATM    9  C61ALLL A 301     109.501 -21.115  -9.591  0.19 26.77         A C  
+ANISOU    9  C61ALLL A 301     3073   3395   3704   -149    330     19     A C  
+HETATM   10  N61ALLL A 301     110.706 -20.435 -10.079  0.19 26.78         A N  
+ANISOU   10  N61ALLL A 301     3078   3424   3675   -158    327    -35     A N  
+HETATM   11  C12ALLL A 301     112.509 -15.293  -5.624  0.19 17.21         A C  
+ANISOU   11  C12ALLL A 301     2192   2259   2090    112   -111    248     A C  
+HETATM   12  N12ALLL A 301     113.752 -14.523  -5.548  0.19 16.97         A N  
+ANISOU   12  N12ALLL A 301     2182   2277   1988    139   -138    286     A N  
+HETATM   13  C22ALLL A 301     112.758 -16.762  -5.295  0.19 18.27         A C  
+ANISOU   13  C22ALLL A 301     2262   2316   2365     56    -63    317     A C  
+HETATM   14  C32ALLL A 301     111.411 -17.472  -5.298  0.19 19.27         A C  
+ANISOU   14  C32ALLL A 301     2313   2374   2634     47    -27    320     A C  
+HETATM   15  N32ALLL A 301     111.603 -18.879  -4.937  0.19 20.46         A N  
+ANISOU   15  N32ALLL A 301     2319   2417   3039     14      8    465     A N  
+HETATM   16  C42ALLL A 301     110.728 -17.416  -6.666  0.19 19.52         A C  
+ANISOU   16  C42ALLL A 301     2411   2481   2524     28    -53    153     A C  
+HETATM   17  C52ALLL A 301     110.595 -15.956  -7.110  0.19 17.92         A C  
+ANISOU   17  C52ALLL A 301     2278   2323   2207     55   -129    107     A C  
+HETATM   18  O52ALLL A 301     110.144 -15.929  -8.455  0.19 17.59         A O  
+ANISOU   18  O52ALLL A 301     2250   2279   2153     33   -109     37     A O  
+HETATM   19  C62ALLL A 301     111.919 -15.196  -7.034  0.19 16.77         A C  
+ANISOU   19  C62ALLL A 301     2164   2218   1988    103   -155    160     A C  
+HETATM   20  O62ALLL A 301     111.649 -13.826  -7.300  0.19 15.66         A O  
+ANISOU   20  O62ALLL A 301     2056   2094   1800     95   -167     82     A O  
+HETATM   21  C13ALLL A 301     112.453 -13.211  -8.309  0.19 15.22         A C  
+ANISOU   21  C13ALLL A 301     1976   2028   1776    130   -178    102     A C  
+HETATM   22  C23ALLL A 301     112.579 -11.740  -7.911  0.19 14.76         A C  
+ANISOU   22  C23ALLL A 301     1946   1975   1688    146   -184    109     A C  
+HETATM   23  O23ALLL A 301     113.117 -11.681  -6.599  0.19 14.71         A O  
+ANISOU   23  O23ALLL A 301     1953   1923   1714    167   -191    112     A O  
+HETATM   24  C33ALLL A 301     111.196 -11.070  -7.880  0.19 14.73         A C  
+ANISOU   24  C33ALLL A 301     1945   1971   1683    167   -190     57     A C  
+HETATM   25  N33ALLL A 301     111.348  -9.624  -7.615  0.19 14.61         A N  
+ANISOU   25  N33ALLL A 301     1967   1930   1654    164   -183     47     A N  
+HETATM   26  C43ALLL A 301     110.517 -11.291  -9.241  0.19 15.04         A C  
+ANISOU   26  C43ALLL A 301     1945   1997   1771    162   -171     74     A C  
+HETATM   27  O43ALLL A 301     111.229 -10.519 -10.200  0.19 15.19         A O  
+ANISOU   27  O43ALLL A 301     2030   1990   1752    174   -126     90     A O  
+HETATM   28  C53ALLL A 301     110.541 -12.778  -9.614  0.19 15.04         A C  
+ANISOU   28  C53ALLL A 301     1926   2016   1771    157   -213     62     A C  
+HETATM   29  O53ALLL A 301     111.856 -13.313  -9.611  0.19 14.96         A O  
+ANISOU   29  O53ALLL A 301     1959   2010   1715    135   -177     68     A O  
+HETATM   30  C83ALLL A 301     109.056 -10.835  -9.183  0.19 15.40         A C  
+ANISOU   30  C83ALLL A 301     1964   2023   1865    191   -208     56     A C  
+HETATM   31  C93ALLL A 301     110.505  -9.233  -6.469  0.19 14.62         A C  
+ANISOU   31  C93ALLL A 301     1959   1958   1640    141   -194     28     A C  
+HETATM   32  H11ALLL A 301     108.425 -17.214  -7.921  0.19 29.06         A H  
+ANISOU   32  H11ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   33  H21ALLL A 301     106.696 -18.002  -6.695  0.19 30.76         A H  
+ANISOU   33  H21ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   34 H211ALLL A 301     106.636 -20.054  -5.914  0.19 31.49         A H  
+ANISOU   34 H211ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   35 H212ALLL A 301     107.860 -19.459  -5.483  0.19 31.49         A H  
+ANISOU   35 H212ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   36 H311ALLL A 301     105.590 -19.528  -8.035  0.19 31.29         A H  
+ANISOU   36 H311ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   37 H312ALLL A 301     106.474 -18.651  -9.026  0.19 31.29         A H  
+ANISOU   37 H312ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   38 H411ALLL A 301     107.002 -21.296  -8.157  0.19 31.67         A H  
+ANISOU   38 H411ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   39 H412ALLL A 301     107.104 -20.746  -9.638  0.19 31.67         A H  
+ANISOU   39 H412ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   40  H51ALLL A 301     109.059 -20.605  -7.633  0.19 31.70         A H  
+ANISOU   40  H51ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   41 H611ALLL A 301     109.752 -21.977  -9.223  0.19 32.15         A H  
+ANISOU   41 H611ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   42 H612ALLL A 301     108.895 -21.255 -10.335  0.19 32.15         A H  
+ANISOU   42 H612ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   43 H11AALLL A 301     110.995 -19.919  -9.414  0.19 32.17         A H  
+ANISOU   43 H11AALLL A 301        0      0      0      0      0      0     A H  
+HETATM   44 H12AALLL A 301     110.444 -19.889 -10.731  0.19 32.17         A H  
+ANISOU   44 H12AALLL A 301        0      0      0      0      0      0     A H  
+HETATM   45  H12ALLL A 301     111.872 -14.929  -4.988  0.19 20.68         A H  
+ANISOU   45  H12ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   46 H121ALLL A 301     114.395 -15.099  -5.332  0.19 20.39         A H  
+ANISOU   46 H121ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   47 H122ALLL A 301     113.928 -14.241  -6.373  0.19 20.39         A H  
+ANISOU   47 H122ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   48 H221ALLL A 301     113.338 -17.156  -5.966  0.19 21.95         A H  
+ANISOU   48 H221ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   49 H222ALLL A 301     113.169 -16.839  -4.420  0.19 21.95         A H  
+ANISOU   49 H222ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   50  H32ALLL A 301     110.833 -17.054  -4.640  0.19 23.15         A H  
+ANISOU   50  H32ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   51 H321ALLL A 301     111.468 -18.940  -4.059  0.19 24.58         A H  
+ANISOU   51 H321ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   52 H322ALLL A 301     110.948 -19.337  -5.328  0.19 24.58         A H  
+ANISOU   52 H322ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   53  H42ALLL A 301     111.258 -17.907  -7.313  0.19 23.45         A H  
+ANISOU   53  H42ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   54  H52ALLL A 301     109.941 -15.512  -6.547  0.19 21.53         A H  
+ANISOU   54  H52ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   55  H3 ALLL A 301     109.524 -15.349  -8.496  0.19 21.13         A H  
+ANISOU   55  H3 ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   56  H62ALLL A 301     112.545 -15.548  -7.686  0.19 20.15         A H  
+ANISOU   56  H62ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   57  H13ALLL A 301     113.332 -13.622  -8.321  0.19 18.29         A H  
+ANISOU   57  H13ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   58  H23ALLL A 301     113.162 -11.275  -8.532  0.19 17.74         A H  
+ANISOU   58  H23ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   59  H2 ALLL A 301     113.902 -12.003  -6.640  0.19 17.68         A H  
+ANISOU   59  H2 ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   60  H1 ALLL A 301     110.657 -11.472  -7.181  0.19 17.71         A H  
+ANISOU   60  H1 ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   61  H33ALLL A 301     111.025  -9.198  -8.327  0.19 17.56         A H  
+ANISOU   61  H33ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   62  H43ALLL A 301     111.536 -11.065 -10.774  0.19 18.26         A H  
+ANISOU   62  H43ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   63 H531ALLL A 301     110.158 -12.887 -10.499  0.19 18.07         A H  
+ANISOU   63 H531ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   64 H532ALLL A 301     109.999 -13.269  -8.976  0.19 18.07         A H  
+ANISOU   64 H532ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   65 H831ALLL A 301     108.602 -11.298  -8.462  0.19 18.51         A H  
+ANISOU   65 H831ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   66 H832ALLL A 301     109.021  -9.878  -9.028  0.19 18.51         A H  
+ANISOU   66 H832ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   67 H833ALLL A 301     108.620 -11.042 -10.025  0.19 18.51         A H  
+ANISOU   67 H833ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   68 H931ALLL A 301     110.601  -8.282  -6.305  0.19 17.58         A H  
+ANISOU   68 H931ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   69 H932ALLL A 301     109.577  -9.435  -6.666  0.19 17.58         A H  
+ANISOU   69 H932ALLL A 301        0      0      0      0      0      0     A H  
+HETATM   70 H933ALLL A 301     110.782  -9.726  -5.681  0.19 17.58         A H  
+ANISOU   70 H933ALLL A 301        0      0      0      0      0      0     A H  

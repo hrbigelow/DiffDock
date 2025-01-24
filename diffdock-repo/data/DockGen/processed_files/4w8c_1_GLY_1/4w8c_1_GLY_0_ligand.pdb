@@ -1,0 +1,6 @@
+REMARK Selection '(segment A) and...d resnum `201`)'
+HETATM    1  N   GLY A 201     -38.506 -34.440  35.473  1.00 52.26         A N  
+HETATM    2  CA  GLY A 201     -38.344 -33.343  36.411  1.00 40.86         A C  
+HETATM    3  C   GLY A 201     -39.654 -32.906  37.045  1.00 54.12         A C  
+HETATM    4  O   GLY A 201     -40.478 -32.257  36.411  1.00 54.53         A O  
+HETATM    5  OXT GLY A 201     -39.920 -33.167  38.226  1.00 60.68         A O  

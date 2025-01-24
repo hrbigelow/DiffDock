@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `502`)'
+HETATM    1  OAA GDE B 502      -6.261   4.176  50.584  1.00 34.20         A O  
+HETATM    2  OAB GDE B 502      -6.714   5.648  49.028  1.00 34.10         A O  
+HETATM    3  OAC GDE B 502      -3.527   0.566  48.449  1.00 35.49         A O  
+HETATM    4  OAD GDE B 502      -3.326   4.206  45.351  1.00 30.53         A O  
+HETATM    5  OAE GDE B 502      -2.591   1.704  46.093  1.00 34.63         A O  
+HETATM    6  CAF GDE B 502      -4.777   2.570  48.882  1.00 33.59         A C  
+HETATM    7  CAG GDE B 502      -4.691   4.427  47.326  1.00 33.68         A C  
+HETATM    8  CAH GDE B 502      -6.107   4.618  49.426  1.00 34.64         A C  
+HETATM    9  CAI GDE B 502      -3.909   1.835  48.073  1.00 34.88         A C  
+HETATM   10  CAJ GDE B 502      -3.816   3.686  46.512  1.00 34.32         A C  
+HETATM   11  CAK GDE B 502      -5.166   3.864  48.516  1.00 34.27         A C  
+HETATM   12  CAL GDE B 502      -3.433   2.402  46.891  1.00 33.67         A C  

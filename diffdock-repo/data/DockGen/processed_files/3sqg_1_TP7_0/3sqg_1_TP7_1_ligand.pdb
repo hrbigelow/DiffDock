@@ -1,0 +1,43 @@
+REMARK Selection '(segment A) and...d resnum `580`)'
+HETATM    1  N   TP7 A 580      56.273 -68.865   0.047  1.00 29.60         A N  
+ANISOU    1  N   TP7 A 580        0      0      0      0      0      0     A N  
+HETATM    2  P   TP7 A 580      57.021 -73.054  -1.498  1.00 28.38         A P  
+ANISOU    2  P   TP7 A 580        0      0      0      0      0      0     A P  
+HETATM    3  O1P TP7 A 580      57.022 -72.983  -3.002  1.00 29.67         A O  
+ANISOU    3  O1P TP7 A 580        0      0      0      0      0      0     A O  
+HETATM    4  O2P TP7 A 580      55.831 -73.763  -0.916  1.00 28.57         A O  
+ANISOU    4  O2P TP7 A 580        0      0      0      0      0      0     A O  
+HETATM    5  O3P TP7 A 580      58.345 -73.444  -0.870  1.00 29.92         A O  
+ANISOU    5  O3P TP7 A 580        0      0      0      0      0      0     A O  
+HETATM    6  O4P TP7 A 580      56.888 -71.503  -1.097  1.00 30.03         A O  
+ANISOU    6  O4P TP7 A 580        0      0      0      0      0      0     A O  
+HETATM    7  CB  TP7 A 580      55.700 -70.757  -1.395  1.00 30.55         A C  
+ANISOU    7  CB  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM    8  C   TP7 A 580      55.096 -70.725   1.042  1.00 30.98         A C  
+ANISOU    8  C   TP7 A 580        0      0      0      0      0      0     A C  
+HETATM    9  O   TP7 A 580      53.973 -71.240   1.264  1.00 30.42         A O  
+ANISOU    9  O   TP7 A 580        0      0      0      0      0      0     A O  
+HETATM   10  OXT TP7 A 580      56.087 -70.869   1.797  1.00 31.58         A O  
+ANISOU   10  OXT TP7 A 580        0      0      0      0      0      0     A O  
+HETATM   11  CA  TP7 A 580      55.284 -69.899  -0.194  1.00 29.62         A C  
+ANISOU   11  CA  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   12  CG  TP7 A 580      55.959 -69.871  -2.610  1.00 28.48         A C  
+ANISOU   12  CG  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   13  O1  TP7 A 580      54.993 -67.171  -0.903  1.00 29.82         A O  
+ANISOU   13  O1  TP7 A 580        0      0      0      0      0      0     A O  
+HETATM   14  C1  TP7 A 580      55.791 -67.516   0.235  1.00 29.12         A C  
+ANISOU   14  C1  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   15  C2  TP7 A 580      56.936 -66.542   0.468  1.00 26.17         A C  
+ANISOU   15  C2  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   16  C3  TP7 A 580      56.407 -65.123   0.647  1.00 25.90         A C  
+ANISOU   16  C3  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   17  C4  TP7 A 580      57.264 -64.278   1.595  1.00 27.03         A C  
+ANISOU   17  C4  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   18  C5  TP7 A 580      58.731 -64.177   1.183  1.00 26.01         A C  
+ANISOU   18  C5  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   19  C6  TP7 A 580      58.902 -63.377  -0.106  1.00 26.89         A C  
+ANISOU   19  C6  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   20  C7  TP7 A 580      58.361 -61.956   0.028  1.00 24.55         A C  
+ANISOU   20  C7  TP7 A 580        0      0      0      0      0      0     A C  
+HETATM   21  S7  TP7 A 580      58.675 -61.018  -1.488  1.00 29.86         A S  
+ANISOU   21  S7  TP7 A 580        0      0      0      0      0      0     A S  

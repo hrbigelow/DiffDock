@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and... resnum `8002`)'
+HETATM    1  N   ASN B8002     -56.084   1.334  28.436  1.00 22.68         A N  
+HETATM    2  CA  ASN B8002     -55.274   1.427  29.608  1.00 22.40         A C  
+HETATM    3  C   ASN B8002     -56.282   1.437  30.785  1.00 24.64         A C  
+HETATM    4  O   ASN B8002     -55.872   1.966  31.847  1.00 26.24         A O  
+HETATM    5  CB  ASN B8002     -54.381   2.691  29.538  1.00 22.19         A C  
+HETATM    6  CG  ASN B8002     -55.104   4.089  29.470  1.00 20.37         A C  
+HETATM    7  OD1 ASN B8002     -56.247   4.225  28.983  1.00 17.93         A O  
+HETATM    8  ND2 ASN B8002     -54.430   5.111  29.980  1.00 19.28         A N  
+HETATM    9  OXT ASN B8002     -57.432   0.932  30.606  1.00 24.27         A O  

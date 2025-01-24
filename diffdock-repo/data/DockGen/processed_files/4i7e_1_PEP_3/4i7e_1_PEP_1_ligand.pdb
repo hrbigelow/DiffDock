@@ -1,0 +1,21 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  C1  PEP B 401      19.030   5.991  -6.184  1.00 36.95         A C  
+ANISOU    1  C1  PEP B 401        0      0      0      0      0      0     A C  
+HETATM    2  O1  PEP B 401      19.745   6.671  -5.389  1.00 33.50         A O  
+ANISOU    2  O1  PEP B 401        0      0      0      0      0      0     A O  
+HETATM    3  O2' PEP B 401      18.337   6.419  -7.139  1.00 36.68         A O  
+ANISOU    3  O2' PEP B 401        0      0      0      0      0      0     A O  
+HETATM    4  C2  PEP B 401      18.972   4.486  -5.948  1.00 37.46         A C  
+ANISOU    4  C2  PEP B 401        0      0      0      0      0      0     A C  
+HETATM    5  C3  PEP B 401      18.961   3.774  -7.295  1.00 37.35         A C  
+ANISOU    5  C3  PEP B 401        0      0      0      0      0      0     A C  
+HETATM    6  O2  PEP B 401      20.040   4.088  -5.058  1.00 38.61         A O  
+ANISOU    6  O2  PEP B 401        0      0      0      0      0      0     A O  
+HETATM    7  P   PEP B 401      20.592   2.530  -4.913  1.00 35.62         A P  
+ANISOU    7  P   PEP B 401        0      0      0      0      0      0     A P  
+HETATM    8  O1P PEP B 401      19.426   1.501  -4.851  1.00 36.64         A O  
+ANISOU    8  O1P PEP B 401        0      0      0      0      0      0     A O  
+HETATM    9  O2P PEP B 401      21.440   2.236  -6.296  1.00 38.25         A O  
+ANISOU    9  O2P PEP B 401        0      0      0      0      0      0     A O  
+HETATM   10  O3P PEP B 401      21.491   2.512  -3.774  1.00 36.54         A O  
+ANISOU   10  O3P PEP B 401        0      0      0      0      0      0     A O  

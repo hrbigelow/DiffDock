@@ -1,0 +1,49 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  N1  PQQ B 602      10.333 -32.163  49.262  1.00 12.65         A N  
+ANISOU    1  N1  PQQ B 602        0      0      0      0      0      0     A N  
+HETATM    2  C2  PQQ B 602       9.975 -32.607  48.022  1.00 11.97         A C  
+ANISOU    2  C2  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM    3  C2X PQQ B 602       9.487 -31.738  46.920  1.00 11.77         A C  
+ANISOU    3  C2X PQQ B 602        0      0      0      0      0      0     A C  
+HETATM    4  O2A PQQ B 602       9.052 -30.617  47.247  1.00 13.04         A O  
+ANISOU    4  O2A PQQ B 602        0      0      0      0      0      0     A O  
+HETATM    5  O2B PQQ B 602       9.463 -32.150  45.745  1.00 12.12         A O  
+ANISOU    5  O2B PQQ B 602        0      0      0      0      0      0     A O  
+HETATM    6  C3  PQQ B 602      10.108 -33.986  47.952  1.00 12.55         A C  
+ANISOU    6  C3  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM    7  C3A PQQ B 602      10.584 -34.424  49.216  1.00 11.91         A C  
+ANISOU    7  C3A PQQ B 602        0      0      0      0      0      0     A C  
+HETATM    8  C1A PQQ B 602      10.715 -33.208  50.044  1.00 12.44         A C  
+ANISOU    8  C1A PQQ B 602        0      0      0      0      0      0     A C  
+HETATM    9  C4  PQQ B 602      10.917 -35.762  49.779  1.00 12.38         A C  
+ANISOU    9  C4  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   10  O4  PQQ B 602      10.457 -36.792  49.246  1.00 12.79         A O  
+ANISOU   10  O4  PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   11  C5  PQQ B 602      11.395 -35.828  51.177  1.00 13.33         A C  
+ANISOU   11  C5  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   12  O5  PQQ B 602      11.692 -36.922  51.733  1.00 13.05         A O  
+ANISOU   12  O5  PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   13  C6A PQQ B 602      11.515 -34.570  51.947  1.00 12.81         A C  
+ANISOU   13  C6A PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   14  N6  PQQ B 602      11.945 -34.692  53.208  1.00 13.91         A N  
+ANISOU   14  N6  PQQ B 602        0      0      0      0      0      0     A N  
+HETATM   15  C7  PQQ B 602      12.098 -33.634  54.014  1.00 10.84         A C  
+ANISOU   15  C7  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   16  C7X PQQ B 602      12.550 -33.963  55.406  1.00 11.82         A C  
+ANISOU   16  C7X PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   17  O7A PQQ B 602      12.694 -35.179  55.696  1.00  9.73         A O  
+ANISOU   17  O7A PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   18  O7B PQQ B 602      12.685 -33.050  56.250  1.00 10.71         A O  
+ANISOU   18  O7B PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   19  C8  PQQ B 602      11.795 -32.333  53.597  1.00 12.42         A C  
+ANISOU   19  C8  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   20  C9  PQQ B 602      11.330 -32.058  52.299  1.00 12.18         A C  
+ANISOU   20  C9  PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   21  C9X PQQ B 602      11.047 -30.615  51.957  1.00 12.89         A C  
+ANISOU   21  C9X PQQ B 602        0      0      0      0      0      0     A C  
+HETATM   22  O9A PQQ B 602      11.101 -29.785  52.889  1.00 12.45         A O  
+ANISOU   22  O9A PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   23  O9B PQQ B 602      10.775 -30.231  50.790  1.00 11.91         A O  
+ANISOU   23  O9B PQQ B 602        0      0      0      0      0      0     A O  
+HETATM   24  C9A PQQ B 602      11.167 -33.231  51.373  1.00 12.43         A C  
+ANISOU   24  C9A PQQ B 602        0      0      0      0      0      0     A C  

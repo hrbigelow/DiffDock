@@ -1,0 +1,17 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  P   RPI A 401      96.259  14.855 414.954  1.00 28.08         A P  
+HETATM    2  N   RPI A 401      96.010  18.904 408.827  1.00 41.22         A N  
+HETATM    3  CA  RPI A 401      95.091  19.935 409.197  1.00 45.64         A C  
+HETATM    4  CB  RPI A 401      94.448  19.668 410.545  1.00 45.05         A C  
+HETATM    5  CG  RPI A 401      93.592  18.418 410.579  1.00 44.35         A C  
+HETATM    6  CD  RPI A 401      93.390  17.964 412.005  1.00 42.22         A C  
+HETATM    7  NE  RPI A 401      94.598  17.344 412.425  1.00 34.62         A N  
+HETATM    8  CZ  RPI A 401      94.647  16.453 413.507  1.00 32.72         A C  
+HETATM    9  NH1 RPI A 401      93.569  16.128 414.200  1.00 34.50         A N  
+HETATM   10  NH2 RPI A 401      95.936  15.963 413.795  1.00 33.27         A N  
+HETATM   11  O1P RPI A 401      95.216  14.884 416.064  1.00 33.47         A O  
+HETATM   12  O2P RPI A 401      96.168  13.539 414.232  1.00 31.24         A O  
+HETATM   13  O3P RPI A 401      97.607  15.127 415.557  1.00 29.99         A O  
+HETATM   14  C   RPI A 401      95.807  21.256 409.328  1.00 47.28         A C  
+HETATM   15  O   RPI A 401      96.975  21.419 408.869  1.00 44.97         A O  
+HETATM   16  OXT RPI A 401      95.215  22.188 409.935  1.00 48.47         A O  

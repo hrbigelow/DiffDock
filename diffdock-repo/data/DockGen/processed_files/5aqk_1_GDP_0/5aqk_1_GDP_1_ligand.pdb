@@ -1,0 +1,57 @@
+REMARK Selection '(segment A) and... resnum `1382`)'
+HETATM    1  PB  GDP A1382      52.425   1.998 140.638  1.00 77.05         A P  
+ANISOU    1  PB  GDP A1382        0      0      0      0      0      0     A P  
+HETATM    2  O1B GDP A1382      51.796   1.913 142.005  1.00 77.01         A O  
+ANISOU    2  O1B GDP A1382        0      0      0      0      0      0     A O  
+HETATM    3  O2B GDP A1382      51.377   1.982 139.493  1.00 76.41         A O  
+ANISOU    3  O2B GDP A1382        0      0      0      0      0      0     A O  
+HETATM    4  O3B GDP A1382      53.413   0.841 140.355  1.00 76.05         A O  
+ANISOU    4  O3B GDP A1382        0      0      0      0      0      0     A O  
+HETATM    5  O3A GDP A1382      53.203   3.388 140.497  1.00 74.67         A O  
+ANISOU    5  O3A GDP A1382        0      0      0      0      0      0     A O  
+HETATM    6  PA  GDP A1382      54.368   4.168 141.263  1.00 69.92         A P  
+ANISOU    6  PA  GDP A1382        0      0      0      0      0      0     A P  
+HETATM    7  O1A GDP A1382      55.562   4.151 140.393  1.00 67.32         A O  
+ANISOU    7  O1A GDP A1382        0      0      0      0      0      0     A O  
+HETATM    8  O2A GDP A1382      53.949   5.639 141.364  1.00 73.14         A O  
+ANISOU    8  O2A GDP A1382        0      0      0      0      0      0     A O  
+HETATM    9  O5' GDP A1382      54.616   3.644 142.788  1.00 64.00         A O  
+ANISOU    9  O5' GDP A1382        0      0      0      0      0      0     A O  
+HETATM   10  C5' GDP A1382      54.029   4.161 144.005  1.00 57.55         A C  
+ANISOU   10  C5' GDP A1382        0      0      0      0      0      0     A C  
+HETATM   11  C4' GDP A1382      54.923   3.901 145.192  1.00 53.09         A C  
+ANISOU   11  C4' GDP A1382        0      0      0      0      0      0     A C  
+HETATM   12  O4' GDP A1382      56.153   4.655 145.082  1.00 48.72         A O  
+ANISOU   12  O4' GDP A1382        0      0      0      0      0      0     A O  
+HETATM   13  C3' GDP A1382      54.309   4.250 146.561  1.00 53.45         A C  
+ANISOU   13  C3' GDP A1382        0      0      0      0      0      0     A C  
+HETATM   14  O3' GDP A1382      54.329   3.146 147.461  1.00 52.54         A O  
+ANISOU   14  O3' GDP A1382        0      0      0      0      0      0     A O  
+HETATM   15  C2' GDP A1382      55.179   5.411 147.066  1.00 52.21         A C  
+ANISOU   15  C2' GDP A1382        0      0      0      0      0      0     A C  
+HETATM   16  O2' GDP A1382      55.321   5.405 148.484  1.00 53.40         A O  
+ANISOU   16  O2' GDP A1382        0      0      0      0      0      0     A O  
+HETATM   17  C1' GDP A1382      56.506   5.116 146.370  1.00 47.39         A C  
+ANISOU   17  C1' GDP A1382        0      0      0      0      0      0     A C  
+HETATM   18  N9  GDP A1382      57.403   6.290 146.255  1.00 39.33         A N  
+ANISOU   18  N9  GDP A1382        0      0      0      0      0      0     A N  
+HETATM   19  C8  GDP A1382      57.208   7.426 145.512  1.00 40.64         A C  
+ANISOU   19  C8  GDP A1382        0      0      0      0      0      0     A C  
+HETATM   20  N7  GDP A1382      58.117   8.356 145.729  1.00 40.70         A N  
+ANISOU   20  N7  GDP A1382        0      0      0      0      0      0     A N  
+HETATM   21  C5  GDP A1382      58.959   7.797 146.675  1.00 36.38         A C  
+ANISOU   21  C5  GDP A1382        0      0      0      0      0      0     A C  
+HETATM   22  C6  GDP A1382      60.137   8.328 147.370  1.00 35.64         A C  
+ANISOU   22  C6  GDP A1382        0      0      0      0      0      0     A C  
+HETATM   23  O6  GDP A1382      60.604   9.470 147.321  1.00 37.62         A O  
+ANISOU   23  O6  GDP A1382        0      0      0      0      0      0     A O  
+HETATM   24  N1  GDP A1382      60.695   7.395 148.219  1.00 32.26         A N  
+ANISOU   24  N1  GDP A1382        0      0      0      0      0      0     A N  
+HETATM   25  C2  GDP A1382      60.209   6.136 148.446  1.00 32.75         A C  
+ANISOU   25  C2  GDP A1382        0      0      0      0      0      0     A C  
+HETATM   26  N2  GDP A1382      60.784   5.445 149.426  1.00 36.43         A N  
+ANISOU   26  N2  GDP A1382        0      0      0      0      0      0     A N  
+HETATM   27  N3  GDP A1382      59.135   5.636 147.833  1.00 32.79         A N  
+ANISOU   27  N3  GDP A1382        0      0      0      0      0      0     A N  
+HETATM   28  C4  GDP A1382      58.550   6.510 146.984  1.00 34.98         A C  
+ANISOU   28  C4  GDP A1382        0      0      0      0      0      0     A C  

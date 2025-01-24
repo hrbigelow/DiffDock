@@ -1,0 +1,47 @@
+REMARK Selection '(segment A) and...d resnum `201`)'
+HETATM    1  C4  6QF A 201      52.067  33.349  66.147  1.00 37.58         A C  
+ANISOU    1  C4  6QF A 201        0      0      0      0      0      0     A C  
+HETATM    2  C5  6QF A 201      51.403  34.652  66.331  1.00 40.31         A C  
+ANISOU    2  C5  6QF A 201        0      0      0      0      0      0     A C  
+HETATM    3  C6  6QF A 201      52.083  35.817  66.331  1.00 39.93         A C  
+ANISOU    3  C6  6QF A 201        0      0      0      0      0      0     A C  
+HETATM    4  C10 6QF A 201      53.475  31.029  65.783  1.00 33.00         A C  
+ANISOU    4  C10 6QF A 201        0      0      0      0      0      0     A C  
+HETATM    5  C13 6QF A 201      53.417  28.577  65.581  1.00 36.00         A C  
+ANISOU    5  C13 6QF A 201        0      0      0      0      0      0     A C  
+HETATM    6  C15 6QF A 201      51.377  29.740  65.972  1.00 32.57         A C  
+ANISOU    6  C15 6QF A 201        0      0      0      0      0      0     A C  
+HETATM    7  C1  6QF A 201      53.496  35.814  66.139  1.00 40.39         A C  
+ANISOU    7  C1  6QF A 201        0      0      0      0      0      0     A C  
+HETATM    8  C2  6QF A 201      54.151  34.657  65.957  1.00 39.51         A C  
+ANISOU    8  C2  6QF A 201        0      0      0      0      0      0     A C  
+HETATM    9  C3  6QF A 201      53.497  33.359  65.945  1.00 36.81         A C  
+ANISOU    9  C3  6QF A 201        0      0      0      0      0      0     A C  
+HETATM   10  N7  6QF A 201      54.178  32.198  65.768  1.00 36.67         A N  
+ANISOU   10  N7  6QF A 201        0      0      0      0      0      0     A N  
+HETATM   11  N8  6QF A 201      51.388  32.178  66.160  1.00 33.69         A N  
+ANISOU   11  N8  6QF A 201        0      0      0      0      0      0     A N  
+HETATM   12  C9  6QF A 201      52.063  31.029  65.986  1.00 32.09         A C  
+ANISOU   12  C9  6QF A 201        0      0      0      0      0      0     A C  
+HETATM   13  C11 6QF A 201      54.097  29.730  65.575  1.00 35.60         A C  
+ANISOU   13  C11 6QF A 201        0      0      0      0      0      0     A C  
+HETATM   14  C14 6QF A 201      52.004  28.583  65.774  1.00 33.19         A C  
+ANISOU   14  C14 6QF A 201        0      0      0      0      0      0     A C  
+HETATM   15  O19 6QF A 201      50.062  34.633  66.512  1.00 40.45         A O  
+ANISOU   15  O19 6QF A 201        0      0      0      0      0      0     A O  
+HETATM   16  H6  6QF A 201      51.670  36.641  66.454  1.00 47.91         A H  
+ANISOU   16  H6  6QF A 201        0      0      0      0      0      0     A H  
+HETATM   17  H13 6QF A 201      53.826  27.749  65.470  1.00 43.21         A H  
+ANISOU   17  H13 6QF A 201        0      0      0      0      0      0     A H  
+HETATM   18  H15 6QF A 201      50.456  29.764  66.093  1.00 39.08         A H  
+ANISOU   18  H15 6QF A 201        0      0      0      0      0      0     A H  
+HETATM   19  H1  6QF A 201      53.930  36.637  66.141  1.00 48.47         A H  
+ANISOU   19  H1  6QF A 201        0      0      0      0      0      0     A H  
+HETATM   20  H2  6QF A 201      55.073  34.669  65.831  1.00 47.41         A H  
+ANISOU   20  H2  6QF A 201        0      0      0      0      0      0     A H  
+HETATM   21  H11 6QF A 201      55.019  29.726  65.457  1.00 42.72         A H  
+ANISOU   21  H11 6QF A 201        0      0      0      0      0      0     A H  
+HETATM   22  H14 6QF A 201      51.565  27.763  65.785  1.00 39.83         A H  
+ANISOU   22  H14 6QF A 201        0      0      0      0      0      0     A H  
+HETATM   23  H3  6QF A 201      49.652  34.419  65.799  1.00 48.55         A H  
+ANISOU   23  H3  6QF A 201        0      0      0      0      0      0     A H  

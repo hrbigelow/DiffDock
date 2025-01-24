@@ -1,0 +1,75 @@
+REMARK Selection '(segment A) and...d resnum `201`)'
+HETATM    1  N1  FEG B 201       0.822  21.628  28.204  1.00 26.77         A N  
+ANISOU    1  N1  FEG B 201        0      0      0      0      0      0     A N  
+HETATM    2  C2  FEG B 201      -0.380  21.511  27.492  1.00 27.08         A C  
+ANISOU    2  C2  FEG B 201        0      0      0      0      0      0     A C  
+HETATM    3  O2  FEG B 201      -1.129  22.578  27.293  1.00 23.08         A O  
+ANISOU    3  O2  FEG B 201        0      0      0      0      0      0     A O  
+HETATM    4  C3  FEG B 201      -0.849  20.263  26.913  1.00 27.84         A C  
+ANISOU    4  C3  FEG B 201        0      0      0      0      0      0     A C  
+HETATM    5  C3M FEG B 201      -2.086  20.158  26.103  1.00 26.11         A C  
+ANISOU    5  C3M FEG B 201        0      0      0      0      0      0     A C  
+HETATM    6  C4  FEG B 201       0.050  19.112  27.138  1.00 31.06         A C  
+ANISOU    6  C4  FEG B 201        0      0      0      0      0      0     A C  
+HETATM    7  C5  FEG B 201       1.272  19.247  27.898  1.00 30.70         A C  
+ANISOU    7  C5  FEG B 201        0      0      0      0      0      0     A C  
+HETATM    8  C5M FEG B 201       2.168  18.005  28.160  1.00 34.40         A C  
+ANISOU    8  C5M FEG B 201        0      0      0      0      0      0     A C  
+HETATM    9  C6  FEG B 201       1.596  20.521  28.418  1.00 28.69         A C  
+ANISOU    9  C6  FEG B 201        0      0      0      0      0      0     A C  
+HETATM   10  C7  FEG B 201       2.840  20.731  29.218  1.00 29.11         A C  
+ANISOU   10  C7  FEG B 201        0      0      0      0      0      0     A C  
+HETATM   11  C8  FEG B 201       3.942  21.487  28.420  1.00 30.86         A C  
+ANISOU   11  C8  FEG B 201        0      0      0      0      0      0     A C  
+HETATM   12  O28 FEG B 201       4.919  21.971  29.080  1.00 32.43         A O  
+ANISOU   12  O28 FEG B 201        0      0      0      0      0      0     A O  
+HETATM   13  O18 FEG B 201       3.738  21.567  27.184  1.00 23.82         A O  
+ANISOU   13  O18 FEG B 201        0      0      0      0      0      0     A O  
+HETATM   14  O3P FEG B 201      -0.297  17.905  26.680  1.00 32.55         A O  
+ANISOU   14  O3P FEG B 201        0      0      0      0      0      0     A O  
+HETATM   15  P1  FEG B 201      -1.401  16.859  27.649  1.00 29.89         A P  
+ANISOU   15  P1  FEG B 201        0      0      0      0      0      0     A P  
+HETATM   16  O1P FEG B 201      -0.563  16.484  28.789  1.00 31.16         A O  
+ANISOU   16  O1P FEG B 201        0      0      0      0      0      0     A O  
+HETATM   17  O2P FEG B 201      -2.103  15.929  26.708  1.00 26.47         A O  
+ANISOU   17  O2P FEG B 201        0      0      0      0      0      0     A O  
+HETATM   18  O5S FEG B 201      -2.568  17.832  28.391  1.00 32.29         A O  
+ANISOU   18  O5S FEG B 201        0      0      0      0      0      0     A O  
+HETATM   19  C5S FEG B 201      -2.190  18.245  29.630  1.00 33.32         A C  
+ANISOU   19  C5S FEG B 201        0      0      0      0      0      0     A C  
+HETATM   20  C4S FEG B 201      -3.219  17.851  30.668  1.00 36.74         A C  
+ANISOU   20  C4S FEG B 201        0      0      0      0      0      0     A C  
+HETATM   21  C3S FEG B 201      -3.597  16.342  30.632  1.00 39.81         A C  
+ANISOU   21  C3S FEG B 201        0      0      0      0      0      0     A C  
+HETATM   22  O3S FEG B 201      -2.804  15.653  31.509  1.00 44.33         A O  
+ANISOU   22  O3S FEG B 201        0      0      0      0      0      0     A O  
+HETATM   23  C2S FEG B 201      -5.029  16.245  31.144  1.00 43.03         A C  
+ANISOU   23  C2S FEG B 201        0      0      0      0      0      0     A C  
+HETATM   24  O2S FEG B 201      -5.040  16.232  32.508  1.00 44.43         A O  
+ANISOU   24  O2S FEG B 201        0      0      0      0      0      0     A O  
+HETATM   25  C1S FEG B 201      -5.550  17.614  30.550  1.00 40.59         A C  
+ANISOU   25  C1S FEG B 201        0      0      0      0      0      0     A C  
+HETATM   26  O4S FEG B 201      -4.472  18.464  30.346  1.00 36.36         A O  
+ANISOU   26  O4S FEG B 201        0      0      0      0      0      0     A O  
+HETATM   27  N9A FEG B 201      -6.326  17.374  29.343  1.00 41.44         A N  
+ANISOU   27  N9A FEG B 201        0      0      0      0      0      0     A N  
+HETATM   28  C8A FEG B 201      -5.880  17.716  28.055  1.00 36.48         A C  
+ANISOU   28  C8A FEG B 201        0      0      0      0      0      0     A C  
+HETATM   29  N7A FEG B 201      -6.789  17.364  27.155  1.00 40.14         A N  
+ANISOU   29  N7A FEG B 201        0      0      0      0      0      0     A N  
+HETATM   30  C5A FEG B 201      -7.861  16.767  27.877  1.00 42.07         A C  
+ANISOU   30  C5A FEG B 201        0      0      0      0      0      0     A C  
+HETATM   31  C4A FEG B 201      -7.567  16.770  29.236  1.00 41.63         A C  
+ANISOU   31  C4A FEG B 201        0      0      0      0      0      0     A C  
+HETATM   32  C6A FEG B 201      -9.107  16.215  27.453  1.00 42.27         A C  
+ANISOU   32  C6A FEG B 201        0      0      0      0      0      0     A C  
+HETATM   33  O6A FEG B 201      -9.554  16.097  26.303  1.00 48.33         A O  
+ANISOU   33  O6A FEG B 201        0      0      0      0      0      0     A O  
+HETATM   34  N1A FEG B 201      -9.992  15.693  28.427  1.00 41.10         A N  
+ANISOU   34  N1A FEG B 201        0      0      0      0      0      0     A N  
+HETATM   35  C2A FEG B 201      -9.589  15.737  29.808  1.00 43.09         A C  
+ANISOU   35  C2A FEG B 201        0      0      0      0      0      0     A C  
+HETATM   36  N3A FEG B 201      -8.383  16.261  30.236  1.00 41.55         A N  
+ANISOU   36  N3A FEG B 201        0      0      0      0      0      0     A N  
+HETATM   37  N2A FEG B 201     -10.496  15.204  30.701  1.00 34.94         A N  
+ANISOU   37  N2A FEG B 201        0      0      0      0      0      0     A N  

@@ -1,0 +1,107 @@
+REMARK Selection '(segment A) and...d resnum `998`)'
+HETATM    1  PA  FAD B 998      21.488 112.936  26.198  1.00 21.77         A P  
+ANISOU    1  PA  FAD B 998     2401   2988   2883     77    -41    295     A P  
+HETATM    2  O1A FAD B 998      20.276 113.746  26.579  1.00 21.43         A O  
+ANISOU    2  O1A FAD B 998     2348   2960   2833     71    -34    296     A O  
+HETATM    3  O2A FAD B 998      21.507 112.150  24.911  1.00 23.02         A O  
+ANISOU    3  O2A FAD B 998     2470   3231   3042    155   -106    134     A O  
+HETATM    4  O5B FAD B 998      21.833 111.911  27.385  1.00 21.87         A O  
+ANISOU    4  O5B FAD B 998     2409   2885   3016     10     16    367     A O  
+HETATM    5  C5B FAD B 998      21.455 112.130  28.732  1.00 22.13         A C  
+ANISOU    5  C5B FAD B 998     2441   2937   3030      5     81    482     A C  
+HETATM    6  C4B FAD B 998      22.607 111.738  29.666  1.00 22.35         A C  
+ANISOU    6  C4B FAD B 998     2491   2992   3007     32    126    598     A C  
+HETATM    7  O4B FAD B 998      22.908 110.357  29.474  1.00 23.22         A O  
+ANISOU    7  O4B FAD B 998     2536   2980   3306      1    168    659     A O  
+HETATM    8  C3B FAD B 998      23.923 112.451  29.419  1.00 21.56         A C  
+ANISOU    8  C3B FAD B 998     2471   2914   2806     47     66    545     A C  
+HETATM    9  O3B FAD B 998      23.919 113.683  30.099  1.00 21.88         A O  
+ANISOU    9  O3B FAD B 998     2506   3033   2772    100     27    483     A O  
+HETATM   10  C2B FAD B 998      24.945 111.434  29.921  1.00 21.94         A C  
+ANISOU   10  C2B FAD B 998     2517   2952   2867     61    109    638     A C  
+HETATM   11  O2B FAD B 998      25.057 111.441  31.331  1.00 22.79         A O  
+ANISOU   11  O2B FAD B 998     2582   3217   2858    160    158    731     A O  
+HETATM   12  C1B FAD B 998      24.317 110.113  29.534  1.00 22.79         A C  
+ANISOU   12  C1B FAD B 998     2539   2930   3187     14    158    686     A C  
+HETATM   13  N9A FAD B 998      24.869 109.730  28.229  1.00 22.47         A N  
+ANISOU   13  N9A FAD B 998     2508   2817   3214    -11     83    541     A N  
+HETATM   14  C8A FAD B 998      24.351 110.013  27.003  1.00 22.98         A C  
+ANISOU   14  C8A FAD B 998     2547   2916   3265      4      7    373     A C  
+HETATM   15  N7A FAD B 998      25.157 109.539  26.007  1.00 22.98         A N  
+ANISOU   15  N7A FAD B 998     2525   2950   3256     47    -54    257     A N  
+HETATM   16  C5A FAD B 998      26.201 108.965  26.617  1.00 22.61         A C  
+ANISOU   16  C5A FAD B 998     2510   2827   3252     19    -17    354     A C  
+HETATM   17  C6A FAD B 998      27.403 108.299  26.170  1.00 22.86         A C  
+ANISOU   17  C6A FAD B 998     2536   2852   3295     42    -49    306     A C  
+HETATM   18  N6A FAD B 998      27.589 108.158  24.860  1.00 23.78         A N  
+ANISOU   18  N6A FAD B 998     2589   3095   3348    133   -137    115     A N  
+HETATM   19  N1A FAD B 998      28.298 107.863  27.077  1.00 22.48         A N  
+ANISOU   19  N1A FAD B 998     2528   2730   3282     13      7    450     A N  
+HETATM   20  C2A FAD B 998      28.078 108.034  28.390  1.00 22.27         A C  
+ANISOU   20  C2A FAD B 998     2522   2698   3237      2     92    636     A C  
+HETATM   21  N3A FAD B 998      26.982 108.616  28.889  1.00 22.40         A N  
+ANISOU   21  N3A FAD B 998     2528   2761   3222      4    126    680     A N  
+HETATM   22  C4A FAD B 998      26.021 109.089  28.062  1.00 22.40         A C  
+ANISOU   22  C4A FAD B 998     2510   2768   3230    -10     74    547     A C  
+HETATM   23  N1  FAD B 998      29.605 112.682  28.393  1.00 18.98         A N  
+ANISOU   23  N1  FAD B 998     2246   2483   2481     69    -15    565     A N  
+HETATM   24  C2  FAD B 998      29.865 113.410  29.515  1.00 19.51         A C  
+ANISOU   24  C2  FAD B 998     2268   2569   2572    109    -54    478     A C  
+HETATM   25  O2  FAD B 998      28.990 113.477  30.386  1.00 19.91         A O  
+ANISOU   25  O2  FAD B 998     2298   2713   2551    151    -57    431     A O  
+HETATM   26  N3  FAD B 998      31.024 114.058  29.740  1.00 20.02         A N  
+ANISOU   26  N3  FAD B 998     2271   2581   2752    132   -100    406     A N  
+HETATM   27  C4  FAD B 998      32.024 114.064  28.840  1.00 19.87         A C  
+ANISOU   27  C4  FAD B 998     2245   2475   2827    103    -77    497     A C  
+HETATM   28  O4  FAD B 998      33.120 114.657  29.038  1.00 20.26         A O  
+ANISOU   28  O4  FAD B 998     2203   2437   3058    117   -112    442     A O  
+HETATM   29  C4X FAD B 998      31.815 113.300  27.589  1.00 19.33         A C  
+ANISOU   29  C4X FAD B 998     2240   2449   2654     85    -20    637     A C  
+HETATM   30  N5  FAD B 998      32.766 113.299  26.620  1.00 19.82         A N  
+ANISOU   30  N5  FAD B 998     2268   2516   2745    109     11    749     A N  
+HETATM   31  C5X FAD B 998      32.626 112.539  25.496  1.00 19.59         A C  
+ANISOU   31  C5X FAD B 998     2254   2622   2565    160     33    796     A C  
+HETATM   32  C6  FAD B 998      33.671 112.481  24.565  1.00 19.88         A C  
+ANISOU   32  C6  FAD B 998     2233   2749   2569    234     70    916     A C  
+HETATM   33  C7  FAD B 998      33.509 111.746  23.408  1.00 20.58         A C  
+ANISOU   33  C7  FAD B 998     2289   3068   2461    352     62    893     A C  
+HETATM   34  C7M FAD B 998      34.584 111.675  22.375  1.00 21.78         A C  
+ANISOU   34  C7M FAD B 998     2346   3421   2505    494    107   1028     A C  
+HETATM   35  C8  FAD B 998      32.263 110.984  23.185  1.00 20.67         A C  
+ANISOU   35  C8  FAD B 998     2311   3158   2385    371     -2    693     A C  
+HETATM   36  C8M FAD B 998      32.111 110.207  21.913  1.00 22.34         A C  
+ANISOU   36  C8M FAD B 998     2414   3658   2415    552    -62    541     A C  
+HETATM   37  C9  FAD B 998      31.236 111.045  24.109  1.00 19.95         A C  
+ANISOU   37  C9  FAD B 998     2277   2907   2393    260    -18    623     A C  
+HETATM   38  C9A FAD B 998      31.361 111.798  25.269  1.00 19.11         A C  
+ANISOU   38  C9A FAD B 998     2222   2634   2404    165      5    691     A C  
+HETATM   39  N10 FAD B 998      30.329 111.864  26.244  1.00 19.02         A N  
+ANISOU   39  N10 FAD B 998     2243   2545   2435    102     -2    628     A N  
+HETATM   40  C10 FAD B 998      30.545 112.592  27.426  1.00 18.83         A C  
+ANISOU   40  C10 FAD B 998     2224   2449   2479     74     -9    619     A C  
+HETATM   41  C1' FAD B 998      29.066 111.136  26.113  1.00 19.25         A C  
+ANISOU   41  C1' FAD B 998     2260   2591   2462     92    -18    538     A C  
+HETATM   42  C2' FAD B 998      27.960 111.929  25.420  1.00 19.67         A C  
+ANISOU   42  C2' FAD B 998     2270   2726   2477    139    -23    534     A C  
+HETATM   43  O2' FAD B 998      28.391 112.475  24.169  1.00 20.98         A O  
+ANISOU   43  O2' FAD B 998     2371   3052   2545    257    -11    620     A O  
+HETATM   44  C3' FAD B 998      27.388 113.049  26.296  1.00 19.54         A C  
+ANISOU   44  C3' FAD B 998     2267   2640   2517     98     -7    580     A C  
+HETATM   45  O3' FAD B 998      27.052 112.477  27.563  1.00 19.52         A O  
+ANISOU   45  O3' FAD B 998     2292   2589   2533     50      0    541     A O  
+HETATM   46  C4' FAD B 998      26.133 113.682  25.699  1.00 20.13         A C  
+ANISOU   46  C4' FAD B 998     2297   2777   2571    137     -9    578     A C  
+HETATM   47  O4' FAD B 998      26.409 114.217  24.402  1.00 20.87         A O  
+ANISOU   47  O4' FAD B 998     2318   3009   2600    253     13    693     A O  
+HETATM   48  C5' FAD B 998      25.662 114.803  26.628  1.00 20.03         A C  
+ANISOU   48  C5' FAD B 998     2276   2680   2654    104    -10    584     A C  
+HETATM   49  O5' FAD B 998      24.551 115.500  26.084  1.00 20.48         A O  
+ANISOU   49  O5' FAD B 998     2287   2778   2713    140     -7    605     A O  
+HETATM   50  P   FAD B 998      23.084 115.326  26.714  1.00 20.38         A P  
+ANISOU   50  P   FAD B 998     2289   2778   2675    105    -23    495     A P  
+HETATM   51  O1P FAD B 998      22.255 116.362  25.992  1.00 20.77         A O  
+ANISOU   51  O1P FAD B 998     2278   2864   2747    162    -22    546     A O  
+HETATM   52  O2P FAD B 998      23.118 115.291  28.203  1.00 20.20         A O  
+ANISOU   52  O2P FAD B 998     2280   2727   2665     75    -30    437     A O  
+HETATM   53  O3P FAD B 998      22.797 113.854  26.122  1.00 20.99         A O  
+ANISOU   53  O3P FAD B 998     2362   2909   2703    105    -31    415     A O  

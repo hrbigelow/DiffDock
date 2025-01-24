@@ -1,0 +1,49 @@
+REMARK Selection '(segment B) and...d resnum `202`)'
+HETATM    1  C1  BMA A 202     -19.649  -6.777 -18.370  1.00 16.27         B C  
+ANISOU    1  C1  BMA A 202     2964   1837   1379    869   -817   -263     B C  
+HETATM    2  C2  BMA A 202     -19.073  -7.121 -17.057  1.00 13.15         B C  
+ANISOU    2  C2  BMA A 202     2477   1448   1071    602   -723   -276     B C  
+HETATM    3  C3  BMA A 202     -17.805  -7.957 -17.163  1.00 12.85         B C  
+ANISOU    3  C3  BMA A 202     2498   1409    975    687   -599   -157     B C  
+HETATM    4  C4  BMA A 202     -17.991  -9.085 -18.153  1.00 14.16         B C  
+ANISOU    4  C4  BMA A 202     2807   1635    939    918   -347    -46     B C  
+HETATM    5  C5  BMA A 202     -18.443  -8.492 -19.478  1.00 16.67         B C  
+ANISOU    5  C5  BMA A 202     3205   2063   1067   1111   -283    -42     B C  
+HETATM    6  C6  BMA A 202     -18.757  -9.574 -20.498  1.00 18.89         B C  
+ANISOU    6  C6  BMA A 202     3585   2454   1137   1118     -9    240     B C  
+HETATM    7  O1  BMA A 202     -20.682  -5.851 -18.385  1.00 16.50         B O  
+ANISOU    7  O1  BMA A 202     2938   1754   1578    930   -970   -292     B O  
+HETATM    8  O2  BMA A 202     -20.126  -7.879 -16.458  1.00 11.80         B O  
+ANISOU    8  O2  BMA A 202     2291   1248    944    509   -623   -208     B O  
+HETATM    9  O3  BMA A 202     -17.465  -8.459 -15.872  1.00 11.89         B O  
+ANISOU    9  O3  BMA A 202     2365   1288    866    523   -459   -115     B O  
+HETATM   10  O4  BMA A 202     -16.774  -9.782 -18.390  1.00 14.78         B O  
+ANISOU   10  O4  BMA A 202     2862   1862    891    893   -263    -75     B O  
+HETATM   11  O5  BMA A 202     -19.638  -7.760 -19.314  1.00 16.50         B O  
+ANISOU   11  O5  BMA A 202     3094   2028   1146   1101   -578   -248     B O  
+HETATM   12  O6  BMA A 202     -19.144  -8.976 -21.748  1.00 20.36         B O  
+ANISOU   12  O6  BMA A 202     3791   2732   1212   1150    -73    261     B O  
+HETATM   13  H1  BMA A 202     -18.832  -6.148 -18.750  1.00 19.52         B H  
+ANISOU   13  H1  BMA A 202        0      0      0      0      0      0     B H  
+HETATM   14  H2  BMA A 202     -18.873  -6.205 -16.485  1.00 15.78         B H  
+ANISOU   14  H2  BMA A 202        0      0      0      0      0      0     B H  
+HETATM   15  H3  BMA A 202     -16.994  -7.309 -17.527  1.00 15.42         B H  
+ANISOU   15  H3  BMA A 202        0      0      0      0      0      0     B H  
+HETATM   16  H4  BMA A 202     -18.762  -9.775 -17.781  1.00 16.99         B H  
+ANISOU   16  H4  BMA A 202        0      0      0      0      0      0     B H  
+HETATM   17  H5  BMA A 202     -17.649  -7.843 -19.873  1.00 20.01         B H  
+ANISOU   17  H5  BMA A 202        0      0      0      0      0      0     B H  
+HETATM   18  H61 BMA A 202     -17.877 -10.204 -20.648  1.00 22.67         B H  
+ANISOU   18  H61 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   19  H62 BMA A 202     -19.567 -10.206 -20.127  1.00 22.67         B H  
+ANISOU   19  H62 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   20  HO1 BMA A 202     -21.527  -6.309 -18.272  1.00 19.80         B H  
+ANISOU   20  HO1 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   21  HO2 BMA A 202     -20.924  -7.335 -16.406  1.00 14.16         B H  
+ANISOU   21  HO2 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   22  HO3 BMA A 202     -17.364  -7.720 -15.256  1.00 14.27         B H  
+ANISOU   22  HO3 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   23  HO4 BMA A 202     -16.457 -10.166 -17.562  1.00 17.73         B H  
+ANISOU   23  HO4 BMA A 202        0      0      0      0      0      0     B H  
+HETATM   24  HO6 BMA A 202     -19.274  -9.670 -22.410  1.00 24.43         B H  
+ANISOU   24  HO6 BMA A 202        0      0      0      0      0      0     B H  

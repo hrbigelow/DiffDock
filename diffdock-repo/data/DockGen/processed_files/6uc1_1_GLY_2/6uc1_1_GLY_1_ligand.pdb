@@ -1,0 +1,21 @@
+REMARK Selection '(segment A) and...d resnum `905`)'
+HETATM    1  N   GLY A 905       2.261 -48.587 252.967  1.00102.97         A N  
+ANISOU    1  N   GLY A 905    13004  13278  12841    701   -582     94     A N  
+HETATM    2  CA  GLY A 905       0.914 -48.827 253.553  1.00 70.40         A C  
+ANISOU    2  CA  GLY A 905     8980   9080   8688    663   -532    129     A C  
+HETATM    3  C   GLY A 905      -0.162 -49.049 252.510  1.00 58.14         A C  
+ANISOU    3  C   GLY A 905     7423   7491   7174    609   -463    147     A C  
+HETATM    4  O   GLY A 905      -0.511 -48.134 251.755  1.00 46.68         A O  
+ANISOU    4  O   GLY A 905     5899   6065   5772    549   -431    139     A O  
+HETATM    5  OXT GLY A 905      -0.721 -50.150 252.417  1.00 47.86         A O  
+ANISOU    5  OXT GLY A 905     6199   6133   5854    624   -439    171     A O  
+HETATM    6  H1  GLY A 905       2.348 -49.065 252.220  1.00123.25         A H  
+ANISOU    6  H1  GLY A 905        0      0      0      0      0      0     A H  
+HETATM    7  H2  GLY A 905       2.353 -47.723 252.778  1.00123.25         A H  
+ANISOU    7  H2  GLY A 905        0      0      0      0      0      0     A H  
+HETATM    8  H3  GLY A 905       2.886 -48.832 253.550  1.00123.25         A H  
+ANISOU    8  H3  GLY A 905        0      0      0      0      0      0     A H  
+HETATM    9  HA2 GLY A 905       0.950 -49.612 254.122  1.00 84.16         A H  
+ANISOU    9  HA2 GLY A 905        0      0      0      0      0      0     A H  
+HETATM   10  HA3 GLY A 905       0.661 -48.060 254.090  1.00 84.16         A H  
+ANISOU   10  HA3 GLY A 905        0      0      0      0      0      0     A H  

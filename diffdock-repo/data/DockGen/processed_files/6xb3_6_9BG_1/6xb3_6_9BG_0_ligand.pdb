@@ -1,0 +1,93 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C10 9BG K 301     -34.999   6.726  55.614  1.00 23.09         A C  
+ANISOU    1  C10 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    2  C17 9BG K 301     -31.327   8.509  57.855  1.00 23.38         A C  
+ANISOU    2  C17 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    3  C24 9BG K 301     -28.551   4.623  59.725  1.00 20.07         A C  
+ANISOU    3  C24 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    4  C02 9BG K 301     -33.403   4.472  53.220  1.00 16.47         A C  
+ANISOU    4  C02 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    5  C04 9BG K 301     -31.069   4.917  53.954  1.00 16.72         A C  
+ANISOU    5  C04 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    6  C07 9BG K 301     -33.005   6.094  55.088  1.00 20.00         A C  
+ANISOU    6  C07 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    7  C08 9BG K 301     -33.888   5.444  54.277  1.00 18.47         A C  
+ANISOU    7  C08 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    8  C12 9BG K 301     -33.198   7.763  56.920  1.00 18.71         A C  
+ANISOU    8  C12 9BG K 301        0      0      0      0      0      0     A C  
+HETATM    9  C14 9BG K 301     -31.491   9.352  56.556  1.00 23.97         A C  
+ANISOU    9  C14 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   10  C19 9BG K 301     -32.208   7.298  57.608  1.00 22.63         A C  
+ANISOU   10  C19 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   11  C23 9BG K 301     -29.958   4.252  60.174  1.00 22.89         A C  
+ANISOU   11  C23 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   12  C25 9BG K 301     -28.467   4.439  58.173  1.00 23.99         A C  
+ANISOU   12  C25 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   13  N34 9BG K 301     -26.231   2.013  59.479  1.00 23.95         A N  
+ANISOU   13  N34 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   14  O01 9BG K 301     -34.185   3.922  52.529  1.00 18.76         A O  
+ANISOU   14  O01 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   15  N03 9BG K 301     -32.004   4.237  53.094  1.00 20.64         A N  
+ANISOU   15  N03 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   16  N05 9BG K 301     -29.643   4.700  53.852  1.00 20.77         A N  
+ANISOU   16  N05 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   17  N06 9BG K 301     -31.546   5.848  54.955  1.00 20.10         A N  
+ANISOU   17  N06 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   18  N09 9BG K 301     -35.099   5.836  54.608  1.00 22.11         A N  
+ANISOU   18  N09 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   19  N11 9BG K 301     -33.696   6.866  55.908  1.00 19.83         A N  
+ANISOU   19  N11 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   20  O13 9BG K 301     -32.620   9.013  56.081  1.00 21.92         A O  
+ANISOU   20  O13 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   21  C15 9BG K 301     -30.365   9.040  55.526  1.00 23.81         A C  
+ANISOU   21  C15 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   22  O16 9BG K 301     -29.155   9.536  56.020  1.00 27.22         A O  
+ANISOU   22  O16 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   23  O18 9BG K 301     -31.778   9.228  58.920  1.00 22.23         A O  
+ANISOU   23  O18 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   24  O20 9BG K 301     -32.713   6.766  58.938  1.00 23.47         A O  
+ANISOU   24  O20 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   25  P21 9BG K 301     -32.243   5.266  59.404  1.00 18.86         A P  
+ANISOU   25  P21 9BG K 301        0      0      0      0      0      0     A P  
+HETATM   26  O22 9BG K 301     -30.683   5.394  59.858  1.00 19.53         A O  
+ANISOU   26  O22 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   27  O26 9BG K 301     -27.792   5.505  57.739  1.00 29.94         A O  
+ANISOU   27  O26 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   28  P27 9BG K 301     -27.276   5.892  56.214  1.00 20.85         A P  
+ANISOU   28  P27 9BG K 301        0      0      0      0      0      0     A P  
+HETATM   29  O28 9BG K 301     -27.108   4.705  55.319  1.00 25.51         A O  
+ANISOU   29  O28 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   30  O29 9BG K 301     -28.215   6.885  55.601  1.00 24.49         A O1-
+ANISOU   30  O29 9BG K 301        0      0      0      0      0      0     A O1-
+HETATM   31  O30 9BG K 301     -25.935   6.528  56.406  1.00 25.39         A O  
+ANISOU   31  O30 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   32  C31 9BG K 301     -27.691   3.069  58.126  1.00 21.83         A C  
+ANISOU   32  C31 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   33  O32 9BG K 301     -27.220   2.780  56.746  1.00 20.71         A O  
+ANISOU   33  O32 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   34  C33 9BG K 301     -26.769   3.240  59.026  1.00 20.43         A C  
+ANISOU   34  C33 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   35  C35 9BG K 301     -24.917   1.740  59.409  1.00 22.23         A C  
+ANISOU   35  C35 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   36  N36 9BG K 301     -23.864   2.441  58.954  1.00 22.75         A N  
+ANISOU   36  N36 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   37  C37 9BG K 301     -22.621   1.917  58.987  1.00 19.94         A C  
+ANISOU   37  C37 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   38  N38 9BG K 301     -22.436   0.675  59.487  1.00 21.39         A N  
+ANISOU   38  N38 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   39  C39 9BG K 301     -23.458  -0.023  59.935  1.00 19.40         A C  
+ANISOU   39  C39 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   40  N40 9BG K 301     -22.966  -1.302  60.395  1.00 19.46         A N  
+ANISOU   40  N40 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   41  C41 9BG K 301     -24.729   0.509  59.900  1.00 22.12         A C  
+ANISOU   41  C41 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   42  N42 9BG K 301     -25.927   0.031  60.280  1.00 21.78         A N  
+ANISOU   42  N42 9BG K 301        0      0      0      0      0      0     A N  
+HETATM   43  C43 9BG K 301     -26.848   0.963  60.023  1.00 19.56         A C  
+ANISOU   43  C43 9BG K 301        0      0      0      0      0      0     A C  
+HETATM   44  O44 9BG K 301     -27.674   3.847  60.276  1.00 20.65         A O  
+ANISOU   44  O44 9BG K 301        0      0      0      0      0      0     A O  
+HETATM   45  O45 9BG K 301     -32.331   4.333  58.237  1.00 18.34         A O1-
+ANISOU   45  O45 9BG K 301        0      0      0      0      0      0     A O1-
+HETATM   46  O46 9BG K 301     -33.071   4.806  60.560  1.00 17.64         A O  
+ANISOU   46  O46 9BG K 301        0      0      0      0      0      0     A O  

@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `501`)'
+HETATM    1  C1  VNL B 501     -46.044 -31.944 -33.408  1.00 21.51         A C  
+HETATM    2  CO1 VNL B 501     -45.171 -30.998 -33.917  1.00 21.20         A C  
+HETATM    3  CO2 VNL B 501     -47.307 -32.099 -33.933  1.00 20.66         A C  
+HETATM    4  CM1 VNL B 501     -45.577 -30.194 -34.971  1.00 20.19         A C  
+HETATM    5  CM2 VNL B 501     -47.715 -31.300 -34.979  1.00 16.34         A C  
+HETATM    6  OM  VNL B 501     -48.995 -31.454 -35.520  1.00 20.39         A O  
+HETATM    7  CZ  VNL B 501     -46.853 -30.355 -35.499  1.00 21.93         A C  
+HETATM    8  CC  VNL B 501     -45.645 -32.855 -32.256  1.00 24.81         A C  
+HETATM    9  CV  VNL B 501     -49.911 -30.448 -35.150  1.00 22.24         A C  
+HETATM   10  O1  VNL B 501     -46.540 -33.556 -31.705  1.00 16.69         A O  
+HETATM   11  O2  VNL B 501     -44.439 -32.895 -31.891  1.00 18.55         A O  
+HETATM   12  O3  VNL B 501     -47.302 -29.559 -36.559  1.00 23.94         A O  

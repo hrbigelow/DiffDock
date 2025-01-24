@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `702`)'
+HETATM    1  N1  3TR C 702      12.872 -28.027  65.920  1.00 22.30         A N  
+ANISOU    1  N1  3TR C 702     3099   2330   3042    127   -594    353     A N  
+HETATM    2  N2  3TR C 702      13.453 -29.134  66.524  1.00 22.78         A N  
+ANISOU    2  N2  3TR C 702     3181   2350   3121    145   -638    380     A N  
+HETATM    3  C3  3TR C 702      12.863 -30.097  65.782  1.00 22.57         A C  
+ANISOU    3  C3  3TR C 702     3168   2283   3124    146   -635    373     A C  
+HETATM    4  N4  3TR C 702      11.983 -29.695  64.828  1.00 22.42         A N  
+ANISOU    4  N4  3TR C 702     3137   2276   3104    130   -595    346     A N  
+HETATM    5  C5  3TR C 702      12.018 -28.382  64.939  1.00 22.50         A C  
+ANISOU    5  C5  3TR C 702     3125   2338   3084    119   -570    334     A C  
+HETATM    6  N3A 3TR C 702      13.138 -31.362  65.955  1.00 22.49         A N  
+ANISOU    6  N3A 3TR C 702     3181   2221   3143    162   -671    392     A N  

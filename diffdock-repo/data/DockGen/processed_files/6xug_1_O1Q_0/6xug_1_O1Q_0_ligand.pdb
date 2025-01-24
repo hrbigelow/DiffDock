@@ -1,0 +1,95 @@
+REMARK Selection '(segment A) and...d resnum `605`)'
+HETATM    1  N1  O1Q B 605      26.506  73.520  26.394  0.93 20.63         A N  
+ANISOU    1  N1  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM    2  N3  O1Q B 605      25.441  75.393  26.693  0.93 18.83         A N  
+ANISOU    2  N3  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM    3  C4  O1Q B 605      28.876  75.318  32.369  0.93 21.08         A C  
+ANISOU    3  C4  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    4  C5  O1Q B 605      28.176  76.471  32.011  0.93 21.71         A C  
+ANISOU    4  C5  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    5  C6  O1Q B 605      28.851  77.395  29.753  0.93 25.63         A C  
+ANISOU    5  C6  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    6  C7  O1Q B 605      28.291  76.334  28.901  0.93 26.18         A C  
+ANISOU    6  C7  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    7  C8  O1Q B 605      27.082  76.542  28.238  0.93 23.58         A C  
+ANISOU    7  C8  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    8  C10 O1Q B 605      27.257  74.308  27.232  0.93 20.22         A C  
+ANISOU    8  C10 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM    9  C13 O1Q B 605      22.184  76.935  25.932  0.93 10.97         A C  
+ANISOU    9  C13 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   10  C15 O1Q B 605      22.538  78.281  25.744  0.93  8.59         A C  
+ANISOU   10  C15 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   11  C17 O1Q B 605      24.845  77.676  26.083  0.93 15.63         A C  
+ANISOU   11  C17 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   12  C20 O1Q B 605      29.647  78.473  29.390  0.93 21.61         A C  
+ANISOU   12  C20 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   13  C21 O1Q B 605      29.997  79.087  30.589  0.93 18.53         A C  
+ANISOU   13  C21 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   14  C22 O1Q B 605      26.922  76.728  32.572  0.93 20.53         A C  
+ANISOU   14  C22 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   15  CL  O1Q B 605      29.312  72.640  27.776  0.93 26.11         ACL  
+ANISOU   15  CL  O1Q B 605        0      0      0      0      0      0     ACL  
+HETATM   16  C18 O1Q B 605      28.453  74.140  27.930  0.93 25.04         A C  
+ANISOU   16  C18 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   17  N2  O1Q B 605      25.405  74.155  26.107  0.93 15.67         A N  
+ANISOU   17  N2  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM   18  C11 O1Q B 605      24.466  76.352  26.337  0.93 18.37         A C  
+ANISOU   18  C11 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   19  C16 O1Q B 605      23.886  78.633  25.813  0.93 12.71         A C  
+ANISOU   19  C16 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   20  C14 O1Q B 605      21.309  78.934  25.449  0.93 14.22         A C  
+ANISOU   20  C14 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   21  N5  O1Q B 605      20.305  78.076  25.416  0.93  8.46         A N  
+ANISOU   21  N5  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM   22  N4  O1Q B 605      20.842  76.854  25.707  0.93 12.09         A N  
+ANISOU   22  N4  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM   23  C12 O1Q B 605      23.125  75.964  26.250  0.93 16.67         A C  
+ANISOU   23  C12 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   24  C9  O1Q B 605      26.592  75.524  27.430  0.93 21.20         A C  
+ANISOU   24  C9  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   25  C19 O1Q B 605      28.969  75.123  28.751  0.93 23.83         A C  
+ANISOU   25  C19 O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   26  N6  O1Q B 605      29.475  78.477  31.649  0.93 24.19         A N  
+ANISOU   26  N6  O1Q B 605        0      0      0      0      0      0     A N  
+HETATM   27  N   O1Q B 605      28.765  77.421  31.119  0.93 24.82         A N  
+ANISOU   27  N   O1Q B 605        0      0      0      0      0      0     A N  
+HETATM   28  C3  O1Q B 605      28.325  74.449  33.302  0.93 25.08         A C  
+ANISOU   28  C3  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   29  C2  O1Q B 605      27.078  74.717  33.859  0.93 22.56         A C  
+ANISOU   29  C2  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   30  C1  O1Q B 605      26.364  75.860  33.505  0.93 22.38         A C  
+ANISOU   30  C1  O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   31  C   O1Q B 605      25.012  76.145  34.111  0.93 20.72         A C  
+ANISOU   31  C   O1Q B 605        0      0      0      0      0      0     A C  
+HETATM   32  H5  O1Q B 605      29.844  75.094  31.924  0.00 21.03         A H  
+ANISOU   32  H5  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   33  H6  O1Q B 605      26.554  77.481  28.339  0.00 23.55         A H  
+ANISOU   33  H6  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   34  H11 O1Q B 605      25.889  77.979  26.098  0.00 15.67         A H  
+ANISOU   34  H11 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   35  H13 O1Q B 605      29.936  78.771  28.384  0.00 21.56         A H  
+ANISOU   35  H13 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   36  H14 O1Q B 605      30.607  79.969  30.721  0.00 18.45         A H  
+ANISOU   36  H14 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   37  H15 O1Q B 605      26.363  77.606  32.253  0.00 20.55         A H  
+ANISOU   37  H15 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   38  H10 O1Q B 605      24.161  79.677  25.708  0.00 12.72         A H  
+ANISOU   38  H10 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   39  H9  O1Q B 605      21.164  79.999  25.280  0.00 14.23         A H  
+ANISOU   39  H9  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   40  H8  O1Q B 605      20.253  76.036  25.729  0.00 12.06         A H  
+ANISOU   40  H8  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   41  H7  O1Q B 605      22.813  74.934  26.403  0.00 16.71         A H  
+ANISOU   41  H7  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   42  H12 O1Q B 605      29.907  74.943  29.276  0.00 23.89         A H  
+ANISOU   42  H12 O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   43  H4  O1Q B 605      28.870  73.554  33.596  0.00 25.13         A H  
+ANISOU   43  H4  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   44  H3  O1Q B 605      26.654  74.022  34.583  0.00 22.56         A H  
+ANISOU   44  H3  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   45  H2  O1Q B 605      24.317  75.328  33.924  0.00 20.70         A H  
+ANISOU   45  H2  O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   46  H   O1Q B 605      24.553  77.052  33.721  0.00 20.70         A H  
+ANISOU   46  H   O1Q B 605        0      0      0      0      0      0     A H  
+HETATM   47  H1  O1Q B 605      25.094  76.264  35.191  0.00 20.70         A H  
+ANISOU   47  H1  O1Q B 605        0      0      0      0      0      0     A H  

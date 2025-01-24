@@ -1,0 +1,43 @@
+REMARK Selection '(segment A) and...d resnum `402`)'
+HETATM    1  CP1 HXC A 402      25.343  39.696  26.962  1.00 45.13         A C  
+ANISOU    1  CP1 HXC A 402     6062   5717   5367    -46    -21   -162     A C  
+HETATM    2  S   HXC A 402      23.825  39.235  26.190  1.00 75.98         A S  
+ANISOU    2  S   HXC A 402     9920   9639   9311     13     37   -115     A S  
+HETATM    3  CM1 HXC A 402      24.357  38.200  24.995  1.00 36.07         A C  
+ANISOU    3  CM1 HXC A 402     4783   4607   4314    -33     17    -81     A C  
+HETATM    4  CM2 HXC A 402      23.883  38.368  23.571  1.00 28.35         A C  
+ANISOU    4  CM2 HXC A 402     3777   3612   3384    -30     27    -62     A C  
+HETATM    5  CM3 HXC A 402      24.518  37.357  22.607  1.00 28.37         A C  
+ANISOU    5  CM3 HXC A 402     3720   3636   3425    -68      8    -40     A C  
+HETATM    6  OM2 HXC A 402      25.141  37.329  25.278  1.00 21.59         A O  
+ANISOU    6  OM2 HXC A 402     2919   2805   2481    -61     -5    -73     A O  
+HETATM    7  CM4 HXC A 402      24.757  38.045  21.266  1.00 33.96         A C  
+ANISOU    7  CM4 HXC A 402     4434   4312   4158    -85      2    -38     A C  
+HETATM    8  CM5 HXC A 402      24.580  37.109  20.079  1.00 32.36         A C  
+ANISOU    8  CM5 HXC A 402     4179   4130   3986    -88      0    -13     A C  
+HETATM    9  CM6 HXC A 402      24.452  37.921  18.807  1.00 38.19         A C  
+ANISOU    9  CM6 HXC A 402     4934   4840   4735    -84      2     -5     A C  
+HETATM   10 HP12 HXC A 402      25.547  39.023  27.798  1.00 54.16         A H  
+ANISOU   10 HP12 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   11 HM21 HXC A 402      24.119  39.379  23.233  1.00 34.03         A H  
+ANISOU   11 HM21 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   12 HM22 HXC A 402      22.797  38.256  23.541  1.00 34.03         A H  
+ANISOU   12 HM22 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   13 HM31 HXC A 402      23.852  36.501  22.473  1.00 34.05         A H  
+ANISOU   13 HM31 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   14 HM32 HXC A 402      25.464  36.997  23.015  1.00 34.05         A H  
+ANISOU   14 HM32 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   15 HM41 HXC A 402      25.770  38.452  21.251  1.00 40.75         A H  
+ANISOU   15 HM41 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   16 HM42 HXC A 402      24.064  38.883  21.166  1.00 40.75         A H  
+ANISOU   16 HM42 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   17 HM51 HXC A 402      23.685  36.499  20.220  1.00 38.83         A H  
+ANISOU   17 HM51 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   18 HM52 HXC A 402      25.440  36.440  20.005  1.00 38.83         A H  
+ANISOU   18 HM52 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   19 HM61 HXC A 402      24.328  37.268  17.983  1.00 45.82         A H  
+ANISOU   19 HM61 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   20 HM62 HXC A 402      25.327  38.501  18.669  1.00 45.82         A H  
+ANISOU   20 HM62 HXC A 402        0      0      0      0      0      0     A H  
+HETATM   21 HM63 HXC A 402      23.611  38.561  18.880  1.00 45.82         A H  
+ANISOU   21 HM63 HXC A 402        0      0      0      0      0      0     A H  

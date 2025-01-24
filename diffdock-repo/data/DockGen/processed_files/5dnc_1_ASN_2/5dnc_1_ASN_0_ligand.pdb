@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and...d resnum `601`)'
+HETATM    1  N   ASN B 601      23.499  64.973  38.201  1.00 31.87         A N  
+HETATM    2  CA  ASN B 601      22.579  64.578  37.078  1.00 29.83         A C  
+HETATM    3  C   ASN B 601      21.140  64.797  37.500  1.00 29.34         A C  
+HETATM    4  O   ASN B 601      20.571  65.844  37.200  1.00 27.93         A O  
+HETATM    5  CB  ASN B 601      22.801  63.110  36.679  1.00 29.14         A C  
+HETATM    6  CG  ASN B 601      22.058  62.732  35.396  1.00 28.28         A C  
+HETATM    7  OD1 ASN B 601      20.986  63.307  35.073  1.00 28.11         A O  
+HETATM    8  ND2 ASN B 601      22.603  61.758  34.666  1.00 26.35         A N  
+HETATM    9  OXT ASN B 601      20.561  63.940  38.193  1.00 28.42         A O  

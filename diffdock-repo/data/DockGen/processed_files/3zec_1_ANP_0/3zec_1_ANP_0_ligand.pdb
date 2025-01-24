@@ -1,0 +1,63 @@
+REMARK Selection '(segment A) and...d resnum `400`)'
+HETATM    1  PG  ANP B 400      16.255  21.786  -8.213  1.00 18.31         A P  
+ANISOU    1  PG  ANP B 400        0      0      0      0      0      0     A P  
+HETATM    2  O1G ANP B 400      17.053  20.867  -7.213  1.00 11.21         A O  
+ANISOU    2  O1G ANP B 400        0      0      0      0      0      0     A O  
+HETATM    3  O2G ANP B 400      15.890  21.011  -9.429  1.00 17.65         A O  
+ANISOU    3  O2G ANP B 400        0      0      0      0      0      0     A O  
+HETATM    4  O3G ANP B 400      14.951  22.242  -7.518  1.00 16.50         A O  
+ANISOU    4  O3G ANP B 400        0      0      0      0      0      0     A O  
+HETATM    5  PB  ANP B 400      18.689  23.354  -8.917  1.00 11.11         A P  
+ANISOU    5  PB  ANP B 400        0      0      0      0      0      0     A P  
+HETATM    6  O1B ANP B 400      19.077  21.907  -9.447  1.00 11.59         A O  
+ANISOU    6  O1B ANP B 400        0      0      0      0      0      0     A O  
+HETATM    7  O2B ANP B 400      19.061  24.593  -9.865  1.00 15.44         A O  
+ANISOU    7  O2B ANP B 400        0      0      0      0      0      0     A O  
+HETATM    8  N3B ANP B 400      17.040  23.198  -8.507  1.00 11.99         A N  
+ANISOU    8  N3B ANP B 400        0      0      0      0      0      0     A N  
+HETATM    9  PA  ANP B 400      19.499  24.476  -6.419  1.00 15.08         A P  
+ANISOU    9  PA  ANP B 400        0      0      0      0      0      0     A P  
+HETATM   10  O1A ANP B 400      18.326  25.435  -6.662  1.00 12.55         A O  
+ANISOU   10  O1A ANP B 400        0      0      0      0      0      0     A O  
+HETATM   11  O2A ANP B 400      20.810  25.185  -6.506  1.00 12.25         A O  
+ANISOU   11  O2A ANP B 400        0      0      0      0      0      0     A O  
+HETATM   12  O3A ANP B 400      19.351  23.248  -7.461  1.00 16.80         A O  
+ANISOU   12  O3A ANP B 400        0      0      0      0      0      0     A O  
+HETATM   13  O5' ANP B 400      19.312  23.782  -5.007  1.00 10.81         A O  
+ANISOU   13  O5' ANP B 400        0      0      0      0      0      0     A O  
+HETATM   14  C5' ANP B 400      18.267  22.864  -4.854  1.00 12.31         A C  
+ANISOU   14  C5' ANP B 400        0      0      0      0      0      0     A C  
+HETATM   15  C4' ANP B 400      18.568  21.703  -3.977  1.00 14.94         A C  
+ANISOU   15  C4' ANP B 400        0      0      0      0      0      0     A C  
+HETATM   16  O4' ANP B 400      18.806  22.166  -2.705  1.00 18.79         A O  
+ANISOU   16  O4' ANP B 400        0      0      0      0      0      0     A O  
+HETATM   17  C3' ANP B 400      17.426  20.749  -3.750  1.00 14.99         A C  
+ANISOU   17  C3' ANP B 400        0      0      0      0      0      0     A C  
+HETATM   18  O3' ANP B 400      17.087  19.945  -4.866  1.00  8.75         A O  
+ANISOU   18  O3' ANP B 400        0      0      0      0      0      0     A O  
+HETATM   19  C2' ANP B 400      17.894  19.996  -2.616  1.00 17.73         A C  
+ANISOU   19  C2' ANP B 400        0      0      0      0      0      0     A C  
+HETATM   20  O2' ANP B 400      18.682  18.891  -3.012  1.00 17.79         A O  
+ANISOU   20  O2' ANP B 400        0      0      0      0      0      0     A O  
+HETATM   21  C1' ANP B 400      18.703  20.993  -1.866  1.00 15.62         A C  
+ANISOU   21  C1' ANP B 400        0      0      0      0      0      0     A C  
+HETATM   22  N9  ANP B 400      18.155  21.281  -0.552  1.00 21.05         A N  
+ANISOU   22  N9  ANP B 400        0      0      0      0      0      0     A N  
+HETATM   23  C8  ANP B 400      16.860  21.454  -0.202  1.00 19.71         A C  
+ANISOU   23  C8  ANP B 400        0      0      0      0      0      0     A C  
+HETATM   24  N7  ANP B 400      16.807  21.668   1.123  1.00 12.77         A N  
+ANISOU   24  N7  ANP B 400        0      0      0      0      0      0     A N  
+HETATM   25  C5  ANP B 400      18.072  21.635   1.605  1.00 17.31         A C  
+ANISOU   25  C5  ANP B 400        0      0      0      0      0      0     A C  
+HETATM   26  C6  ANP B 400      18.643  21.791   2.867  1.00 16.71         A C  
+ANISOU   26  C6  ANP B 400        0      0      0      0      0      0     A C  
+HETATM   27  N6  ANP B 400      17.817  22.038   3.994  1.00 20.30         A N  
+ANISOU   27  N6  ANP B 400        0      0      0      0      0      0     A N  
+HETATM   28  N1  ANP B 400      19.972  21.698   3.013  1.00 22.07         A N  
+ANISOU   28  N1  ANP B 400        0      0      0      0      0      0     A N  
+HETATM   29  C2  ANP B 400      20.772  21.454   1.973  1.00 20.21         A C  
+ANISOU   29  C2  ANP B 400        0      0      0      0      0      0     A C  
+HETATM   30  N3  ANP B 400      20.269  21.299   0.739  1.00 19.65         A N  
+ANISOU   30  N3  ANP B 400        0      0      0      0      0      0     A N  
+HETATM   31  C4  ANP B 400      18.941  21.385   0.537  1.00 22.81         A C  
+ANISOU   31  C4  ANP B 400        0      0      0      0      0      0     A C  

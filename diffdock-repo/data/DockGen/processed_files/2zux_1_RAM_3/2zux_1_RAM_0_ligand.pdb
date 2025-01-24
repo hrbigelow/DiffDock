@@ -1,0 +1,12 @@
+REMARK Selection '(segment A) and...d resnum `639`)'
+HETATM    1  C1  RAM A 639      30.383 -50.547  80.410  1.00 17.63         A C  
+HETATM    2  C2  RAM A 639      29.674 -51.066  81.659  1.00 17.76         A C  
+HETATM    3  C3  RAM A 639      28.209 -51.407  81.363  1.00 16.68         A C  
+HETATM    4  C4  RAM A 639      28.093 -52.348  80.161  1.00 16.55         A C  
+HETATM    5  C5  RAM A 639      28.846 -51.758  78.966  1.00 16.72         A C  
+HETATM    6  C6  RAM A 639      28.855 -52.745  77.805  1.00 17.33         A C  
+HETATM    7  O1  RAM A 639      29.933 -49.247  80.101  1.00 17.04         A O  
+HETATM    8  O2  RAM A 639      30.372 -52.211  82.105  1.00 19.57         A O  
+HETATM    9  O3  RAM A 639      27.590 -51.989  82.494  1.00 17.70         A O  
+HETATM   10  O4  RAM A 639      26.728 -52.580  79.862  1.00 16.16         A O  
+HETATM   11  O5  RAM A 639      30.190 -51.426  79.311  1.00 17.98         A O  

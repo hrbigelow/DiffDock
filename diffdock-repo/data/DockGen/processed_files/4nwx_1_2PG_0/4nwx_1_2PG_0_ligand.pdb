@@ -1,0 +1,12 @@
+REMARK Selection '(segment A) and...d resnum `601`)'
+HETATM    1  C1  2PG A 601      -8.055   5.614  -0.867  1.00 19.96         A C  
+HETATM    2  C2  2PG A 601      -9.099   6.561  -0.451  1.00 20.73         A C  
+HETATM    3  C3  2PG A 601      -9.622   5.963   0.852  1.00 21.96         A C  
+HETATM    4  P   2PG A 601      -8.499   8.928  -1.357  1.00 24.48         A P  
+HETATM    5  O1  2PG A 601      -6.922   5.789  -0.355  1.00 19.25         A O  
+HETATM    6  O2  2PG A 601      -8.340   4.653  -1.597  1.00 15.82         A O  
+HETATM    7  O3  2PG A 601     -10.292   4.711   0.591  1.00 20.17         A O  
+HETATM    8  O1P 2PG A 601      -8.602   7.867  -0.150  1.00 23.29         A O  
+HETATM    9  O2P 2PG A 601      -7.569   8.300  -2.310  1.00 20.89         A O  
+HETATM   10  O3P 2PG A 601      -9.900   9.140  -1.855  1.00 21.73         A O  
+HETATM   11  O4P 2PG A 601      -7.921  10.071  -0.619  1.00 24.14         A O  

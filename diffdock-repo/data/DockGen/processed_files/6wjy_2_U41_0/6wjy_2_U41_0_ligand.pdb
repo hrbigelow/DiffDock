@@ -1,0 +1,55 @@
+REMARK Selection '(segment A) and...d resnum `501`)'
+HETATM    1  C2  U41 B 501      68.036  11.591  26.819  1.00 36.44         A C  
+ANISOU    1  C2  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    2  C4  U41 B 501      70.316  11.639  27.765  1.00 33.52         A C  
+ANISOU    2  C4  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    3  C5  U41 B 501      70.126  12.056  29.251  1.00 31.34         A C  
+ANISOU    3  C5  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    4  C6  U41 B 501      71.611  11.623  29.177  1.00 35.47         A C  
+ANISOU    4  C6  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    5  C7  U41 B 501      71.086  10.417  28.327  1.00 32.61         A C  
+ANISOU    5  C7  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    6  C8  U41 B 501      71.666  12.388  27.827  1.00 33.21         A C  
+ANISOU    6  C8  U41 B 501        0      0      0      0      0      0     A C  
+HETATM    7  C11 U41 B 501      73.188  12.981  30.536  1.00 30.81         A C  
+ANISOU    7  C11 U41 B 501        0      0      0      0      0      0     A C  
+HETATM    8  N13 U41 B 501      74.369  13.307  29.966  1.00 31.43         A N  
+ANISOU    8  N13 U41 B 501        0      0      0      0      0      0     A N  
+HETATM    9  C15 U41 B 501      76.409  14.473  29.618  1.00 32.80         A C  
+ANISOU    9  C15 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   10  C16 U41 B 501      77.231  15.575  29.754  1.00 32.96         A C  
+ANISOU   10  C16 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   11  C17 U41 B 501      76.758  16.697  30.416  1.00 31.94         A C  
+ANISOU   11  C17 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   12  C19 U41 B 501      75.475  16.726  30.948  1.00 34.20         A C  
+ANISOU   12  C19 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   13  C21 U41 B 501      67.194  11.550  25.600  1.00 34.36         A C  
+ANISOU   13  C21 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   14  C23 U41 B 501      65.179  12.169  24.433  1.00 34.80         A C  
+ANISOU   14  C23 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   15  C24 U41 B 501      65.601  11.450  23.329  1.00 33.85         A C  
+ANISOU   15  C24 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   16  C27 U41 B 501      67.611  10.818  24.482  1.00 32.59         A C  
+ANISOU   16  C27 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   17  O1  U41 B 501      67.510  11.571  27.919  1.00 35.72         A O  
+ANISOU   17  O1  U41 B 501        0      0      0      0      0      0     A O  
+HETATM   18  N3  U41 B 501      69.376  11.629  26.663  1.00 35.46         A N  
+ANISOU   18  N3  U41 B 501        0      0      0      0      0      0     A N  
+HETATM   19  C9  U41 B 501      72.637  11.595  30.284  1.00 33.57         A C  
+ANISOU   19  C9  U41 B 501        0      0      0      0      0      0     A C  
+HETATM   20  C10 U41 B 501      72.012  11.019  31.562  1.00 31.54         A C  
+ANISOU   20  C10 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   21  O12 U41 B 501      72.566  13.738  31.237  1.00 29.62         A O  
+ANISOU   21  O12 U41 B 501        0      0      0      0      0      0     A O  
+HETATM   22  C14 U41 B 501      75.098  14.498  30.121  1.00 30.93         A C  
+ANISOU   22  C14 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   23  F18 U41 B 501      77.542  17.772  30.571  1.00 35.80         A F  
+ANISOU   23  F18 U41 B 501        0      0      0      0      0      0     A F  
+HETATM   24  C20 U41 B 501      74.651  15.636  30.808  1.00 30.62         A C  
+ANISOU   24  C20 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   25  C22 U41 B 501      65.968  12.217  25.569  1.00 33.91         A C  
+ANISOU   25  C22 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   26  C25 U41 B 501      66.813  10.777  23.361  1.00 35.39         A C  
+ANISOU   26  C25 U41 B 501        0      0      0      0      0      0     A C  
+HETATM   27 CL26 U41 B 501      67.348   9.855  22.008  1.00 41.27         ACL  
+ANISOU   27 CL26 U41 B 501        0      0      0      0      0      0     ACL  

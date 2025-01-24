@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and...d resnum `350`)'
+HETATM    1  C1  SIN C 350      13.116 -10.047  42.800  1.00 22.18         A C  
+HETATM    2  O1  SIN C 350      13.188 -11.286  42.967  1.00 20.56         A O  
+HETATM    3  O2  SIN C 350      13.172  -9.508  41.666  1.00 22.43         A O  
+HETATM    4  C2  SIN C 350      12.962  -9.151  44.022  1.00 21.69         A C  
+HETATM    5  C3  SIN C 350      12.098  -9.783  45.108  1.00 20.38         A C  
+HETATM    6  C4  SIN C 350      12.963 -10.692  45.975  1.00 19.50         A C  
+HETATM    7  O3  SIN C 350      14.169 -10.395  46.095  1.00 18.11         A O  
+HETATM    8  O4  SIN C 350      12.434 -11.690  46.514  1.00 19.33         A O  

@@ -1,0 +1,17 @@
+REMARK Selection '(segment A) and...d resnum `396`)'
+HETATM    1  O11 QQQ B 396       2.346  52.341  41.116  1.00 42.55         A O  
+HETATM    2  S10 QQQ B 396       2.849  51.601  40.013  1.00 42.87         A S  
+HETATM    3  O13 QQQ B 396       1.913  51.687  38.929  1.00 45.34         A O  
+HETATM    4  O12 QQQ B 396       3.019  50.026  40.343  1.00 42.69         A O  
+HETATM    5  C8  QQQ B 396       4.320  52.209  39.536  1.00 43.69         A C  
+HETATM    6  N7  QQQ B 396       4.479  52.661  38.269  1.00 41.18         A N  
+HETATM    7  C3  QQQ B 396       5.762  53.057  38.224  1.00 41.89         A C  
+HETATM    8  C4  QQQ B 396       6.547  53.607  37.229  1.00 43.65         A C  
+HETATM    9  C5  QQQ B 396       7.877  53.929  37.488  1.00 44.25         A C  
+HETATM   10  C6  QQQ B 396       8.433  53.715  38.754  1.00 44.50         A C  
+HETATM   11  C1  QQQ B 396       7.684  53.168  39.796  1.00 43.27         A C  
+HETATM   12  C2  QQQ B 396       6.357  52.822  39.572  1.00 43.13         A C  
+HETATM   13  N9  QQQ B 396       5.401  52.303  40.345  1.00 42.10         A N  
+HETATM   14  C14 QQQ B 396       5.566  51.885  41.768  1.00 44.23         A C  
+HETATM   15  C15 QQQ B 396       6.013  53.014  42.686  1.00 43.53         A C  
+HETATM   16  C16 QQQ B 396       6.609  50.764  41.791  1.00 44.33         A C  

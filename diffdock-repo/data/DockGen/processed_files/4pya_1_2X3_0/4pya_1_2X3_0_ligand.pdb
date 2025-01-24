@@ -1,0 +1,65 @@
+REMARK Selection '(segment C) and...d resnum `208`)'
+HETATM    1  C2  2X3 A 208     -49.125  36.454 190.203  1.00 35.69         C C  
+ANISOU    1  C2  2X3 A 208        0      0      0      0      0      0     C C  
+HETATM    2  C4  2X3 A 208     -51.029  37.348 189.235  1.00 39.22         C C  
+ANISOU    2  C4  2X3 A 208        0      0      0      0      0      0     C C  
+HETATM    3  C5  2X3 A 208     -50.492  38.579 189.157  1.00 40.77         C C  
+ANISOU    3  C5  2X3 A 208        0      0      0      0      0      0     C C  
+HETATM    4  C6  2X3 A 208     -49.233  38.787 189.577  1.00 39.83         C C  
+ANISOU    4  C6  2X3 A 208        0      0      0      0      0      0     C C  
+HETATM    5  C8  2X3 A 208     -52.603  38.659 188.212  1.00 44.45         C C  
+ANISOU    5  C8  2X3 A 208        0      0      0      0      0      0     C C  
+HETATM    6  O6  2X3 A 208     -48.698  39.903 189.500  1.00 35.71         C O  
+ANISOU    6  O6  2X3 A 208        0      0      0      0      0      0     C O  
+HETATM    7  OBD 2X3 A 208     -59.956  37.864 184.465  1.00142.53         C O  
+ANISOU    7  OBD 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM    8  PBC 2X3 A 208     -60.894  36.879 185.029  1.00142.59         C P  
+ANISOU    8  PBC 2X3 A 208        0      0      0      0      0      0     C P  
+HETATM    9  OBE 2X3 A 208     -62.233  36.769 184.425  1.00141.82         C O  
+ANISOU    9  OBE 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   10  OBF 2X3 A 208     -60.714  36.452 186.429  1.00142.71         C O  
+ANISOU   10  OBF 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   11  OAZ 2X3 A 208     -60.265  35.556 184.340  1.00156.11         C O  
+ANISOU   11  OAZ 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   12  PAY 2X3 A 208     -58.672  35.344 184.165  1.00157.39         C P  
+ANISOU   12  PAY 2X3 A 208        0      0      0      0      0      0     C P  
+HETATM   13  OBA 2X3 A 208     -58.249  36.032 182.925  1.00156.97         C O  
+ANISOU   13  OBA 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   14  OBB 2X3 A 208     -58.366  33.907 184.347  1.00156.91         C O  
+ANISOU   14  OBB 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   15  OAV 2X3 A 208     -58.061  36.140 185.447  1.00107.61         C O  
+ANISOU   15  OAV 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   16  PAU 2X3 A 208     -56.623  36.872 185.376  1.00 99.22         C P  
+ANISOU   16  PAU 2X3 A 208        0      0      0      0      0      0     C P  
+HETATM   17  OAW 2X3 A 208     -56.612  37.819 184.240  1.00100.61         C O  
+ANISOU   17  OAW 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   18  OAX 2X3 A 208     -55.563  35.844 185.488  1.00 97.03         C O  
+ANISOU   18  OAX 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   19  OAT 2X3 A 208     -56.635  37.762 186.728  1.00 72.79         C O  
+ANISOU   19  OAT 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   20  CAR 2X3 A 208     -55.512  38.583 187.091  1.00 70.22         C C  
+ANISOU   20  CAR 2X3 A 208        0      0      0      0      0      0     C C  
+HETATM   21  CAP 2X3 A 208     -55.082  38.170 188.502  1.00 66.54         C C  
+ANISOU   21  CAP 2X3 A 208        0      0      0      0      0      0     C C  
+HETATM   22  OAO 2X3 A 208     -54.600  36.817 188.489  1.00 63.26         C O  
+ANISOU   22  OAO 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   23  CAN 2X3 A 208     -53.513  36.820 189.419  1.00 58.45         C C  
+ANISOU   23  CAN 2X3 A 208        0      0      0      0      0      0     C C  
+HETATM   24  N9  2X3 A 208     -52.292  37.398 188.879  1.00 48.74         C N  
+ANISOU   24  N9  2X3 A 208        0      0      0      0      0      0     C N  
+HETATM   25  N3  2X3 A 208     -50.385  36.311 189.781  1.00 34.76         C N  
+ANISOU   25  N3  2X3 A 208        0      0      0      0      0      0     C N  
+HETATM   26  N2  2X3 A 208     -48.486  35.400 190.704  1.00 34.76         C N  
+ANISOU   26  N2  2X3 A 208        0      0      0      0      0      0     C N  
+HETATM   27  N1  2X3 A 208     -48.508  37.712 190.103  1.00 36.25         C N  
+ANISOU   27  N1  2X3 A 208        0      0      0      0      0      0     C N  
+HETATM   28  N7  2X3 A 208     -51.402  39.426 188.637  1.00 43.66         C N  
+ANISOU   28  N7  2X3 A 208        0      0      0      0      0      0     C N  
+HETATM   29  CAL 2X3 A 208     -53.877  38.932 189.055  1.00 65.82         C C  
+ANISOU   29  CAL 2X3 A 208        0      0      0      0      0      0     C C  
+HETATM   30  OAS 2X3 A 208     -54.161  40.336 189.300  1.00 66.31         C O  
+ANISOU   30  OAS 2X3 A 208        0      0      0      0      0      0     C O  
+HETATM   31  CAM 2X3 A 208     -53.691  38.090 190.277  1.00 61.22         C C  
+ANISOU   31  CAM 2X3 A 208        0      0      0      0      0      0     C C  
+HETATM   32  OAQ 2X3 A 208     -54.871  38.073 191.078  1.00 62.20         C O  
+ANISOU   32  OAQ 2X3 A 208        0      0      0      0      0      0     C O  

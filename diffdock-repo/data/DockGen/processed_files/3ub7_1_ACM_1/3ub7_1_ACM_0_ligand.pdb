@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C1  ACM A 301      -1.191  41.875  21.628  1.00 18.48         A C  
+ANISOU    1  C1  ACM A 301     2945   1704   2370    -90    371   -341     A C  
+HETATM    2  O   ACM A 301      -0.263  42.296  20.969  1.00 14.35         A O  
+ANISOU    2  O   ACM A 301     2104   1612   1736     -5      0   -293     A O  
+HETATM    3  N   ACM A 301      -0.957  40.999  22.675  1.00 15.33         A N  
+ANISOU    3  N   ACM A 301     2202   1633   1989   -141    474   -160     A N  
+HETATM    4  C2  ACM A 301      -2.580  42.428  21.288  1.00 13.91         A C  
+ANISOU    4  C2  ACM A 301     2359   1531   1396    135   -277    -90     A C  

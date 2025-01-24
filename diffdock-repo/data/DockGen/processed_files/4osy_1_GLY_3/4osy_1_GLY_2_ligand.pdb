@@ -1,0 +1,6 @@
+REMARK Selection '(segment A) and...d resnum `402`)'
+HETATM    1  N   GLY B 402      -3.256   9.581   3.053  1.00 36.55         A N  
+HETATM    2  CA  GLY B 402      -2.075  10.021   2.270  1.00 36.59         A C  
+HETATM    3  C   GLY B 402      -0.796   9.398   2.782  1.00 36.81         A C  
+HETATM    4  O   GLY B 402      -0.816   8.571   3.703  1.00 36.95         A O  
+HETATM    5  OXT GLY B 402       0.285   9.712   2.287  1.00 36.33         A O  

@@ -1,0 +1,31 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  O2  1FE A 602      31.722  -5.575   0.315  1.00 34.38         A O  
+ANISOU    1  O2  1FE A 602        0      0      0      0      0      0     A O  
+HETATM    2  C6  1FE A 602      30.482  -5.005   0.147  1.00 40.50         A C  
+ANISOU    2  C6  1FE A 602        0      0      0      0      0      0     A C  
+HETATM    3  N2  1FE A 602      29.292  -5.391   0.680  1.00 34.46         A N  
+ANISOU    3  N2  1FE A 602        0      0      0      0      0      0     A N  
+HETATM    4  N3  1FE A 602      30.186  -3.915  -0.609  1.00 41.20         A N  
+ANISOU    4  N3  1FE A 602        0      0      0      0      0      0     A N  
+HETATM    5  C7  1FE A 602      28.788  -3.559  -0.581  1.00 42.01         A C  
+ANISOU    5  C7  1FE A 602        0      0      0      0      0      0     A C  
+HETATM    6  C5  1FE A 602      28.186  -4.536   0.273  1.00 41.36         A C  
+ANISOU    6  C5  1FE A 602        0      0      0      0      0      0     A C  
+HETATM    7  C4  1FE A 602      26.737  -4.472   0.530  1.00 44.05         A C  
+ANISOU    7  C4  1FE A 602        0      0      0      0      0      0     A C  
+HETATM    8  C3  1FE A 602      25.983  -3.474  -0.058  1.00 45.00         A C  
+ANISOU    8  C3  1FE A 602        0      0      0      0      0      0     A C  
+HETATM    9  C8  1FE A 602      27.988  -2.492  -1.203  1.00 36.87         A C  
+ANISOU    9  C8  1FE A 602        0      0      0      0      0      0     A C  
+HETATM   10  C2  1FE A 602      26.634  -2.434  -0.968  1.00 43.76         A C  
+ANISOU   10  C2  1FE A 602        0      0      0      0      0      0     A C  
+HETATM   11  N1  1FE A 602      25.809  -1.420  -1.567  1.00 38.05         A N  
+ANISOU   11  N1  1FE A 602        0      0      0      0      0      0     A N  
+HETATM   12  C1  1FE A 602      26.148  -0.495  -2.608  1.00 47.87         A C  
+ANISOU   12  C1  1FE A 602        0      0      0      0      0      0     A C  
+HETATM   13  O1  1FE A 602      27.258  -0.467  -3.119  1.00 50.94         A O  
+ANISOU   13  O1  1FE A 602        0      0      0      0      0      0     A O  
+HETATM   14  C9  1FE A 602      25.108   0.470  -3.073  1.00 54.73         A C  
+ANISOU   14  C9  1FE A 602        0      0      0      0      0      0     A C  
+HETATM   15  N4  1FE A 602      25.681   1.361  -4.049  1.00 55.73         A N  
+ANISOU   15  N4  1FE A 602        0      0      0      0      0      0     A N  

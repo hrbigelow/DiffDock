@@ -1,0 +1,10 @@
+REMARK Selection '(segment B) and...d resnum `401`)'
+HETATM    1  N   ASN B 401     -24.193  32.311   4.066  1.00 33.18         B N  
+HETATM    2  CA  ASN B 401     -23.567  33.130   5.128  1.00 37.62         B C  
+HETATM    3  C   ASN B 401     -23.651  34.591   4.676  1.00 37.58         B C  
+HETATM    4  O   ASN B 401     -24.548  35.312   5.123  1.00 32.43         B O  
+HETATM    5  CB  ASN B 401     -22.141  32.654   5.434  1.00 31.56         B C  
+HETATM    6  CG  ASN B 401     -21.452  33.461   6.514  1.00 31.95         B C  
+HETATM    7  OD1 ASN B 401     -21.710  34.661   6.701  1.00 29.62         B O  
+HETATM    8  ND2 ASN B 401     -20.553  32.810   7.239  1.00 31.13         B N  
+HETATM    9  OXT ASN B 401     -22.822  34.998   3.825  1.00 37.55         B O  

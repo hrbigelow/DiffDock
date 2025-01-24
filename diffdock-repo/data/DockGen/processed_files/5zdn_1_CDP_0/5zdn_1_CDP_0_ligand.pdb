@@ -1,0 +1,51 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  O3B CDP A 301      25.857  14.139  27.246  1.00 20.37         A O  
+ANISOU    1  O3B CDP A 301     1487   3362   2890   -133    -87    185     A O  
+HETATM    2  PB  CDP A 301      27.441  14.430  27.477  1.00 22.38         A P  
+ANISOU    2  PB  CDP A 301     1715   3641   3148   -168   -115    234     A P  
+HETATM    3  O1B CDP A 301      28.025  14.332  26.148  1.00 23.24         A O  
+ANISOU    3  O1B CDP A 301     1768   3805   3259   -160    -95    239     A O  
+HETATM    4  O2B CDP A 301      27.712  15.633  28.245  1.00 23.91         A O  
+ANISOU    4  O2B CDP A 301     1961   3805   3318   -214   -154    266     A O  
+HETATM    5  O3A CDP A 301      28.049  13.237  28.334  1.00 24.17         A O  
+ANISOU    5  O3A CDP A 301     1918   3862   3405   -156   -123    238     A O  
+HETATM    6  PA  CDP A 301      27.595  11.928  29.134  1.00 28.84         A P  
+ANISOU    6  PA  CDP A 301     2519   4420   4017   -123   -109    212     A P  
+HETATM    7  O1A CDP A 301      28.126  10.673  28.544  1.00 28.32         A O  
+ANISOU    7  O1A CDP A 301     2395   4385   3980    -88    -86    201     A O  
+HETATM    8  O2A CDP A 301      26.068  12.026  29.231  1.00 23.96         A O  
+ANISOU    8  O2A CDP A 301     1948   3766   3389   -110    -85    175     A O  
+HETATM    9  O5' CDP A 301      28.070  12.097  30.675  1.00 25.42         A O  
+ANISOU    9  O5' CDP A 301     2131   3948   3578   -150   -152    241     A O  
+HETATM   10  C5' CDP A 301      27.758  13.352  31.157  1.00 26.16         A C  
+ANISOU   10  C5' CDP A 301     2286   4013   3640   -184   -175    253     A C  
+HETATM   11  C4' CDP A 301      28.017  13.485  32.603  1.00 26.65         A C  
+ANISOU   11  C4' CDP A 301     2409   4030   3686   -206   -214    273     A C  
+HETATM   12  O4' CDP A 301      27.212  12.615  33.406  1.00 23.23         A O  
+ANISOU   12  O4' CDP A 301     2015   3555   3255   -175   -188    248     A O  
+HETATM   13  C3' CDP A 301      29.453  13.127  32.976  1.00 25.74         A C  
+ANISOU   13  C3' CDP A 301     2252   3940   3590   -224   -260    311     A C  
+HETATM   14  O3' CDP A 301      30.368  14.147  32.617  1.00 28.46         A O  
+ANISOU   14  O3' CDP A 301     2572   4313   3929   -272   -298    347     A O  
+HETATM   15  C2' CDP A 301      29.268  12.906  34.466  1.00 24.82         A C  
+ANISOU   15  C2' CDP A 301     2213   3766   3452   -228   -286    315     A C  
+HETATM   16  O2' CDP A 301      29.151  14.221  35.044  1.00 25.05         A O  
+ANISOU   16  O2' CDP A 301     2320   3760   3439   -272   -320    328     A O  
+HETATM   17  C1' CDP A 301      27.868  12.241  34.595  1.00 24.24         A C  
+ANISOU   17  C1' CDP A 301     2175   3657   3377   -185   -225    272     A C  
+HETATM   18  N1  CDP A 301      27.911  10.769  34.691  1.00 23.09         A N  
+ANISOU   18  N1  CDP A 301     1996   3513   3263   -146   -203    261     A N  
+HETATM   19  C2  CDP A 301      28.353  10.205  35.901  1.00 25.07         A C  
+ANISOU   19  C2  CDP A 301     2287   3731   3507   -145   -233    280     A C  
+HETATM   20  O2  CDP A 301      28.648  10.974  36.813  1.00 29.51         A O  
+ANISOU   20  O2  CDP A 301     2912   4266   4035   -177   -279    303     A O  
+HETATM   21  N3  CDP A 301      28.486   8.894  36.054  1.00 25.25         A N  
+ANISOU   21  N3  CDP A 301     2288   3750   3556   -109   -216    275     A N  
+HETATM   22  C4  CDP A 301      28.173   8.145  34.975  1.00 23.55         A C  
+ANISOU   22  C4  CDP A 301     2012   3562   3374    -78   -168    247     A C  
+HETATM   23  N4  CDP A 301      28.266   6.837  35.003  1.00 23.31         A N  
+ANISOU   23  N4  CDP A 301     1965   3524   3370    -41   -149    238     A N  
+HETATM   24  C5  CDP A 301      27.827   8.701  33.782  1.00 22.82         A C  
+ANISOU   24  C5  CDP A 301     1880   3505   3286    -82   -146    228     A C  
+HETATM   25  C6  CDP A 301      27.677  10.027  33.639  1.00 21.73         A C  
+ANISOU   25  C6  CDP A 301     1763   3373   3122   -115   -162    236     A C  

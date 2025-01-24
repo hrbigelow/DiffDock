@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and...d resnum `802`)'
+HETATM    1  C1  G3F D 802      81.977  46.957 -26.467  1.00 28.92         A C  
+ANISOU    1  C1  G3F D 802        0      0      0      0      0      0     A C  
+HETATM    2  O1  G3F D 802      81.154  48.056 -26.049  1.00 28.98         A O  
+ANISOU    2  O1  G3F D 802        0      0      0      0      0      0     A O  
+HETATM    3  C2  G3F D 802      82.092  46.989 -28.008  1.00 26.08         A C  
+ANISOU    3  C2  G3F D 802        0      0      0      0      0      0     A C  
+HETATM    4  O2  G3F D 802      80.845  46.774 -28.608  1.00 23.13         A O  
+ANISOU    4  O2  G3F D 802        0      0      0      0      0      0     A O  
+HETATM    5  C3  G3F D 802      83.135  46.069 -28.617  1.00 30.52         A C  
+ANISOU    5  C3  G3F D 802        0      0      0      0      0      0     A C  
+HETATM    6  F3  G3F D 802      83.224  46.199 -30.043  1.00 31.88         A F  
+ANISOU    6  F3  G3F D 802        0      0      0      0      0      0     A F  
+HETATM    7  C4  G3F D 802      84.462  46.442 -27.927  1.00 32.41         A C  
+ANISOU    7  C4  G3F D 802        0      0      0      0      0      0     A C  
+HETATM    8  O4  G3F D 802      85.478  45.501 -28.302  1.00 33.54         A O  
+ANISOU    8  O4  G3F D 802        0      0      0      0      0      0     A O  
+HETATM    9  C5  G3F D 802      84.376  46.506 -26.415  1.00 31.70         A C  
+ANISOU    9  C5  G3F D 802        0      0      0      0      0      0     A C  
+HETATM   10  O5  G3F D 802      83.252  47.283 -25.966  1.00 33.27         A O  
+ANISOU   10  O5  G3F D 802        0      0      0      0      0      0     A O  
+HETATM   11  C6  G3F D 802      85.641  47.126 -25.840  1.00 32.57         A C  
+ANISOU   11  C6  G3F D 802        0      0      0      0      0      0     A C  
+HETATM   12  O6  G3F D 802      85.618  46.901 -24.405  1.00 35.06         A O  
+ANISOU   12  O6  G3F D 802        0      0      0      0      0      0     A O  

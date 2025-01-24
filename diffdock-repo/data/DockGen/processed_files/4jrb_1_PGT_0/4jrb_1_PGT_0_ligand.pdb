@@ -1,0 +1,83 @@
+REMARK Selection '(segment A) and... resnum `1303`)'
+HETATM    1  C48 PGT A1303     -19.188 -12.852   8.980  1.00 61.64         A C  
+ANISOU    1  C48 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    2  C47 PGT A1303     -19.204 -12.781  10.479  1.00 63.52         A C  
+ANISOU    2  C47 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    3  C46 PGT A1303     -17.850 -12.862  11.138  1.00 66.67         A C  
+ANISOU    3  C46 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    4  C45 PGT A1303     -17.974 -12.554  12.611  1.00 66.22         A C  
+ANISOU    4  C45 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    5  C44 PGT A1303     -16.905 -13.155  13.483  1.00 60.45         A C  
+ANISOU    5  C44 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    6  C43 PGT A1303     -17.386 -13.125  14.904  1.00 62.22         A C  
+ANISOU    6  C43 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    7  C42 PGT A1303     -16.313 -13.412  15.903  1.00 58.30         A C  
+ANISOU    7  C42 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    8  C41 PGT A1303     -16.713 -14.594  16.722  1.00 62.19         A C  
+ANISOU    8  C41 PGT A1303        0      0      0      0      0      0     A C  
+HETATM    9  C40 PGT A1303     -16.908 -14.229  18.154  1.00 69.96         A C  
+ANISOU    9  C40 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   10  C39 PGT A1303     -17.586 -15.359  18.873  1.00 81.76         A C  
+ANISOU   10  C39 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   11  C38 PGT A1303     -19.028 -15.060  19.182  1.00 90.70         A C  
+ANISOU   11  C38 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   12  C37 PGT A1303     -19.321 -15.349  20.625  1.00 96.60         A C  
+ANISOU   12  C37 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   13  C36 PGT A1303     -20.483 -16.279  20.812  1.00 98.38         A C  
+ANISOU   13  C36 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   14  C35 PGT A1303     -20.244 -17.219  21.959  1.00 98.66         A C  
+ANISOU   14  C35 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   15  C34 PGT A1303     -20.655 -18.606  21.572  1.00100.53         A C  
+ANISOU   15  C34 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   16  C33 PGT A1303     -20.191 -19.646  22.545  1.00103.21         A C  
+ANISOU   16  C33 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   17  C32 PGT A1303     -18.705 -19.613  22.678  1.00106.67         A C  
+ANISOU   17  C32 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   18  C31 PGT A1303     -18.182 -20.811  23.414  1.00107.65         A C  
+ANISOU   18  C31 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   19  O31 PGT A1303     -17.629 -20.692  24.678  1.00104.89         A O  
+ANISOU   19  O31 PGT A1303        0      0      0      0      0      0     A O  
+HETATM   20  O2  PGT A1303     -18.244 -22.053  22.829  1.00105.25         A O  
+ANISOU   20  O2  PGT A1303        0      0      0      0      0      0     A O  
+HETATM   21  C2  PGT A1303     -17.760 -22.290  21.568  1.00101.67         A C  
+ANISOU   21  C2  PGT A1303        0      0      0      0      0      0     A C  
+HETATM   22  C1  PGT A1303     -16.881 -23.515  21.585  1.00107.78         A C  
+ANISOU   22  C1  PGT A1303        0      0      0      0      0      0     A C  
+HETATM   23  O3P PGT A1303     -17.494 -24.622  22.161  1.00114.87         A O  
+ANISOU   23  O3P PGT A1303        0      0      0      0      0      0     A O  
+HETATM   24  P   PGT A1303     -16.724 -25.786  22.898  1.00128.80         A P  
+ANISOU   24  P   PGT A1303        0      0      0      0      0      0     A P  
+HETATM   25  O1P PGT A1303     -17.726 -26.879  23.378  1.00 81.33         A O  
+ANISOU   25  O1P PGT A1303        0      0      0      0      0      0     A O  
+HETATM   26  O2P PGT A1303     -15.692 -26.512  21.988  1.00 81.53         A O  
+ANISOU   26  O2P PGT A1303        0      0      0      0      0      0     A O  
+HETATM   27  O4P PGT A1303     -15.966 -25.207  24.129  1.00 80.42         A O  
+ANISOU   27  O4P PGT A1303        0      0      0      0      0      0     A O  
+HETATM   28  C3  PGT A1303     -18.966 -22.441  20.698  1.00 94.68         A C  
+ANISOU   28  C3  PGT A1303        0      0      0      0      0      0     A C  
+HETATM   29  O3  PGT A1303     -18.671 -22.557  19.358  1.00 81.71         A O  
+ANISOU   29  O3  PGT A1303        0      0      0      0      0      0     A O  
+HETATM   30  C11 PGT A1303     -18.243 -21.462  18.651  1.00 70.62         A C  
+ANISOU   30  C11 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   31  O11 PGT A1303     -16.909 -21.403  18.325  1.00 66.01         A O  
+ANISOU   31  O11 PGT A1303        0      0      0      0      0      0     A O  
+HETATM   32  C12 PGT A1303     -19.191 -20.365  18.253  1.00 66.07         A C  
+ANISOU   32  C12 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   33  C13 PGT A1303     -18.934 -19.906  16.848  1.00 63.81         A C  
+ANISOU   33  C13 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   34  C14 PGT A1303     -19.476 -18.536  16.582  1.00 63.33         A C  
+ANISOU   34  C14 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   35  C15 PGT A1303     -19.999 -18.452  15.181  1.00 60.92         A C  
+ANISOU   35  C15 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   36  C16 PGT A1303     -19.252 -17.469  14.335  1.00 54.54         A C  
+ANISOU   36  C16 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   37  C17 PGT A1303     -19.212 -17.957  12.919  1.00 55.29         A C  
+ANISOU   37  C17 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   38  C18 PGT A1303     -19.548 -16.908  11.895  1.00 59.91         A C  
+ANISOU   38  C18 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   39  C19 PGT A1303     -20.116 -17.549  10.655  1.00 59.93         A C  
+ANISOU   39  C19 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   40  C20 PGT A1303     -19.870 -16.763   9.398  1.00 60.06         A C  
+ANISOU   40  C20 PGT A1303        0      0      0      0      0      0     A C  
+HETATM   41  C21 PGT A1303     -20.603 -17.374   8.236  1.00 58.87         A C  
+ANISOU   41  C21 PGT A1303        0      0      0      0      0      0     A C  

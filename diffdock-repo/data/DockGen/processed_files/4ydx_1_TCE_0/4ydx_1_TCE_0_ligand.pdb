@@ -1,0 +1,33 @@
+REMARK Selection '(segment A) and...d resnum `103`)'
+HETATM    1  O16 TCE A 103      40.840  30.347  12.298  0.90 39.55         A O  
+ANISOU    1  O16 TCE A 103        0      0      0      0      0      0     A O  
+HETATM    2  C14 TCE A 103      41.155  29.159  12.521  0.90 36.11         A C  
+ANISOU    2  C14 TCE A 103        0      0      0      0      0      0     A C  
+HETATM    3  O15 TCE A 103      41.446  28.755  13.668  0.90 34.65         A O  
+ANISOU    3  O15 TCE A 103        0      0      0      0      0      0     A O  
+HETATM    4  C5  TCE A 103      41.162  28.213  11.339  0.90 33.76         A C  
+ANISOU    4  C5  TCE A 103        0      0      0      0      0      0     A C  
+HETATM    5  C2  TCE A 103      41.235  26.750  11.757  0.90 33.26         A C  
+ANISOU    5  C2  TCE A 103        0      0      0      0      0      0     A C  
+HETATM    6  P   TCE A 103      40.869  25.587  10.375  0.90 22.76         A P  
+ANISOU    6  P   TCE A 103     3064   2362   3222  -1167   -770     23     A P  
+HETATM    7  C3  TCE A 103      41.807  26.231   8.916  0.90 38.60         A C  
+ANISOU    7  C3  TCE A 103        0      0      0      0      0      0     A C  
+HETATM    8  C6  TCE A 103      43.326  26.228   9.105  0.90 41.26         A C  
+ANISOU    8  C6  TCE A 103        0      0      0      0      0      0     A C  
+HETATM    9  C8  TCE A 103      44.003  26.923   7.935  0.90 44.33         A C  
+ANISOU    9  C8  TCE A 103        0      0      0      0      0      0     A C  
+HETATM   10  O10 TCE A 103      43.670  26.611   6.768  0.90 44.33         A O  
+ANISOU   10  O10 TCE A 103        0      0      0      0      0      0     A O  
+HETATM   11  O9  TCE A 103      44.886  27.781   8.174  0.90 45.82         A O  
+ANISOU   11  O9  TCE A 103        0      0      0      0      0      0     A O  
+HETATM   12  C1  TCE A 103      41.861  24.138  10.949  0.90 30.60         A C  
+ANISOU   12  C1  TCE A 103        0      0      0      0      0      0     A C  
+HETATM   13  C4  TCE A 103      41.844  23.041   9.893  0.90 29.16         A C  
+ANISOU   13  C4  TCE A 103        0      0      0      0      0      0     A C  
+HETATM   14  C11 TCE A 103      42.469  21.746  10.364  0.90 30.07         A C  
+ANISOU   14  C11 TCE A 103        0      0      0      0      0      0     A C  
+HETATM   15  O12 TCE A 103      42.300  21.366  11.542  0.90 28.39         A O  
+ANISOU   15  O12 TCE A 103        0      0      0      0      0      0     A O  
+HETATM   16  O13 TCE A 103      43.133  21.084   9.537  0.90 31.74         A O  
+ANISOU   16  O13 TCE A 103        0      0      0      0      0      0     A O  

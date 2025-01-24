@@ -1,0 +1,13 @@
+REMARK Selection '(segment A) and...d resnum `300`)'
+HETATM    1  N   ARG C 300     -19.083  47.695   6.440  1.00 14.17         A N  
+HETATM    2  CA  ARG C 300     -18.335  46.703   7.264  1.00 14.28         A C  
+HETATM    3  C   ARG C 300     -18.663  46.979   8.724  1.00 14.11         A C  
+HETATM    4  O   ARG C 300     -19.159  48.060   9.025  1.00 14.50         A O  
+HETATM    5  CB  ARG C 300     -16.815  46.863   7.044  1.00 14.55         A C  
+HETATM    6  CG  ARG C 300     -16.281  48.246   7.462  1.00 13.76         A C  
+HETATM    7  CD  ARG C 300     -14.821  48.403   7.020  1.00 14.04         A C  
+HETATM    8  NE  ARG C 300     -14.140  49.674   7.324  1.00 12.83         A N  
+HETATM    9  CZ  ARG C 300     -13.477  49.940   8.464  1.00 11.03         A C  
+HETATM   10  NH1 ARG C 300     -12.842  51.088   8.606  1.00 12.79         A N  
+HETATM   11  NH2 ARG C 300     -13.473  49.081   9.479  1.00 14.90         A N  
+HETATM   12  OXT ARG C 300     -18.440  46.151   9.588  1.00 14.38         A O  

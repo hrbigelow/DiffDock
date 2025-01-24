@@ -1,0 +1,19 @@
+REMARK Selection '(segment B) and...d resnum `200`)'
+HETATM    1  N   NIO A 200      -6.895 -11.462 -21.657  1.00 22.98         B N  
+ANISOU    1  N   NIO A 200     2980   3000   2747    286     54    -16     B N  
+HETATM    2  C1  NIO A 200      -5.626 -11.071 -21.418  1.00 22.77         B C  
+ANISOU    2  C1  NIO A 200     2962   2942   2746    466   -123    -19     B C  
+HETATM    3  C2  NIO A 200      -5.370  -9.890 -20.698  1.00 24.01         B C  
+ANISOU    3  C2  NIO A 200     3011   3118   2994    406     49   -111     B C  
+HETATM    4  C3  NIO A 200      -6.397  -9.105 -20.260  1.00 23.03         B C  
+ANISOU    4  C3  NIO A 200     3056   2849   2842    354    299    -78     B C  
+HETATM    5  C4  NIO A 200      -7.686  -9.543 -20.523  1.00 24.72         B C  
+ANISOU    5  C4  NIO A 200     3118   3037   3235    264    172   -107     B C  
+HETATM    6  C5  NIO A 200      -7.911 -10.722 -21.228  1.00 23.73         B C  
+ANISOU    6  C5  NIO A 200     3168   2970   2876    222    239    -43     B C  
+HETATM    7  C6  NIO A 200      -3.976  -9.407 -20.514  1.00 29.14         B C  
+ANISOU    7  C6  NIO A 200     3160   3559   4350    346     70   -187     B C  
+HETATM    8  O1  NIO A 200      -3.809  -8.155 -20.443  1.00 30.85         B O  
+ANISOU    8  O1  NIO A 200     3602   3677   4440    334   -125   -341     B O  
+HETATM    9  O2  NIO A 200      -3.041 -10.218 -20.514  1.00 28.67         B O  
+ANISOU    9  O2  NIO A 200     2777   3119   4998    419    129   -293     B O  

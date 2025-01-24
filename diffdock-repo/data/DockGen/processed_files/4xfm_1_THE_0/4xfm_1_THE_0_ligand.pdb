@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and...d resnum `501`)'
+HETATM    1  C1  THE A 501      49.562   7.662  14.536  1.00 14.54         A C  
+ANISOU    1  C1  THE A 501        0      0      0      0      0      0     A C  
+HETATM    2  C2  THE A 501      49.981   6.462  13.672  1.00 14.66         A C  
+ANISOU    2  C2  THE A 501        0      0      0      0      0      0     A C  
+HETATM    3  C3  THE A 501      51.514   6.374  13.616  1.00 13.92         A C  
+ANISOU    3  C3  THE A 501        0      0      0      0      0      0     A C  
+HETATM    4  C4  THE A 501      51.883   5.240  12.732  1.00 14.17         A C  
+ANISOU    4  C4  THE A 501        0      0      0      0      0      0     A C  
+HETATM    5  O1  THE A 501      48.118   7.643  14.676  1.00 16.88         A O  
+ANISOU    5  O1  THE A 501        0      0      0      0      0      0     A O  
+HETATM    6  O2  THE A 501      49.449   6.642  12.339  1.00 14.93         A O  
+ANISOU    6  O2  THE A 501        0      0      0      0      0      0     A O  
+HETATM    7  O3  THE A 501      52.084   7.624  13.139  1.00 13.65         A O  
+ANISOU    7  O3  THE A 501        0      0      0      0      0      0     A O  
+HETATM    8  O4  THE A 501      52.341   5.494  11.594  1.00 13.69         A O  
+ANISOU    8  O4  THE A 501        0      0      0      0      0      0     A O  
+HETATM    9  O5  THE A 501      51.734   4.075  13.212  1.00 15.50         A O  
+ANISOU    9  O5  THE A 501        0      0      0      0      0      0     A O  

@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  O2 ANHY A 301      -0.420  42.065  21.096  0.50  8.91         A O  
+ANISOU    1  O2 ANHY A 301      713   1571   1101    167    300   -492     A O  
+HETATM    2  C  ANHY A 301      -1.459  41.687  21.658  0.50 15.07         A C  
+ANISOU    2  C  ANHY A 301     1707   2117   1901    243    159     50     A C  
+HETATM    3  N2 ANHY A 301      -2.673  42.090  21.256  0.50 10.02         A N  
+ANISOU    3  N2 ANHY A 301      615   1927   1264   -461    115    -70     A N  
+HETATM    4  N1 ANHY A 301      -1.420  40.930  22.771  0.50 18.57         A N  
+ANISOU    4  N1 ANHY A 301     2038   3108   1908   -129     57     80     A N  
+HETATM    5  O1 ANHY A 301      -0.200  40.527  23.261  0.50 15.04         A O  
+ANISOU    5  O1 ANHY A 301     2318   2124   1271    948   -413    217     A O  

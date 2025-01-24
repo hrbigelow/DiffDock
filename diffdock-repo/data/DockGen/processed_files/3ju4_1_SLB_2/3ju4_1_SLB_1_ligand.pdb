@@ -1,0 +1,43 @@
+REMARK Selection '(segment A) and...and resnum `1`)'
+HETATM    1  C1  SLB A   1      75.156  39.030 -50.987  1.00 13.64         A C  
+ANISOU    1  C1  SLB A   1     2636   1543   1006    -51    528     50     A C  
+HETATM    2  C2  SLB A   1      75.119  39.130 -49.472  1.00  9.95         A C  
+ANISOU    2  C2  SLB A   1     1282   1325   1173   -227    309    -55     A C  
+HETATM    3  C3  SLB A   1      73.646  39.129 -49.081  1.00  9.45         A C  
+ANISOU    3  C3  SLB A   1     1092   1179   1319    -47    182    -54     A C  
+HETATM    4  C4  SLB A   1      73.527  39.378 -47.565  1.00  8.54         A C  
+ANISOU    4  C4  SLB A   1      997   1037   1211   -165    248     69     A C  
+HETATM    5  C5  SLB A   1      74.203  40.678 -47.218  1.00  9.55         A C  
+ANISOU    5  C5  SLB A   1     1138   1201   1290   -258    254    -88     A C  
+HETATM    6  C6  SLB A   1      75.682  40.614 -47.671  1.00 11.54         A C  
+ANISOU    6  C6  SLB A   1     1115   1737   1533   -400    371   -414     A C  
+HETATM    7  C7  SLB A   1      76.366  41.971 -47.477  1.00 16.57         A C  
+ANISOU    7  C7  SLB A   1     1506   2448   2341  -1054    303   -702     A C  
+HETATM    8  C8  SLB A   1      77.805  41.942 -48.055  1.00 25.61         A C  
+ANISOU    8  C8  SLB A   1     2437   3398   3898  -1607   1841   -990     A C  
+HETATM    9  C9  SLB A   1      78.495  43.263 -47.733  1.00 35.17         A C  
+ANISOU    9  C9  SLB A   1     3795   4846   4720  -3321   1832  -1170     A C  
+HETATM   10  C10 SLB A   1      73.601  41.944 -45.184  1.00  8.42         A C  
+ANISOU   10  C10 SLB A   1      910   1136   1152    -78    103    -16     A C  
+HETATM   11  C11 SLB A   1      73.742  42.013 -43.668  1.00 10.51         A C  
+ANISOU   11  C11 SLB A   1     1438   1434   1122    -18   -108    -56     A C  
+HETATM   12  N5  SLB A   1      74.211  40.903 -45.767  1.00  9.35         A N  
+ANISOU   12  N5  SLB A   1     1196   1108   1247     86    124     19     A N  
+HETATM   13  O1A SLB A   1      75.335  40.057 -51.613  1.00 29.16         A O  
+ANISOU   13  O1A SLB A   1     7704   1930   1445  -1061   1241    196     A O  
+HETATM   14  O1B SLB A   1      75.032  37.938 -51.544  1.00 12.71         A O  
+ANISOU   14  O1B SLB A   1     1993   1724   1114    -19    302    -57     A O  
+HETATM   15  O2  SLB A   1      75.735  38.003 -48.865  1.00 10.76         A O  
+ANISOU   15  O2  SLB A   1     1250   1519   1320     87    271    117     A O  
+HETATM   16  O4  SLB A   1      72.143  39.416 -47.226  1.00  8.71         A O  
+ANISOU   16  O4  SLB A   1      897   1059   1355    -23     84    190     A O  
+HETATM   17  O6  SLB A   1      75.765  40.333 -49.075  1.00 12.31         A O  
+ANISOU   17  O6  SLB A   1     1550   1521   1606   -504    494   -263     A O  
+HETATM   18  O7  SLB A   1      75.707  42.987 -48.217  1.00 20.51         A O  
+ANISOU   18  O7  SLB A   1     3454   1900   2439  -1180    911     11     A O  
+HETATM   19  O8  SLB A   1      78.455  40.861 -47.368  1.00 30.28         A O  
+ANISOU   19  O8  SLB A   1     1144   4595   5767   -868    302  -1459     A O  
+HETATM   20  O9  SLB A   1      79.877  43.212 -48.087  1.00 49.59         A O  
+ANISOU   20  O9  SLB A   1     3882   8447   6514  -4230   2014  -3128     A O  
+HETATM   21  O10 SLB A   1      72.973  42.796 -45.789  1.00  8.72         A O  
+ANISOU   21  O10 SLB A   1     1116    935   1264    -26     -8     17     A O  

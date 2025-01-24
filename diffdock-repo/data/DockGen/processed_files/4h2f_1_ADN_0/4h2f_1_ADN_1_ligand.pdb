@@ -1,0 +1,39 @@
+REMARK Selection '(segment B) and...d resnum `601`)'
+HETATM    1  O5' ADN A 601      48.827  60.168 -11.261  1.00 24.87         B O  
+ANISOU    1  O5' ADN A 601        0      0      0      0      0      0     B O  
+HETATM    2  C5' ADN A 601      48.630  61.490 -10.702  1.00 19.84         B C  
+ANISOU    2  C5' ADN A 601        0      0      0      0      0      0     B C  
+HETATM    3  C4' ADN A 601      47.087  61.637 -10.381  1.00 23.10         B C  
+ANISOU    3  C4' ADN A 601        0      0      0      0      0      0     B C  
+HETATM    4  O4' ADN A 601      46.726  60.661  -9.376  1.00 22.29         B O  
+ANISOU    4  O4' ADN A 601        0      0      0      0      0      0     B O  
+HETATM    5  C3' ADN A 601      46.677  62.910  -9.769  1.00 19.93         B C  
+ANISOU    5  C3' ADN A 601        0      0      0      0      0      0     B C  
+HETATM    6  O3' ADN A 601      46.521  63.947 -10.759  1.00 19.87         B O  
+ANISOU    6  O3' ADN A 601        0      0      0      0      0      0     B O  
+HETATM    7  C2' ADN A 601      45.348  62.652  -9.041  1.00 22.78         B C  
+ANISOU    7  C2' ADN A 601        0      0      0      0      0      0     B C  
+HETATM    8  O2' ADN A 601      44.266  62.811 -10.016  1.00 22.43         B O  
+ANISOU    8  O2' ADN A 601        0      0      0      0      0      0     B O  
+HETATM    9  C1' ADN A 601      45.535  61.216  -8.751  1.00 20.68         B C  
+ANISOU    9  C1' ADN A 601        0      0      0      0      0      0     B C  
+HETATM   10  N9  ADN A 601      45.739  61.077  -7.295  1.00 25.57         B N  
+ANISOU   10  N9  ADN A 601        0      0      0      0      0      0     B N  
+HETATM   11  C8  ADN A 601      46.969  61.236  -6.628  1.00 23.39         B C  
+ANISOU   11  C8  ADN A 601        0      0      0      0      0      0     B C  
+HETATM   12  N7  ADN A 601      46.780  61.069  -5.270  1.00 21.87         B N  
+ANISOU   12  N7  ADN A 601        0      0      0      0      0      0     B N  
+HETATM   13  C5  ADN A 601      45.429  60.763  -5.079  1.00 21.76         B C  
+ANISOU   13  C5  ADN A 601        0      0      0      0      0      0     B C  
+HETATM   14  C6  ADN A 601      44.550  60.409  -3.920  1.00 23.28         B C  
+ANISOU   14  C6  ADN A 601        0      0      0      0      0      0     B C  
+HETATM   15  N6  ADN A 601      45.035  60.351  -2.650  1.00 21.10         B N  
+ANISOU   15  N6  ADN A 601        0      0      0      0      0      0     B N  
+HETATM   16  N1  ADN A 601      43.239  60.176  -4.152  1.00 19.73         B N  
+ANISOU   16  N1  ADN A 601        0      0      0      0      0      0     B N  
+HETATM   17  C2  ADN A 601      42.648  60.222  -5.373  1.00 22.38         B C  
+ANISOU   17  C2  ADN A 601        0      0      0      0      0      0     B C  
+HETATM   18  N3  ADN A 601      43.366  60.543  -6.497  1.00 24.05         B N  
+ANISOU   18  N3  ADN A 601        0      0      0      0      0      0     B N  
+HETATM   19  C4  ADN A 601      44.751  60.772  -6.411  1.00 24.81         B C  
+ANISOU   19  C4  ADN A 601        0      0      0      0      0      0     B C  

@@ -1,0 +1,51 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  N1  UDP A 301      15.298  10.120  19.918  1.00  5.64         A N  
+ANISOU    1  N1  UDP A 301        0      0      0      0      0      0     A N  
+HETATM    2  C2  UDP A 301      15.869  11.191  19.279  1.00  8.73         A C  
+ANISOU    2  C2  UDP A 301        0      0      0      0      0      0     A C  
+HETATM    3  N3  UDP A 301      15.411  12.464  19.531  1.00  8.02         A N  
+ANISOU    3  N3  UDP A 301        0      0      0      0      0      0     A N  
+HETATM    4  C4  UDP A 301      14.378  12.672  20.434  1.00 11.61         A C  
+ANISOU    4  C4  UDP A 301        0      0      0      0      0      0     A C  
+HETATM    5  C5  UDP A 301      13.787  11.581  21.064  1.00  6.51         A C  
+ANISOU    5  C5  UDP A 301        0      0      0      0      0      0     A C  
+HETATM    6  C6  UDP A 301      14.365  10.322  20.900  1.00  4.53         A C  
+ANISOU    6  C6  UDP A 301        0      0      0      0      0      0     A C  
+HETATM    7  O2  UDP A 301      16.790  11.010  18.480  1.00  8.20         A O  
+ANISOU    7  O2  UDP A 301        0      0      0      0      0      0     A O  
+HETATM    8  O4  UDP A 301      13.963  13.814  20.660  1.00 11.52         A O  
+ANISOU    8  O4  UDP A 301        0      0      0      0      0      0     A O  
+HETATM    9  C1' UDP A 301      15.753   8.760  19.560  1.00  4.91         A C  
+ANISOU    9  C1' UDP A 301        0      0      0      0      0      0     A C  
+HETATM   10  C2' UDP A 301      16.682   8.050  20.515  1.00  6.59         A C  
+ANISOU   10  C2' UDP A 301        0      0      0      0      0      0     A C  
+HETATM   11  O2' UDP A 301      18.022   8.490  20.382  1.00  8.83         A O  
+ANISOU   11  O2' UDP A 301        0      0      0      0      0      0     A O  
+HETATM   12  C3' UDP A 301      16.503   6.609  20.049  1.00  6.28         A C  
+ANISOU   12  C3' UDP A 301        0      0      0      0      0      0     A C  
+HETATM   13  C4' UDP A 301      15.042   6.565  19.604  1.00  4.64         A C  
+ANISOU   13  C4' UDP A 301        0      0      0      0      0      0     A C  
+HETATM   14  O4' UDP A 301      14.612   7.915  19.491  1.00  4.17         A O  
+ANISOU   14  O4' UDP A 301        0      0      0      0      0      0     A O  
+HETATM   15  O3' UDP A 301      17.326   6.327  18.928  1.00  5.97         A O  
+ANISOU   15  O3' UDP A 301        0      0      0      0      0      0     A O  
+HETATM   16  C5' UDP A 301      14.131   5.822  20.575  1.00  5.09         A C  
+ANISOU   16  C5' UDP A 301        0      0      0      0      0      0     A C  
+HETATM   17  O5' UDP A 301      12.787   5.949  20.137  1.00  5.38         A O  
+ANISOU   17  O5' UDP A 301        0      0      0      0      0      0     A O  
+HETATM   18  PA  UDP A 301      11.575   5.348  20.995  1.00  4.55         A P  
+ANISOU   18  PA  UDP A 301        0      0      0      0      0      0     A P  
+HETATM   19  O1A UDP A 301      10.382   5.328  20.107  1.00  3.67         A O1+
+ANISOU   19  O1A UDP A 301        0      0      0      0      0      0     A O1+
+HETATM   20  O2A UDP A 301      11.419   6.017  22.303  1.00  4.41         A O  
+ANISOU   20  O2A UDP A 301        0      0      0      0      0      0     A O  
+HETATM   21  O3A UDP A 301      12.132   3.842  21.236  1.00  3.70         A O  
+ANISOU   21  O3A UDP A 301        0      0      0      0      0      0     A O  
+HETATM   22  PB  UDP A 301      11.459   2.510  21.866  1.00  3.84         A P  
+ANISOU   22  PB  UDP A 301        0      0      0      0      0      0     A P  
+HETATM   23  O1B UDP A 301      11.862   1.450  20.932  1.00  3.34         A O1+
+ANISOU   23  O1B UDP A 301        0      0      0      0      0      0     A O1+
+HETATM   24  O2B UDP A 301       9.988   2.665  22.045  1.00  4.76         A O  
+ANISOU   24  O2B UDP A 301        0      0      0      0      0      0     A O  
+HETATM   25  O3B UDP A 301      12.150   2.291  23.187  1.00  6.54         A O  
+ANISOU   25  O3B UDP A 301        0      0      0      0      0      0     A O  

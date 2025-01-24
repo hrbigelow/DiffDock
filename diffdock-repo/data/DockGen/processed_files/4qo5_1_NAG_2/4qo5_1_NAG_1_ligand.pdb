@@ -1,0 +1,29 @@
+REMARK Selection '(segment A) and...d resnum `610`)'
+HETATM    1  C1  NAG A 610     -41.634  34.575  17.345  1.00 37.40         A C  
+ANISOU    1  C1  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    2  C2  NAG A 610     -40.869  35.085  18.515  1.00 33.69         A C  
+ANISOU    2  C2  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    3  C3  NAG A 610     -39.490  34.447  18.503  1.00 34.63         A C  
+ANISOU    3  C3  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    4  C4  NAG A 610     -39.629  32.918  18.498  1.00 37.01         A C  
+ANISOU    4  C4  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    5  C5  NAG A 610     -40.622  32.447  17.425  1.00 36.11         A C  
+ANISOU    5  C5  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    6  C6  NAG A 610     -40.961  30.976  17.524  1.00 38.92         A C  
+ANISOU    6  C6  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    7  C7  NAG A 610     -41.499  37.345  19.283  1.00 31.84         A C  
+ANISOU    7  C7  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    8  C8  NAG A 610     -41.262  38.818  19.112  1.00 30.21         A C  
+ANISOU    8  C8  NAG A 610        0      0      0      0      0      0     A C  
+HETATM    9  N2  NAG A 610     -40.778  36.541  18.492  1.00 32.52         A N  
+ANISOU    9  N2  NAG A 610        0      0      0      0      0      0     A N  
+HETATM   10  O3  NAG A 610     -38.742  34.905  19.621  1.00 39.23         A O  
+ANISOU   10  O3  NAG A 610        0      0      0      0      0      0     A O  
+HETATM   11  O4  NAG A 610     -38.382  32.303  18.216  1.00 44.22         A O  
+ANISOU   11  O4  NAG A 610        0      0      0      0      0      0     A O  
+HETATM   12  O5  NAG A 610     -41.858  33.172  17.506  1.00 32.13         A O  
+ANISOU   12  O5  NAG A 610        0      0      0      0      0      0     A O  
+HETATM   13  O6  NAG A 610     -41.144  30.559  18.870  1.00 43.02         A O  
+ANISOU   13  O6  NAG A 610        0      0      0      0      0      0     A O  
+HETATM   14  O7  NAG A 610     -42.300  36.913  20.112  1.00 31.08         A O  
+ANISOU   14  O7  NAG A 610        0      0      0      0      0      0     A O  

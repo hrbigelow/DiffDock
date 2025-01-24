@@ -1,0 +1,16 @@
+REMARK Selection '(segment B) and...d resnum `999`)'
+HETATM    1  N   ING A 999      52.846 -10.584  36.400  1.00 17.57         B N  
+HETATM    2  CA  ING A 999      52.240 -10.795  35.073  1.00 17.61         B C  
+HETATM    3  C   ING A 999      50.734 -10.782  35.182  1.00 17.54         B C  
+HETATM    4  O   ING A 999      50.100 -10.086  35.936  1.00 18.55         B O  
+HETATM    5  CG  ING A 999      53.372 -10.254  32.924  1.00 19.74         B C  
+HETATM    6  CB  ING A 999      52.682  -9.682  34.122  1.00 18.99         B C  
+HETATM    7  CD1 ING A 999      52.595 -10.523  31.741  1.00 22.44         B C  
+HETATM    8  CD2 ING A 999      54.790 -10.523  32.929  1.00 21.40         B C  
+HETATM    9  CE1 ING A 999      53.235 -11.047  30.559  1.00 22.07         B C  
+HETATM   10  CE2 ING A 999      55.433 -11.035  31.744  1.00 21.85         B C  
+HETATM   11  CZ  ING A 999      54.656 -11.286  30.554  1.00 22.85         B C  
+HETATM   12  OXT ING A 999      50.207 -11.655  34.321  1.00 19.34         B O  
+HETATM   13  C1  ING A 999      52.959 -11.599  37.334  1.00 17.35         B C  
+HETATM   14  N1  ING A 999      53.536 -11.300  38.543  1.00 14.51         B N  
+HETATM   15  O1  ING A 999      52.557 -12.721  37.102  1.00 18.62         B O  

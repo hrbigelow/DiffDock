@@ -1,0 +1,49 @@
+REMARK Selection '(segment A) and...d resnum `702`)'
+HETATM    1  N1  PQQ A 702      -1.174 122.593  27.596  1.00 21.91         A N  
+ANISOU    1  N1  PQQ A 702        0      0      0      0      0      0     A N  
+HETATM    2  C2  PQQ A 702      -2.141 121.688  27.956  1.00 19.53         A C  
+ANISOU    2  C2  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM    3  C2X PQQ A 702      -1.952 120.771  29.143  1.00 19.84         A C  
+ANISOU    3  C2X PQQ A 702        0      0      0      0      0      0     A C  
+HETATM    4  O2A PQQ A 702      -0.765 120.648  29.568  1.00 21.61         A O  
+ANISOU    4  O2A PQQ A 702        0      0      0      0      0      0     A O  
+HETATM    5  O2B PQQ A 702      -2.899 120.072  29.583  1.00 19.41         A O  
+ANISOU    5  O2B PQQ A 702        0      0      0      0      0      0     A O  
+HETATM    6  C3  PQQ A 702      -3.184 121.728  27.043  1.00 18.29         A C  
+ANISOU    6  C3  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM    7  C3A PQQ A 702      -2.858 122.677  26.132  1.00 22.54         A C  
+ANISOU    7  C3A PQQ A 702        0      0      0      0      0      0     A C  
+HETATM    8  C1A PQQ A 702      -1.604 123.227  26.475  1.00 19.13         A C  
+ANISOU    8  C1A PQQ A 702        0      0      0      0      0      0     A C  
+HETATM    9  C4  PQQ A 702      -3.588 123.169  24.911  1.00 19.41         A C  
+ANISOU    9  C4  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   10  O4  PQQ A 702      -4.658 122.688  24.652  1.00 22.30         A O  
+ANISOU   10  O4  PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   11  C5  PQQ A 702      -2.996 124.209  24.098  1.00 17.32         A C  
+ANISOU   11  C5  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   12  O5  PQQ A 702      -3.545 124.627  23.122  1.00 26.15         A O  
+ANISOU   12  O5  PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   13  C6A PQQ A 702      -1.667 124.788  24.473  1.00 15.34         A C  
+ANISOU   13  C6A PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   14  N6  PQQ A 702      -1.115 125.763  23.704  1.00 15.96         A N  
+ANISOU   14  N6  PQQ A 702        0      0      0      0      0      0     A N  
+HETATM   15  C7  PQQ A 702       0.100 126.293  24.020  1.00 15.18         A C  
+ANISOU   15  C7  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   16  C7X PQQ A 702       0.412 127.306  22.913  1.00 15.45         A C  
+ANISOU   16  C7X PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   17  O7A PQQ A 702      -0.361 127.464  21.908  1.00 18.57         A O  
+ANISOU   17  O7A PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   18  O7B PQQ A 702       1.518 127.903  22.961  1.00 16.13         A O  
+ANISOU   18  O7B PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   19  C8  PQQ A 702       0.798 125.822  25.153  1.00 18.34         A C  
+ANISOU   19  C8  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   20  C9  PQQ A 702       0.247 124.839  25.938  1.00 19.11         A C  
+ANISOU   20  C9  PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   21  C9X PQQ A 702       1.300 124.663  27.042  1.00 22.38         A C  
+ANISOU   21  C9X PQQ A 702        0      0      0      0      0      0     A C  
+HETATM   22  O9A PQQ A 702       2.374 125.323  27.034  1.00 20.09         A O  
+ANISOU   22  O9A PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   23  O9B PQQ A 702       1.049 123.891  28.007  1.00 19.47         A O  
+ANISOU   23  O9B PQQ A 702        0      0      0      0      0      0     A O  
+HETATM   24  C9A PQQ A 702      -0.976 124.317  25.617  1.00 19.42         A C  
+ANISOU   24  C9A PQQ A 702        0      0      0      0      0      0     A C  

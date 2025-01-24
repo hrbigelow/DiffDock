@@ -1,0 +1,10 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  N   ASP B 401      24.495  32.083  -3.730  1.00 35.67         A N  
+HETATM    2  CA  ASP B 401      23.895  32.956  -4.775  1.00 34.99         A C  
+HETATM    3  C   ASP B 401      24.059  34.385  -4.260  1.00 35.82         A C  
+HETATM    4  O   ASP B 401      25.025  35.136  -4.583  1.00 30.72         A O  
+HETATM    5  CB  ASP B 401      22.400  32.597  -4.995  1.00 34.05         A C  
+HETATM    6  CG  ASP B 401      21.748  33.336  -6.170  1.00 36.18         A C  
+HETATM    7  OD1 ASP B 401      20.731  32.721  -6.662  1.00 31.48         A O  
+HETATM    8  OD2 ASP B 401      22.209  34.486  -6.621  1.00 29.41         A O  
+HETATM    9  OXT ASP B 401      23.212  34.781  -3.465  1.00 28.21         A O  

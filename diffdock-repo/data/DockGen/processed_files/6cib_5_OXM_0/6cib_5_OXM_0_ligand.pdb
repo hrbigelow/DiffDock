@@ -1,0 +1,7 @@
+REMARK Selection '(segment A) and...d resnum `403`)'
+HETATM    1  C1  OXM E 403     -51.812  23.008  40.743  1.00 31.14         A C  
+HETATM    2  N1  OXM E 403     -52.182  21.815  41.217  1.00 30.63         A N  
+HETATM    3  O1  OXM E 403     -52.351  23.503  39.777  1.00 31.13         A O  
+HETATM    4  C2  OXM E 403     -50.735  23.737  41.423  1.00 31.06         A C  
+HETATM    5  O2  OXM E 403     -50.204  24.738  40.897  1.00 29.20         A O  
+HETATM    6  O3  OXM E 403     -50.374  23.323  42.542  1.00 29.19         A O  

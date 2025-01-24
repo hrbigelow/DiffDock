@@ -1,0 +1,153 @@
+[
+  {
+    "complex_name": "1a0q_dup1",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup2",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup3",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup4",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup5",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup6",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup7",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup8",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup9",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup10",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup11",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup12",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup13",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup14",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup15",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup16",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup17",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup18",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup19",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup20",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup21",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup22",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup23",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup24",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup25",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup26",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup27",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup28",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup29",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  },
+  {
+    "complex_name": "1a0q_dup30",
+    "protein_path": "./data/1a0q/1a0q_protein_processed.pdb",
+    "ligand_description": "./data/1a0q/1a0q_ligand.sdf"
+  }
+]
+

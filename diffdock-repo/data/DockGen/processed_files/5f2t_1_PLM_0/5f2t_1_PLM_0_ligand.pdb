@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  C1  PLM A 401      60.283  40.228  19.137  1.00 74.29         A C  
+HETATM    2  O1  PLM A 401      59.433  40.760  19.902  1.00 50.61         A O  
+HETATM    3  O2  PLM A 401      60.206  40.012  17.895  1.00 81.83         A O  
+HETATM    4  C2  PLM A 401      61.612  39.790  19.846  1.00 61.42         A C  
+HETATM    5  C3  PLM A 401      62.532  40.935  20.268  1.00 53.47         A C  
+HETATM    6  C4  PLM A 401      63.041  40.841  21.712  1.00 36.57         A C  
+HETATM    7  C5  PLM A 401      64.322  40.023  21.869  1.00 31.57         A C  
+HETATM    8  C6  PLM A 401      65.146  40.424  23.094  1.00 30.67         A C  
+HETATM    9  C7  PLM A 401      64.484  40.085  24.430  1.00 23.53         A C  
+HETATM   10  C8  PLM A 401      65.370  40.391  25.640  1.00 30.40         A C  
+HETATM   11  C9  PLM A 401      64.731  40.043  26.984  1.00 25.71         A C  
+HETATM   12  CA  PLM A 401      65.680  40.215  28.170  1.00 24.06         A C  
+HETATM   13  CB  PLM A 401      65.103  39.741  29.509  1.00 24.34         A C  
+HETATM   14  CC  PLM A 401      66.068  39.937  30.676  1.00 21.38         A C  
+HETATM   15  CD  PLM A 401      65.461  39.648  32.051  1.00 21.95         A C  
+HETATM   16  CE  PLM A 401      66.482  39.727  33.191  1.00 34.87         A C  
+HETATM   17  CF  PLM A 401      65.922  39.329  34.555  1.00 33.31         A C  
+HETATM   18  CG  PLM A 401      64.884  40.319  35.094  1.00 42.58         A C  

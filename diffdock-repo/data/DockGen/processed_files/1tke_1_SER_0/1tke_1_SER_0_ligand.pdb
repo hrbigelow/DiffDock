@@ -1,0 +1,8 @@
+REMARK Selection '(segment A) and...d resnum `500`)'
+HETATM    1  N   SER A 500      15.709   6.308  44.381  1.00  6.41         A N  
+HETATM    2  CA  SER A 500      14.886   6.687  43.188  1.00  6.97         A C  
+HETATM    3  C   SER A 500      13.739   7.615  43.589  1.00  7.58         A C  
+HETATM    4  O   SER A 500      13.187   8.302  42.699  1.00 10.14         A O  
+HETATM    5  CB  SER A 500      14.330   5.429  42.516  1.00  4.95         A C  
+HETATM    6  OG  SER A 500      13.526   4.690  43.401  1.00  6.38         A O  
+HETATM    7  OXT SER A 500      13.406   7.640  44.791  1.00  7.93         A O  

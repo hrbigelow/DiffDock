@@ -1,0 +1,8 @@
+REMARK Selection '(segment A) and...d resnum `702`)'
+HETATM    1  C4  CHT A 702      38.094 -42.712  10.890  1.00 40.90         A C  
+HETATM    2  C5  CHT A 702      37.055 -43.831  10.958  1.00 38.11         A C  
+HETATM    3  C6  CHT A 702      37.475 -46.051  11.736  1.00 35.73         A C  
+HETATM    4  C7  CHT A 702      35.718 -44.731  12.693  1.00 37.19         A C  
+HETATM    5  C8  CHT A 702      37.926 -44.262  13.270  1.00 35.53         A C  
+HETATM    6  O6  CHT A 702      39.414 -43.190  11.170  1.00 45.93         A O  
+HETATM    7  N1  CHT A 702      37.074 -44.704  12.153  1.00 36.48         A N  

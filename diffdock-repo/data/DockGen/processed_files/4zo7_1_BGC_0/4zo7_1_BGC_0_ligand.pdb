@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and...d resnum `801`)'
+HETATM    1  C2  BGC A 801     -38.337 -25.182 -17.999  1.00 25.15         A C  
+ANISOU    1  C2  BGC A 801     3026   3176   3353    -31   -122     68     A C  
+HETATM    2  C3  BGC A 801     -38.504 -25.937 -16.667  1.00 23.32         A C  
+ANISOU    2  C3  BGC A 801     2928   2954   2978    507     25    -13     A C  
+HETATM    3  C4  BGC A 801     -39.439 -27.122 -16.847  1.00 21.35         A C  
+ANISOU    3  C4  BGC A 801     2658   2770   2682    346    286    214     A C  
+HETATM    4  C5  BGC A 801     -38.972 -27.960 -18.053  1.00 22.86         A C  
+ANISOU    4  C5  BGC A 801     2949   3242   2493   -289    -11    -25     A C  
+HETATM    5  C6  BGC A 801     -39.823 -29.200 -18.296  1.00 19.91         A C  
+ANISOU    5  C6  BGC A 801     2690   2526   2346    106    173    -74     A C  
+HETATM    6  C1  BGC A 801     -37.872 -26.130 -19.109  1.00 24.16         A C  
+ANISOU    6  C1  BGC A 801     2740   3598   2839    -54   -395   -126     A C  
+HETATM    7  O1  BGC A 801     -37.642 -25.404 -20.331  1.00 27.28         A O  
+ANISOU    7  O1  BGC A 801     3281   3220   3864  -1055  -1019    535     A O  
+HETATM    8  O2  BGC A 801     -37.388 -24.131 -17.854  1.00 27.28         A O  
+ANISOU    8  O2  BGC A 801     3405   3162   3796   -191   -552   -847     A O  
+HETATM    9  O3  BGC A 801     -38.911 -25.058 -15.612  1.00 22.15         A O  
+ANISOU    9  O3  BGC A 801     2459   3320   2635    199   -792   -164     A O  
+HETATM   10  O4  BGC A 801     -39.305 -28.000 -15.730  1.00 18.50         A O  
+ANISOU   10  O4  BGC A 801     2297   2925   1805    322    984   -136     A O  
+HETATM   11  O5  BGC A 801     -38.862 -27.162 -19.241  1.00 23.15         A O  
+ANISOU   11  O5  BGC A 801     3054   2876   2866    324   -833    334     A O  
+HETATM   12  O6  BGC A 801     -39.260 -29.921 -19.387  1.00 14.47         A O  
+ANISOU   12  O6  BGC A 801     2003   1192   2302    412   -115    188     A O  

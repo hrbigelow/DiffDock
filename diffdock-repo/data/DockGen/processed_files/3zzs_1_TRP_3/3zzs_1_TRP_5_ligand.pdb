@@ -1,0 +1,31 @@
+REMARK Selection '(segment C) and... resnum `1072`)'
+HETATM    1  N   TRP B1072     -25.921 -12.282 -11.139  1.00  9.05         C N  
+ANISOU    1  N   TRP B1072     1109   1317   1013    196    139    171     C N  
+HETATM    2  CA  TRP B1072     -25.698 -11.301 -10.044  1.00  8.41         C C  
+ANISOU    2  CA  TRP B1072     1057   1174    964    217     70    160     C C  
+HETATM    3  C   TRP B1072     -24.535 -10.386 -10.399  1.00  8.51         C C  
+ANISOU    3  C   TRP B1072     1049   1113   1071    181    122    200     C C  
+HETATM    4  O   TRP B1072     -23.514 -10.857 -10.909  1.00  8.97         C O  
+ANISOU    4  O   TRP B1072     1130   1122   1154     95     68    212     C O  
+HETATM    5  CB  TRP B1072     -25.427 -12.023  -8.730  1.00  8.35         C C  
+ANISOU    5  CB  TRP B1072      954   1146   1071    290    -40    211     C C  
+HETATM    6  CG  TRP B1072     -25.268 -11.117  -7.575  1.00  8.37         C C  
+ANISOU    6  CG  TRP B1072     1180   1168    829     94    -61    245     C C  
+HETATM    7  CD1 TRP B1072     -24.095 -10.621  -7.074  1.00  9.31         C C  
+ANISOU    7  CD1 TRP B1072     1332   1190   1013     79    -21    164     C C  
+HETATM    8  CD2 TRP B1072     -26.315 -10.551  -6.767  1.00  8.74         C C  
+ANISOU    8  CD2 TRP B1072     1251   1134    936     65    102    178     C C  
+HETATM    9  NE1 TRP B1072     -24.348  -9.790  -6.011  1.00  8.82         C N  
+ANISOU    9  NE1 TRP B1072     1251   1058   1041     79    -50    107     C N  
+HETATM   10  CE2 TRP B1072     -25.698  -9.732  -5.800  1.00  8.95         C C  
+ANISOU   10  CE2 TRP B1072     1232   1083   1083    118    127    191     C C  
+HETATM   11  CE3 TRP B1072     -27.710 -10.667  -6.759  1.00 10.16         C C  
+ANISOU   11  CE3 TRP B1072     1595   1158   1106    173     73    141     C C  
+HETATM   12  CZ2 TRP B1072     -26.425  -9.038  -4.836  1.00  9.33         C C  
+ANISOU   12  CZ2 TRP B1072     1196   1205   1144     90    108    279     C C  
+HETATM   13  CZ3 TRP B1072     -28.431  -9.971  -5.796  1.00  9.56         C C  
+ANISOU   13  CZ3 TRP B1072     1388   1007   1237     99    -21    132     C C  
+HETATM   14  CH2 TRP B1072     -27.787  -9.165  -4.857  1.00  9.64         C C  
+ANISOU   14  CH2 TRP B1072     1312   1196   1152     38    168    383     C C  
+HETATM   15  OXT TRP B1072     -24.621  -9.176 -10.184  1.00  9.68         C O  
+ANISOU   15  OXT TRP B1072     1071   1243   1363    119    135    153     C O  

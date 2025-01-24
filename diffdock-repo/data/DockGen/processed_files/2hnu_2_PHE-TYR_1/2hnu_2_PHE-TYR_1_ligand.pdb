@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and... resnum `1to2`)'
+HETATM    1  N   PHE D   1      37.081  40.468  59.742  1.00 43.05         A N  
+HETATM    2  CA  PHE D   1      36.212  39.983  58.638  1.00 42.41         A C  
+HETATM    3  C   PHE D   1      36.170  38.463  58.664  1.00 42.15         A C  
+HETATM    4  O   PHE D   1      36.985  37.821  59.333  1.00 42.47         A O  
+HETATM    5  CB  PHE D   1      36.749  40.477  57.291  1.00 45.75         A C  
+HETATM    6  CG  PHE D   1      38.111  39.938  56.941  1.00 46.66         A C  
+HETATM    7  CD1 PHE D   1      38.243  38.750  56.230  1.00 46.94         A C  
+HETATM    8  CD2 PHE D   1      39.263  40.622  57.322  1.00 46.93         A C  
+HETATM    9  CE1 PHE D   1      39.503  38.249  55.899  1.00 48.29         A C  
+HETATM   10  CE2 PHE D   1      40.527  40.130  56.998  1.00 46.86         A C  
+HETATM   11  CZ  PHE D   1      40.647  38.942  56.284  1.00 47.74         A C  
+HETATM   12  N   TYR D   2      35.217  37.887  57.942  1.00 39.73         A N  
+HETATM   13  CA  TYR D   2      35.082  36.439  57.896  1.00 40.01         A C  
+HETATM   14  C   TYR D   2      35.997  35.846  56.842  1.00 41.65         A C  
+HETATM   15  O   TYR D   2      36.682  34.850  57.159  1.00 44.33         A O  
+HETATM   16  CB  TYR D   2      33.633  36.052  57.605  1.00 34.14         A C  
+HETATM   17  CG  TYR D   2      32.671  36.641  58.603  1.00 32.73         A C  
+HETATM   18  CD1 TYR D   2      31.939  37.787  58.301  1.00 30.26         A C  
+HETATM   19  CD2 TYR D   2      32.535  36.083  59.877  1.00 31.18         A C  
+HETATM   20  CE1 TYR D   2      31.096  38.368  59.245  1.00 29.82         A C  
+HETATM   21  CE2 TYR D   2      31.695  36.659  60.829  1.00 29.59         A C  
+HETATM   22  CZ  TYR D   2      30.983  37.796  60.507  1.00 27.39         A C  
+HETATM   23  OH  TYR D   2      30.168  38.375  61.443  1.00 29.27         A O  
+HETATM   24  OXT TYR D   2      36.006  36.380  55.713  1.00 38.80         A O  

@@ -1,0 +1,17 @@
+REMARK Selection '(segment A) and... resnum `1254`)'
+HETATM    1  C1  OCT A1254      -0.353 -12.179 -29.072  1.00 22.67         A C  
+ANISOU    1  C1  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    2  C2  OCT A1254       0.307 -13.515 -29.336  1.00 28.17         A C  
+ANISOU    2  C2  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    3  C3  OCT A1254       1.435 -13.393 -30.358  1.00 27.56         A C  
+ANISOU    3  C3  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    4  C4  OCT A1254       1.060 -14.067 -31.669  1.00 31.75         A C  
+ANISOU    4  C4  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    5  C5  OCT A1254       2.110 -13.792 -32.736  1.00 14.41         A C  
+ANISOU    5  C5  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    6  C6  OCT A1254       1.673 -14.270 -34.115  1.00 24.61         A C  
+ANISOU    6  C6  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    7  C7  OCT A1254       2.685 -15.240 -34.717  1.00 29.02         A C  
+ANISOU    7  C7  OCT A1254        0      0      0      0      0      0     A C  
+HETATM    8  C8  OCT A1254       2.222 -15.699 -36.083  1.00 28.60         A C  
+ANISOU    8  C8  OCT A1254        0      0      0      0      0      0     A C  

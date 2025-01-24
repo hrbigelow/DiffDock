@@ -1,0 +1,49 @@
+REMARK Selection '(segment A) and... resnum `1305`)'
+HETATM    1  C11 43Y A1305      20.842   3.557  47.033  1.00 59.39         A C  
+ANISOU    1  C11 43Y A1305        0      0      0      0      0      0     A C  
+HETATM    2  O11 43Y A1305      20.394   2.662  46.316  1.00 60.40         A O  
+ANISOU    2  O11 43Y A1305        0      0      0      0      0      0     A O  
+HETATM    3  O3  43Y A1305      22.128   3.594  47.481  1.00 61.69         A O  
+ANISOU    3  O3  43Y A1305        0      0      0      0      0      0     A O  
+HETATM    4  C3  43Y A1305      22.431   2.418  48.240  1.00 61.79         A C  
+ANISOU    4  C3  43Y A1305        0      0      0      0      0      0     A C  
+HETATM    5  C2  43Y A1305      21.516   2.356  49.475  1.00 61.75         A C  
+ANISOU    5  C2  43Y A1305        0      0      0      0      0      0     A C  
+HETATM    6  C1  43Y A1305      21.924   1.184  50.364  1.00 60.86         A C  
+ANISOU    6  C1  43Y A1305        0      0      0      0      0      0     A C  
+HETATM    7  O3P 43Y A1305      22.231   0.053  49.553  1.00 59.55         A O  
+ANISOU    7  O3P 43Y A1305        0      0      0      0      0      0     A O  
+HETATM    8  P   43Y A1305      21.828  -1.433  50.062  1.00 33.63         A P  
+ANISOU    8  P   43Y A1305        0      0      0      0      0      0     A P  
+HETATM    9  O1P 43Y A1305      20.212  -1.487  49.970  1.00 34.45         A O  
+ANISOU    9  O1P 43Y A1305        0      0      0      0      0      0     A O  
+HETATM   10  O2P 43Y A1305      22.339  -1.702  51.428  1.00 32.57         A O  
+ANISOU   10  O2P 43Y A1305        0      0      0      0      0      0     A O  
+HETATM   11  O4P 43Y A1305      22.384  -2.447  48.954  1.00 40.44         A O  
+ANISOU   11  O4P 43Y A1305        0      0      0      0      0      0     A O  
+HETATM   12  C4  43Y A1305      23.710  -2.247  48.475  1.00 39.87         A C  
+ANISOU   12  C4  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   13  C5  43Y A1305      23.987  -3.186  47.301  1.00 41.11         A C  
+ANISOU   13  C5  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   14  N   43Y A1305      25.342  -3.750  47.391  1.00 43.85         A N  
+ANISOU   14  N   43Y A1305        0      0      0      0      0      0     A N  
+HETATM   15  C7  43Y A1305      25.764  -4.204  46.057  1.00 44.89         A C  
+ANISOU   15  C7  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   16  C8  43Y A1305      25.330  -4.885  48.329  1.00 42.95         A C  
+ANISOU   16  C8  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   17  C6  43Y A1305      26.291  -2.729  47.867  1.00 44.02         A C  
+ANISOU   17  C6  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   18  O2  43Y A1305      21.504   3.608  50.214  1.00 61.84         A O  
+ANISOU   18  O2  43Y A1305        0      0      0      0      0      0     A O  
+HETATM   19  C31 43Y A1305      22.689   4.053  50.739  1.00 61.43         A C  
+ANISOU   19  C31 43Y A1305        0      0      0      0      0      0     A C  
+HETATM   20  O31 43Y A1305      23.640   4.454  50.069  1.00 62.43         A O  
+ANISOU   20  O31 43Y A1305        0      0      0      0      0      0     A O  
+HETATM   21  C32 43Y A1305      22.765   4.087  52.273  1.00 60.81         A C  
+ANISOU   21  C32 43Y A1305        0      0      0      0      0      0     A C  
+HETATM   22  C33 43Y A1305      21.531   4.777  52.861  1.00 59.93         A C  
+ANISOU   22  C33 43Y A1305        0      0      0      0      0      0     A C  
+HETATM   23  C9  43Y A1305      19.962   4.738  47.474  1.00 55.54         A C  
+ANISOU   23  C9  43Y A1305        0      0      0      0      0      0     A C  
+HETATM   24  C10 43Y A1305      18.485   4.356  47.353  1.00 53.72         A C  
+ANISOU   24  C10 43Y A1305        0      0      0      0      0      0     A C  

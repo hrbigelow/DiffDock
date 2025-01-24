@@ -1,0 +1,97 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  PA  NDP A 602      59.624  37.477   1.233  1.00 25.20         A P  
+ANISOU    1  PA  NDP A 602     3204   3325   3048   -267   -472    297     A P  
+HETATM    2  O1A NDP A 602      58.074  37.494   1.179  1.00 18.94         A O  
+ANISOU    2  O1A NDP A 602     2409   2486   2301   -185   -441    507     A O  
+HETATM    3  O2A NDP A 602      60.384  36.178   1.313  1.00 21.49         A O  
+ANISOU    3  O2A NDP A 602     2656   2935   2575   -279   -570    149     A O  
+HETATM    4  O5B NDP A 602      60.014  38.272   2.578  1.00 26.44         A O  
+ANISOU    4  O5B NDP A 602     3472   3381   3192   -200   -413    245     A O  
+HETATM    5  C5B NDP A 602      59.208  39.337   3.020  1.00 20.77         A C  
+ANISOU    5  C5B NDP A 602     2839   2562   2489   -141   -325    377     A C  
+HETATM    6  C4B NDP A 602      59.944  39.955   4.183  1.00 23.53         A C  
+ANISOU    6  C4B NDP A 602     3282   2842   2816   -105   -285    277     A C  
+HETATM    7  O4B NDP A 602      59.561  41.338   4.399  1.00 21.20         A O  
+ANISOU    7  O4B NDP A 602     3079   2456   2520    -88   -191    363     A O  
+HETATM    8  C3B NDP A 602      59.680  39.158   5.471  1.00 21.81         A C  
+ANISOU    8  C3B NDP A 602     3086   2582   2617      9   -308    264     A C  
+HETATM    9  O3B NDP A 602      60.897  38.650   5.969  1.00 28.88         A O  
+ANISOU    9  O3B NDP A 602     3982   3505   3484     -9   -368     78     A O  
+HETATM   10  C2B NDP A 602      59.107  40.158   6.479  1.00 25.00         A C  
+ANISOU   10  C2B NDP A 602     3595   2870   3032     92   -214    346     A C  
+HETATM   11  O2B NDP A 602      59.735  40.062   7.724  1.00 24.91         A O  
+ANISOU   11  O2B NDP A 602     3652   2810   3002    143   -217    240     A O  
+HETATM   12  C1B NDP A 602      59.468  41.487   5.825  1.00 20.26         A C  
+ANISOU   12  C1B NDP A 602     3035   2252   2409     15   -155    351     A C  
+HETATM   13  N9A NDP A 602      58.554  42.602   6.104  1.00 31.87         A N  
+ANISOU   13  N9A NDP A 602     4577   3628   3905     70    -66    490     A N  
+HETATM   14  C8A NDP A 602      57.212  42.562   6.289  1.00 34.99         A C  
+ANISOU   14  C8A NDP A 602     4965   3978   4350    155    -36    645     A C  
+HETATM   15  N7A NDP A 602      56.746  43.804   6.545  1.00 27.16         A N  
+ANISOU   15  N7A NDP A 602     4049   2898   3373    187     44    724     A N  
+HETATM   16  C5A NDP A 602      57.805  44.628   6.507  1.00 31.05         A C  
+ANISOU   16  C5A NDP A 602     4601   3377   3819    120     64    624     A C  
+HETATM   17  C6A NDP A 602      58.060  46.053   6.682  1.00 29.33         A C  
+ANISOU   17  C6A NDP A 602     4478   3081   3584    105    134    627     A C  
+HETATM   18  N6A NDP A 602      57.030  46.852   6.954  1.00 22.64         A N  
+ANISOU   18  N6A NDP A 602     3676   2146   2779    177    194    758     A N  
+HETATM   19  N1A NDP A 602      59.313  46.529   6.578  1.00 43.24         A N  
+ANISOU   19  N1A NDP A 602     6280   4859   5291     19    135    494     A N  
+HETATM   20  C2A NDP A 602      60.343  45.738   6.291  1.00 21.92         A C  
+ANISOU   20  C2A NDP A 602     3525   2247   2555    -53     73    351     A C  
+HETATM   21  N3A NDP A 602      60.198  44.431   6.142  1.00 22.68         A N  
+ANISOU   21  N3A NDP A 602     3534   2417   2669    -39      2    335     A N  
+HETATM   22  C4A NDP A 602      58.993  43.836   6.232  1.00 37.83         A C  
+ANISOU   22  C4A NDP A 602     5413   4326   4636     42     -5    467     A C  
+HETATM   23  O3  NDP A 602      60.024  38.397  -0.014  1.00 22.50         A O  
+ANISOU   23  O3  NDP A 602     2863   3017   2668   -403   -440    293     A O  
+HETATM   24  PN  NDP A 602      61.543  38.569  -0.612  1.00 22.79         A P  
+ANISOU   24  PN  NDP A 602     2878   3130   2649   -546   -459     92     A P  
+HETATM   25  O1N NDP A 602      62.523  37.988   0.381  1.00 19.33         A O  
+ANISOU   25  O1N NDP A 602     2435   2700   2210   -507   -501    -87     A O  
+HETATM   26  O2N NDP A 602      61.517  38.139  -2.066  1.00 19.59         A O  
+ANISOU   26  O2N NDP A 602     2386   2827   2232   -660   -499    105     A O  
+HETATM   27  O5D NDP A 602      61.697  40.145  -0.428  1.00 23.63         A O  
+ANISOU   27  O5D NDP A 602     3101   3151   2723   -574   -364    122     A O  
+HETATM   28  C5D NDP A 602      60.792  41.001  -1.109  1.00 29.73         A C  
+ANISOU   28  C5D NDP A 602     3920   3879   3498   -594   -317    292     A C  
+HETATM   29  C4D NDP A 602      60.879  42.301  -0.379  1.00 21.12         A C  
+ANISOU   29  C4D NDP A 602     2950   2682   2393   -563   -237    311     A C  
+HETATM   30  O4D NDP A 602      60.712  42.011   1.036  1.00 27.71         A O  
+ANISOU   30  O4D NDP A 602     3811   3454   3261   -427   -228    297     A O  
+HETATM   31  C3D NDP A 602      62.232  43.058  -0.499  1.00 29.16         A C  
+ANISOU   31  C3D NDP A 602     4017   3716   3348   -680   -206    147     A C  
+HETATM   32  O3D NDP A 602      62.245  43.867  -1.636  1.00 22.24         A O  
+ANISOU   32  O3D NDP A 602     3174   2847   2428   -805   -180    195     A O  
+HETATM   33  C2D NDP A 602      62.282  43.819   0.848  1.00 27.45         A C  
+ANISOU   33  C2D NDP A 602     3900   3390   3141   -581   -146    142     A C  
+HETATM   34  O2D NDP A 602      61.782  45.150   0.681  1.00 30.54         A O  
+ANISOU   34  O2D NDP A 602     4391   3694   3521   -590    -78    261     A O  
+HETATM   35  C1D NDP A 602      61.437  42.941   1.830  1.00 34.57         A C  
+ANISOU   35  C1D NDP A 602     4772   4259   4102   -424   -172    212     A C  
+HETATM   36  N1N NDP A 602      62.360  42.298   2.773  1.00 32.31         A N  
+ANISOU   36  N1N NDP A 602     4474   3990   3810   -391   -207     45     A N  
+HETATM   37  C2N NDP A 602      63.266  41.414   2.369  1.00 20.52         A C  
+ANISOU   37  C2N NDP A 602     2897   2596   2302   -460   -278   -108     A C  
+HETATM   38  C3N NDP A 602      64.166  40.822   3.232  1.00 31.62         A C  
+ANISOU   38  C3N NDP A 602     4294   4013   3706   -426   -324   -275     A C  
+HETATM   39  C7N NDP A 602      65.213  39.861   2.764  1.00 34.56         A C  
+ANISOU   39  C7N NDP A 602     4568   4494   4069   -502   -411   -462     A C  
+HETATM   40  O7N NDP A 602      66.263  39.846   3.358  1.00 21.15         A O  
+ANISOU   40  O7N NDP A 602     2882   2796   2358   -509   -431   -634     A O  
+HETATM   41  N7N NDP A 602      65.055  39.066   1.715  1.00 23.33         A N  
+ANISOU   41  N7N NDP A 602     3044   3166   2655   -564   -466   -453     A N  
+HETATM   42  C4N NDP A 602      64.160  41.123   4.696  1.00 28.57         A C  
+ANISOU   42  C4N NDP A 602     3998   3527   3330   -313   -294   -285     A C  
+HETATM   43  C5N NDP A 602      63.109  42.090   5.019  1.00 22.38         A C  
+ANISOU   43  C5N NDP A 602     3298   2645   2559   -248   -207   -106     A C  
+HETATM   44  C6N NDP A 602      62.269  42.636   4.053  1.00 31.11         A C  
+ANISOU   44  C6N NDP A 602     4399   3751   3672   -288   -168     46     A C  
+HETATM   45  P2B NDP A 602      59.155  39.104   8.858  1.00 26.95         A P  
+ANISOU   45  P2B NDP A 602     3931   3031   3276    247   -242    266     A P  
+HETATM   46  O1X NDP A 602      59.779  39.595  10.162  1.00 27.44         A O  
+ANISOU   46  O1X NDP A 602     4102   3011   3312    293   -211    176     A O  
+HETATM   47  O2X NDP A 602      59.639  37.744   8.463  1.00 29.12         A O  
+ANISOU   47  O2X NDP A 602     4123   3395   3546    216   -358    176     A O  
+HETATM   48  O3X NDP A 602      57.658  39.394   8.808  1.00 26.71         A O  
+ANISOU   48  O3X NDP A 602     3899   2959   3289    307   -174    457     A O  

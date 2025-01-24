@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and... resnum `2700`)'
+HETATM    1  O1  FUM C2700      51.877 -22.253  15.813  1.00 37.02         A O  
+HETATM    2  C2  FUM C2700      52.670 -22.522  14.853  1.00 37.52         A C  
+HETATM    3  O3  FUM C2700      52.933 -23.686  14.568  1.00 34.94         A O  
+HETATM    4  C4  FUM C2700      53.277 -21.362  14.078  1.00 38.12         A C  
+HETATM    5  C5  FUM C2700      53.571 -21.429  12.710  1.00 39.59         A C  
+HETATM    6  C6  FUM C2700      54.185 -20.241  11.928  1.00 40.53         A C  
+HETATM    7  O7  FUM C2700      54.400 -20.454  10.691  1.00 42.51         A O  
+HETATM    8  O8  FUM C2700      54.446 -19.157  12.485  1.00 41.33         A O  

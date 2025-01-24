@@ -1,0 +1,89 @@
+REMARK Selection '(segment A) and... resnum `4005`)'
+HETATM    1  PA  NAD E4005     -11.686 135.819  32.698  1.00 34.99         A P  
+ANISOU    1  PA  NAD E4005        0      0      0      0      0      0     A P  
+HETATM    2  O1A NAD E4005     -12.345 135.566  34.089  1.00107.54         A O  
+ANISOU    2  O1A NAD E4005        0      0      0      0      0      0     A O  
+HETATM    3  O2A NAD E4005     -12.632 135.978  31.463  1.00126.85         A O  
+ANISOU    3  O2A NAD E4005        0      0      0      0      0      0     A O  
+HETATM    4  O5B NAD E4005     -10.196 136.360  32.604  1.00 54.85         A O  
+ANISOU    4  O5B NAD E4005        0      0      0      0      0      0     A O  
+HETATM    5  C5B NAD E4005      -9.497 136.855  33.707  1.00 51.76         A C  
+ANISOU    5  C5B NAD E4005        0      0      0      0      0      0     A C  
+HETATM    6  C4B NAD E4005      -7.990 136.981  33.619  1.00 51.19         A C  
+ANISOU    6  C4B NAD E4005        0      0      0      0      0      0     A C  
+HETATM    7  O4B NAD E4005      -7.350 135.766  33.936  1.00 49.24         A O  
+ANISOU    7  O4B NAD E4005        0      0      0      0      0      0     A O  
+HETATM    8  C3B NAD E4005      -7.508 137.408  32.266  1.00 53.18         A C  
+ANISOU    8  C3B NAD E4005        0      0      0      0      0      0     A C  
+HETATM    9  O3B NAD E4005      -6.677 138.517  32.333  1.00 48.17         A O  
+ANISOU    9  O3B NAD E4005        0      0      0      0      0      0     A O  
+HETATM   10  C2B NAD E4005      -6.829 136.228  31.732  1.00 51.65         A C  
+ANISOU   10  C2B NAD E4005        0      0      0      0      0      0     A C  
+HETATM   11  O2B NAD E4005      -5.714 136.524  30.967  1.00 50.59         A O  
+ANISOU   11  O2B NAD E4005        0      0      0      0      0      0     A O  
+HETATM   12  C1B NAD E4005      -6.446 135.447  32.949  1.00 48.89         A C  
+ANISOU   12  C1B NAD E4005        0      0      0      0      0      0     A C  
+HETATM   13  N9A NAD E4005      -6.491 134.038  32.661  1.00 48.98         A N  
+ANISOU   13  N9A NAD E4005        0      0      0      0      0      0     A N  
+HETATM   14  C8A NAD E4005      -7.591 133.344  32.313  1.00 47.38         A C  
+ANISOU   14  C8A NAD E4005        0      0      0      0      0      0     A C  
+HETATM   15  N7A NAD E4005      -7.237 132.061  32.153  1.00 50.42         A N  
+ANISOU   15  N7A NAD E4005        0      0      0      0      0      0     A N  
+HETATM   16  C5A NAD E4005      -5.919 131.960  32.387  1.00 52.46         A C  
+ANISOU   16  C5A NAD E4005        0      0      0      0      0      0     A C  
+HETATM   17  C6A NAD E4005      -5.002 130.910  32.369  1.00 51.92         A C  
+ANISOU   17  C6A NAD E4005        0      0      0      0      0      0     A C  
+HETATM   18  N6A NAD E4005      -5.475 129.607  32.011  1.00 51.71         A N  
+ANISOU   18  N6A NAD E4005        0      0      0      0      0      0     A N  
+HETATM   19  N1A NAD E4005      -3.709 131.134  32.673  1.00 51.72         A N  
+ANISOU   19  N1A NAD E4005        0      0      0      0      0      0     A N  
+HETATM   20  C2A NAD E4005      -3.287 132.372  32.990  1.00 48.16         A C  
+ANISOU   20  C2A NAD E4005        0      0      0      0      0      0     A C  
+HETATM   21  N3A NAD E4005      -4.126 133.420  33.020  1.00 46.04         A N  
+ANISOU   21  N3A NAD E4005        0      0      0      0      0      0     A N  
+HETATM   22  C4A NAD E4005      -5.426 133.229  32.723  1.00 50.53         A C  
+ANISOU   22  C4A NAD E4005        0      0      0      0      0      0     A C  
+HETATM   23  O3  NAD E4005     -11.988 137.358  32.939  1.00275.56         A O  
+ANISOU   23  O3  NAD E4005        0      0      0      0      0      0     A O  
+HETATM   24  PN  NAD E4005     -13.333 137.983  33.478  1.00 42.01         A P  
+ANISOU   24  PN  NAD E4005        0      0      0      0      0      0     A P  
+HETATM   25  O1N NAD E4005     -13.442 137.856  34.988  1.00 42.13         A O  
+ANISOU   25  O1N NAD E4005        0      0      0      0      0      0     A O  
+HETATM   26  O2N NAD E4005     -14.529 137.333  32.823  1.00 41.26         A O  
+ANISOU   26  O2N NAD E4005        0      0      0      0      0      0     A O  
+HETATM   27  O5D NAD E4005     -13.330 139.511  33.122  1.00 53.55         A O  
+ANISOU   27  O5D NAD E4005        0      0      0      0      0      0     A O  
+HETATM   28  C5D NAD E4005     -13.752 139.933  31.862  1.00 53.03         A C  
+ANISOU   28  C5D NAD E4005        0      0      0      0      0      0     A C  
+HETATM   29  C4D NAD E4005     -13.816 141.426  31.615  1.00 50.42         A C  
+ANISOU   29  C4D NAD E4005        0      0      0      0      0      0     A C  
+HETATM   30  O4D NAD E4005     -14.995 141.951  32.114  1.00 48.95         A O  
+ANISOU   30  O4D NAD E4005        0      0      0      0      0      0     A O  
+HETATM   31  C3D NAD E4005     -12.658 142.185  32.235  1.00 48.08         A C  
+ANISOU   31  C3D NAD E4005        0      0      0      0      0      0     A C  
+HETATM   32  O3D NAD E4005     -11.944 142.842  31.264  1.00 44.32         A O  
+ANISOU   32  O3D NAD E4005        0      0      0      0      0      0     A O  
+HETATM   33  C2D NAD E4005     -13.245 143.122  33.226  1.00 44.35         A C  
+ANISOU   33  C2D NAD E4005        0      0      0      0      0      0     A C  
+HETATM   34  O2D NAD E4005     -12.622 144.353  33.283  1.00 35.00         A O  
+ANISOU   34  O2D NAD E4005        0      0      0      0      0      0     A O  
+HETATM   35  C1D NAD E4005     -14.674 143.243  32.778  1.00 47.94         A C  
+ANISOU   35  C1D NAD E4005        0      0      0      0      0      0     A C  
+HETATM   36  N1N NAD E4005     -15.701 143.777  33.804  1.00 48.03         A N  
+ANISOU   36  N1N NAD E4005        0      0      0      0      0      0     A N  
+HETATM   37  C2N NAD E4005     -16.115 145.056  33.736  1.00 47.85         A C  
+ANISOU   37  C2N NAD E4005        0      0      0      0      0      0     A C  
+HETATM   38  C3N NAD E4005     -17.033 145.560  34.674  1.00 51.60         A C  
+ANISOU   38  C3N NAD E4005        0      0      0      0      0      0     A C  
+HETATM   39  C7N NAD E4005     -17.522 146.981  34.619  1.00 50.63         A C  
+ANISOU   39  C7N NAD E4005        0      0      0      0      0      0     A C  
+HETATM   40  O7N NAD E4005     -18.610 147.278  35.113  1.00 52.89         A O  
+ANISOU   40  O7N NAD E4005        0      0      0      0      0      0     A O  
+HETATM   41  N7N NAD E4005     -16.725 148.001  33.994  1.00 45.18         A N  
+ANISOU   41  N7N NAD E4005        0      0      0      0      0      0     A N  
+HETATM   42  C4N NAD E4005     -17.497 144.692  35.682  1.00 52.62         A C  
+ANISOU   42  C4N NAD E4005        0      0      0      0      0      0     A C  
+HETATM   43  C5N NAD E4005     -17.043 143.365  35.728  1.00 51.18         A C  
+ANISOU   43  C5N NAD E4005        0      0      0      0      0      0     A C  
+HETATM   44  C6N NAD E4005     -16.128 142.930  34.758  1.00 48.68         A C  
+ANISOU   44  C6N NAD E4005        0      0      0      0      0      0     A C  

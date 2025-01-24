@@ -1,0 +1,4517 @@
+[
+  {
+    "complex_name": "4i4i_1_PEP_2_0",
+    "protein_path": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4i4i_1_PEP_2_1",
+    "protein_path": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4i4i_1_PEP_2_2",
+    "protein_path": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4i4i_1_PEP_2_3",
+    "protein_path": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i4i_1_PEP_2/4i4i_1_PEP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf8_1_ING_2_0",
+    "protein_path": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf8_1_ING_2_1",
+    "protein_path": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf8_1_ING_2_2",
+    "protein_path": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf8_1_ING_2_3",
+    "protein_path": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf8_1_ING_2/1uf8_1_ING_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5zdn_1_CDP_0_0",
+    "protein_path": "data/dockgen/5zdn_1_CDP_0/5zdn_1_CDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zdn_1_CDP_0/5zdn_1_CDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1oj7_1_NZQ_0_0",
+    "protein_path": "data/dockgen/1oj7_1_NZQ_0/1oj7_1_NZQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1oj7_1_NZQ_0/1oj7_1_NZQ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1oj7_1_NZQ_0_1",
+    "protein_path": "data/dockgen/1oj7_1_NZQ_0/1oj7_1_NZQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1oj7_1_NZQ_0/1oj7_1_NZQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_0",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_10_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_1",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_11_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_2",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_3",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_8_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_4",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_5",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_9_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_6",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_7",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_8",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_9",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_6_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_10",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_7_ligand.pdb"
+  },
+  {
+    "complex_name": "3zqu_1_FNR_5_11",
+    "protein_path": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zqu_1_FNR_5/3zqu_1_FNR_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_0",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_1",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_2",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_5_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_3",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_4",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3wur_1_O4B_1_5",
+    "protein_path": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wur_1_O4B_1/3wur_1_O4B_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_0",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_1",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_2",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_3",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_4",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_5",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_6",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_7",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_8",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_9",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_10",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "2ext_1_TRP_0_11",
+    "protein_path": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ext_1_TRP_0/2ext_1_TRP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2vnh_1_NAP_0_0",
+    "protein_path": "data/dockgen/2vnh_1_NAP_0/2vnh_1_NAP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2vnh_1_NAP_0/2vnh_1_NAP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4y7c_1_NAP_0_0",
+    "protein_path": "data/dockgen/4y7c_1_NAP_0/4y7c_1_NAP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4y7c_1_NAP_0/4y7c_1_NAP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6o6y_1_ACK_0_0",
+    "protein_path": "data/dockgen/6o6y_1_ACK_0/6o6y_1_ACK_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o6y_1_ACK_0/6o6y_1_ACK_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6o6y_1_ACK_0_1",
+    "protein_path": "data/dockgen/6o6y_1_ACK_0/6o6y_1_ACK_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o6y_1_ACK_0/6o6y_1_ACK_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3uni_1_SAL_0_0",
+    "protein_path": "data/dockgen/3uni_1_SAL_0/3uni_1_SAL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3uni_1_SAL_0/3uni_1_SAL_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3uni_1_SAL_0_1",
+    "protein_path": "data/dockgen/3uni_1_SAL_0/3uni_1_SAL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3uni_1_SAL_0/3uni_1_SAL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4pfx_1_UDP_0_0",
+    "protein_path": "data/dockgen/4pfx_1_UDP_0/4pfx_1_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pfx_1_UDP_0/4pfx_1_UDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_0",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_8_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_1",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_9_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_2",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_3",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_10_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_4",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_5",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_5_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_6",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_7_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_7",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_8",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_6_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_9",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_11_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_10",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_4_ligand.pdb"
+  },
+  {
+    "complex_name": "1sbz_1_FMN_3_11",
+    "protein_path": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sbz_1_FMN_3/1sbz_1_FMN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6o0w_1_A2P_0_0",
+    "protein_path": "data/dockgen/6o0w_1_A2P_0/6o0w_1_A2P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o0w_1_A2P_0/6o0w_1_A2P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_0",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_1",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_2",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_3",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_4",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3iqf_1_E4M_5_5",
+    "protein_path": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3iqf_1_E4M_5/3iqf_1_E4M_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4o95_1_245_0_0",
+    "protein_path": "data/dockgen/4o95_1_245_0/4o95_1_245_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o95_1_245_0/4o95_1_245_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2gag_1_FOA_0_0",
+    "protein_path": "data/dockgen/2gag_1_FOA_0/2gag_1_FOA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gag_1_FOA_0/2gag_1_FOA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2gag_1_FOA_0_1",
+    "protein_path": "data/dockgen/2gag_1_FOA_0/2gag_1_FOA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gag_1_FOA_0/2gag_1_FOA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6rz2_1_5CD_2_0",
+    "protein_path": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6rz2_1_5CD_2_1",
+    "protein_path": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6rz2_1_5CD_2_2",
+    "protein_path": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rz2_1_5CD_2/6rz2_1_5CD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_GLC_0_0",
+    "protein_path": "data/dockgen/4tvd_1_GLC_0/4tvd_1_GLC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_GLC_0/4tvd_1_GLC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgb_1_NDP_1_0",
+    "protein_path": "data/dockgen/1dgb_1_NDP_1/1dgb_1_NDP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgb_1_NDP_1/1dgb_1_NDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgb_1_NDP_1_1",
+    "protein_path": "data/dockgen/1dgb_1_NDP_1/1dgb_1_NDP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgb_1_NDP_1/1dgb_1_NDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2gah_1_NAD_0_0",
+    "protein_path": "data/dockgen/2gah_1_NAD_0/2gah_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gah_1_NAD_0/2gah_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_0",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_1",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_10_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_2",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_3",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_4",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_5",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_6",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_9_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_7",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_8",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_9",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_10",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaz_1_4LS_6_11",
+    "protein_path": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaz_1_4LS_6/4zaz_1_4LS_8_ligand.pdb"
+  },
+  {
+    "complex_name": "3juc_1_PCA_0_0",
+    "protein_path": "data/dockgen/3juc_1_PCA_0/3juc_1_PCA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3juc_1_PCA_0/3juc_1_PCA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4pfk_1_F6P_1_0",
+    "protein_path": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4pfk_1_F6P_1_1",
+    "protein_path": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4pfk_1_F6P_1_2",
+    "protein_path": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4pfk_1_F6P_1_3",
+    "protein_path": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pfk_1_F6P_1/4pfk_1_F6P_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5jbf_1_GLC-GLC_0_0",
+    "protein_path": "data/dockgen/5jbf_1_GLC-GLC_0/5jbf_1_GLC-GLC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5jbf_1_GLC-GLC_0/5jbf_1_GLC-GLC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5jbf_1_GLC-GLC_0_1",
+    "protein_path": "data/dockgen/5jbf_1_GLC-GLC_0/5jbf_1_GLC-GLC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5jbf_1_GLC-GLC_0/5jbf_1_GLC-GLC_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6mt9_1_ATP_1_0",
+    "protein_path": "data/dockgen/6mt9_1_ATP_1/6mt9_1_ATP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6mt9_1_ATP_1/6mt9_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6mt9_1_ATP_1_1",
+    "protein_path": "data/dockgen/6mt9_1_ATP_1/6mt9_1_ATP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6mt9_1_ATP_1/6mt9_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1i8t_1_FAD_1_0",
+    "protein_path": "data/dockgen/1i8t_1_FAD_1/1i8t_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1i8t_1_FAD_1/1i8t_1_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1i8t_1_FAD_1_1",
+    "protein_path": "data/dockgen/1i8t_1_FAD_1/1i8t_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1i8t_1_FAD_1/1i8t_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4qo5_1_NAG_2_0",
+    "protein_path": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4qo5_1_NAG_2_1",
+    "protein_path": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4qo5_1_NAG_2_2",
+    "protein_path": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4qo5_1_NAG_2/4qo5_1_NAG_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5hmr_1_FDZ_0_0",
+    "protein_path": "data/dockgen/5hmr_1_FDZ_0/5hmr_1_FDZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hmr_1_FDZ_0/5hmr_1_FDZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ju4_1_SLB_2_0",
+    "protein_path": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ju4_1_SLB_2_1",
+    "protein_path": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3ju4_1_SLB_2_2",
+    "protein_path": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ju4_1_SLB_2/3ju4_1_SLB_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3nvv_1_MTE_1_0",
+    "protein_path": "data/dockgen/3nvv_1_MTE_1/3nvv_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3nvv_1_MTE_1/3nvv_1_MTE_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3nvv_1_MTE_1_1",
+    "protein_path": "data/dockgen/3nvv_1_MTE_1/3nvv_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3nvv_1_MTE_1/3nvv_1_MTE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4mae_1_PQQ_1_0",
+    "protein_path": "data/dockgen/4mae_1_PQQ_1/4mae_1_PQQ_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mae_1_PQQ_1/4mae_1_PQQ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4mae_1_PQQ_1_1",
+    "protein_path": "data/dockgen/4mae_1_PQQ_1/4mae_1_PQQ_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mae_1_PQQ_1/4mae_1_PQQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4qa8_1_PJZ_0_0",
+    "protein_path": "data/dockgen/4qa8_1_PJZ_0/4qa8_1_PJZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4qa8_1_PJZ_0/4qa8_1_PJZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k4h_2_GLU_3_0",
+    "protein_path": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5k4h_2_GLU_3_1",
+    "protein_path": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5k4h_2_GLU_3_2",
+    "protein_path": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5k4h_2_GLU_3_3",
+    "protein_path": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k4h_2_GLU_3/5k4h_2_GLU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3he3_5_UDP_0_0",
+    "protein_path": "data/dockgen/3he3_5_UDP_0/3he3_5_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3he3_5_UDP_0/3he3_5_UDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3he3_5_UDP_0_1",
+    "protein_path": "data/dockgen/3he3_5_UDP_0/3he3_5_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3he3_5_UDP_0/3he3_5_UDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1iyb_1_5GP_1_0",
+    "protein_path": "data/dockgen/1iyb_1_5GP_1/1iyb_1_5GP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1iyb_1_5GP_1/1iyb_1_5GP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1iyb_1_5GP_1_1",
+    "protein_path": "data/dockgen/1iyb_1_5GP_1/1iyb_1_5GP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1iyb_1_5GP_1/1iyb_1_5GP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4x9x_1_OLA_0_0",
+    "protein_path": "data/dockgen/4x9x_1_OLA_0/4x9x_1_OLA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4x9x_1_OLA_0/4x9x_1_OLA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6xb3_6_9BG_1_0",
+    "protein_path": "data/dockgen/6xb3_6_9BG_1/6xb3_6_9BG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xb3_6_9BG_1/6xb3_6_9BG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6xb3_6_9BG_1_1",
+    "protein_path": "data/dockgen/6xb3_6_9BG_1/6xb3_6_9BG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xb3_6_9BG_1/6xb3_6_9BG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fm0_1_WAQ_0_0",
+    "protein_path": "data/dockgen/5fm0_1_WAQ_0/5fm0_1_WAQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fm0_1_WAQ_0/5fm0_1_WAQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fm0_1_WAQ_0_1",
+    "protein_path": "data/dockgen/5fm0_1_WAQ_0/5fm0_1_WAQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fm0_1_WAQ_0/5fm0_1_WAQ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6o70_1_ACK_0_0",
+    "protein_path": "data/dockgen/6o70_1_ACK_0/6o70_1_ACK_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o70_1_ACK_0/6o70_1_ACK_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6o70_1_ACK_0_1",
+    "protein_path": "data/dockgen/6o70_1_ACK_0/6o70_1_ACK_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o70_1_ACK_0/6o70_1_ACK_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_0",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_6_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_1",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_7_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_2",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_4_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_3",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_4",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_5",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_6",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5zz1_1_3TR_1_7",
+    "protein_path": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zz1_1_3TR_1/5zz1_1_3TR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4uuw_1_AMP_0_0",
+    "protein_path": "data/dockgen/4uuw_1_AMP_0/4uuw_1_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4uuw_1_AMP_0/4uuw_1_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v5e_1_GU4-YYJ_0_0",
+    "protein_path": "data/dockgen/2v5e_1_GU4-YYJ_0/2v5e_1_GU4-YYJ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v5e_1_GU4-YYJ_0/2v5e_1_GU4-YYJ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v5e_1_GU4-YYJ_0_1",
+    "protein_path": "data/dockgen/2v5e_1_GU4-YYJ_0/2v5e_1_GU4-YYJ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v5e_1_GU4-YYJ_0/2v5e_1_GU4-YYJ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6rjr_1_NDP_2_0",
+    "protein_path": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6rjr_1_NDP_2_1",
+    "protein_path": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6rjr_1_NDP_2_2",
+    "protein_path": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6rjr_1_NDP_2_3",
+    "protein_path": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rjr_1_NDP_2/6rjr_1_NDP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5d9g_1_GLU-ASN-LEU-TYR-PHE-GLN_0_0",
+    "protein_path": "data/dockgen/5d9g_1_GLU-ASN-LEU-TYR-PHE-GLN_0/5d9g_1_GLU-ASN-LEU-TYR-PHE-GLN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5d9g_1_GLU-ASN-LEU-TYR-PHE-GLN_0/5d9g_1_GLU-ASN-LEU-TYR-PHE-GLN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6qkr_1_FAD_0_0",
+    "protein_path": "data/dockgen/6qkr_1_FAD_0/6qkr_1_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6qkr_1_FAD_0/6qkr_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_0",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_1",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_2",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_3",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_4",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7w_1_5FD_0_5",
+    "protein_path": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7w_1_5FD_0/2v7w_1_5FD_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2zfz_2_ARG_1_0",
+    "protein_path": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2zfz_2_ARG_1_1",
+    "protein_path": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zfz_2_ARG_1_2",
+    "protein_path": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zfz_2_ARG_1/2zfz_2_ARG_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5ynv_2_DST_0_0",
+    "protein_path": "data/dockgen/5ynv_2_DST_0/5ynv_2_DST_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ynv_2_DST_0/5ynv_2_DST_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2fue_1_M1P_1_0",
+    "protein_path": "data/dockgen/2fue_1_M1P_1/2fue_1_M1P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2fue_1_M1P_1/2fue_1_M1P_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2fue_1_M1P_1_1",
+    "protein_path": "data/dockgen/2fue_1_M1P_1/2fue_1_M1P_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2fue_1_M1P_1/2fue_1_M1P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5ezu_1_MYR_1_0",
+    "protein_path": "data/dockgen/5ezu_1_MYR_1/5ezu_1_MYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ezu_1_MYR_1/5ezu_1_MYR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5ezu_1_MYR_1_1",
+    "protein_path": "data/dockgen/5ezu_1_MYR_1/5ezu_1_MYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ezu_1_MYR_1/5ezu_1_MYR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6w70_2_GG2_0_0",
+    "protein_path": "data/dockgen/6w70_2_GG2_0/6w70_2_GG2_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6w70_2_GG2_0/6w70_2_GG2_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_0",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_8_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_1",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_2",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_3",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_4",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_5",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_9_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_6",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_7",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_8",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_10_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_9",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_10",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4zay_1_4LS_6_11",
+    "protein_path": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zay_1_4LS_6/4zay_1_4LS_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2xrh_1_NIO_1_0",
+    "protein_path": "data/dockgen/2xrh_1_NIO_1/2xrh_1_NIO_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2xrh_1_NIO_1/2xrh_1_NIO_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2xrh_1_NIO_1_1",
+    "protein_path": "data/dockgen/2xrh_1_NIO_1/2xrh_1_NIO_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2xrh_1_NIO_1/2xrh_1_NIO_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_0",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_1",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_2",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_3",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_4",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_5",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_6",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_7",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_8",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_9",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_10",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5gql_1_ATP_4_11",
+    "protein_path": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gql_1_ATP_4/5gql_1_ATP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2o5m_1_MNR_0_0",
+    "protein_path": "data/dockgen/2o5m_1_MNR_0/2o5m_1_MNR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2o5m_1_MNR_0/2o5m_1_MNR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4dw3_1_C5P_0_0",
+    "protein_path": "data/dockgen/4dw3_1_C5P_0/4dw3_1_C5P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4dw3_1_C5P_0/4dw3_1_C5P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4xdr_1_ADN_0_0",
+    "protein_path": "data/dockgen/4xdr_1_ADN_0/4xdr_1_ADN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4xdr_1_ADN_0/4xdr_1_ADN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_0",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_1",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_2",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_3",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_4",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyw_1_CTP_4_5",
+    "protein_path": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyw_1_CTP_4/4fyw_1_CTP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "6paa_1_ASP_2_0",
+    "protein_path": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6paa_1_ASP_2_1",
+    "protein_path": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6paa_1_ASP_2_2",
+    "protein_path": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6paa_1_ASP_2_3",
+    "protein_path": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6paa_1_ASP_2/6paa_1_ASP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2gag_1_NAD_0_0",
+    "protein_path": "data/dockgen/2gag_1_NAD_0/2gag_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gag_1_NAD_0/2gag_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2vni_1_A2P_0_0",
+    "protein_path": "data/dockgen/2vni_1_A2P_0/2vni_1_A2P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2vni_1_A2P_0/2vni_1_A2P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1j1f_1_5GP_0_0",
+    "protein_path": "data/dockgen/1j1f_1_5GP_0/1j1f_1_5GP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1j1f_1_5GP_0/1j1f_1_5GP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4phs_1_UDP_0_0",
+    "protein_path": "data/dockgen/4phs_1_UDP_0/4phs_1_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4phs_1_UDP_0/4phs_1_UDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6egu_1_43Y_1_0",
+    "protein_path": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6egu_1_43Y_1_1",
+    "protein_path": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6egu_1_43Y_1_2",
+    "protein_path": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6egu_1_43Y_1/6egu_1_43Y_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5woo_2_MYR_0_0",
+    "protein_path": "data/dockgen/5woo_2_MYR_0/5woo_2_MYR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5woo_2_MYR_0/5woo_2_MYR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fa6_1_NAP_0_0",
+    "protein_path": "data/dockgen/5fa6_1_NAP_0/5fa6_1_NAP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fa6_1_NAP_0/5fa6_1_NAP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6fh3_1_RPI_0_0",
+    "protein_path": "data/dockgen/6fh3_1_RPI_0/6fh3_1_RPI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fh3_1_RPI_0/6fh3_1_RPI_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6fh3_1_RPI_0_1",
+    "protein_path": "data/dockgen/6fh3_1_RPI_0/6fh3_1_RPI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fh3_1_RPI_0/6fh3_1_RPI_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_0",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_1",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_2",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_3",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_4",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3jqm_1_GTP_5_5",
+    "protein_path": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3jqm_1_GTP_5/3jqm_1_GTP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6ur1_2_AT3_0_0",
+    "protein_path": "data/dockgen/6ur1_2_AT3_0/6ur1_2_AT3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ur1_2_AT3_0/6ur1_2_AT3_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3eca_1_ASP_3_0",
+    "protein_path": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3eca_1_ASP_3_1",
+    "protein_path": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3eca_1_ASP_3_2",
+    "protein_path": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3eca_1_ASP_3_3",
+    "protein_path": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3eca_1_ASP_3/3eca_1_ASP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4fju_1_NAI_0_0",
+    "protein_path": "data/dockgen/4fju_1_NAI_0/4fju_1_NAI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fju_1_NAI_0/4fju_1_NAI_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4fju_1_NAI_0_1",
+    "protein_path": "data/dockgen/4fju_1_NAI_0/4fju_1_NAI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fju_1_NAI_0/4fju_1_NAI_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5dnc_1_ASN_2_0",
+    "protein_path": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5dnc_1_ASN_2_1",
+    "protein_path": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5dnc_1_ASN_2_2",
+    "protein_path": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5dnc_1_ASN_2_3",
+    "protein_path": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5dnc_1_ASN_2/5dnc_1_ASN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5n1q_1_TP7_1_0",
+    "protein_path": "data/dockgen/5n1q_1_TP7_1/5n1q_1_TP7_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5n1q_1_TP7_1/5n1q_1_TP7_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5n1q_1_TP7_1_1",
+    "protein_path": "data/dockgen/5n1q_1_TP7_1/5n1q_1_TP7_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5n1q_1_TP7_1/5n1q_1_TP7_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2r4e_1_13P_0_0",
+    "protein_path": "data/dockgen/2r4e_1_13P_0/2r4e_1_13P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2r4e_1_13P_0/2r4e_1_13P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1o28_1_UFP_2_0",
+    "protein_path": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1o28_1_UFP_2_1",
+    "protein_path": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1o28_1_UFP_2_2",
+    "protein_path": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1o28_1_UFP_2_3",
+    "protein_path": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1o28_1_UFP_2/1o28_1_UFP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj7_1_FFO_0_0",
+    "protein_path": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj7_1_FFO_0_1",
+    "protein_path": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj7_1_FFO_0_2",
+    "protein_path": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj7_1_FFO_0_3",
+    "protein_path": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj7_1_FFO_0/1pj7_1_FFO_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_0",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_1",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_2",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_3",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_4",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_5",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_6",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_7",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_8",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_9",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_10",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3zzs_1_TRP_3_11",
+    "protein_path": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zzs_1_TRP_3/3zzs_1_TRP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4mo2_2_FDA_0_0",
+    "protein_path": "data/dockgen/4mo2_2_FDA_0/4mo2_2_FDA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mo2_2_FDA_0/4mo2_2_FDA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj4_1_FUM_1_0",
+    "protein_path": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj4_1_FUM_1_1",
+    "protein_path": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj4_1_FUM_1_2",
+    "protein_path": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj4_1_FUM_1_3",
+    "protein_path": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj4_1_FUM_1/1pj4_1_FUM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3pfd_1_FDA_2_0",
+    "protein_path": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3pfd_1_FDA_2_1",
+    "protein_path": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3pfd_1_FDA_2_2",
+    "protein_path": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3pfd_1_FDA_2_3",
+    "protein_path": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3pfd_1_FDA_2/3pfd_1_FDA_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6uw5_1_GDP_1_0",
+    "protein_path": "data/dockgen/6uw5_1_GDP_1/6uw5_1_GDP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uw5_1_GDP_1/6uw5_1_GDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6uw5_1_GDP_1_1",
+    "protein_path": "data/dockgen/6uw5_1_GDP_1/6uw5_1_GDP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uw5_1_GDP_1/6uw5_1_GDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5f2t_1_PLM_0_0",
+    "protein_path": "data/dockgen/5f2t_1_PLM_0/5f2t_1_PLM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5f2t_1_PLM_0/5f2t_1_PLM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4cdn_2_FAD_0_0",
+    "protein_path": "data/dockgen/4cdn_2_FAD_0/4cdn_2_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cdn_2_FAD_0/4cdn_2_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4hdr_1_DMD_0_0",
+    "protein_path": "data/dockgen/4hdr_1_DMD_0/4hdr_1_DMD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4hdr_1_DMD_0/4hdr_1_DMD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6gbf_1_AMP_0_0",
+    "protein_path": "data/dockgen/6gbf_1_AMP_0/6gbf_1_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6gbf_1_AMP_0/6gbf_1_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6gbf_1_AMP_0_1",
+    "protein_path": "data/dockgen/6gbf_1_AMP_0/6gbf_1_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6gbf_1_AMP_0/6gbf_1_AMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2byc_2_FMN_0_0",
+    "protein_path": "data/dockgen/2byc_2_FMN_0/2byc_2_FMN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2byc_2_FMN_0/2byc_2_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k3o_2_ASP_0_0",
+    "protein_path": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5k3o_2_ASP_0_1",
+    "protein_path": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5k3o_2_ASP_0_2",
+    "protein_path": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k3o_2_ASP_0_3",
+    "protein_path": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k3o_2_ASP_0/5k3o_2_ASP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5af7_1_FAD_2_0",
+    "protein_path": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5af7_1_FAD_2_1",
+    "protein_path": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5af7_1_FAD_2_2",
+    "protein_path": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5af7_1_FAD_2_3",
+    "protein_path": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5af7_1_FAD_2/5af7_1_FAD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5ida_1_BMA_0_0",
+    "protein_path": "data/dockgen/5ida_1_BMA_0/5ida_1_BMA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ida_1_BMA_0/5ida_1_BMA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3sr6_1_MTE_1_0",
+    "protein_path": "data/dockgen/3sr6_1_MTE_1/3sr6_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3sr6_1_MTE_1/3sr6_1_MTE_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3sr6_1_MTE_1_1",
+    "protein_path": "data/dockgen/3sr6_1_MTE_1/3sr6_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3sr6_1_MTE_1/3sr6_1_MTE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4n4l_1_HG1_0_0",
+    "protein_path": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4n4l_1_HG1_0_1",
+    "protein_path": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4n4l_1_HG1_0_2",
+    "protein_path": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4n4l_1_HG1_0/4n4l_1_HG1_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4ydx_1_TCE_0_0",
+    "protein_path": "data/dockgen/4ydx_1_TCE_0/4ydx_1_TCE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4ydx_1_TCE_0/4ydx_1_TCE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4bc9_1_CNV-FAD_0_0",
+    "protein_path": "data/dockgen/4bc9_1_CNV-FAD_0/4bc9_1_CNV-FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4bc9_1_CNV-FAD_0/4bc9_1_CNV-FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4bc9_1_CNV-FAD_0_1",
+    "protein_path": "data/dockgen/4bc9_1_CNV-FAD_0/4bc9_1_CNV-FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4bc9_1_CNV-FAD_0/4bc9_1_CNV-FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6nco_1_KQP_0_0",
+    "protein_path": "data/dockgen/6nco_1_KQP_0/6nco_1_KQP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6nco_1_KQP_0/6nco_1_KQP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4mig_1_G3F_2_0",
+    "protein_path": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4mig_1_G3F_2_1",
+    "protein_path": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4mig_1_G3F_2_2",
+    "protein_path": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4mig_1_G3F_2_3",
+    "protein_path": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mig_1_G3F_2/4mig_1_G3F_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3qrc_2_GU4-YYJ_0_0",
+    "protein_path": "data/dockgen/3qrc_2_GU4-YYJ_0/3qrc_2_GU4-YYJ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3qrc_2_GU4-YYJ_0/3qrc_2_GU4-YYJ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5hhz_1_ZME_0_0",
+    "protein_path": "data/dockgen/5hhz_1_ZME_0/5hhz_1_ZME_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hhz_1_ZME_0/5hhz_1_ZME_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5x1j_2_VNL_0_0",
+    "protein_path": "data/dockgen/5x1j_2_VNL_0/5x1j_2_VNL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5x1j_2_VNL_0/5x1j_2_VNL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5x1j_2_VNL_0_1",
+    "protein_path": "data/dockgen/5x1j_2_VNL_0/5x1j_2_VNL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5x1j_2_VNL_0/5x1j_2_VNL_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3zec_1_ANP_0_0",
+    "protein_path": "data/dockgen/3zec_1_ANP_0/3zec_1_ANP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zec_1_ANP_0/3zec_1_ANP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zec_1_ANP_0_1",
+    "protein_path": "data/dockgen/3zec_1_ANP_0/3zec_1_ANP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zec_1_ANP_0/3zec_1_ANP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_0",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_1",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_2",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_3",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_4",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_5",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_6",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_7",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_8",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_9",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_10",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "5gqi_1_ATP_7_11",
+    "protein_path": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5gqi_1_ATP_7/5gqi_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6a71_1_9UX_0_0",
+    "protein_path": "data/dockgen/6a71_1_9UX_0/6a71_1_9UX_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6a71_1_9UX_0/6a71_1_9UX_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6mry_2_I3C_0_0",
+    "protein_path": "data/dockgen/6mry_2_I3C_0/6mry_2_I3C_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6mry_2_I3C_0/6mry_2_I3C_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6npp_1_KWG_0_0",
+    "protein_path": "data/dockgen/6npp_1_KWG_0/6npp_1_KWG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6npp_1_KWG_0/6npp_1_KWG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_0",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_1",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_2",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_3",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_4",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6ep5_1_ADP_1_5",
+    "protein_path": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ep5_1_ADP_1/6ep5_1_ADP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1o72_2_PC_0_0",
+    "protein_path": "data/dockgen/1o72_2_PC_0/1o72_2_PC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1o72_2_PC_0/1o72_2_PC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5yx4_1_HCC_0_0",
+    "protein_path": "data/dockgen/5yx4_1_HCC_0/5yx4_1_HCC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5yx4_1_HCC_0/5yx4_1_HCC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6a72_1_9UX_0_0",
+    "protein_path": "data/dockgen/6a72_1_9UX_0/6a72_1_9UX_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6a72_1_9UX_0/6a72_1_9UX_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2x06_2_NAD_0_0",
+    "protein_path": "data/dockgen/2x06_2_NAD_0/2x06_2_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2x06_2_NAD_0/2x06_2_NAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2x06_2_NAD_0_1",
+    "protein_path": "data/dockgen/2x06_2_NAD_0/2x06_2_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2x06_2_NAD_0/2x06_2_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5b5s_1_BOG_0_0",
+    "protein_path": "data/dockgen/5b5s_1_BOG_0/5b5s_1_BOG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5b5s_1_BOG_0/5b5s_1_BOG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6czh_2_38E_0_0",
+    "protein_path": "data/dockgen/6czh_2_38E_0/6czh_2_38E_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6czh_2_38E_0/6czh_2_38E_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wdy_1_COA_1_0",
+    "protein_path": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2wdy_1_COA_1_1",
+    "protein_path": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2wdy_1_COA_1_2",
+    "protein_path": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wdy_1_COA_1/2wdy_1_COA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5xz9_1_ATP_0_0",
+    "protein_path": "data/dockgen/5xz9_1_ATP_0/5xz9_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xz9_1_ATP_0/5xz9_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5xz9_1_ATP_0_1",
+    "protein_path": "data/dockgen/5xz9_1_ATP_0/5xz9_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xz9_1_ATP_0/5xz9_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4rpj_1_UDP_0_0",
+    "protein_path": "data/dockgen/4rpj_1_UDP_0/4rpj_1_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rpj_1_UDP_0/4rpj_1_UDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4rpj_1_UDP_0_1",
+    "protein_path": "data/dockgen/4rpj_1_UDP_0/4rpj_1_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rpj_1_UDP_0/4rpj_1_UDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5a8w_1_TP7_0_0",
+    "protein_path": "data/dockgen/5a8w_1_TP7_0/5a8w_1_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a8w_1_TP7_0/5a8w_1_TP7_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5a8w_1_TP7_0_1",
+    "protein_path": "data/dockgen/5a8w_1_TP7_0/5a8w_1_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a8w_1_TP7_0/5a8w_1_TP7_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4yau_2_2AM_0_0",
+    "protein_path": "data/dockgen/4yau_2_2AM_0/4yau_2_2AM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yau_2_2AM_0/4yau_2_2AM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6yap_1_OHZ_0_0",
+    "protein_path": "data/dockgen/6yap_1_OHZ_0/6yap_1_OHZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6yap_1_OHZ_0/6yap_1_OHZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4yaw_1_2AM_0_0",
+    "protein_path": "data/dockgen/4yaw_1_2AM_0/4yaw_1_2AM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yaw_1_2AM_0/4yaw_1_2AM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4r29_1_SAM_0_0",
+    "protein_path": "data/dockgen/4r29_1_SAM_0/4r29_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4r29_1_SAM_0/4r29_1_SAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gnc_1_QQQ_0_0",
+    "protein_path": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3gnc_1_QQQ_0_1",
+    "protein_path": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3gnc_1_QQQ_0_2",
+    "protein_path": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3gnc_1_QQQ_0_3",
+    "protein_path": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gnc_1_QQQ_0/3gnc_1_QQQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zux_1_RAM_3_0",
+    "protein_path": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2zux_1_RAM_3_1",
+    "protein_path": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2zux_1_RAM_3_2",
+    "protein_path": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2zux_1_RAM_3_3",
+    "protein_path": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zux_1_RAM_3/2zux_1_RAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5hw0_1_GLU_2_0",
+    "protein_path": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5hw0_1_GLU_2_1",
+    "protein_path": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5hw0_1_GLU_2_2",
+    "protein_path": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5hw0_1_GLU_2_3",
+    "protein_path": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hw0_1_GLU_2/5hw0_1_GLU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5xz7_1_F6P_0_0",
+    "protein_path": "data/dockgen/5xz7_1_F6P_0/5xz7_1_F6P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xz7_1_F6P_0/5xz7_1_F6P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5xz7_1_F6P_0_1",
+    "protein_path": "data/dockgen/5xz7_1_F6P_0/5xz7_1_F6P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xz7_1_F6P_0/5xz7_1_F6P_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_0",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_1",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_2",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_3",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_10_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_4",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_5",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_6",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_7",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_8",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_9_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_9",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_10",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4zav_1_4LS_8_11",
+    "protein_path": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_8_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zav_1_4LS_8/4zav_1_4LS_4_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_0",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_1",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_5_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_2",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_8_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_3",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_7_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_4",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_6_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_5",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_6",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_7",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_8",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3n75_1_G4P_9_9",
+    "protein_path": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3n75_1_G4P_9/3n75_1_G4P_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_0",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_1",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_2",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_3",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_4",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7v_1_5FD_0_5",
+    "protein_path": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7v_1_5FD_0/2v7v_1_5FD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6cib_5_OXM_0_0",
+    "protein_path": "data/dockgen/6cib_5_OXM_0/6cib_5_OXM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6cib_5_OXM_0/6cib_5_OXM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4rpm_1_HXC_0_0",
+    "protein_path": "data/dockgen/4rpm_1_HXC_0/4rpm_1_HXC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rpm_1_HXC_0/4rpm_1_HXC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zo7_1_BGC_0_0",
+    "protein_path": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zo7_1_BGC_0_1",
+    "protein_path": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zo7_1_BGC_0_2",
+    "protein_path": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zo7_1_BGC_0/4zo7_1_BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ub9_1_NHY_1_0",
+    "protein_path": "data/dockgen/3ub9_1_NHY_1/3ub9_1_NHY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ub9_1_NHY_1/3ub9_1_NHY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ub9_1_NHY_1_1",
+    "protein_path": "data/dockgen/3ub9_1_NHY_1/3ub9_1_NHY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ub9_1_NHY_1/3ub9_1_NHY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3se5_1_ANP_2_0",
+    "protein_path": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3se5_1_ANP_2_1",
+    "protein_path": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3se5_1_ANP_2_2",
+    "protein_path": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3se5_1_ANP_2_3",
+    "protein_path": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3se5_1_ANP_2/3se5_1_ANP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5i5w_1_68B_0_0",
+    "protein_path": "data/dockgen/5i5w_1_68B_0/5i5w_1_68B_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5i5w_1_68B_0/5i5w_1_68B_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5i5w_1_68B_0_1",
+    "protein_path": "data/dockgen/5i5w_1_68B_0/5i5w_1_68B_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5i5w_1_68B_0/5i5w_1_68B_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6o70_1_ACK_1_0",
+    "protein_path": "data/dockgen/6o70_1_ACK_1/6o70_1_ACK_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o70_1_ACK_1/6o70_1_ACK_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6o70_1_ACK_1_1",
+    "protein_path": "data/dockgen/6o70_1_ACK_1/6o70_1_ACK_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6o70_1_ACK_1/6o70_1_ACK_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6uw3_1_GDP_0_0",
+    "protein_path": "data/dockgen/6uw3_1_GDP_0/6uw3_1_GDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uw3_1_GDP_0/6uw3_1_GDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6uw3_1_GDP_0_1",
+    "protein_path": "data/dockgen/6uw3_1_GDP_0/6uw3_1_GDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uw3_1_GDP_0/6uw3_1_GDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4oal_2_245_0_0",
+    "protein_path": "data/dockgen/4oal_2_245_0/4oal_2_245_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4oal_2_245_0/4oal_2_245_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4b4v_1_L34_0_0",
+    "protein_path": "data/dockgen/4b4v_1_L34_0/4b4v_1_L34_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4b4v_1_L34_0/4b4v_1_L34_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4b4v_1_L34_0_1",
+    "protein_path": "data/dockgen/4b4v_1_L34_0/4b4v_1_L34_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4b4v_1_L34_0/4b4v_1_L34_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5z1n_1_PEF_0_0",
+    "protein_path": "data/dockgen/5z1n_1_PEF_0/5z1n_1_PEF_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5z1n_1_PEF_0/5z1n_1_PEF_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5ae3_2_AWB_1_0",
+    "protein_path": "data/dockgen/5ae3_2_AWB_1/5ae3_2_AWB_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ae3_2_AWB_1/5ae3_2_AWB_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5ae3_2_AWB_1_1",
+    "protein_path": "data/dockgen/5ae3_2_AWB_1/5ae3_2_AWB_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ae3_2_AWB_1/5ae3_2_AWB_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6etf_1_AMP_0_0",
+    "protein_path": "data/dockgen/6etf_1_AMP_0/6etf_1_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6etf_1_AMP_0/6etf_1_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6etf_1_AMP_0_1",
+    "protein_path": "data/dockgen/6etf_1_AMP_0/6etf_1_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6etf_1_AMP_0/6etf_1_AMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4yvn_1_EBS_0_0",
+    "protein_path": "data/dockgen/4yvn_1_EBS_0/4yvn_1_EBS_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yvn_1_EBS_0/4yvn_1_EBS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wab_1_BGC-BGC-BGC-BGC-BGC_0_0",
+    "protein_path": "data/dockgen/2wab_1_BGC-BGC-BGC-BGC-BGC_0/2wab_1_BGC-BGC-BGC-BGC-BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wab_1_BGC-BGC-BGC-BGC-BGC_0/2wab_1_BGC-BGC-BGC-BGC-BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_0",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_1",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_2",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_9_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_3",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_4",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_5",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_6",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_8_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_7",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_8",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_9",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_10_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_10",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4rhe_1_FMN_6_11",
+    "protein_path": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4rhe_1_FMN_6/4rhe_1_FMN_6_ligand.pdb"
+  },
+  {
+    "complex_name": "3o01_2_DXC_0_0",
+    "protein_path": "data/dockgen/3o01_2_DXC_0/3o01_2_DXC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3o01_2_DXC_0/3o01_2_DXC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2qv7_2_ADP_0_0",
+    "protein_path": "data/dockgen/2qv7_2_ADP_0/2qv7_2_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2qv7_2_ADP_0/2qv7_2_ADP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2qv7_2_ADP_0_1",
+    "protein_path": "data/dockgen/2qv7_2_ADP_0/2qv7_2_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2qv7_2_ADP_0/2qv7_2_ADP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgg_1_NDP_0_0",
+    "protein_path": "data/dockgen/1dgg_1_NDP_0/1dgg_1_NDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgg_1_NDP_0/1dgg_1_NDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgg_1_NDP_0_1",
+    "protein_path": "data/dockgen/1dgg_1_NDP_0/1dgg_1_NDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgg_1_NDP_0/1dgg_1_NDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4y9r_2_NAP_0_0",
+    "protein_path": "data/dockgen/4y9r_2_NAP_0/4y9r_2_NAP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4y9r_2_NAP_0/4y9r_2_NAP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj6_1_FOL_0_0",
+    "protein_path": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj6_1_FOL_0_1",
+    "protein_path": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj6_1_FOL_0_2",
+    "protein_path": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj6_1_FOL_0_3",
+    "protein_path": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj6_1_FOL_0/1pj6_1_FOL_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3it6_1_ORN_1_0",
+    "protein_path": "data/dockgen/3it6_1_ORN_1/3it6_1_ORN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3it6_1_ORN_1/3it6_1_ORN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3it6_1_ORN_1_1",
+    "protein_path": "data/dockgen/3it6_1_ORN_1/3it6_1_ORN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3it6_1_ORN_1/3it6_1_ORN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1hg0_1_SIN_1_0",
+    "protein_path": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1hg0_1_SIN_1_1",
+    "protein_path": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1hg0_1_SIN_1_2",
+    "protein_path": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1hg0_1_SIN_1_3",
+    "protein_path": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hg0_1_SIN_1/1hg0_1_SIN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6tvg_1_AP2_1_0",
+    "protein_path": "data/dockgen/6tvg_1_AP2_1/6tvg_1_AP2_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6tvg_1_AP2_1/6tvg_1_AP2_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6tvg_1_AP2_1_1",
+    "protein_path": "data/dockgen/6tvg_1_AP2_1/6tvg_1_AP2_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6tvg_1_AP2_1/6tvg_1_AP2_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5mr6_6_FAD_0_0",
+    "protein_path": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5mr6_6_FAD_0_1",
+    "protein_path": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5mr6_6_FAD_0_2",
+    "protein_path": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5mr6_6_FAD_0_3",
+    "protein_path": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mr6_6_FAD_0/5mr6_6_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6xug_1_O1Q_0_0",
+    "protein_path": "data/dockgen/6xug_1_O1Q_0/6xug_1_O1Q_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xug_1_O1Q_0/6xug_1_O1Q_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6xug_1_O1Q_0_1",
+    "protein_path": "data/dockgen/6xug_1_O1Q_0/6xug_1_O1Q_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xug_1_O1Q_0/6xug_1_O1Q_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6ryz_1_SAM_2_0",
+    "protein_path": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6ryz_1_SAM_2_1",
+    "protein_path": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6ryz_1_SAM_2_2",
+    "protein_path": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ryz_1_SAM_2/6ryz_1_SAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zo7_1_GLC-BGC_0_0",
+    "protein_path": "data/dockgen/4zo7_1_GLC-BGC_0/4zo7_1_GLC-BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zo7_1_GLC-BGC_0/4zo7_1_GLC-BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6fkw_1_PQQ_1_0",
+    "protein_path": "data/dockgen/6fkw_1_PQQ_1/6fkw_1_PQQ_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fkw_1_PQQ_1/6fkw_1_PQQ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6fkw_1_PQQ_1_1",
+    "protein_path": "data/dockgen/6fkw_1_PQQ_1/6fkw_1_PQQ_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fkw_1_PQQ_1/6fkw_1_PQQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k62_1_ASN-VAL_0_0",
+    "protein_path": "data/dockgen/5k62_1_ASN-VAL_0/5k62_1_ASN-VAL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k62_1_ASN-VAL_0/5k62_1_ASN-VAL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_0",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_1",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_2",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_3",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_4",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_5",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_6",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_7",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_8",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_9",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_10",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "2zd0_1_TRP_9_11",
+    "protein_path": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_9_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zd0_1_TRP_9/2zd0_1_TRP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5ent_1_MIY_0_0",
+    "protein_path": "data/dockgen/5ent_1_MIY_0/5ent_1_MIY_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ent_1_MIY_0/5ent_1_MIY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1tkg_1_SSA_0_0",
+    "protein_path": "data/dockgen/1tkg_1_SSA_0/1tkg_1_SSA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1tkg_1_SSA_0/1tkg_1_SSA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_0",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_1",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_2",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_3",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_4",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7t_1_SAH_4_5",
+    "protein_path": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7t_1_SAH_4/2v7t_1_SAH_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_0",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_1",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_2",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_3",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_4",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5a98_1_ATP_0_5",
+    "protein_path": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a98_1_ATP_0/5a98_1_ATP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2g7c_1_NAG-GAL-GLA_1_0",
+    "protein_path": "data/dockgen/2g7c_1_NAG-GAL-GLA_1/2g7c_1_NAG-GAL-GLA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2g7c_1_NAG-GAL-GLA_1/2g7c_1_NAG-GAL-GLA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2g7c_1_NAG-GAL-GLA_1_1",
+    "protein_path": "data/dockgen/2g7c_1_NAG-GAL-GLA_1/2g7c_1_NAG-GAL-GLA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2g7c_1_NAG-GAL-GLA_1/2g7c_1_NAG-GAL-GLA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3s5x_1_BMA-MAN-MAN-MAN-MAN_0_0",
+    "protein_path": "data/dockgen/3s5x_1_BMA-MAN-MAN-MAN-MAN_0/3s5x_1_BMA-MAN-MAN-MAN-MAN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3s5x_1_BMA-MAN-MAN-MAN-MAN_0/3s5x_1_BMA-MAN-MAN-MAN-MAN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3s5x_1_BMA-MAN-MAN-MAN-MAN_0_1",
+    "protein_path": "data/dockgen/3s5x_1_BMA-MAN-MAN-MAN-MAN_0/3s5x_1_BMA-MAN-MAN-MAN-MAN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3s5x_1_BMA-MAN-MAN-MAN-MAN_0/3s5x_1_BMA-MAN-MAN-MAN-MAN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_0",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_8_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_1",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_9_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_2",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_4_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_3",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_4",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_5",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_10_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_6",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_7",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_8",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_11_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_9",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_10",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_5_ligand.pdb"
+  },
+  {
+    "complex_name": "6jls_1_FMN_6_11",
+    "protein_path": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_6_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6jls_1_FMN_6/6jls_1_FMN_7_ligand.pdb"
+  },
+  {
+    "complex_name": "6n19_2_K8V_0_0",
+    "protein_path": "data/dockgen/6n19_2_K8V_0/6n19_2_K8V_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6n19_2_K8V_0/6n19_2_K8V_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6uqy_2_AT3_0_0",
+    "protein_path": "data/dockgen/6uqy_2_AT3_0/6uqy_2_AT3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uqy_2_AT3_0/6uqy_2_AT3_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3qe2_2_NAP_0_0",
+    "protein_path": "data/dockgen/3qe2_2_NAP_0/3qe2_2_NAP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3qe2_2_NAP_0/3qe2_2_NAP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6ubz_1_GLY_2_0",
+    "protein_path": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6ubz_1_GLY_2_1",
+    "protein_path": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6ubz_1_GLY_2_2",
+    "protein_path": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6ubz_1_GLY_2_3",
+    "protein_path": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ubz_1_GLY_2/6ubz_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj2_1_FUM_0_0",
+    "protein_path": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj2_1_FUM_0_1",
+    "protein_path": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj2_1_FUM_0_2",
+    "protein_path": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1pj2_1_FUM_0_3",
+    "protein_path": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1pj2_1_FUM_0/1pj2_1_FUM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3mpj_1_FAD_1_0",
+    "protein_path": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3mpj_1_FAD_1_1",
+    "protein_path": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3mpj_1_FAD_1_2",
+    "protein_path": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3mpj_1_FAD_1_3",
+    "protein_path": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mpj_1_FAD_1/3mpj_1_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3ad7_1_NAD_0_0",
+    "protein_path": "data/dockgen/3ad7_1_NAD_0/3ad7_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ad7_1_NAD_0/3ad7_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5zbl_2_AMP_0_0",
+    "protein_path": "data/dockgen/5zbl_2_AMP_0/5zbl_2_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zbl_2_AMP_0/5zbl_2_AMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5zbl_2_AMP_0_1",
+    "protein_path": "data/dockgen/5zbl_2_AMP_0/5zbl_2_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5zbl_2_AMP_0/5zbl_2_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6np3_1_LLL_0_0",
+    "protein_path": "data/dockgen/6np3_1_LLL_0/6np3_1_LLL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6np3_1_LLL_0/6np3_1_LLL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4g0s_2_MYR_1_0",
+    "protein_path": "data/dockgen/4g0s_2_MYR_1/4g0s_2_MYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4g0s_2_MYR_1/4g0s_2_MYR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4g0s_2_MYR_1_1",
+    "protein_path": "data/dockgen/4g0s_2_MYR_1/4g0s_2_MYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4g0s_2_MYR_1/4g0s_2_MYR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ada_1_NAD_0_0",
+    "protein_path": "data/dockgen/3ada_1_NAD_0/3ada_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ada_1_NAD_0/3ada_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_0",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_1",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_2",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_3",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_4",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_7_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_5",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_6_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_6",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2wwc_1_CHT_2_7",
+    "protein_path": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wwc_1_CHT_2/2wwc_1_CHT_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3gqt_4_UFO_0_0",
+    "protein_path": "data/dockgen/3gqt_4_UFO_0/3gqt_4_UFO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gqt_4_UFO_0/3gqt_4_UFO_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6yaq_1_OHZ_0_0",
+    "protein_path": "data/dockgen/6yaq_1_OHZ_0/6yaq_1_OHZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6yaq_1_OHZ_0/6yaq_1_OHZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4h8a_1_NAI_0_0",
+    "protein_path": "data/dockgen/4h8a_1_NAI_0/4h8a_1_NAI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4h8a_1_NAI_0/4h8a_1_NAI_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4h8a_1_NAI_0_1",
+    "protein_path": "data/dockgen/4h8a_1_NAI_0/4h8a_1_NAI_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4h8a_1_NAI_0/4h8a_1_NAI_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3k8l_1_GLC-GLC-GLC-GLC-GLC_0_0",
+    "protein_path": "data/dockgen/3k8l_1_GLC-GLC-GLC-GLC-GLC_0/3k8l_1_GLC-GLC-GLC-GLC-GLC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3k8l_1_GLC-GLC-GLC-GLC-GLC_0/3k8l_1_GLC-GLC-GLC-GLC-GLC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2gf3_2_FOA_1_0",
+    "protein_path": "data/dockgen/2gf3_2_FOA_1/2gf3_2_FOA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gf3_2_FOA_1/2gf3_2_FOA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2gf3_2_FOA_1_1",
+    "protein_path": "data/dockgen/2gf3_2_FOA_1/2gf3_2_FOA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2gf3_2_FOA_1/2gf3_2_FOA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k66_1_ASN-GLU_0_0",
+    "protein_path": "data/dockgen/5k66_1_ASN-GLU_0/5k66_1_ASN-GLU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k66_1_ASN-GLU_0/5k66_1_ASN-GLU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zqx_1_ATP_2_0",
+    "protein_path": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zqx_1_ATP_2_1",
+    "protein_path": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zqx_1_ATP_2_2",
+    "protein_path": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zqx_1_ATP_2/4zqx_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6v2a_1_ASN_3_0",
+    "protein_path": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6v2a_1_ASN_3_1",
+    "protein_path": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6v2a_1_ASN_3_2",
+    "protein_path": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6v2a_1_ASN_3_3",
+    "protein_path": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6v2a_1_ASN_3/6v2a_1_ASN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1v2g_1_OCA_0_0",
+    "protein_path": "data/dockgen/1v2g_1_OCA_0/1v2g_1_OCA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1v2g_1_OCA_0/1v2g_1_OCA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4osx_1_GLY_2_0",
+    "protein_path": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4osx_1_GLY_2_1",
+    "protein_path": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4osx_1_GLY_2_2",
+    "protein_path": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4osx_1_GLY_2_3",
+    "protein_path": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4osx_1_GLY_2_4",
+    "protein_path": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osx_1_GLY_2/4osx_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2hs3_1_FGR_0_0",
+    "protein_path": "data/dockgen/2hs3_1_FGR_0/2hs3_1_FGR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hs3_1_FGR_0/2hs3_1_FGR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v8e_1_GU4-YYJ_0_0",
+    "protein_path": "data/dockgen/2v8e_1_GU4-YYJ_0/2v8e_1_GU4-YYJ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v8e_1_GU4-YYJ_0/2v8e_1_GU4-YYJ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gf4_1_U5P_0_0",
+    "protein_path": "data/dockgen/3gf4_1_U5P_0/3gf4_1_U5P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gf4_1_U5P_0/3gf4_1_U5P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4idk_1_1FE_0_0",
+    "protein_path": "data/dockgen/4idk_1_1FE_0/4idk_1_1FE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4idk_1_1FE_0/4idk_1_1FE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1hw8_1_114_1_0",
+    "protein_path": "data/dockgen/1hw8_1_114_1/1hw8_1_114_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hw8_1_114_1/1hw8_1_114_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1hw8_1_114_1_1",
+    "protein_path": "data/dockgen/1hw8_1_114_1/1hw8_1_114_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hw8_1_114_1/1hw8_1_114_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1hw8_1_114_1_2",
+    "protein_path": "data/dockgen/1hw8_1_114_1/1hw8_1_114_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hw8_1_114_1/1hw8_1_114_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1hw8_1_114_1_3",
+    "protein_path": "data/dockgen/1hw8_1_114_1/1hw8_1_114_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1hw8_1_114_1/1hw8_1_114_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1sij_1_PCD_0_0",
+    "protein_path": "data/dockgen/1sij_1_PCD_0/1sij_1_PCD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1sij_1_PCD_0/1sij_1_PCD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxd_1_H7Y_1_0",
+    "protein_path": "data/dockgen/5fxd_1_H7Y_1/5fxd_1_H7Y_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxd_1_H7Y_1/5fxd_1_H7Y_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxd_1_H7Y_1_1",
+    "protein_path": "data/dockgen/5fxd_1_H7Y_1/5fxd_1_H7Y_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxd_1_H7Y_1/5fxd_1_H7Y_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2xta_1_ACO_0_0",
+    "protein_path": "data/dockgen/2xta_1_ACO_0/2xta_1_ACO_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2xta_1_ACO_0/2xta_1_ACO_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3inr_1_GDU_0_0",
+    "protein_path": "data/dockgen/3inr_1_GDU_0/3inr_1_GDU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3inr_1_GDU_0/3inr_1_GDU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3inr_1_GDU_0_1",
+    "protein_path": "data/dockgen/3inr_1_GDU_0/3inr_1_GDU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3inr_1_GDU_0/3inr_1_GDU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2him_1_ASN_3_0",
+    "protein_path": "data/dockgen/2him_1_ASN_3/2him_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2him_1_ASN_3/2him_1_ASN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2him_1_ASN_3_1",
+    "protein_path": "data/dockgen/2him_1_ASN_3/2him_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2him_1_ASN_3/2him_1_ASN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2him_1_ASN_3_2",
+    "protein_path": "data/dockgen/2him_1_ASN_3/2him_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2him_1_ASN_3/2him_1_ASN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2him_1_ASN_3_3",
+    "protein_path": "data/dockgen/2him_1_ASN_3/2him_1_ASN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2him_1_ASN_3/2him_1_ASN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3q14_1_PCR_3_0",
+    "protein_path": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3q14_1_PCR_3_1",
+    "protein_path": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3q14_1_PCR_3_2",
+    "protein_path": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3q14_1_PCR_3_3",
+    "protein_path": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3q14_1_PCR_3/3q14_1_PCR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4uoc_1_NCN_1_0",
+    "protein_path": "data/dockgen/4uoc_1_NCN_1/4uoc_1_NCN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4uoc_1_NCN_1/4uoc_1_NCN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4uoc_1_NCN_1_1",
+    "protein_path": "data/dockgen/4uoc_1_NCN_1/4uoc_1_NCN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4uoc_1_NCN_1/4uoc_1_NCN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa6_2_ASN_0_0",
+    "protein_path": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa6_2_ASN_0_1",
+    "protein_path": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa6_2_ASN_0_2",
+    "protein_path": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa6_2_ASN_0_3",
+    "protein_path": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa6_2_ASN_0/6pa6_2_ASN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa2_1_ASP_2_0",
+    "protein_path": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa2_1_ASP_2_1",
+    "protein_path": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa2_1_ASP_2_2",
+    "protein_path": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6pa2_1_ASP_2_3",
+    "protein_path": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6pa2_1_ASP_2/6pa2_1_ASP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_0",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_1",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_2",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_3",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_4",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4kgx_1_CTP_5_5",
+    "protein_path": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4kgx_1_CTP_5/4kgx_1_CTP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4yal_2_2AM_0_0",
+    "protein_path": "data/dockgen/4yal_2_2AM_0/4yal_2_2AM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yal_2_2AM_0/4yal_2_2AM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4phr_1_UDP_0_0",
+    "protein_path": "data/dockgen/4phr_1_UDP_0/4phr_1_UDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4phr_1_UDP_0/4phr_1_UDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5aqk_1_GDP_0_0",
+    "protein_path": "data/dockgen/5aqk_1_GDP_0/5aqk_1_GDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5aqk_1_GDP_0/5aqk_1_GDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5aqk_1_GDP_0_1",
+    "protein_path": "data/dockgen/5aqk_1_GDP_0/5aqk_1_GDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5aqk_1_GDP_0/5aqk_1_GDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3o02_2_JN3_0_0",
+    "protein_path": "data/dockgen/3o02_2_JN3_0/3o02_2_JN3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3o02_2_JN3_0/3o02_2_JN3_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5mh1_1_BMA_0_0",
+    "protein_path": "data/dockgen/5mh1_1_BMA_0/5mh1_1_BMA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mh1_1_BMA_0/5mh1_1_BMA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5mh1_1_BMA_0_1",
+    "protein_path": "data/dockgen/5mh1_1_BMA_0/5mh1_1_BMA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5mh1_1_BMA_0/5mh1_1_BMA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3qzy_1_FAD_0_0",
+    "protein_path": "data/dockgen/3qzy_1_FAD_0/3qzy_1_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3qzy_1_FAD_0/3qzy_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3qzy_1_FAD_0_1",
+    "protein_path": "data/dockgen/3qzy_1_FAD_0/3qzy_1_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3qzy_1_FAD_0/3qzy_1_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5eno_1_5QG_0_0",
+    "protein_path": "data/dockgen/5eno_1_5QG_0/5eno_1_5QG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5eno_1_5QG_0/5eno_1_5QG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_0",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_1",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_2",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_3",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_4",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_5",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_6",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_7",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_8",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_9",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1qaw_1_TRP_7_10",
+    "protein_path": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_7_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1qaw_1_TRP_7/1qaw_1_TRP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "5k21_1_6QF_2_0",
+    "protein_path": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k21_1_6QF_2_1",
+    "protein_path": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5k21_1_6QF_2_2",
+    "protein_path": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k21_1_6QF_2/5k21_1_6QF_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4i7e_1_PEP_3_0",
+    "protein_path": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4i7e_1_PEP_3_1",
+    "protein_path": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4i7e_1_PEP_3_2",
+    "protein_path": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4i7e_1_PEP_3_3",
+    "protein_path": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4i7e_1_PEP_3/4i7e_1_PEP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_0",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_1",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_2",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_3",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_4",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_5",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_6",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4cnl_1_CHT_1_7",
+    "protein_path": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4cnl_1_CHT_1/4cnl_1_CHT_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1v9h_1_U5P_0_0",
+    "protein_path": "data/dockgen/1v9h_1_U5P_0/1v9h_1_U5P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1v9h_1_U5P_0/1v9h_1_U5P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2q6k_1_ADN_1_0",
+    "protein_path": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2q6k_1_ADN_1_1",
+    "protein_path": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2q6k_1_ADN_1_2",
+    "protein_path": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2q6k_1_ADN_1/2q6k_1_ADN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5tv6_2_PML_0_0",
+    "protein_path": "data/dockgen/5tv6_2_PML_0/5tv6_2_PML_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5tv6_2_PML_0/5tv6_2_PML_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxf_1_BEZ_0_0",
+    "protein_path": "data/dockgen/5fxf_1_BEZ_0/5fxf_1_BEZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxf_1_BEZ_0/5fxf_1_BEZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxf_1_BEZ_0_1",
+    "protein_path": "data/dockgen/5fxf_1_BEZ_0/5fxf_1_BEZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxf_1_BEZ_0/5fxf_1_BEZ_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zvc_1_BEZ_0_0",
+    "protein_path": "data/dockgen/4zvc_1_BEZ_0/4zvc_1_BEZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zvc_1_BEZ_0/4zvc_1_BEZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_0",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_1",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_2",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_3",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_4",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5fiu_1_Y3J_3_5",
+    "protein_path": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fiu_1_Y3J_3/5fiu_1_Y3J_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_0",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_1",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_2",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_3",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_4",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2cdc_1_XYS_5_5",
+    "protein_path": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_5_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2cdc_1_XYS_5/2cdc_1_XYS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5ers_1_AMP_1_0",
+    "protein_path": "data/dockgen/5ers_1_AMP_1/5ers_1_AMP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ers_1_AMP_1/5ers_1_AMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5ers_1_AMP_1_1",
+    "protein_path": "data/dockgen/5ers_1_AMP_1/5ers_1_AMP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5ers_1_AMP_1/5ers_1_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3o7j_1_2AL_0_0",
+    "protein_path": "data/dockgen/3o7j_1_2AL_0/3o7j_1_2AL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3o7j_1_2AL_0/3o7j_1_2AL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5a8r_2_TP7_0_0",
+    "protein_path": "data/dockgen/5a8r_2_TP7_0/5a8r_2_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a8r_2_TP7_0/5a8r_2_TP7_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5a8r_2_TP7_0_1",
+    "protein_path": "data/dockgen/5a8r_2_TP7_0/5a8r_2_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5a8r_2_TP7_0/5a8r_2_TP7_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5tva_2_AMP_0_0",
+    "protein_path": "data/dockgen/5tva_2_AMP_0/5tva_2_AMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5tva_2_AMP_0/5tva_2_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1ha3_1_MAU_0_0",
+    "protein_path": "data/dockgen/1ha3_1_MAU_0/1ha3_1_MAU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1ha3_1_MAU_0/1ha3_1_MAU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4u63_1_FAD_0_0",
+    "protein_path": "data/dockgen/4u63_1_FAD_0/4u63_1_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4u63_1_FAD_0/4u63_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3zjx_1_BOG_0_0",
+    "protein_path": "data/dockgen/3zjx_1_BOG_0/3zjx_1_BOG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3zjx_1_BOG_0/3zjx_1_BOG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2hk9_1_SKM_0_0",
+    "protein_path": "data/dockgen/2hk9_1_SKM_0/2hk9_1_SKM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hk9_1_SKM_0/2hk9_1_SKM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3s6a_1_ANP_0_0",
+    "protein_path": "data/dockgen/3s6a_1_ANP_0/3s6a_1_ANP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3s6a_1_ANP_0/3s6a_1_ANP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1ig3_1_VIB_1_0",
+    "protein_path": "data/dockgen/1ig3_1_VIB_1/1ig3_1_VIB_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1ig3_1_VIB_1/1ig3_1_VIB_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1ig3_1_VIB_1_1",
+    "protein_path": "data/dockgen/1ig3_1_VIB_1/1ig3_1_VIB_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1ig3_1_VIB_1/1ig3_1_VIB_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_0",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_1",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_2",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_3",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_5_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_4",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5h4s_1_RAM_1_5",
+    "protein_path": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5h4s_1_RAM_1/5h4s_1_RAM_4_ligand.pdb"
+  },
+  {
+    "complex_name": "6fgc_1_ADP_1_0",
+    "protein_path": "data/dockgen/6fgc_1_ADP_1/6fgc_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fgc_1_ADP_1/6fgc_1_ADP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6fgc_1_ADP_1_1",
+    "protein_path": "data/dockgen/6fgc_1_ADP_1/6fgc_1_ADP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fgc_1_ADP_1/6fgc_1_ADP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3ldj_2_GU4-YYJ_0_0",
+    "protein_path": "data/dockgen/3ldj_2_GU4-YYJ_0/3ldj_2_GU4-YYJ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ldj_2_GU4-YYJ_0/3ldj_2_GU4-YYJ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2dvn_1_IMP_0_0",
+    "protein_path": "data/dockgen/2dvn_1_IMP_0/2dvn_1_IMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2dvn_1_IMP_0/2dvn_1_IMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2dvn_1_IMP_0_1",
+    "protein_path": "data/dockgen/2dvn_1_IMP_0/2dvn_1_IMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2dvn_1_IMP_0/2dvn_1_IMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_0",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_1",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_2",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_3",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_4",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_5",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_6",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2yyj_1_4HP_4_7",
+    "protein_path": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2yyj_1_4HP_4/2yyj_1_4HP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf5_1_CDT_0_0",
+    "protein_path": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf5_1_CDT_0_1",
+    "protein_path": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf5_1_CDT_0_2",
+    "protein_path": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf5_1_CDT_0_3",
+    "protein_path": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf5_1_CDT_0/1uf5_1_CDT_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5xza_1_ADP_0_0",
+    "protein_path": "data/dockgen/5xza_1_ADP_0/5xza_1_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xza_1_ADP_0/5xza_1_ADP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5xza_1_ADP_0_1",
+    "protein_path": "data/dockgen/5xza_1_ADP_0/5xza_1_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5xza_1_ADP_0/5xza_1_ADP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf7_1_CDV_0_0",
+    "protein_path": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf7_1_CDV_0_1",
+    "protein_path": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf7_1_CDV_0_2",
+    "protein_path": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1uf7_1_CDV_0_3",
+    "protein_path": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1uf7_1_CDV_0/1uf7_1_CDV_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5enq_1_5QE_0_0",
+    "protein_path": "data/dockgen/5enq_1_5QE_0/5enq_1_5QE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5enq_1_5QE_0/5enq_1_5QE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2vdf_1_OCT_0_0",
+    "protein_path": "data/dockgen/2vdf_1_OCT_0/2vdf_1_OCT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2vdf_1_OCT_0/2vdf_1_OCT_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3wrb_1_GDE_0_0",
+    "protein_path": "data/dockgen/3wrb_1_GDE_0/3wrb_1_GDE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wrb_1_GDE_0/3wrb_1_GDE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3wrb_1_GDE_0_1",
+    "protein_path": "data/dockgen/3wrb_1_GDE_0/3wrb_1_GDE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wrb_1_GDE_0/3wrb_1_GDE_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5enp_1_5QF_0_0",
+    "protein_path": "data/dockgen/5enp_1_5QF_0/5enp_1_5QF_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5enp_1_5QF_0/5enp_1_5QF_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3mzi_1_FMN_0_0",
+    "protein_path": "data/dockgen/3mzi_1_FMN_0/3mzi_1_FMN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mzi_1_FMN_0/3mzi_1_FMN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3mzi_1_FMN_0_1",
+    "protein_path": "data/dockgen/3mzi_1_FMN_0/3mzi_1_FMN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3mzi_1_FMN_0/3mzi_1_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3wvc_1_FEG_0_0",
+    "protein_path": "data/dockgen/3wvc_1_FEG_0/3wvc_1_FEG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3wvc_1_FEG_0/3wvc_1_FEG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4x28_1_FDA_1_0",
+    "protein_path": "data/dockgen/4x28_1_FDA_1/4x28_1_FDA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4x28_1_FDA_1/4x28_1_FDA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4x28_1_FDA_1_1",
+    "protein_path": "data/dockgen/4x28_1_FDA_1/4x28_1_FDA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4x28_1_FDA_1/4x28_1_FDA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6uw7_1_QMD_0_0",
+    "protein_path": "data/dockgen/6uw7_1_QMD_0/6uw7_1_QMD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uw7_1_QMD_0/6uw7_1_QMD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6wjy_2_U41_0_0",
+    "protein_path": "data/dockgen/6wjy_2_U41_0/6wjy_2_U41_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6wjy_2_U41_0/6wjy_2_U41_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1v97_1_MTE_1_0",
+    "protein_path": "data/dockgen/1v97_1_MTE_1/1v97_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1v97_1_MTE_1/1v97_1_MTE_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1v97_1_MTE_1_1",
+    "protein_path": "data/dockgen/1v97_1_MTE_1/1v97_1_MTE_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1v97_1_MTE_1/1v97_1_MTE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6mt9_1_ADP_0_0",
+    "protein_path": "data/dockgen/6mt9_1_ADP_0/6mt9_1_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6mt9_1_ADP_0/6mt9_1_ADP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6mt9_1_ADP_0_1",
+    "protein_path": "data/dockgen/6mt9_1_ADP_0/6mt9_1_ADP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6mt9_1_ADP_0/6mt9_1_ADP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6yao_1_OJ2_0_0",
+    "protein_path": "data/dockgen/6yao_1_OJ2_0/6yao_1_OJ2_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6yao_1_OJ2_0/6yao_1_OJ2_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2f5t_1_GLC-GLC_1_0",
+    "protein_path": "data/dockgen/2f5t_1_GLC-GLC_1/2f5t_1_GLC-GLC_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2f5t_1_GLC-GLC_1/2f5t_1_GLC-GLC_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2f5t_1_GLC-GLC_1_1",
+    "protein_path": "data/dockgen/2f5t_1_GLC-GLC_1/2f5t_1_GLC-GLC_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2f5t_1_GLC-GLC_1/2f5t_1_GLC-GLC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2ze9_1_PD7_0_0",
+    "protein_path": "data/dockgen/2ze9_1_PD7_0/2ze9_1_PD7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2ze9_1_PD7_0/2ze9_1_PD7_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4w8c_1_GLY_1_0",
+    "protein_path": "data/dockgen/4w8c_1_GLY_1/4w8c_1_GLY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4w8c_1_GLY_1/4w8c_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4w8c_1_GLY_1_1",
+    "protein_path": "data/dockgen/4w8c_1_GLY_1/4w8c_1_GLY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4w8c_1_GLY_1/4w8c_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4nwx_1_2PG_0_0",
+    "protein_path": "data/dockgen/4nwx_1_2PG_0/4nwx_1_2PG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4nwx_1_2PG_0/4nwx_1_2PG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gvl_1_SLB_2_0",
+    "protein_path": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3gvl_1_SLB_2_1",
+    "protein_path": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3gvl_1_SLB_2_2",
+    "protein_path": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gvl_1_SLB_2/3gvl_1_SLB_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1z2i_1_NAD_0_0",
+    "protein_path": "data/dockgen/1z2i_1_NAD_0/1z2i_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1z2i_1_NAD_0/1z2i_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1z2i_1_NAD_0_1",
+    "protein_path": "data/dockgen/1z2i_1_NAD_0/1z2i_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1z2i_1_NAD_0/1z2i_1_NAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4gvy_1_CIR_0_0",
+    "protein_path": "data/dockgen/4gvy_1_CIR_0/4gvy_1_CIR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4gvy_1_CIR_0/4gvy_1_CIR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3nfd_1_COA_1_0",
+    "protein_path": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3nfd_1_COA_1_1",
+    "protein_path": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3nfd_1_COA_1_2",
+    "protein_path": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3nfd_1_COA_1/3nfd_1_COA_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0d_1_GLY_3_0",
+    "protein_path": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0d_1_GLY_3_1",
+    "protein_path": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0d_1_GLY_3_2",
+    "protein_path": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0d_1_GLY_3_3",
+    "protein_path": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0d_1_GLY_3/4o0d_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4mos_1_GAF_1_0",
+    "protein_path": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4mos_1_GAF_1_1",
+    "protein_path": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4mos_1_GAF_1_2",
+    "protein_path": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4mos_1_GAF_1_3",
+    "protein_path": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4mos_1_GAF_1/4mos_1_GAF_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4pya_1_2X3_0_0",
+    "protein_path": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4pya_1_2X3_0_1",
+    "protein_path": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4pya_1_2X3_0_2",
+    "protein_path": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4pya_1_2X3_0/4pya_1_2X3_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1zt9_1_TRP_0_0",
+    "protein_path": "data/dockgen/1zt9_1_TRP_0/1zt9_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1zt9_1_TRP_0/1zt9_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1zt9_1_TRP_0_1",
+    "protein_path": "data/dockgen/1zt9_1_TRP_0/1zt9_1_TRP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1zt9_1_TRP_0/1zt9_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6ha4_1_T3Y_0_0",
+    "protein_path": "data/dockgen/6ha4_1_T3Y_0/6ha4_1_T3Y_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ha4_1_T3Y_0/6ha4_1_T3Y_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4gk9_1_BMA-MAN-MAN-MAN-MAN_3_0",
+    "protein_path": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4gk9_1_BMA-MAN-MAN-MAN-MAN_3_1",
+    "protein_path": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4gk9_1_BMA-MAN-MAN-MAN-MAN_3_2",
+    "protein_path": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4gk9_1_BMA-MAN-MAN-MAN-MAN_3_3",
+    "protein_path": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4gk9_1_BMA-MAN-MAN-MAN-MAN_3/4gk9_1_BMA-MAN-MAN-MAN-MAN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1tke_1_SER_0_0",
+    "protein_path": "data/dockgen/1tke_1_SER_0/1tke_1_SER_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1tke_1_SER_0/1tke_1_SER_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1jhg_1_TRP_1_0",
+    "protein_path": "data/dockgen/1jhg_1_TRP_1/1jhg_1_TRP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1jhg_1_TRP_1/1jhg_1_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1jhg_1_TRP_1_1",
+    "protein_path": "data/dockgen/1jhg_1_TRP_1/1jhg_1_TRP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1jhg_1_TRP_1/1jhg_1_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1u8u_1_OCA_0_0",
+    "protein_path": "data/dockgen/1u8u_1_OCA_0/1u8u_1_OCA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1u8u_1_OCA_0/1u8u_1_OCA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ad9_1_NAD_0_0",
+    "protein_path": "data/dockgen/3ad9_1_NAD_0/3ad9_1_NAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ad9_1_NAD_0/3ad9_1_NAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6u1v_1_FDA_2_0",
+    "protein_path": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6u1v_1_FDA_2_1",
+    "protein_path": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6u1v_1_FDA_2_2",
+    "protein_path": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6u1v_1_FDA_2_3",
+    "protein_path": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6u1v_1_FDA_2/6u1v_1_FDA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2hnu_2_PHE-TYR_1_0",
+    "protein_path": "data/dockgen/2hnu_2_PHE-TYR_1/2hnu_2_PHE-TYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hnu_2_PHE-TYR_1/2hnu_2_PHE-TYR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2hnu_2_PHE-TYR_1_1",
+    "protein_path": "data/dockgen/2hnu_2_PHE-TYR_1/2hnu_2_PHE-TYR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hnu_2_PHE-TYR_1/2hnu_2_PHE-TYR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k45_2_GLU_1_0",
+    "protein_path": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_2_ligand.pdb"
+  },
+  {
+    "complex_name": "5k45_2_GLU_1_1",
+    "protein_path": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5k45_2_GLU_1_2",
+    "protein_path": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k45_2_GLU_1_3",
+    "protein_path": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k45_2_GLU_1/5k45_2_GLU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_0",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_14_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_1",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_12_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_2",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_13_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_3",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_4",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_11_ligand.pdb"
+  },
+  {
+    "complex_name": "6b1b_1_TMO_15_5",
+    "protein_path": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_15_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6b1b_1_TMO_15/6b1b_1_TMO_10_ligand.pdb"
+  },
+  {
+    "complex_name": "3gfz_1_FMN_1_0",
+    "protein_path": "data/dockgen/3gfz_1_FMN_1/3gfz_1_FMN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gfz_1_FMN_1/3gfz_1_FMN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gfz_1_FMN_1_1",
+    "protein_path": "data/dockgen/3gfz_1_FMN_1/3gfz_1_FMN_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gfz_1_FMN_1/3gfz_1_FMN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3sqg_1_TP7_0_0",
+    "protein_path": "data/dockgen/3sqg_1_TP7_0/3sqg_1_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3sqg_1_TP7_0/3sqg_1_TP7_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3sqg_1_TP7_0_1",
+    "protein_path": "data/dockgen/3sqg_1_TP7_0/3sqg_1_TP7_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3sqg_1_TP7_0/3sqg_1_TP7_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zoc_1_BGC_1_0",
+    "protein_path": "data/dockgen/4zoc_1_BGC_1/4zoc_1_BGC_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zoc_1_BGC_1/4zoc_1_BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zoc_1_BGC_1_1",
+    "protein_path": "data/dockgen/4zoc_1_BGC_1/4zoc_1_BGC_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zoc_1_BGC_1/4zoc_1_BGC_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6ea9_1_9BG_0_0",
+    "protein_path": "data/dockgen/6ea9_1_9BG_0/6ea9_1_9BG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ea9_1_9BG_0/6ea9_1_9BG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6ea9_1_9BG_0_1",
+    "protein_path": "data/dockgen/6ea9_1_9BG_0/6ea9_1_9BG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6ea9_1_9BG_0/6ea9_1_9BG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4paa_1_THG_0_0",
+    "protein_path": "data/dockgen/4paa_1_THG_0/4paa_1_THG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4paa_1_THG_0/4paa_1_THG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4yaf_2_2AM_0_0",
+    "protein_path": "data/dockgen/4yaf_2_2AM_0/4yaf_2_2AM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yaf_2_2AM_0/4yaf_2_2AM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5bu3_1_4W9_0_0",
+    "protein_path": "data/dockgen/5bu3_1_4W9_0/5bu3_1_4W9_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5bu3_1_4W9_0/5bu3_1_4W9_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5bu3_1_4W9_0_1",
+    "protein_path": "data/dockgen/5bu3_1_4W9_0/5bu3_1_4W9_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5bu3_1_4W9_0/5bu3_1_4W9_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5enr_1_MBX_0_0",
+    "protein_path": "data/dockgen/5enr_1_MBX_0/5enr_1_MBX_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5enr_1_MBX_0/5enr_1_MBX_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3k8m_1_GLC-GLC-AC1_0_0",
+    "protein_path": "data/dockgen/3k8m_1_GLC-GLC-AC1_0/3k8m_1_GLC-GLC-AC1_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3k8m_1_GLC-GLC-AC1_0/3k8m_1_GLC-GLC-AC1_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3k8m_1_GLC-GLC-AC1_0_1",
+    "protein_path": "data/dockgen/3k8m_1_GLC-GLC-AC1_0/3k8m_1_GLC-GLC-AC1_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3k8m_1_GLC-GLC-AC1_0/3k8m_1_GLC-GLC-AC1_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5k63_1_ASN-GLY_0_0",
+    "protein_path": "data/dockgen/5k63_1_ASN-GLY_0/5k63_1_ASN-GLY_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5k63_1_ASN-GLY_0/5k63_1_ASN-GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wao_1_BGC-BGC-BGC-BGC-BGC_0_0",
+    "protein_path": "data/dockgen/2wao_1_BGC-BGC-BGC-BGC-BGC_0/2wao_1_BGC-BGC-BGC-BGC-BGC_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wao_1_BGC-BGC-BGC-BGC-BGC_0/2wao_1_BGC-BGC-BGC-BGC-BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2bpb_1_MSS_0_0",
+    "protein_path": "data/dockgen/2bpb_1_MSS_0/2bpb_1_MSS_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2bpb_1_MSS_0/2bpb_1_MSS_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6dam_1_PQQ_0_0",
+    "protein_path": "data/dockgen/6dam_1_PQQ_0/6dam_1_PQQ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6dam_1_PQQ_0/6dam_1_PQQ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2hnv_3_PHE-TYR_0_0",
+    "protein_path": "data/dockgen/2hnv_3_PHE-TYR_0/2hnv_3_PHE-TYR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hnv_3_PHE-TYR_0/2hnv_3_PHE-TYR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2hnv_3_PHE-TYR_0_1",
+    "protein_path": "data/dockgen/2hnv_3_PHE-TYR_0/2hnv_3_PHE-TYR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2hnv_3_PHE-TYR_0/2hnv_3_PHE-TYR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_0",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_1",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_10_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_2",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_3",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_7_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_4",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_5",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_6_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_6",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_8_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_7",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_8",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_11_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_9",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_10",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2zcz_2_TRP_3_11",
+    "protein_path": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2zcz_2_TRP_3/2zcz_2_TRP_9_ligand.pdb"
+  },
+  {
+    "complex_name": "2bz1_1_TAU_0_0",
+    "protein_path": "data/dockgen/2bz1_1_TAU_0/2bz1_1_TAU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2bz1_1_TAU_0/2bz1_1_TAU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2bz1_1_TAU_0_1",
+    "protein_path": "data/dockgen/2bz1_1_TAU_0/2bz1_1_TAU_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2bz1_1_TAU_0/2bz1_1_TAU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_0",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_1",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_2",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_10_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_3",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_4",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_5",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_8_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_6",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_7",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_11_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_8",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_9",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_10",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4zaw_1_4LU_1_11",
+    "protein_path": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4zaw_1_4LU_1/4zaw_1_4LU_9_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_0",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_1",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_2",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_3",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_4",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4fyv_1_DCP_2_5",
+    "protein_path": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4fyv_1_DCP_2/4fyv_1_DCP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4jrb_1_PGT_0_0",
+    "protein_path": "data/dockgen/4jrb_1_PGT_0/4jrb_1_PGT_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4jrb_1_PGT_0/4jrb_1_PGT_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gf4_1_FAD_1_0",
+    "protein_path": "data/dockgen/3gf4_1_FAD_1/3gf4_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gf4_1_FAD_1/3gf4_1_FAD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3gf4_1_FAD_1_1",
+    "protein_path": "data/dockgen/3gf4_1_FAD_1/3gf4_1_FAD_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gf4_1_FAD_1/3gf4_1_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_0",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_1",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_2",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_3",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_4",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_ligand.pdb"
+  },
+  {
+    "complex_name": "1za2_1_CTP_4_5",
+    "protein_path": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1za2_1_CTP_4/1za2_1_CTP_5_ligand.pdb"
+  },
+  {
+    "complex_name": "6in7_1_NCA_0_0",
+    "protein_path": "data/dockgen/6in7_1_NCA_0/6in7_1_NCA_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6in7_1_NCA_0/6in7_1_NCA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4h2f_1_ADN_0_0",
+    "protein_path": "data/dockgen/4h2f_1_ADN_0/4h2f_1_ADN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4h2f_1_ADN_0/4h2f_1_ADN_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4h2f_1_ADN_0_1",
+    "protein_path": "data/dockgen/4h2f_1_ADN_0/4h2f_1_ADN_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4h2f_1_ADN_0/4h2f_1_ADN_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5f52_1_ASP_2_0",
+    "protein_path": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5f52_1_ASP_2_1",
+    "protein_path": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5f52_1_ASP_2_2",
+    "protein_path": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_3_ligand.pdb"
+  },
+  {
+    "complex_name": "5f52_1_ASP_2_3",
+    "protein_path": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5f52_1_ASP_2/5f52_1_ASP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2djh_1_3PD-UM3_0_0",
+    "protein_path": "data/dockgen/2djh_1_3PD-UM3_0/2djh_1_3PD-UM3_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2djh_1_3PD-UM3_0/2djh_1_3PD-UM3_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1j1g_1_5GP_0_0",
+    "protein_path": "data/dockgen/1j1g_1_5GP_0/1j1g_1_5GP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1j1g_1_5GP_0/1j1g_1_5GP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1j1g_1_5GP_0_1",
+    "protein_path": "data/dockgen/1j1g_1_5GP_0/1j1g_1_5GP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1j1g_1_5GP_0/1j1g_1_5GP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgf_1_NDP_0_0",
+    "protein_path": "data/dockgen/1dgf_1_NDP_0/1dgf_1_NDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgf_1_NDP_0/1dgf_1_NDP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1dgf_1_NDP_0_1",
+    "protein_path": "data/dockgen/1dgf_1_NDP_0/1dgf_1_NDP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1dgf_1_NDP_0/1dgf_1_NDP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3m9v_1_TYD_0_0",
+    "protein_path": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3m9v_1_TYD_0_1",
+    "protein_path": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3m9v_1_TYD_0_2",
+    "protein_path": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3m9v_1_TYD_0_3",
+    "protein_path": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3m9v_1_TYD_0/3m9v_1_TYD_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2q37_1_3AL_0_0",
+    "protein_path": "data/dockgen/2q37_1_3AL_0/2q37_1_3AL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2q37_1_3AL_0/2q37_1_3AL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2q37_1_3AL_0_1",
+    "protein_path": "data/dockgen/2q37_1_3AL_0/2q37_1_3AL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2q37_1_3AL_0/2q37_1_3AL_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2vfu_1_MTL_0_0",
+    "protein_path": "data/dockgen/2vfu_1_MTL_0/2vfu_1_MTL_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2vfu_1_MTL_0/2vfu_1_MTL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1woo_1_THG_0_0",
+    "protein_path": "data/dockgen/1woo_1_THG_0/1woo_1_THG_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1woo_1_THG_0/1woo_1_THG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5x1k_1_7WR_1_0",
+    "protein_path": "data/dockgen/5x1k_1_7WR_1/5x1k_1_7WR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5x1k_1_7WR_1/5x1k_1_7WR_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5x1k_1_7WR_1_1",
+    "protein_path": "data/dockgen/5x1k_1_7WR_1/5x1k_1_7WR_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5x1k_1_7WR_1/5x1k_1_7WR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6cfv_1_IMP_0_0",
+    "protein_path": "data/dockgen/6cfv_1_IMP_0/6cfv_1_IMP_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6cfv_1_IMP_0/6cfv_1_IMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5hqx_1_EDZ_0_0",
+    "protein_path": "data/dockgen/5hqx_1_EDZ_0/5hqx_1_EDZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hqx_1_EDZ_0/5hqx_1_EDZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_0",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_1",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_2",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_6_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_3",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_5_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_4",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_5",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_8_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_6",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_7_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_7",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4tvd_1_BGC_4_8",
+    "protein_path": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_4_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4tvd_1_BGC_4/4tvd_1_BGC_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4xfm_1_THE_0_0",
+    "protein_path": "data/dockgen/4xfm_1_THE_0/4xfm_1_THE_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4xfm_1_THE_0/4xfm_1_THE_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_0",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_4_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_1",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_2",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_3",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_4",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1rqp_1_SAM_0_5",
+    "protein_path": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1rqp_1_SAM_0/1rqp_1_SAM_5_ligand.pdb"
+  },
+  {
+    "complex_name": "6xb3_3_9BG_1_0",
+    "protein_path": "data/dockgen/6xb3_3_9BG_1/6xb3_3_9BG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xb3_3_9BG_1/6xb3_3_9BG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6xb3_3_9BG_1_1",
+    "protein_path": "data/dockgen/6xb3_3_9BG_1/6xb3_3_9BG_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6xb3_3_9BG_1/6xb3_3_9BG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6fgc_1_D95_1_0",
+    "protein_path": "data/dockgen/6fgc_1_D95_1/6fgc_1_D95_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fgc_1_D95_1/6fgc_1_D95_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6fgc_1_D95_1_1",
+    "protein_path": "data/dockgen/6fgc_1_D95_1/6fgc_1_D95_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6fgc_1_D95_1/6fgc_1_D95_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0f_1_GLY_3_0",
+    "protein_path": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0f_1_GLY_3_1",
+    "protein_path": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0f_1_GLY_3_2",
+    "protein_path": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4o0f_1_GLY_3_3",
+    "protein_path": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4o0f_1_GLY_3/4o0f_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6rms_1_AMP_1_0",
+    "protein_path": "data/dockgen/6rms_1_AMP_1/6rms_1_AMP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rms_1_AMP_1/6rms_1_AMP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6rms_1_AMP_1_1",
+    "protein_path": "data/dockgen/6rms_1_AMP_1/6rms_1_AMP_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6rms_1_AMP_1/6rms_1_AMP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_0",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_4_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_1",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_3_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_2",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_3",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_5_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_4",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2v7u_1_SAM_2_5",
+    "protein_path": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2v7u_1_SAM_2/2v7u_1_SAM_2_ligand.pdb"
+  },
+  {
+    "complex_name": "1vd3_1_U2P_0_0",
+    "protein_path": "data/dockgen/1vd3_1_U2P_0/1vd3_1_U2P_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1vd3_1_U2P_0/1vd3_1_U2P_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wds_1_COA_2_0",
+    "protein_path": "data/dockgen/2wds_1_COA_2/2wds_1_COA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wds_1_COA_2/2wds_1_COA_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2wds_1_COA_2_1",
+    "protein_path": "data/dockgen/2wds_1_COA_2/2wds_1_COA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wds_1_COA_2/2wds_1_COA_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wds_1_COA_2_2",
+    "protein_path": "data/dockgen/2wds_1_COA_2/2wds_1_COA_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wds_1_COA_2/2wds_1_COA_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6wyz_1_DGL_1_0",
+    "protein_path": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6wyz_1_DGL_1_1",
+    "protein_path": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_1_ligand.pdb"
+  },
+  {
+    "complex_name": "6wyz_1_DGL_1_2",
+    "protein_path": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6wyz_1_DGL_1_3",
+    "protein_path": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6wyz_1_DGL_1/6wyz_1_DGL_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4osy_1_GLY_3_0",
+    "protein_path": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "4osy_1_GLY_3_1",
+    "protein_path": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "4osy_1_GLY_3_2",
+    "protein_path": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "4osy_1_GLY_3_3",
+    "protein_path": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4osy_1_GLY_3/4osy_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2nt8_1_ATP_2_0",
+    "protein_path": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2nt8_1_ATP_2_1",
+    "protein_path": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2nt8_1_ATP_2_2",
+    "protein_path": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2nt8_1_ATP_2/2nt8_1_ATP_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3ub7_1_ACM_1_0",
+    "protein_path": "data/dockgen/3ub7_1_ACM_1/3ub7_1_ACM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ub7_1_ACM_1/3ub7_1_ACM_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3ub7_1_ACM_1_1",
+    "protein_path": "data/dockgen/3ub7_1_ACM_1/3ub7_1_ACM_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3ub7_1_ACM_1/3ub7_1_ACM_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5aju_1_RP5_0_0",
+    "protein_path": "data/dockgen/5aju_1_RP5_0/5aju_1_RP5_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5aju_1_RP5_0/5aju_1_RP5_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5aju_1_RP5_0_1",
+    "protein_path": "data/dockgen/5aju_1_RP5_0/5aju_1_RP5_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5aju_1_RP5_0/5aju_1_RP5_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5u82_2_ZN0_0_0",
+    "protein_path": "data/dockgen/5u82_2_ZN0_0/5u82_2_ZN0_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5u82_2_ZN0_0/5u82_2_ZN0_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxe_1_CIY_1_0",
+    "protein_path": "data/dockgen/5fxe_1_CIY_1/5fxe_1_CIY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxe_1_CIY_1/5fxe_1_CIY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "5fxe_1_CIY_1_1",
+    "protein_path": "data/dockgen/5fxe_1_CIY_1/5fxe_1_CIY_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5fxe_1_CIY_1/5fxe_1_CIY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3t58_3_FAD_0_0",
+    "protein_path": "data/dockgen/3t58_3_FAD_0/3t58_3_FAD_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3t58_3_FAD_0/3t58_3_FAD_0_ligand.pdb"
+  },
+  {
+    "complex_name": "5hwk_2_BEZ_0_0",
+    "protein_path": "data/dockgen/5hwk_2_BEZ_0/5hwk_2_BEZ_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/5hwk_2_BEZ_0/5hwk_2_BEZ_0_ligand.pdb"
+  },
+  {
+    "complex_name": "3gsi_1_THG_3_0",
+    "protein_path": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_3_ligand.pdb"
+  },
+  {
+    "complex_name": "3gsi_1_THG_3_1",
+    "protein_path": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_2_ligand.pdb"
+  },
+  {
+    "complex_name": "3gsi_1_THG_3_2",
+    "protein_path": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_1_ligand.pdb"
+  },
+  {
+    "complex_name": "3gsi_1_THG_3_3",
+    "protein_path": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_3_protein_processed.pdb",
+    "ligand_description": "data/dockgen/3gsi_1_THG_3/3gsi_1_THG_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6uc1_1_GLY_2_0",
+    "protein_path": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_0_ligand.pdb"
+  },
+  {
+    "complex_name": "6uc1_1_GLY_2_1",
+    "protein_path": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_3_ligand.pdb"
+  },
+  {
+    "complex_name": "6uc1_1_GLY_2_2",
+    "protein_path": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_2_ligand.pdb"
+  },
+  {
+    "complex_name": "6uc1_1_GLY_2_3",
+    "protein_path": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_2_protein_processed.pdb",
+    "ligand_description": "data/dockgen/6uc1_1_GLY_2/6uc1_1_GLY_1_ligand.pdb"
+  },
+  {
+    "complex_name": "2wr8_1_SAH_1_0",
+    "protein_path": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2wr8_1_SAH_1_1",
+    "protein_path": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_2_ligand.pdb"
+  },
+  {
+    "complex_name": "2wr8_1_SAH_1_2",
+    "protein_path": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_1_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2wr8_1_SAH_1/2wr8_1_SAH_1_ligand.pdb"
+  },
+  {
+    "complex_name": "1lri_1_CLR_0_0",
+    "protein_path": "data/dockgen/1lri_1_CLR_0/1lri_1_CLR_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/1lri_1_CLR_0/1lri_1_CLR_0_ligand.pdb"
+  },
+  {
+    "complex_name": "2x34_2_UQ8_0_0",
+    "protein_path": "data/dockgen/2x34_2_UQ8_0/2x34_2_UQ8_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/2x34_2_UQ8_0/2x34_2_UQ8_0_ligand.pdb"
+  },
+  {
+    "complex_name": "4yao_2_2AM_0_0",
+    "protein_path": "data/dockgen/4yao_2_2AM_0/4yao_2_2AM_0_protein_processed.pdb",
+    "ligand_description": "data/dockgen/4yao_2_2AM_0/4yao_2_2AM_0_ligand.pdb"
+  }
+]

@@ -1,0 +1,31 @@
+REMARK Selection '(segment B) and... resnum `1072`)'
+HETATM    1  N   TRP A1072      16.191  23.595 -11.189  1.00  8.60         B N  
+ANISOU    1  N   TRP A1072     1001   1088   1178     95    158     99     B N  
+HETATM    2  CA  TRP A1072      16.516  22.629 -10.099  1.00  8.38         B C  
+ANISOU    2  CA  TRP A1072     1058   1135    989     89     30    175     B C  
+HETATM    3  C   TRP A1072      15.978  21.245 -10.429  1.00  8.53         B C  
+ANISOU    3  C   TRP A1072     1071   1086   1082     79     40    245     B C  
+HETATM    4  O   TRP A1072      14.852  21.136 -10.947  1.00  8.49         B O  
+ANISOU    4  O   TRP A1072     1142   1106    976     21     19    259     B O  
+HETATM    5  CB  TRP A1072      15.940  23.137  -8.776  1.00  8.61         B C  
+ANISOU    5  CB  TRP A1072     1038   1202   1031     73    -74    189     B C  
+HETATM    6  CG  TRP A1072      16.256  22.278  -7.612  1.00  8.23         B C  
+ANISOU    6  CG  TRP A1072     1075   1040   1012     92    -86    207     B C  
+HETATM    7  CD1 TRP A1072      15.485  21.278  -7.098  1.00  9.22         B C  
+ANISOU    7  CD1 TRP A1072     1126   1259   1117    147     -4    162     B C  
+HETATM    8  CD2 TRP A1072      17.447  22.317  -6.813  1.00  8.39         B C  
+ANISOU    8  CD2 TRP A1072     1106    973   1109    126    -17    201     B C  
+HETATM    9  NE1 TRP A1072      16.114  20.693  -6.033  1.00  8.94         B N  
+ANISOU    9  NE1 TRP A1072     1133   1088   1174    208     28    156     B N  
+HETATM   10  CE2 TRP A1072      17.321  21.310  -5.829  1.00  8.93         B C  
+ANISOU   10  CE2 TRP A1072     1122   1035   1235    143     27    214     B C  
+HETATM   11  CE3 TRP A1072      18.602  23.106  -6.831  1.00  8.80         B C  
+ANISOU   11  CE3 TRP A1072     1127   1138   1078    246    -49    177     B C  
+HETATM   12  CZ2 TRP A1072      18.305  21.074  -4.871  1.00  8.65         B C  
+ANISOU   12  CZ2 TRP A1072     1150   1051   1085     80     61    122     B C  
+HETATM   13  CZ3 TRP A1072      19.575  22.879  -5.866  1.00  8.85         B C  
+ANISOU   13  CZ3 TRP A1072     1089   1137   1134    529    -41    274     B C  
+HETATM   14  CH2 TRP A1072      19.419  21.867  -4.905  1.00  9.18         B C  
+ANISOU   14  CH2 TRP A1072     1194   1240   1052    243      5    190     B C  
+HETATM   15  OXT TRP A1072      16.689  20.251 -10.195  1.00  9.03         B O  
+ANISOU   15  OXT TRP A1072     1127   1144   1159     -5    -50    155     B O  

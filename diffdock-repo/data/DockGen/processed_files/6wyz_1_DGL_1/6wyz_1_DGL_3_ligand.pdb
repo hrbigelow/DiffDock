@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `401`)'
+HETATM    1  N   DGL D 401      42.673 -14.389  79.435  1.00 33.51         A N  
+HETATM    2  CA  DGL D 401      41.255 -13.990  79.431  1.00 30.34         A C  
+HETATM    3  C   DGL D 401      40.558 -14.205  78.072  1.00 25.62         A C  
+HETATM    4  O   DGL D 401      40.549 -15.243  77.287  1.00 20.10         A O  
+HETATM    5  CB  DGL D 401      40.481 -14.783  80.469  1.00 35.26         A C  
+HETATM    6  CG  DGL D 401      39.271 -13.999  80.967  1.00 35.41         A C  
+HETATM    7  CD  DGL D 401      37.982 -14.809  80.964  1.00 36.49         A C  
+HETATM    8  OE1 DGL D 401      37.702 -15.493  79.877  1.00 16.43         A O  
+HETATM    9  OE2 DGL D 401      37.267 -14.781  82.101  1.00 26.77         A O  
+HETATM   10  OXT DGL D 401      39.935 -13.220  77.811  1.00 18.66         A O  

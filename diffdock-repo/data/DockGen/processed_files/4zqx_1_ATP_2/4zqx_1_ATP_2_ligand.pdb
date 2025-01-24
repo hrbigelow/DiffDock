@@ -1,0 +1,63 @@
+REMARK Selection '(segment B) and...d resnum `301`)'
+HETATM    1  PG  ATP A 301      51.895   7.833  86.077  1.00 38.72         B P  
+ANISOU    1  PG  ATP A 301     4994   5057   4660   -299   -156   -121     B P  
+HETATM    2  O1G ATP A 301      51.995   6.338  85.910  1.00 40.84         B O  
+ANISOU    2  O1G ATP A 301     5224   5223   5072   -191   -555   -282     B O  
+HETATM    3  O2G ATP A 301      50.962   8.542  85.115  1.00 37.25         B O  
+ANISOU    3  O2G ATP A 301     5002   4881   4271   -267   -196   -445     B O  
+HETATM    4  O3G ATP A 301      51.725   8.275  87.519  1.00 37.74         B O  
+ANISOU    4  O3G ATP A 301     4838   4749   4754    434   -246   -225     B O  
+HETATM    5  PB  ATP A 301      54.757   7.747  85.718  1.00 41.59         B P  
+ANISOU    5  PB  ATP A 301     5207   5410   5187    -21   -167    -56     B P  
+HETATM    6  O1B ATP A 301      55.735   8.899  85.712  1.00 42.89         B O  
+ANISOU    6  O1B ATP A 301     5416   5653   5225    -90    -41   -208     B O  
+HETATM    7  O2B ATP A 301      54.754   6.763  86.860  1.00 40.19         B O  
+ANISOU    7  O2B ATP A 301     5177   5062   5033   -251    350     14     B O  
+HETATM    8  O3B ATP A 301      53.300   8.422  85.545  1.00 40.89         B O  
+ANISOU    8  O3B ATP A 301     5324   5361   4852   -411   -453    -22     B O  
+HETATM    9  PA  ATP A 301      55.055   5.429  83.957  1.00 44.29         B P  
+ANISOU    9  PA  ATP A 301     5026   5856   5946    320   -714     84     B P  
+HETATM   10  O1A ATP A 301      56.518   5.112  83.778  1.00 45.87         B O  
+ANISOU   10  O1A ATP A 301     5325   6556   5544    446   -582     42     B O  
+HETATM   11  O2A ATP A 301      54.224   4.608  84.925  1.00 46.23         B O  
+ANISOU   11  O2A ATP A 301     5135   6071   6358    444   -718    463     B O  
+HETATM   12  O3A ATP A 301      54.929   7.014  84.279  1.00 42.84         B O  
+ANISOU   12  O3A ATP A 301     4756   5669   5850    216   -590    123     B O  
+HETATM   13  O5' ATP A 301      54.366   5.317  82.491  1.00 43.73         B O  
+ANISOU   13  O5' ATP A 301     5121   5702   5792    606    -45   -378     B O  
+HETATM   14  C5' ATP A 301      52.972   5.572  82.299  1.00 44.52         B C  
+ANISOU   14  C5' ATP A 301     5381   5874   5662    380   -172   -344     B C  
+HETATM   15  C4' ATP A 301      52.596   5.087  80.907  1.00 44.37         B C  
+ANISOU   15  C4' ATP A 301     5346   6126   5385    438     21   -445     B C  
+HETATM   16  O4' ATP A 301      53.259   5.877  79.917  1.00 44.34         B O  
+ANISOU   16  O4' ATP A 301     5322   6123   5404    304   -428   -462     B O  
+HETATM   17  C3' ATP A 301      53.027   3.648  80.660  1.00 45.11         B C  
+ANISOU   17  C3' ATP A 301     5320   6469   5349    648     31   -179     B C  
+HETATM   18  O3' ATP A 301      51.945   2.940  80.061  1.00 47.78         B O  
+ANISOU   18  O3' ATP A 301     5878   6869   5406    791   -134   -214     B O  
+HETATM   19  C2' ATP A 301      54.179   3.743  79.680  1.00 46.58         B C  
+ANISOU   19  C2' ATP A 301     5407   6533   5760    721    155   -189     B C  
+HETATM   20  O2' ATP A 301      54.304   2.631  78.781  1.00 47.72         B O  
+ANISOU   20  O2' ATP A 301     5782   6531   5820    925    467   -176     B O  
+HETATM   21  C1' ATP A 301      53.864   5.031  78.937  1.00 45.65         B C  
+ANISOU   21  C1' ATP A 301     5469   6311   5565    534    -65   -213     B C  
+HETATM   22  N9  ATP A 301      55.110   5.593  78.367  1.00 44.45         B N  
+ANISOU   22  N9  ATP A 301     5562   6069   5258    742    258     43     B N  
+HETATM   23  C8  ATP A 301      56.220   5.957  79.051  1.00 44.53         B C  
+ANISOU   23  C8  ATP A 301     5619   6123   5177    814    147     18     B C  
+HETATM   24  N7  ATP A 301      57.178   6.421  78.206  1.00 43.97         B N  
+ANISOU   24  N7  ATP A 301     5561   6026   5118    823    330    -37     B N  
+HETATM   25  C5  ATP A 301      56.668   6.348  76.965  1.00 43.51         B C  
+ANISOU   25  C5  ATP A 301     5636   5888   5008    859    577     22     B C  
+HETATM   26  C6  ATP A 301      57.152   6.672  75.617  1.00 44.51         B C  
+ANISOU   26  C6  ATP A 301     5646   6327   4940    657    563   -281     B C  
+HETATM   27  N6  ATP A 301      58.398   7.174  75.512  1.00 44.95         B N  
+ANISOU   27  N6  ATP A 301     5566   6637   4875    445    400   -404     B N  
+HETATM   28  N1  ATP A 301      56.334   6.452  74.558  1.00 45.60         B N  
+ANISOU   28  N1  ATP A 301     5911   6312   5104    669    577     40     B N  
+HETATM   29  C2  ATP A 301      55.093   5.948  74.732  1.00 46.47         B C  
+ANISOU   29  C2  ATP A 301     6052   6266   5339    667    451    183     B C  
+HETATM   30  N3  ATP A 301      54.591   5.627  75.939  1.00 44.76         B N  
+ANISOU   30  N3  ATP A 301     6025   5777   5205    626    322    378     B N  
+HETATM   31  C4  ATP A 301      55.313   5.802  77.069  1.00 44.03         B C  
+ANISOU   31  C4  ATP A 301     5760   5860   5111    872    424    189     B C  

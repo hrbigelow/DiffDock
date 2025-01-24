@@ -1,0 +1,89 @@
+REMARK Selection '(segment A) and... resnum `4006`)'
+HETATM    1  PA  NAD F4006      -6.901 132.529  56.540  1.00 42.62         A P  
+ANISOU    1  PA  NAD F4006        0      0      0      0      0      0     A P  
+HETATM    2  O1A NAD F4006      -6.661 131.776  55.197  1.00 33.10         A O  
+ANISOU    2  O1A NAD F4006        0      0      0      0      0      0     A O  
+HETATM    3  O2A NAD F4006      -6.345 131.870  57.849  1.00 65.10         A O  
+ANISOU    3  O2A NAD F4006        0      0      0      0      0      0     A O  
+HETATM    4  O5B NAD F4006      -7.322 134.055  56.550  1.00 52.68         A O  
+ANISOU    4  O5B NAD F4006        0      0      0      0      0      0     A O  
+HETATM    5  C5B NAD F4006      -7.625 134.780  55.401  1.00 47.74         A C  
+ANISOU    5  C5B NAD F4006        0      0      0      0      0      0     A C  
+HETATM    6  C4B NAD F4006      -8.562 135.959  55.564  1.00 44.78         A C  
+ANISOU    6  C4B NAD F4006        0      0      0      0      0      0     A C  
+HETATM    7  O4B NAD F4006      -9.900 135.655  55.216  1.00 47.60         A O  
+ANISOU    7  O4B NAD F4006        0      0      0      0      0      0     A O  
+HETATM    8  C3B NAD F4006      -8.555 136.489  56.956  1.00 42.74         A C  
+ANISOU    8  C3B NAD F4006        0      0      0      0      0      0     A C  
+HETATM    9  O3B NAD F4006      -8.295 137.849  56.961  1.00 36.09         A O  
+ANISOU    9  O3B NAD F4006        0      0      0      0      0      0     A O  
+HETATM   10  C2B NAD F4006      -9.879 136.145  57.471  1.00 49.93         A C  
+ANISOU   10  C2B NAD F4006        0      0      0      0      0      0     A C  
+HETATM   11  O2B NAD F4006     -10.378 137.100  58.332  1.00 55.26         A O  
+ANISOU   11  O2B NAD F4006        0      0      0      0      0      0     A O  
+HETATM   12  C1B NAD F4006     -10.741 136.034  56.247  1.00 52.16         A C  
+ANISOU   12  C1B NAD F4006        0      0      0      0      0      0     A C  
+HETATM   13  N9A NAD F4006     -11.824 135.076  56.410  1.00 51.99         A N  
+ANISOU   13  N9A NAD F4006        0      0      0      0      0      0     A N  
+HETATM   14  C8A NAD F4006     -11.659 133.751  56.592  1.00 51.57         A C  
+ANISOU   14  C8A NAD F4006        0      0      0      0      0      0     A C  
+HETATM   15  N7A NAD F4006     -12.868 133.173  56.610  1.00 47.01         A N  
+ANISOU   15  N7A NAD F4006        0      0      0      0      0      0     A N  
+HETATM   16  C5A NAD F4006     -13.790 134.128  56.440  1.00 42.13         A C  
+ANISOU   16  C5A NAD F4006        0      0      0      0      0      0     A C  
+HETATM   17  C6A NAD F4006     -15.183 134.128  56.373  1.00 40.30         A C  
+ANISOU   17  C6A NAD F4006        0      0      0      0      0      0     A C  
+HETATM   18  N6A NAD F4006     -15.869 132.881  56.525  1.00 39.92         A N  
+ANISOU   18  N6A NAD F4006        0      0      0      0      0      0     A N  
+HETATM   19  N1A NAD F4006     -15.852 135.274  56.168  1.00 40.51         A N  
+ANISOU   19  N1A NAD F4006        0      0      0      0      0      0     A N  
+HETATM   20  C2A NAD F4006     -15.181 136.431  56.031  1.00 39.86         A C  
+ANISOU   20  C2A NAD F4006        0      0      0      0      0      0     A C  
+HETATM   21  N3A NAD F4006     -13.838 136.480  56.084  1.00 41.25         A N  
+ANISOU   21  N3A NAD F4006        0      0      0      0      0      0     A N  
+HETATM   22  C4A NAD F4006     -13.135 135.353  56.284  1.00 42.87         A C  
+ANISOU   22  C4A NAD F4006        0      0      0      0      0      0     A C  
+HETATM   23  O3  NAD F4006      -5.464 133.237  56.457  1.00 51.67         A O  
+ANISOU   23  O3  NAD F4006        0      0      0      0      0      0     A O  
+HETATM   24  PN  NAD F4006      -4.060 132.803  55.831  1.00 38.18         A P  
+ANISOU   24  PN  NAD F4006        0      0      0      0      0      0     A P  
+HETATM   25  O1N NAD F4006      -4.115 132.775  54.303  1.00 32.24         A O  
+ANISOU   25  O1N NAD F4006        0      0      0      0      0      0     A O  
+HETATM   26  O2N NAD F4006      -3.586 131.480  56.398  1.00 42.03         A O  
+ANISOU   26  O2N NAD F4006        0      0      0      0      0      0     A O  
+HETATM   27  O5D NAD F4006      -3.001 133.894  56.240  1.00 49.90         A O  
+ANISOU   27  O5D NAD F4006        0      0      0      0      0      0     A O  
+HETATM   28  C5D NAD F4006      -2.369 133.872  57.480  1.00 49.10         A C  
+ANISOU   28  C5D NAD F4006        0      0      0      0      0      0     A C  
+HETATM   29  C4D NAD F4006      -1.272 134.891  57.719  1.00 52.87         A C  
+ANISOU   29  C4D NAD F4006        0      0      0      0      0      0     A C  
+HETATM   30  O4D NAD F4006      -0.074 134.465  57.191  1.00 54.03         A O  
+ANISOU   30  O4D NAD F4006        0      0      0      0      0      0     A O  
+HETATM   31  C3D NAD F4006      -1.574 136.241  57.114  1.00 54.32         A C  
+ANISOU   31  C3D NAD F4006        0      0      0      0      0      0     A C  
+HETATM   32  O3D NAD F4006      -1.836 137.124  58.119  1.00 58.26         A O  
+ANISOU   32  O3D NAD F4006        0      0      0      0      0      0     A O  
+HETATM   33  C2D NAD F4006      -0.386 136.659  56.345  1.00 48.94         A C  
+ANISOU   33  C2D NAD F4006        0      0      0      0      0      0     A C  
+HETATM   34  O2D NAD F4006      -0.005 137.946  56.648  1.00 41.90         A O  
+ANISOU   34  O2D NAD F4006        0      0      0      0      0      0     A O  
+HETATM   35  C1D NAD F4006       0.663 135.662  56.726  1.00 52.55         A C  
+ANISOU   35  C1D NAD F4006        0      0      0      0      0      0     A C  
+HETATM   36  N1N NAD F4006       1.795 135.366  55.717  1.00 58.67         A N  
+ANISOU   36  N1N NAD F4006        0      0      0      0      0      0     A N  
+HETATM   37  C2N NAD F4006       3.007 135.909  55.893  1.00 65.93         A C  
+ANISOU   37  C2N NAD F4006        0      0      0      0      0      0     A C  
+HETATM   38  C3N NAD F4006       4.043 135.658  54.985  1.00 69.17         A C  
+ANISOU   38  C3N NAD F4006        0      0      0      0      0      0     A C  
+HETATM   39  C7N NAD F4006       5.392 136.283  55.168  1.00 75.19         A C  
+ANISOU   39  C7N NAD F4006        0      0      0      0      0      0     A C  
+HETATM   40  O7N NAD F4006       6.351 135.911  54.500  1.00 75.94         A O  
+ANISOU   40  O7N NAD F4006        0      0      0      0      0      0     A O  
+HETATM   41  N7N NAD F4006       5.537 137.375  56.089  1.00 79.48         A N  
+ANISOU   41  N7N NAD F4006        0      0      0      0      0      0     A N  
+HETATM   42  C4N NAD F4006       3.778 134.825  53.892  1.00 65.56         A C  
+ANISOU   42  C4N NAD F4006        0      0      0      0      0      0     A C  
+HETATM   43  C5N NAD F4006       2.504 134.267  53.737  1.00 62.22         A C  
+ANISOU   43  C5N NAD F4006        0      0      0      0      0      0     A C  
+HETATM   44  C6N NAD F4006       1.519 134.561  54.683  1.00 59.70         A C  
+ANISOU   44  C6N NAD F4006        0      0      0      0      0      0     A C  

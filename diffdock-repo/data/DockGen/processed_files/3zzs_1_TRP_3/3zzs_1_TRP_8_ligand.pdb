@@ -1,0 +1,31 @@
+REMARK Selection '(segment D) and... resnum `1073`)'
+HETATM    1  N   TRP B1073       2.294  28.604 -11.162  1.00  9.41         D N  
+ANISOU    1  N   TRP B1073     1121   1298   1153     11    214     -8     D N  
+HETATM    2  CA  TRP B1073       3.024  27.903 -10.071  1.00  8.82         D C  
+ANISOU    2  CA  TRP B1073     1150   1138   1063     -4    189     79     D C  
+HETATM    3  C   TRP B1073       3.217  26.435 -10.426  1.00  9.16         D C  
+ANISOU    3  C   TRP B1073     1171   1201   1105     21    148    168     D C  
+HETATM    4  O   TRP B1073       2.292  25.792 -10.953  1.00  9.29         D O  
+ANISOU    4  O   TRP B1073     1121   1245   1161    -84     46    104     D O  
+HETATM    5  CB  TRP B1073       2.269  28.058  -8.746  1.00  8.92         D C  
+ANISOU    5  CB  TRP B1073     1136   1162   1089     82    191    165     D C  
+HETATM    6  CG  TRP B1073       2.971  27.449  -7.568  1.00  8.88         D C  
+ANISOU    6  CG  TRP B1073     1209   1221    943    -55    136    131     D C  
+HETATM    7  CD1 TRP B1073       2.824  26.176  -7.083  1.00  9.48         D C  
+ANISOU    7  CD1 TRP B1073     1403   1221    978   -156     94    167     D C  
+HETATM    8  CD2 TRP B1073       3.970  28.073  -6.751  1.00  9.13         D C  
+ANISOU    8  CD2 TRP B1073     1257   1191   1021    -20    231    126     D C  
+HETATM    9  NE1 TRP B1073       3.663  25.976  -6.013  1.00  9.55         D N  
+ANISOU    9  NE1 TRP B1073     1349   1119   1159   -154    168    149     D N  
+HETATM   10  CE2 TRP B1073       4.374  27.124  -5.784  1.00  8.89         D C  
+ANISOU   10  CE2 TRP B1073     1218    945   1214     21    174    152     D C  
+HETATM   11  CE3 TRP B1073       4.554  29.348  -6.729  1.00  9.78         D C  
+ANISOU   11  CE3 TRP B1073     1474   1123   1117     13    174     69     D C  
+HETATM   12  CZ2 TRP B1073       5.333  27.416  -4.802  1.00  9.79         D C  
+ANISOU   12  CZ2 TRP B1073     1279   1244   1197     35    214    115     D C  
+HETATM   13  CZ3 TRP B1073       5.510  29.631  -5.753  1.00 10.26         D C  
+ANISOU   13  CZ3 TRP B1073     1503   1114   1279   -107    185    168     D C  
+HETATM   14  CH2 TRP B1073       5.885  28.672  -4.808  1.00 10.61         D C  
+ANISOU   14  CH2 TRP B1073     1361   1292   1374    -18    254    107     D C  
+HETATM   15  OXT TRP B1073       4.307  25.906 -10.189  1.00 10.02         D O  
+ANISOU   15  OXT TRP B1073     1164   1332   1310     15    161    164     D O  

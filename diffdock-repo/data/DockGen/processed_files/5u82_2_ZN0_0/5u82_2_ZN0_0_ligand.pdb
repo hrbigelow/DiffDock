@@ -1,0 +1,31 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C1  ZN0 B 301       3.139  -4.331   8.538  1.00 20.70         A C  
+ANISOU    1  C1  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    2  C2  ZN0 B 301       4.258  -4.907   9.389  1.00 20.70         A C  
+ANISOU    2  C2  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    3  SN1 ZN0 B 301       3.935  -6.993   9.555  1.00 15.83         ASN  
+ANISOU    3  SN1 ZN0 B 301      966   2733   2312    271    364    188     ASN  
+HETATM    4  C3  ZN0 B 301       3.080  -8.089   7.947  1.00 20.70         A C  
+ANISOU    4  C3  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    5  C4  ZN0 B 301       3.548  -9.550   7.996  1.00 20.70         A C  
+ANISOU    5  C4  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    6  C5  ZN0 B 301       4.925  -7.940  11.164  1.00 20.70         A C  
+ANISOU    6  C5  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    7  C6  ZN0 B 301       4.685  -9.441  11.142  1.00 20.70         A C  
+ANISOU    7  C6  ZN0 B 301        0      0      0      0      0      0     A C  
+HETATM    8  H3  ZN0 B 301       2.107  -8.058   8.017  1.00 24.84         A H  
+ANISOU    8  H3  ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM    9  H4  ZN0 B 301       3.356  -7.689   7.101  1.00 24.84         A H  
+ANISOU    9  H4  ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   10  H5  ZN0 B 301       5.883  -7.768  11.097  1.00 24.84         A H  
+ANISOU   10  H5  ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   11  H6  ZN0 B 301       4.591  -7.574  12.005  1.00 24.84         A H  
+ANISOU   11  H6  ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   12  H11 ZN0 B 301       5.436  -9.884  10.704  1.00 24.84         A H  
+ANISOU   12  H11 ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   13  H12 ZN0 B 301       3.863  -9.632  10.652  1.00 24.84         A H  
+ANISOU   13  H12 ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   14  H13 ZN0 B 301       4.493  -9.581   8.237  1.00 24.84         A H  
+ANISOU   14  H13 ZN0 B 301        0      0      0      0      0      0     A H  
+HETATM   15  H14 ZN0 B 301       3.026 -10.037   8.663  1.00 24.84         A H  
+ANISOU   15  H14 ZN0 B 301        0      0      0      0      0      0     A H  

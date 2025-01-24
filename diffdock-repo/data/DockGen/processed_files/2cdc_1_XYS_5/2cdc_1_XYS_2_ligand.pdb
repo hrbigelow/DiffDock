@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and... resnum `1370`)'
+HETATM    1  C1  XYS B1370      27.365   4.233  32.829  1.00 15.75         A C  
+HETATM    2  C2  XYS B1370      27.476   3.438  31.518  1.00 15.64         A C  
+HETATM    3  C3  XYS B1370      26.213   3.657  30.641  1.00 15.84         A C  
+HETATM    4  C4  XYS B1370      24.926   3.290  31.405  1.00 15.19         A C  
+HETATM    5  C5  XYS B1370      24.921   3.980  32.778  1.00 13.69         A C  
+HETATM    6  O1  XYS B1370      27.288   5.643  32.526  1.00 19.37         A O  
+HETATM    7  O2  XYS B1370      28.668   3.860  30.846  1.00 15.53         A O  
+HETATM    8  O3  XYS B1370      26.274   2.970  29.364  1.00 17.11         A O  
+HETATM    9  O4  XYS B1370      23.780   3.768  30.716  1.00 14.41         A O  
+HETATM   10  O5  XYS B1370      26.151   3.755  33.487  1.00 15.54         A O  

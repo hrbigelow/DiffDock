@@ -1,0 +1,19 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C   BEZ A 301      12.327   8.561  -9.148  1.00 24.47         A C  
+ANISOU    1  C   BEZ A 301     2911   3569   2816   -944   -254   -254     A C  
+HETATM    2  O1  BEZ A 301      11.452   7.935  -9.784  1.00 27.36         A O  
+ANISOU    2  O1  BEZ A 301     3237   4076   3081  -1195   -424   -469     A O  
+HETATM    3  O2  BEZ A 301      13.187   9.211  -9.780  1.00 26.33         A O  
+ANISOU    3  O2  BEZ A 301     3178   3975   2849  -1300    -52   -115     A O  
+HETATM    4  C1  BEZ A 301      12.339   8.541  -7.646  1.00 18.94         A C  
+ANISOU    4  C1  BEZ A 301     2226   2556   2416   -207   -196   -225     A C  
+HETATM    5  C2  BEZ A 301      13.229   9.362  -6.948  1.00 17.78         A C  
+ANISOU    5  C2  BEZ A 301     2094   2276   2386    313   -199   -236     A C  
+HETATM    6  C3  BEZ A 301      13.230   9.332  -5.556  1.00 18.33         A C  
+ANISOU    6  C3  BEZ A 301     2203   2405   2357    147   -253   -182     A C  
+HETATM    7  C4  BEZ A 301      12.351   8.488  -4.872  1.00 18.68         A C  
+ANISOU    7  C4  BEZ A 301     2248   2514   2336     -5   -240   -348     A C  
+HETATM    8  C5  BEZ A 301      11.472   7.667  -5.570  1.00 18.09         A C  
+ANISOU    8  C5  BEZ A 301     2172   2387   2316     75   -182   -233     A C  
+HETATM    9  C6  BEZ A 301      11.463   7.693  -6.960  1.00 17.58         A C  
+ANISOU    9  C6  BEZ A 301     2085   2290   2303     35    -14    -49     A C  

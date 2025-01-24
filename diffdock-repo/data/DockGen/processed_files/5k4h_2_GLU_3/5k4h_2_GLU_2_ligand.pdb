@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `400`)'
+HETATM    1  N   GLU E 400     -16.563  85.548  -7.938  1.00 44.50         A N  
+HETATM    2  CA  GLU E 400     -17.481  86.010  -6.868  1.00 44.33         A C  
+HETATM    3  C   GLU E 400     -18.920  86.103  -7.431  1.00 39.86         A C  
+HETATM    4  O   GLU E 400     -19.087  86.455  -8.577  1.00 30.79         A O  
+HETATM    5  CB  GLU E 400     -16.926  87.312  -6.250  1.00 51.03         A C  
+HETATM    6  CG  GLU E 400     -17.888  88.204  -5.479  1.00 51.85         A C  
+HETATM    7  CD  GLU E 400     -18.312  89.383  -6.310  1.00 59.02         A C  
+HETATM    8  OE1 GLU E 400     -17.440  90.105  -6.879  1.00 63.09         A O  
+HETATM    9  OE2 GLU E 400     -19.526  89.582  -6.420  1.00 59.32         A O  
+HETATM   10  OXT GLU E 400     -19.931  85.765  -6.784  1.00 31.47         A O  

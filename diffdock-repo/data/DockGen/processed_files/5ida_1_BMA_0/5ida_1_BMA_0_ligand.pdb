@@ -1,0 +1,25 @@
+REMARK Selection '(segment A) and...d resnum `201`)'
+HETATM    1  C1  BMA A 201     -14.050  -9.742  93.741  1.00 27.47         A C  
+ANISOU    1  C1  BMA A 201     2965   3775   3698    489     73   -173     A C  
+HETATM    2  C2  BMA A 201     -14.257  -8.556  94.693  1.00 24.69         A C  
+ANISOU    2  C2  BMA A 201     3206   2980   3195     -2     34   -208     A C  
+HETATM    3  C3  BMA A 201     -14.454  -9.168  96.081  1.00 24.96         A C  
+ANISOU    3  C3  BMA A 201     2993   3222   3268    753    -57   -296     A C  
+HETATM    4  C4  BMA A 201     -15.607 -10.147  96.117  1.00 26.54         A C  
+ANISOU    4  C4  BMA A 201     3803   2893   3386    131     57    -73     A C  
+HETATM    5  C5  BMA A 201     -15.470 -11.185  95.022  1.00 27.67         A C  
+ANISOU    5  C5  BMA A 201     3788   3474   3250    320    306   -177     A C  
+HETATM    6  C6  BMA A 201     -16.716 -12.046  94.951  1.00 32.12         A C  
+ANISOU    6  C6  BMA A 201     5182   3149   3871   -666   -421    -91     A C  
+HETATM    7  O1  BMA A 201     -13.952  -9.318  92.391  1.00 31.19         A O  
+ANISOU    7  O1  BMA A 201     3631   4073   4145    721    174    203     A O  
+HETATM    8  O2  BMA A 201     -15.405  -7.792  94.341  1.00 22.65         A O  
+ANISOU    8  O2  BMA A 201     2780   2754   3071    183     -8   -224     A O  
+HETATM    9  O3  BMA A 201     -14.634  -8.143  97.030  1.00 23.59         A O  
+ANISOU    9  O3  BMA A 201     3145   2721   3095     92   -148   -105     A O  
+HETATM   10  O4  BMA A 201     -15.739 -10.810  97.348  1.00 26.61         A O  
+ANISOU   10  O4  BMA A 201     3841   2930   3335    157    264   -198     A O  
+HETATM   11  O5  BMA A 201     -15.219 -10.576  93.753  1.00 27.72         A O  
+ANISOU   11  O5  BMA A 201     3769   3205   3556    264    131   -523     A O  
+HETATM   12  O6  BMA A 201     -16.500 -13.200  94.074  1.00 39.91         A O  
+ANISOU   12  O6  BMA A 201     6459   4478   4224   -320    308   -959     A O  

@@ -1,0 +1,111 @@
+REMARK Selection '(segment A) and... resnum `1to2`)'
+HETATM    1  C1  GU4 D   1       1.575 -22.940 -26.185  1.00 42.47         A C  
+ANISOU    1  C1  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM    2  O5  GU4 D   1       0.811 -22.177 -26.385  1.00 41.51         A O  
+ANISOU    2  O5  GU4 D   1        0      0      0      0      0      0     A O  
+HETATM    3  C5  GU4 D   1      -0.639 -22.690 -25.869  1.00 37.01         A C  
+ANISOU    3  C5  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM    4  C6  GU4 D   1      -1.778 -21.751 -26.353  1.00 43.19         A C  
+ANISOU    4  C6  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM    5  O6  GU4 D   1      -2.053 -20.681 -25.474  1.00 47.96         A O  
+ANISOU    5  O6  GU4 D   1        0      0      0      0      0      0     A O  
+HETATM    6  S6  GU4 D   1      -2.758 -19.265 -26.009  1.00 65.59         A S  
+ANISOU    6  S6  GU4 D   1        0      0      0      0      0      0     A S  
+HETATM    7  O22 GU4 D   1      -2.264 -19.193 -27.354  1.00 53.09         A O  
+ANISOU    7  O22 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM    8  O23 GU4 D   1      -2.154 -17.882 -25.397  1.00 62.23         A O  
+ANISOU    8  O23 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM    9  O21 GU4 D   1      -4.361 -19.390 -26.301  1.00 52.02         A O  
+ANISOU    9  O21 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   10  C4  GU4 D   1      -0.772 -23.057 -24.301  1.00 34.98         A C  
+ANISOU   10  C4  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM   11  O4  GU4 D   1      -1.960 -23.766 -24.148  1.00 39.53         A O  
+ANISOU   11  O4  GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   12  S4  GU4 D   1      -3.163 -23.176 -23.213  1.00 44.05         A S  
+ANISOU   12  S4  GU4 D   1        0      0      0      0      0      0     A S  
+HETATM   13  O25 GU4 D   1      -3.867 -21.933 -23.966  1.00 53.42         A O  
+ANISOU   13  O25 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   14  O26 GU4 D   1      -2.489 -22.698 -21.829  1.00 44.70         A O  
+ANISOU   14  O26 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   15  O24 GU4 D   1      -4.268 -24.315 -22.962  1.00 39.75         A O  
+ANISOU   15  O24 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   16  C3  GU4 D   1       0.060 -23.601 -23.924  1.00 34.80         A C  
+ANISOU   16  C3  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM   17  O3  GU4 D   1       0.121 -23.752 -22.552  1.00 33.27         A O  
+ANISOU   17  O3  GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   18  S3  GU4 D   1       0.542 -25.192 -21.904  1.00 38.23         A S  
+ANISOU   18  S3  GU4 D   1        0      0      0      0      0      0     A S  
+HETATM   19  O28 GU4 D   1       2.127 -25.420 -22.077  1.00 36.71         A O  
+ANISOU   19  O28 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   20  O29 GU4 D   1       0.232 -25.151 -20.368  1.00 40.44         A O  
+ANISOU   20  O29 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   21  O27 GU4 D   1      -0.212 -26.383 -22.665  1.00 39.33         A O  
+ANISOU   21  O27 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   22  C2  GU4 D   1       1.563 -23.087 -24.545  1.00 34.47         A C  
+ANISOU   22  C2  GU4 D   1        0      0      0      0      0      0     A C  
+HETATM   23  O2  GU4 D   1       2.543 -24.012 -24.202  1.00 40.68         A O  
+ANISOU   23  O2  GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   24  S2  GU4 D   1       4.054 -23.491 -23.819  1.00 40.10         A S  
+ANISOU   24  S2  GU4 D   1        0      0      0      0      0      0     A S  
+HETATM   25  O11 GU4 D   1       4.725 -22.709 -25.054  1.00 41.65         A O  
+ANISOU   25  O11 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   26  O12 GU4 D   1       4.963 -24.774 -23.472  1.00 47.40         A O  
+ANISOU   26  O12 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   27  O10 GU4 D   1       3.914 -22.550 -22.576  1.00 37.50         A O  
+ANISOU   27  O10 GU4 D   1        0      0      0      0      0      0     A O  
+HETATM   28  C1  YYJ D   2       3.366 -24.504 -27.918  1.00 40.43         A C  
+ANISOU   28  C1  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   29  C2  YYJ D   2       1.972 -24.262 -28.082  1.00 47.77         A C  
+ANISOU   29  C2  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   30  C3  YYJ D   2       1.251 -25.298 -28.849  1.00 53.66         A C  
+ANISOU   30  C3  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   31  C4  YYJ D   2       1.271 -24.637 -30.199  1.00 63.29         A C  
+ANISOU   31  C4  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   32  C5  YYJ D   2       0.872 -23.279 -29.818  1.00 59.00         A C  
+ANISOU   32  C5  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   33  C6  YYJ D   2      -0.635 -23.024 -29.511  1.00 59.34         A C  
+ANISOU   33  C6  YYJ D   2        0      0      0      0      0      0     A C  
+HETATM   34  O1  YYJ D   2       3.769 -25.489 -27.001  1.00 48.94         A O  
+ANISOU   34  O1  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   35 O1S1 YYJ D   2       4.990 -27.685 -26.297  1.00 46.04         A O  
+ANISOU   35 O1S1 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   36 O1S3 YYJ D   2      -1.871 -27.233 -27.307  1.00 41.24         A O  
+ANISOU   36 O1S3 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   37 O1S4 YYJ D   2       2.394 -27.412 -31.189  1.00 86.91         A O  
+ANISOU   37 O1S4 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   38 O1S6 YYJ D   2      -4.103 -23.694 -31.441  1.00 96.40         A O  
+ANISOU   38 O1S6 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   39  O2  YYJ D   2       1.332 -24.222 -26.771  1.00 39.35         A O  
+ANISOU   39  O2  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   40 O2S1 YYJ D   2       6.284 -25.943 -27.745  1.00 52.69         A O  
+ANISOU   40 O2S1 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   41 O2S3 YYJ D   2       0.397 -26.935 -26.138  1.00 59.76         A O  
+ANISOU   41 O2S3 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   42 O2S4 YYJ D   2       4.136 -25.997 -32.576  1.00 74.53         A O  
+ANISOU   42 O2S4 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   43 O2S6 YYJ D   2      -3.752 -22.639 -29.022  1.00 78.32         A O  
+ANISOU   43 O2S6 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   44  O3  YYJ D   2      -0.031 -25.584 -28.349  1.00 44.86         A O  
+ANISOU   44  O3  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   45 O3S1 YYJ D   2       4.357 -27.446 -28.821  1.00 50.23         A O  
+ANISOU   45 O3S1 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   46 O3S3 YYJ D   2       0.337 -28.247 -28.356  1.00 42.76         A O  
+ANISOU   46 O3S3 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   47 O3S4 YYJ D   2       1.447 -25.778 -32.986  1.00 78.66         A O  
+ANISOU   47 O3S4 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   48 O3S6 YYJ D   2      -3.129 -25.230 -29.474  1.00 93.40         A O  
+ANISOU   48 O3S6 YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   49  O4  YYJ D   2       2.520 -24.761 -30.831  1.00 76.79         A O  
+ANISOU   49  O4  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   50  O5  YYJ D   2       1.783 -23.068 -28.727  1.00 59.61         A O  
+ANISOU   50  O5  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   51  O6  YYJ D   2      -1.614 -23.261 -30.520  1.00 70.14         A O  
+ANISOU   51  O6  YYJ D   2        0      0      0      0      0      0     A O  
+HETATM   52  S1  YYJ D   2       4.855 -26.665 -27.483  1.00 49.56         A S  
+ANISOU   52  S1  YYJ D   2        0      0      0      0      0      0     A S  
+HETATM   53  S3  YYJ D   2      -0.299 -26.995 -27.554  1.00 40.76         A S  
+ANISOU   53  S3  YYJ D   2        0      0      0      0      0      0     A S  
+HETATM   54  S4  YYJ D   2       2.642 -26.003 -31.912  1.00 81.71         A S  
+ANISOU   54  S4  YYJ D   2        0      0      0      0      0      0     A S  
+HETATM   55  S6  YYJ D   2      -3.179 -23.721 -30.112  1.00 94.42         A S  
+ANISOU   55  S6  YYJ D   2        0      0      0      0      0      0     A S  

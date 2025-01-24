@@ -1,0 +1,16 @@
+REMARK Selection '(segment A) and...nd resnum `81`)'
+HETATM    1  N   TRP G  81      24.291  55.131 -18.781  1.00 41.53         A N  
+HETATM    2  CA  TRP G  81      23.020  55.371 -18.151  1.00 36.87         A C  
+HETATM    3  C   TRP G  81      23.047  55.887 -16.750  1.00 38.61         A C  
+HETATM    4  O   TRP G  81      23.923  55.413 -15.952  1.00 40.72         A O  
+HETATM    5  CB  TRP G  81      21.992  54.349 -18.493  1.00 29.36         A C  
+HETATM    6  CG  TRP G  81      20.630  54.737 -18.003  1.00 45.01         A C  
+HETATM    7  CD1 TRP G  81      20.100  54.473 -16.753  1.00 51.16         A C  
+HETATM    8  CD2 TRP G  81      19.592  55.364 -18.736  1.00 48.98         A C  
+HETATM    9  NE1 TRP G  81      18.804  54.913 -16.671  1.00 49.77         A N  
+HETATM   10  CE2 TRP G  81      18.479  55.482 -17.877  1.00 53.05         A C  
+HETATM   11  CE3 TRP G  81      19.491  55.842 -20.040  1.00 50.08         A C  
+HETATM   12  CZ2 TRP G  81      17.277  56.074 -18.281  1.00 49.66         A C  
+HETATM   13  CZ3 TRP G  81      18.312  56.443 -20.424  1.00 44.51         A C  
+HETATM   14  CH2 TRP G  81      17.230  56.533 -19.553  1.00 51.46         A C  
+HETATM   15  OXT TRP G  81      22.444  56.961 -16.500  1.00 37.81         A O  

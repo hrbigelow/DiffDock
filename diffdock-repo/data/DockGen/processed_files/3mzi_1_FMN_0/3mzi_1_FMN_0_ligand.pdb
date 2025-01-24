@@ -1,0 +1,63 @@
+REMARK Selection '(segment A) and...d resnum `154`)'
+HETATM    1  N1  FMN A 154     -32.256  51.677-114.272  1.00 84.78         A N  
+ANISOU    1  N1  FMN A 154        0      0      0      0      0      0     A N  
+HETATM    2  C2  FMN A 154     -33.061  51.974-113.198  1.00 82.13         A C  
+ANISOU    2  C2  FMN A 154        0      0      0      0      0      0     A C  
+HETATM    3  O2  FMN A 154     -34.283  51.990-113.353  1.00 80.53         A O  
+ANISOU    3  O2  FMN A 154        0      0      0      0      0      0     A O  
+HETATM    4  N3  FMN A 154     -32.497  52.250-111.969  1.00 76.85         A N  
+ANISOU    4  N3  FMN A 154        0      0      0      0      0      0     A N  
+HETATM    5  C4  FMN A 154     -31.128  52.225-111.816  1.00 82.74         A C  
+ANISOU    5  C4  FMN A 154        0      0      0      0      0      0     A C  
+HETATM    6  O4  FMN A 154     -30.608  52.468-110.723  1.00 77.15         A O  
+ANISOU    6  O4  FMN A 154        0      0      0      0      0      0     A O  
+HETATM    7  C4A FMN A 154     -30.324  51.923-112.905  1.00 84.08         A C  
+ANISOU    7  C4A FMN A 154        0      0      0      0      0      0     A C  
+HETATM    8  N5  FMN A 154     -28.958  51.898-112.749  1.00 82.67         A N  
+ANISOU    8  N5  FMN A 154        0      0      0      0      0      0     A N  
+HETATM    9  C5A FMN A 154     -28.159  51.607-113.825  1.00 81.90         A C  
+ANISOU    9  C5A FMN A 154        0      0      0      0      0      0     A C  
+HETATM   10  C6  FMN A 154     -26.780  51.586-113.662  1.00 89.11         A C  
+ANISOU   10  C6  FMN A 154        0      0      0      0      0      0     A C  
+HETATM   11  C7  FMN A 154     -25.959  51.288-114.743  1.00 94.15         A C  
+ANISOU   11  C7  FMN A 154        0      0      0      0      0      0     A C  
+HETATM   12  C7M FMN A 154     -24.469  51.265-114.561  1.00 84.39         A C  
+ANISOU   12  C7M FMN A 154        0      0      0      0      0      0     A C  
+HETATM   13  C8  FMN A 154     -26.528  51.014-115.985  1.00 97.01         A C  
+ANISOU   13  C8  FMN A 154        0      0      0      0      0      0     A C  
+HETATM   14  C8M FMN A 154     -25.656  50.686-117.157  1.00 99.73         A C  
+ANISOU   14  C8M FMN A 154        0      0      0      0      0      0     A C  
+HETATM   15  C9  FMN A 154     -27.908  51.037-116.143  1.00 88.86         A C  
+ANISOU   15  C9  FMN A 154        0      0      0      0      0      0     A C  
+HETATM   16  C9A FMN A 154     -28.726  51.334-115.062  1.00 82.69         A C  
+ANISOU   16  C9A FMN A 154        0      0      0      0      0      0     A C  
+HETATM   17  N10 FMN A 154     -30.096  51.345-115.224  1.00 84.16         A N  
+ANISOU   17  N10 FMN A 154        0      0      0      0      0      0     A N  
+HETATM   18  C10 FMN A 154     -30.891  51.649-114.138  1.00 82.39         A C  
+ANISOU   18  C10 FMN A 154        0      0      0      0      0      0     A C  
+HETATM   19  C1' FMN A 154     -30.706  51.061-116.577  1.00 81.83         A C  
+ANISOU   19  C1' FMN A 154        0      0      0      0      0      0     A C  
+HETATM   20  C2' FMN A 154     -31.531  49.778-116.654  1.00 83.02         A C  
+ANISOU   20  C2' FMN A 154        0      0      0      0      0      0     A C  
+HETATM   21  O2' FMN A 154     -30.701  48.724-117.096  1.00 83.21         A O  
+ANISOU   21  O2' FMN A 154        0      0      0      0      0      0     A O  
+HETATM   22  C3' FMN A 154     -32.699  49.943-117.627  1.00 85.77         A C  
+ANISOU   22  C3' FMN A 154        0      0      0      0      0      0     A C  
+HETATM   23  O3' FMN A 154     -32.348  50.933-118.567  1.00 86.87         A O  
+ANISOU   23  O3' FMN A 154        0      0      0      0      0      0     A O  
+HETATM   24  C4' FMN A 154     -33.992  50.376-116.937  1.00 89.21         A C  
+ANISOU   24  C4' FMN A 154        0      0      0      0      0      0     A C  
+HETATM   25  O4' FMN A 154     -34.479  49.403-116.034  1.00 99.21         A O  
+ANISOU   25  O4' FMN A 154        0      0      0      0      0      0     A O  
+HETATM   26  C5' FMN A 154     -35.084  50.635-117.957  1.00 79.24         A C  
+ANISOU   26  C5' FMN A 154        0      0      0      0      0      0     A C  
+HETATM   27  O5' FMN A 154     -36.113  51.294-117.275  1.00 79.31         A O  
+ANISOU   27  O5' FMN A 154        0      0      0      0      0      0     A O  
+HETATM   28  P   FMN A 154     -37.390  51.805-118.073  0.00 58.39         A P  
+ANISOU   28  P   FMN A 154        0      0      0      0      0      0     A P  
+HETATM   29  O1P FMN A 154     -38.330  50.623-118.034  1.00 58.71         A O  
+ANISOU   29  O1P FMN A 154        0      0      0      0      0      0     A O  
+HETATM   30  O2P FMN A 154     -37.057  52.162-119.506  1.00 53.46         A O  
+ANISOU   30  O2P FMN A 154        0      0      0      0      0      0     A O  
+HETATM   31  O3P FMN A 154     -37.854  53.054-117.367  1.00 62.88         A O  
+ANISOU   31  O3P FMN A 154        0      0      0      0      0      0     A O  

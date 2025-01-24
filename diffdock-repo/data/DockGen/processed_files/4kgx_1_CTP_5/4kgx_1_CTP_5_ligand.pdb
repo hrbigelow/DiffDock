@@ -1,0 +1,59 @@
+REMARK Selection '(segment B) and...d resnum `202`)'
+HETATM    1  N1  CTP B 202      43.361 -29.699  27.017  1.00 38.88         B N  
+ANISOU    1  N1  CTP B 202        0      0      0      0      0      0     B N  
+HETATM    2  C2  CTP B 202      42.216 -29.121  27.544  1.00 40.53         B C  
+ANISOU    2  C2  CTP B 202        0      0      0      0      0      0     B C  
+HETATM    3  N3  CTP B 202      40.985 -29.355  26.968  1.00 38.54         B N  
+ANISOU    3  N3  CTP B 202        0      0      0      0      0      0     B N  
+HETATM    4  C4  CTP B 202      40.881 -30.172  25.859  1.00 45.01         B C  
+ANISOU    4  C4  CTP B 202        0      0      0      0      0      0     B C  
+HETATM    5  C5  CTP B 202      42.040 -30.705  25.295  1.00 36.79         B C  
+ANISOU    5  C5  CTP B 202        0      0      0      0      0      0     B C  
+HETATM    6  C6  CTP B 202      43.284 -30.457  25.874  1.00 35.51         B C  
+ANISOU    6  C6  CTP B 202        0      0      0      0      0      0     B C  
+HETATM    7  O2  CTP B 202      42.288 -28.391  28.536  1.00 45.79         B O  
+ANISOU    7  O2  CTP B 202        0      0      0      0      0      0     B O  
+HETATM    8  N4  CTP B 202      39.679 -30.439  25.336  1.00 49.29         B N  
+ANISOU    8  N4  CTP B 202        0      0      0      0      0      0     B N  
+HETATM    9  C1' CTP B 202      44.685 -29.297  27.550  1.00 34.05         B C  
+ANISOU    9  C1' CTP B 202        0      0      0      0      0      0     B C  
+HETATM   10  C2' CTP B 202      45.342 -30.410  28.349  1.00 37.99         B C  
+ANISOU   10  C2' CTP B 202        0      0      0      0      0      0     B C  
+HETATM   11  O2' CTP B 202      44.908 -30.425  29.693  1.00 47.36         B O  
+ANISOU   11  O2' CTP B 202        0      0      0      0      0      0     B O  
+HETATM   12  C3' CTP B 202      46.816 -30.078  28.233  1.00 40.93         B C  
+ANISOU   12  C3' CTP B 202        0      0      0      0      0      0     B C  
+HETATM   13  C4' CTP B 202      46.935 -29.333  26.920  1.00 43.30         B C  
+ANISOU   13  C4' CTP B 202        0      0      0      0      0      0     B C  
+HETATM   14  O4' CTP B 202      45.613 -29.006  26.511  1.00 36.17         B O  
+ANISOU   14  O4' CTP B 202        0      0      0      0      0      0     B O  
+HETATM   15  O3' CTP B 202      47.180 -29.172  29.237  1.00 36.60         B O  
+ANISOU   15  O3' CTP B 202        0      0      0      0      0      0     B O  
+HETATM   16  C5' CTP B 202      47.679 -30.166  25.871  1.00 48.41         B C  
+ANISOU   16  C5' CTP B 202        0      0      0      0      0      0     B C  
+HETATM   17  O5' CTP B 202      46.817 -31.137  25.312  1.00 58.40         B O  
+ANISOU   17  O5' CTP B 202        0      0      0      0      0      0     B O  
+HETATM   18  PA  CTP B 202      47.345 -32.599  24.867  1.00 53.20         B P  
+ANISOU   18  PA  CTP B 202        0      0      0      0      0      0     B P  
+HETATM   19  O1A CTP B 202      46.158 -33.523  24.712  1.00 54.55         B O  
+ANISOU   19  O1A CTP B 202        0      0      0      0      0      0     B O  
+HETATM   20  O2A CTP B 202      48.132 -32.489  23.589  1.00 55.63         B O  
+ANISOU   20  O2A CTP B 202        0      0      0      0      0      0     B O  
+HETATM   21  O3A CTP B 202      48.294 -33.097  26.059  1.00 42.92         B O  
+ANISOU   21  O3A CTP B 202        0      0      0      0      0      0     B O  
+HETATM   22  PB  CTP B 202      49.851 -33.439  25.866  1.00 63.86         B P  
+ANISOU   22  PB  CTP B 202        0      0      0      0      0      0     B P  
+HETATM   23  O1B CTP B 202      49.982 -34.658  24.997  1.00 64.49         B O  
+ANISOU   23  O1B CTP B 202        0      0      0      0      0      0     B O  
+HETATM   24  O2B CTP B 202      50.502 -33.635  27.221  1.00 67.16         B O  
+ANISOU   24  O2B CTP B 202        0      0      0      0      0      0     B O  
+HETATM   25  O3B CTP B 202      50.516 -32.198  25.092  1.00 61.53         B O  
+ANISOU   25  O3B CTP B 202        0      0      0      0      0      0     B O  
+HETATM   26  PG  CTP B 202      52.042 -31.773  25.391  1.00 67.05         B P  
+ANISOU   26  PG  CTP B 202        0      0      0      0      0      0     B P  
+HETATM   27  O1G CTP B 202      52.346 -30.565  24.534  1.00 67.63         B O  
+ANISOU   27  O1G CTP B 202        0      0      0      0      0      0     B O  
+HETATM   28  O2G CTP B 202      52.965 -32.913  25.037  1.00 71.25         B O  
+ANISOU   28  O2G CTP B 202        0      0      0      0      0      0     B O  
+HETATM   29  O3G CTP B 202      52.233 -31.419  26.851  1.00 65.76         B O  
+ANISOU   29  O3G CTP B 202        0      0      0      0      0      0     B O  

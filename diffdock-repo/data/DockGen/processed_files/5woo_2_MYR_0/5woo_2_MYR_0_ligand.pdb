@@ -1,0 +1,33 @@
+REMARK Selection '(segment A) and...d resnum `301`)'
+HETATM    1  C1  MYR B 301       0.885  -8.820  -7.463  1.00 29.79         A C  
+ANISOU    1  C1  MYR B 301     3496   3882   3938    129    222     41     A C  
+HETATM    2  O1  MYR B 301       1.899  -9.518  -7.748  1.00 25.86         A O1-
+ANISOU    2  O1  MYR B 301     2998   3390   3435    150    220     47     A O1-
+HETATM    3  O2  MYR B 301       0.693  -8.467  -6.270  1.00 28.01         A O  
+ANISOU    3  O2  MYR B 301     3279   3650   3713    119    220     46     A O  
+HETATM    4  C2  MYR B 301      -0.108  -8.397  -8.557  1.00 18.20         A C  
+ANISOU    4  C2  MYR B 301     2020   2418   2476    120    223     26     A C  
+HETATM    5  C3  MYR B 301       0.436  -7.161  -9.301  1.00 16.80         A C  
+ANISOU    5  C3  MYR B 301     1829   2259   2294    120    212     34     A C  
+HETATM    6  C4  MYR B 301      -0.596  -6.694 -10.331  1.00 18.39         A C  
+ANISOU    6  C4  MYR B 301     2032   2459   2496    118    207     18     A C  
+HETATM    7  C5  MYR B 301      -0.039  -5.490 -11.096  1.00 18.88         A C  
+ANISOU    7  C5  MYR B 301     2098   2530   2545    115    195     27     A C  
+HETATM    8  C6  MYR B 301      -1.084  -4.938 -12.077  1.00 16.88         A C  
+ANISOU    8  C6  MYR B 301     1855   2272   2287    121    183     10     A C  
+HETATM    9  C7  MYR B 301      -0.437  -3.773 -12.846  1.00 14.64         A C  
+ANISOU    9  C7  MYR B 301     1592   1988   1981    114    173     23     A C  
+HETATM   10  C8  MYR B 301      -1.421  -3.107 -13.839  1.00 15.69         A C  
+ANISOU   10  C8  MYR B 301     1749   2110   2103    127    153      7     A C  
+HETATM   11  C9  MYR B 301      -1.681  -4.033 -15.044  1.00 16.01         A C  
+ANISOU   11  C9  MYR B 301     1782   2155   2145    138    160     -5     A C  
+HETATM   12  C10 MYR B 301      -2.524  -3.366 -16.149  1.00 14.45         A C  
+ANISOU   12  C10 MYR B 301     1612   1948   1931    156    137    -22     A C  
+HETATM   13  C11 MYR B 301      -2.869  -4.384 -17.251  1.00 13.23         A C  
+ANISOU   13  C11 MYR B 301     1445   1800   1780    167    145    -37     A C  
+HETATM   14  C12 MYR B 301      -3.479  -3.657 -18.460  1.00 16.88         A C  
+ANISOU   14  C12 MYR B 301     1942   2253   2219    185    119    -50     A C  
+HETATM   15  C13 MYR B 301      -3.593  -4.616 -19.647  1.00 17.99         A C  
+ANISOU   15  C13 MYR B 301     2073   2401   2361    191    129    -61     A C  
+HETATM   16  C14 MYR B 301      -4.177  -3.893 -20.866  1.00 25.47         A C  
+ANISOU   16  C14 MYR B 301     3060   3336   3281    214    101    -74     A C  

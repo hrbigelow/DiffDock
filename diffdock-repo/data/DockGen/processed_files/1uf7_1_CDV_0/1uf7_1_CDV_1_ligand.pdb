@@ -1,0 +1,12 @@
+REMARK Selection '(segment B) and...d resnum `998`)'
+HETATM    1  NT  CDV B 998      14.060  57.568  -4.397  1.00 10.05         B N  
+HETATM    2  CT  CDV B 998      14.664  57.263  -3.223  1.00 12.42         B C  
+HETATM    3  OT  CDV B 998      15.074  56.126  -3.042  1.00 14.85         B O  
+HETATM    4  N   CDV B 998      14.811  58.231  -2.264  1.00 12.23         B N  
+HETATM    5  CA  CDV B 998      15.381  57.963  -0.948  1.00 12.58         B C  
+HETATM    6  CB  CDV B 998      14.904  59.051   0.042  1.00 13.06         B C  
+HETATM    7  CG1 CDV B 998      13.388  58.984   0.194  1.00 14.30         B C  
+HETATM    8  CG2 CDV B 998      15.534  58.861   1.427  1.00 13.54         B C  
+HETATM    9  C   CDV B 998      16.897  57.962  -1.062  1.00 11.59         B C  
+HETATM   10  O   CDV B 998      17.468  58.783  -1.756  1.00 11.90         B O  
+HETATM   11  OXT CDV B 998      17.604  57.052  -0.385  1.00 10.09         B O  

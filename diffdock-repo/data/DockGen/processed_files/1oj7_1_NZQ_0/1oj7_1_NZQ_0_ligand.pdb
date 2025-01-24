@@ -1,0 +1,101 @@
+REMARK Selection '(segment A) and... resnum `1388`)'
+HETATM    1  O1X NZQ A1388      98.530  -4.385  24.314  1.00 36.77         A O  
+ANISOU    1  O1X NZQ A1388        0      0      0      0      0      0     A O  
+HETATM    2  P2B NZQ A1388      99.401  -3.996  25.462  1.00 37.56         A P  
+ANISOU    2  P2B NZQ A1388        0      0      0      0      0      0     A P  
+HETATM    3  O2X NZQ A1388      99.636  -2.471  25.510  1.00 37.05         A O  
+ANISOU    3  O2X NZQ A1388        0      0      0      0      0      0     A O  
+HETATM    4  O3X NZQ A1388     100.727  -4.765  25.386  1.00 38.42         A O  
+ANISOU    4  O3X NZQ A1388        0      0      0      0      0      0     A O  
+HETATM    5  O2B NZQ A1388      98.612  -4.407  26.804  1.00 34.04         A O  
+ANISOU    5  O2B NZQ A1388        0      0      0      0      0      0     A O  
+HETATM    6  C2B NZQ A1388      98.284  -5.749  27.065  1.00 34.31         A C  
+ANISOU    6  C2B NZQ A1388        0      0      0      0      0      0     A C  
+HETATM    7  C3B NZQ A1388      96.804  -6.054  26.895  1.00 34.46         A C  
+ANISOU    7  C3B NZQ A1388        0      0      0      0      0      0     A C  
+HETATM    8  O3B NZQ A1388      96.023  -4.877  26.941  1.00 34.55         A O  
+ANISOU    8  O3B NZQ A1388        0      0      0      0      0      0     A O  
+HETATM    9  C1B NZQ A1388      98.535  -6.066  28.530  1.00 33.83         A C  
+ANISOU    9  C1B NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   10  N9A NZQ A1388      99.911  -6.518  28.774  1.00 34.98         A N  
+ANISOU   10  N9A NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   11  C8A NZQ A1388     100.474  -7.704  28.383  1.00 35.44         A C  
+ANISOU   11  C8A NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   12  N7A NZQ A1388     101.679  -7.812  28.980  1.00 35.72         A N  
+ANISOU   12  N7A NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   13  C5A NZQ A1388     101.831  -6.793  29.855  1.00 35.23         A C  
+ANISOU   13  C5A NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   14  C4A NZQ A1388     100.752  -5.934  29.684  1.00 34.91         A C  
+ANISOU   14  C4A NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   15  N3A NZQ A1388     100.652  -4.788  30.414  1.00 34.35         A N  
+ANISOU   15  N3A NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   16  C2A NZQ A1388     101.666  -4.445  31.297  1.00 35.34         A C  
+ANISOU   16  C2A NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   17  N1A NZQ A1388     102.795  -5.237  31.410  1.00 34.65         A N  
+ANISOU   17  N1A NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   18  C6A NZQ A1388     102.841  -6.460  30.762  1.00 35.94         A C  
+ANISOU   18  C6A NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   19  N6A NZQ A1388     103.693  -7.388  31.193  1.00 35.17         A N  
+ANISOU   19  N6A NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   20  O4B NZQ A1388      97.598  -7.052  28.902  1.00 34.75         A O  
+ANISOU   20  O4B NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   21  C4B NZQ A1388      96.436  -6.938  28.088  1.00 32.58         A C  
+ANISOU   21  C4B NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   22  C5B NZQ A1388      95.924  -8.315  27.695  1.00 32.42         A C  
+ANISOU   22  C5B NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   23  O5B NZQ A1388      96.820  -8.926  26.794  1.00 31.36         A O  
+ANISOU   23  O5B NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   24  PA  NZQ A1388      96.372 -10.269  26.044  1.00 32.42         A P  
+ANISOU   24  PA  NZQ A1388        0      0      0      0      0      0     A P  
+HETATM   25  O1A NZQ A1388      97.526 -10.700  25.217  1.00 30.94         A O  
+ANISOU   25  O1A NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   26  O2A NZQ A1388      95.061 -10.070  25.278  1.00 31.81         A O  
+ANISOU   26  O2A NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   27  O3  NZQ A1388      96.104 -11.244  27.300  1.00 31.79         A O  
+ANISOU   27  O3  NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   28  PN  NZQ A1388      96.162 -12.841  27.398  1.00 32.86         A P  
+ANISOU   28  PN  NZQ A1388        0      0      0      0      0      0     A P  
+HETATM   29  O1N NZQ A1388      97.561 -13.316  27.533  1.00 32.62         A O  
+ANISOU   29  O1N NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   30  O2N NZQ A1388      95.213 -13.254  28.476  1.00 32.55         A O  
+ANISOU   30  O2N NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   31  O5D NZQ A1388      95.596 -13.381  25.993  1.00 32.79         A O  
+ANISOU   31  O5D NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   32  C5D NZQ A1388      94.199 -13.449  25.770  1.00 33.31         A C  
+ANISOU   32  C5D NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   33  C4D NZQ A1388      93.913 -14.080  24.411  1.00 34.55         A C  
+ANISOU   33  C4D NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   34  O4D NZQ A1388      94.334 -15.440  24.380  1.00 35.33         A O  
+ANISOU   34  O4D NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   35  C1D NZQ A1388      93.289 -16.250  23.867  1.00 35.87         A C  
+ANISOU   35  C1D NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   36  C2D NZQ A1388      92.015 -15.520  24.302  1.00 35.46         A C  
+ANISOU   36  C2D NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   37  O2D NZQ A1388      90.864 -15.897  23.563  1.00 34.45         A O  
+ANISOU   37  O2D NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   38  C3D NZQ A1388      92.419 -14.078  24.091  1.00 34.66         A C  
+ANISOU   38  C3D NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   39  O3D NZQ A1388      92.230 -13.662  22.749  1.00 36.12         A O  
+ANISOU   39  O3D NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   40  N1N NZQ A1388      93.428 -17.663  24.285  1.00 37.72         A N  
+ANISOU   40  N1N NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   41  C2N NZQ A1388      94.451 -18.390  23.713  1.00 38.59         A C  
+ANISOU   41  C2N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   42  C3N NZQ A1388      94.516 -19.735  23.850  1.00 41.23         A C  
+ANISOU   42  C3N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   43  C7N NZQ A1388      95.580 -20.530  23.134  1.00 44.09         A C  
+ANISOU   43  C7N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   44  N7N NZQ A1388      96.434 -19.940  22.293  1.00 43.82         A N  
+ANISOU   44  N7N NZQ A1388        0      0      0      0      0      0     A N  
+HETATM   45  O7N NZQ A1388      95.685 -21.903  23.401  1.00 47.35         A O  
+ANISOU   45  O7N NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   46  C4N NZQ A1388      93.482 -20.451  24.645  1.00 41.00         A C  
+ANISOU   46  C4N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   47  C5N NZQ A1388      92.964 -19.536  25.692  1.00 40.02         A C  
+ANISOU   47  C5N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   48  O5N NZQ A1388      91.906 -20.122  26.415  1.00 41.83         A O  
+ANISOU   48  O5N NZQ A1388        0      0      0      0      0      0     A O  
+HETATM   49  C6N NZQ A1388      92.478 -18.276  25.087  1.00 38.71         A C  
+ANISOU   49  C6N NZQ A1388        0      0      0      0      0      0     A C  
+HETATM   50  O6N NZQ A1388      91.234 -18.523  24.450  1.00 36.55         A O  
+ANISOU   50  O6N NZQ A1388        0      0      0      0      0      0     A O  

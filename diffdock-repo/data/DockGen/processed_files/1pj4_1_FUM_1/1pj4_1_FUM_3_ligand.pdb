@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and... resnum `3700`)'
+HETATM    1  O1  FUM D3700      54.072  -4.606   0.081  1.00 35.48         A O  
+HETATM    2  C2  FUM D3700      53.819  -4.564   1.270  1.00 37.17         A C  
+HETATM    3  O3  FUM D3700      54.036  -3.498   1.931  1.00 36.30         A O  
+HETATM    4  C4  FUM D3700      53.228  -5.729   2.083  1.00 38.04         A C  
+HETATM    5  C5  FUM D3700      53.380  -7.046   1.641  1.00 38.15         A C  
+HETATM    6  C6  FUM D3700      52.829  -8.251   2.446  1.00 38.18         A C  
+HETATM    7  O7  FUM D3700      53.041  -9.368   1.884  1.00 39.32         A O  
+HETATM    8  O8  FUM D3700      52.224  -8.128   3.538  1.00 38.17         A O  

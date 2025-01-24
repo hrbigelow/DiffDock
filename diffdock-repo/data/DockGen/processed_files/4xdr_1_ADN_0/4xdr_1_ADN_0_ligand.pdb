@@ -1,0 +1,65 @@
+REMARK Selection '(segment A) and...d resnum `402`)'
+HETATM    1  O5'AADN A 402      40.192  34.985  19.107  0.44 16.35         A O  
+ANISOU    1  O5'AADN A 402     1802   2354   2056   -343    612   -578     A O  
+HETATM    2  C5'AADN A 402      40.712  36.302  18.993  0.44 15.71         A C  
+ANISOU    2  C5'AADN A 402     1711   2223   2034    -22    580   -322     A C  
+HETATM    3  C4'AADN A 402      40.491  37.102  20.251  0.44 14.72         A C  
+ANISOU    3  C4'AADN A 402     1508   1902   2185    301    583   -208     A C  
+HETATM    4  O4'AADN A 402      39.092  37.513  20.336  0.44 15.74         A O  
+ANISOU    4  O4'AADN A 402     1476   2124   2380    213    400    -44     A O  
+HETATM    5  C3'AADN A 402      40.756  36.375  21.564  0.44 15.21         A C  
+ANISOU    5  C3'AADN A 402     1480   1853   2444    346    429    -84     A C  
+HETATM    6  O3'AADN A 402      42.121  36.413  21.943  0.44 17.66         A O  
+ANISOU    6  O3'AADN A 402     1612   2349   2749    397    135    -66     A O  
+HETATM    7  C2'AADN A 402      39.856  37.129  22.534  0.44 14.92         A C  
+ANISOU    7  C2'AADN A 402     1497   1681   2492    356    476    -65     A C  
+HETATM    8  O2'AADN A 402      40.461  38.377  22.841  0.44 16.05         A O  
+ANISOU    8  O2'AADN A 402     1580   1797   2722    306    381     91     A O  
+HETATM    9  C1'AADN A 402      38.628  37.376  21.662  0.44 14.90         A C  
+ANISOU    9  C1'AADN A 402     1501   1923   2238    114    442     92     A C  
+HETATM   10  N9 AADN A 402      37.678  36.238  21.656  0.44 13.90         A N  
+ANISOU   10  N9 AADN A 402     1451   1942   1890    171    475    -44     A N  
+HETATM   11  C8 AADN A 402      37.919  34.980  22.091  0.44 14.30         A C  
+ANISOU   11  C8 AADN A 402     1467   2114   1854    233    581    166     A C  
+HETATM   12  N7 AADN A 402      36.835  34.222  21.839  0.44 13.59         A N  
+ANISOU   12  N7 AADN A 402     1440   2085   1637    340    523    167     A N  
+HETATM   13  C5 AADN A 402      35.917  35.039  21.239  0.44 12.30         A C  
+ANISOU   13  C5 AADN A 402     1366   1796   1511    323    504     35     A C  
+HETATM   14  C6 AADN A 402      34.665  34.766  20.780  0.44 12.04         A C  
+ANISOU   14  C6 AADN A 402     1379   1622   1574    330    523    -22     A C  
+HETATM   15  N6 AADN A 402      33.947  33.476  20.824  0.44 11.85         A N  
+ANISOU   15  N6 AADN A 402     1384   1621   1498    211    552   -207     A N  
+HETATM   16  N1 AADN A 402      33.914  35.726  20.219  0.44 11.37         A N  
+ANISOU   16  N1 AADN A 402     1310   1698   1310    296    693     11     A N  
+HETATM   17  C2 AADN A 402      34.454  36.987  20.083  0.44 11.09         A C  
+ANISOU   17  C2 AADN A 402     1326   1633   1256    313    654    -98     A C  
+HETATM   18  N3 AADN A 402      35.699  37.252  20.533  0.44 11.30         A N  
+ANISOU   18  N3 AADN A 402     1375   1607   1313    250    631   -152     A N  
+HETATM   19  C4 AADN A 402      36.430  36.272  21.121  0.44 12.17         A C  
+ANISOU   19  C4 AADN A 402     1395   1708   1521    243    587   -115     A C  
+HETATM   20 HO5'AADN A 402      39.314  35.023  19.219  0.44 19.62         A H  
+ANISOU   20 HO5'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   21 H5'1AADN A 402      41.674  36.252  18.814  0.44 18.85         A H  
+ANISOU   21 H5'1AADN A 402        0      0      0      0      0      0     A H  
+HETATM   22 H5'2AADN A 402      40.266  36.759  18.237  0.44 18.85         A H  
+ANISOU   22 H5'2AADN A 402        0      0      0      0      0      0     A H  
+HETATM   23  H4'AADN A 402      41.048  37.894  20.217  0.44 17.67         A H  
+ANISOU   23  H4'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   24  H3'AADN A 402      40.459  35.450  21.494  0.44 18.25         A H  
+ANISOU   24  H3'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   25 HO3'AADN A 402      42.374  35.597  22.235  0.44 21.19         A H  
+ANISOU   25 HO3'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   26  H2'AADN A 402      39.650  36.609  23.323  0.44 17.91         A H  
+ANISOU   26  H2'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   27 HO2'AADN A 402      39.935  38.833  23.405  0.44 19.26         A H  
+ANISOU   27 HO2'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   28  H1'AADN A 402      38.179  38.184  21.941  0.44 17.88         A H  
+ANISOU   28  H1'AADN A 402        0      0      0      0      0      0     A H  
+HETATM   29  H8 AADN A 402      38.723  34.679  22.495  0.44 17.16         A H  
+ANISOU   29  H8 AADN A 402        0      0      0      0      0      0     A H  
+HETATM   30 HN61AADN A 402      34.003  32.889  20.110  0.44 14.22         A H  
+ANISOU   30 HN61AADN A 402        0      0      0      0      0      0     A H  
+HETATM   31 HN62AADN A 402      33.438  33.253  21.569  0.44 14.22         A H  
+ANISOU   31 HN62AADN A 402        0      0      0      0      0      0     A H  
+HETATM   32  H2 AADN A 402      33.930  37.694  19.671  0.44 13.31         A H  
+ANISOU   32  H2 AADN A 402        0      0      0      0      0      0     A H  

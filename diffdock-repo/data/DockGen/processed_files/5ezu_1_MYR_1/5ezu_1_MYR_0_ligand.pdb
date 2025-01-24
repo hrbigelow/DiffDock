@@ -1,0 +1,33 @@
+REMARK Selection '(segment A) and...d resnum `101`)'
+HETATM    1  C1  MYR A 101     -17.097  -7.842  41.081  1.00 81.42         A C  
+ANISOU    1  C1  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    2  O1  MYR A 101     -17.769  -7.383  40.132  1.00 85.73         A O  
+ANISOU    2  O1  MYR A 101        0      0      0      0      0      0     A O  
+HETATM    3  O2  MYR A 101     -16.467  -8.909  40.911  1.00 86.34         A O  
+ANISOU    3  O2  MYR A 101        0      0      0      0      0      0     A O  
+HETATM    4  C2  MYR A 101     -17.050  -7.121  42.409  1.00 69.66         A C  
+ANISOU    4  C2  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    5  C3  MYR A 101     -15.598  -6.865  42.790  1.00 58.47         A C  
+ANISOU    5  C3  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    6  C4  MYR A 101     -15.487  -6.305  44.202  1.00 49.66         A C  
+ANISOU    6  C4  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    7  C5  MYR A 101     -14.042  -6.338  44.679  1.00 47.03         A C  
+ANISOU    7  C5  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    8  C6  MYR A 101     -13.958  -5.846  46.116  1.00 44.03         A C  
+ANISOU    8  C6  MYR A 101        0      0      0      0      0      0     A C  
+HETATM    9  C7  MYR A 101     -12.692  -6.333  46.811  1.00 42.96         A C  
+ANISOU    9  C7  MYR A 101        0      0      0      0      0      0     A C  
+HETATM   10  C8  MYR A 101     -12.596  -5.762  48.220  1.00 45.68         A C  
+ANISOU   10  C8  MYR A 101        0      0      0      0      0      0     A C  
+HETATM   11  C9  MYR A 101     -11.582  -6.534  49.051  1.00 47.99         A C  
+ANISOU   11  C9  MYR A 101        0      0      0      0      0      0     A C  
+HETATM   12  C10 MYR A 101     -10.542  -5.598  49.649  1.00 41.06         A C  
+ANISOU   12  C10 MYR A 101        0      0      0      0      0      0     A C  
+HETATM   13  C11 MYR A 101      -9.622  -6.329  50.613  1.00 46.94         A C  
+ANISOU   13  C11 MYR A 101        0      0      0      0      0      0     A C  
+HETATM   14  C12 MYR A 101      -8.851  -5.341  51.480  1.00 47.65         A C  
+ANISOU   14  C12 MYR A 101        0      0      0      0      0      0     A C  
+HETATM   15  C13 MYR A 101      -7.733  -6.027  52.253  1.00 50.35         A C  
+ANISOU   15  C13 MYR A 101        0      0      0      0      0      0     A C  
+HETATM   16  C14 MYR A 101      -6.895  -5.011  53.019  1.00 52.68         A C  
+ANISOU   16  C14 MYR A 101        0      0      0      0      0      0     A C  

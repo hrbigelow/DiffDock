@@ -1,0 +1,13 @@
+REMARK Selection '(segment C) and...d resnum `621`)'
+HETATM    1  CAO HG1 A 621     -34.707 -14.398  45.256  1.00 38.44         C C  
+HETATM    2  CAJ HG1 A 621     -35.632 -15.456  45.852  1.00 38.09         C C  
+HETATM    3  CAI HG1 A 621     -34.966 -16.248  46.970  1.00 38.08         C C  
+HETATM    4  CAK HG1 A 621     -34.363 -15.326  48.024  1.00 38.17         C C  
+HETATM    5  CAP HG1 A 621     -33.412 -14.311  47.399  1.00 38.40         C C  
+HETATM    6  CAU HG1 A 621     -34.100 -13.483  46.317  1.00 38.72         C C  
+HETATM    7  CAQ HG1 A 621     -33.093 -12.552  45.645  1.00 39.80         C C  
+HETATM    8  CAL HG1 A 621     -32.580 -11.477  46.596  1.00 40.94         C C  
+HETATM    9  CAN HG1 A 621     -32.073 -10.248  45.847  1.00 41.95         C C  
+HETATM   10  CAT HG1 A 621     -31.687  -9.174  46.841  1.00 42.46         C C  
+HETATM   11  OAA HG1 A 621     -30.896  -9.417  47.737  1.00 42.40         C O  
+HETATM   12  NAZ HG1 A 621     -32.242  -7.970  46.696  1.00 42.56         C N  

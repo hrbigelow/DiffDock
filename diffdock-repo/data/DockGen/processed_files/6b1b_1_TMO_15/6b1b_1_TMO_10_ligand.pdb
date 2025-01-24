@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and...d resnum `602`)'
+HETATM    1  CAA TMO A 602     -12.376  48.840  22.892  1.00 29.60         A C  
+ANISOU    1  CAA TMO A 602        0      0      0      0      0      0     A C  
+HETATM    2  NAC TMO A 602     -12.315  47.407  22.696  1.00 36.78         A N  
+ANISOU    2  NAC TMO A 602        0      0      0      0      0      0     A N  
+HETATM    3  CAD TMO A 602     -13.657  46.851  22.742  1.00 36.35         A C  
+ANISOU    3  CAD TMO A 602        0      0      0      0      0      0     A C  
+HETATM    4  CAB TMO A 602     -11.699  47.118  21.411  1.00 36.00         A C  
+ANISOU    4  CAB TMO A 602        0      0      0      0      0      0     A C  
+HETATM    5  OAE TMO A 602     -11.545  46.834  23.718  1.00 44.36         A O  
+ANISOU    5  OAE TMO A 602        0      0      0      0      0      0     A O  

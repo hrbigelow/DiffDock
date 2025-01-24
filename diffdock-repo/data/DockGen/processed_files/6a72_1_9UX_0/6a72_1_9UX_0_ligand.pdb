@@ -1,0 +1,7 @@
+REMARK Selection '(segment A) and...d resnum `101`)'
+HETATM    1  MO1 9UX A 101       9.284 -10.820  -0.046  1.00 32.70         AMO  
+HETATM    2  MO2 9UX A 101      10.615 -11.291   2.504  1.00 30.75         AMO  
+HETATM    3  O1  9UX A 101       7.844 -10.669   0.591  1.00 23.96         A O  
+HETATM    4  O2  9UX A 101       9.309 -11.263   3.573  1.00 17.78         A O  
+HETATM    5  S1  9UX A 101      10.616  -9.279   1.340  1.00 29.36         A S  
+HETATM    6  S2  9UX A 101      10.051 -12.967   0.844  1.00 29.80         A S  

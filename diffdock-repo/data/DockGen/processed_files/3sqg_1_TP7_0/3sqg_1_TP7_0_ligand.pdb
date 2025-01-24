@@ -1,0 +1,43 @@
+REMARK Selection '(segment A) and... resnum `1002`)'
+HETATM    1  N   TP7 A1002      35.293 -78.055  18.593  1.00 22.35         A N  
+ANISOU    1  N   TP7 A1002        0      0      0      0      0      0     A N  
+HETATM    2  P   TP7 A1002      31.930 -76.940  15.734  1.00 26.80         A P  
+ANISOU    2  P   TP7 A1002        0      0      0      0      0      0     A P  
+HETATM    3  O1P TP7 A1002      32.646 -76.778  14.412  1.00 27.05         A O  
+ANISOU    3  O1P TP7 A1002        0      0      0      0      0      0     A O  
+HETATM    4  O2P TP7 A1002      30.880 -78.014  15.684  1.00 27.96         A O  
+ANISOU    4  O2P TP7 A1002        0      0      0      0      0      0     A O  
+HETATM    5  O3P TP7 A1002      31.482 -75.638  16.338  1.00 27.56         A O  
+ANISOU    5  O3P TP7 A1002        0      0      0      0      0      0     A O  
+HETATM    6  O4P TP7 A1002      33.010 -77.466  16.822  1.00 23.95         A O  
+ANISOU    6  O4P TP7 A1002        0      0      0      0      0      0     A O  
+HETATM    7  CB  TP7 A1002      33.906 -78.562  16.592  1.00 22.95         A C  
+ANISOU    7  CB  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM    8  C   TP7 A1002      35.835 -77.033  16.426  1.00 23.98         A C  
+ANISOU    8  C   TP7 A1002        0      0      0      0      0      0     A C  
+HETATM    9  O   TP7 A1002      36.422 -77.216  15.337  1.00 21.59         A O  
+ANISOU    9  O   TP7 A1002        0      0      0      0      0      0     A O  
+HETATM   10  OXT TP7 A1002      35.655 -75.890  16.910  1.00 26.37         A O  
+ANISOU   10  OXT TP7 A1002        0      0      0      0      0      0     A O  
+HETATM   11  CA  TP7 A1002      35.301 -78.241  17.151  1.00 23.50         A C  
+ANISOU   11  CA  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   12  CG  TP7 A1002      33.333 -79.823  17.232  1.00 22.47         A C  
+ANISOU   12  CG  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   13  O1  TP7 A1002      36.050 -80.200  19.059  1.00 25.95         A O  
+ANISOU   13  O1  TP7 A1002        0      0      0      0      0      0     A O  
+HETATM   14  C1  TP7 A1002      36.219 -78.823  19.386  1.00 22.71         A C  
+ANISOU   14  C1  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   15  C2  TP7 A1002      36.113 -78.611  20.895  1.00 21.15         A C  
+ANISOU   15  C2  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   16  C3  TP7 A1002      37.272 -79.363  21.569  1.00 21.37         A C  
+ANISOU   16  C3  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   17  C4  TP7 A1002      37.707 -78.751  22.899  1.00 18.31         A C  
+ANISOU   17  C4  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   18  C5  TP7 A1002      36.534 -78.542  23.853  1.00 18.11         A C  
+ANISOU   18  C5  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   19  C6  TP7 A1002      35.922 -79.869  24.338  1.00 19.43         A C  
+ANISOU   19  C6  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   20  C7  TP7 A1002      36.833 -80.514  25.382  1.00 23.09         A C  
+ANISOU   20  C7  TP7 A1002        0      0      0      0      0      0     A C  
+HETATM   21  S7  TP7 A1002      36.262 -82.160  25.853  1.00 22.13         A S  
+ANISOU   21  S7  TP7 A1002        0      0      0      0      0      0     A S  

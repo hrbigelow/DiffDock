@@ -1,0 +1,11 @@
+REMARK Selection '(segment A) and... resnum `1368`)'
+HETATM    1  C1 AXYS A1368       2.737  -2.894  16.388  0.50 17.91         A C  
+HETATM    2  C2 AXYS A1368       2.605  -2.789  17.908  0.50 16.98         A C  
+HETATM    3  C3 AXYS A1368       2.763  -4.162  18.563  0.50 17.39         A C  
+HETATM    4  C4 AXYS A1368       1.735  -5.135  18.002  0.50 17.52         A C  
+HETATM    5  C5 AXYS A1368       1.668  -5.079  16.460  0.50 19.86         A C  
+HETATM    6  O1 AXYS A1368       3.954  -3.543  16.030  0.50 18.72         A O  
+HETATM    7  O2 AXYS A1368       3.572  -1.897  18.417  0.50 15.47         A O  
+HETATM    8  O3 AXYS A1368       2.534  -4.038  19.959  0.50 13.77         A O  
+HETATM    9  O4 AXYS A1368       2.114  -6.424  18.447  0.50 17.71         A O  
+HETATM   10  O5 AXYS A1368       1.627  -3.707  15.927  0.50 20.28         A O  

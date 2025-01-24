@@ -1,0 +1,69 @@
+REMARK Selection '(segment A) and... resnum `2001`)'
+HETATM    1  N2A L34 A2001      16.795  -4.734  31.122  1.00 10.25         A N  
+ANISOU    1  N2A L34 A2001        0      0      0      0      0      0     A N  
+HETATM    2  N1  L34 A2001      15.550  -5.913  29.554  1.00 10.42         A N  
+ANISOU    2  N1  L34 A2001        0      0      0      0      0      0     A N  
+HETATM    3  C2  L34 A2001      15.974  -4.742  30.075  1.00 10.45         A C  
+ANISOU    3  C2  L34 A2001        0      0      0      0      0      0     A C  
+HETATM    4  N3  L34 A2001      15.578  -3.561  29.550  1.00 10.62         A N  
+ANISOU    4  N3  L34 A2001        0      0      0      0      0      0     A N  
+HETATM    5  C4  L34 A2001      14.756  -3.514  28.499  1.00 10.66         A C  
+ANISOU    5  C4  L34 A2001        0      0      0      0      0      0     A C  
+HETATM    6  O4A L34 A2001      14.359  -2.325  27.977  1.00 10.56         A O  
+ANISOU    6  O4A L34 A2001        0      0      0      0      0      0     A O  
+HETATM    7  C4A L34 A2001      14.313  -4.714  27.961  1.00 10.84         A C  
+ANISOU    7  C4A L34 A2001        0      0      0      0      0      0     A C  
+HETATM    8  N5  L34 A2001      13.477  -4.780  26.871  1.00 11.15         A N  
+ANISOU    8  N5  L34 A2001        0      0      0      0      0      0     A N  
+HETATM    9  C6  L34 A2001      12.350  -5.702  26.926  1.00 11.21         A C  
+ANISOU    9  C6  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   10  C7  L34 A2001      12.984  -7.100  27.086  1.00 10.94         A C  
+ANISOU   10  C7  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   11  N8  L34 A2001      14.236  -7.095  27.909  1.00 10.55         A N  
+ANISOU   11  N8  L34 A2001        0      0      0      0      0      0     A N  
+HETATM   12  C8A L34 A2001      14.719  -5.916  28.499  1.00 10.57         A C  
+ANISOU   12  C8A L34 A2001        0      0      0      0      0      0     A C  
+HETATM   13  CX  L34 A2001      13.650  -4.344  25.569  1.00 11.50         A C  
+ANISOU   13  CX  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   14  OX  L34 A2001      14.599  -3.621  25.264  1.00 11.47         A O  
+ANISOU   14  OX  L34 A2001        0      0      0      0      0      0     A O  
+HETATM   15  C9  L34 A2001      11.707  -5.588  25.546  1.00 11.51         A C  
+ANISOU   15  C9  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   16  N10 L34 A2001      12.652  -4.763  24.766  1.00 11.77         A N  
+ANISOU   16  N10 L34 A2001        0      0      0      0      0      0     A N  
+HETATM   17  C1B L34 A2001      12.429  -4.398  23.489  1.00 12.18         A C  
+ANISOU   17  C1B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   18  C2B L34 A2001      11.407  -5.014  22.756  1.00 12.43         A C  
+ANISOU   18  C2B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   19  C3B L34 A2001      11.144  -4.622  21.448  1.00 12.85         A C  
+ANISOU   19  C3B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   20  C4B L34 A2001      11.897  -3.616  20.841  1.00 13.12         A C  
+ANISOU   20  C4B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   21  C5B L34 A2001      12.903  -2.988  21.568  1.00 12.76         A C  
+ANISOU   21  C5B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   22  C6B L34 A2001      13.160  -3.368  22.881  1.00 12.48         A C  
+ANISOU   22  C6B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   23  C7B L34 A2001      11.607  -3.167  19.407  1.00 13.71         A C  
+ANISOU   23  C7B L34 A2001        0      0      0      0      0      0     A C  
+HETATM   24  O7B L34 A2001      11.947  -2.045  19.023  1.00 13.49         A O  
+ANISOU   24  O7B L34 A2001        0      0      0      0      0      0     A O  
+HETATM   25  N   L34 A2001      10.903  -4.021  18.657  1.00 14.69         A N  
+ANISOU   25  N   L34 A2001        0      0      0      0      0      0     A N  
+HETATM   26  CA  L34 A2001      10.486  -3.685  17.284  1.00 15.28         A C  
+ANISOU   26  CA  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   27  CB  L34 A2001      10.118  -4.963  16.515  1.00 16.15         A C  
+ANISOU   27  CB  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   28  CG  L34 A2001      11.327  -5.906  16.339  1.00 16.97         A C  
+ANISOU   28  CG  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   29  CD  L34 A2001      11.453  -6.936  17.484  1.00 17.44         A C  
+ANISOU   29  CD  L34 A2001        0      0      0      0      0      0     A C  
+HETATM   30  OE1 L34 A2001      12.228  -7.905  17.295  1.00 18.09         A O  
+ANISOU   30  OE1 L34 A2001        0      0      0      0      0      0     A O  
+HETATM   31  OE2 L34 A2001      10.794  -6.717  18.533  1.00 17.44         A O  
+ANISOU   31  OE2 L34 A2001        0      0      0      0      0      0     A O  
+HETATM   32  C   L34 A2001       9.259  -2.740  17.386  1.00 15.25         A C  
+ANISOU   32  C   L34 A2001        0      0      0      0      0      0     A C  
+HETATM   33  O   L34 A2001       8.504  -2.851  18.386  1.00 15.28         A O  
+ANISOU   33  O   L34 A2001        0      0      0      0      0      0     A O  
+HETATM   34  OXT L34 A2001       9.110  -1.899  16.475  1.00 15.31         A O  
+ANISOU   34  OXT L34 A2001        0      0      0      0      0      0     A O  

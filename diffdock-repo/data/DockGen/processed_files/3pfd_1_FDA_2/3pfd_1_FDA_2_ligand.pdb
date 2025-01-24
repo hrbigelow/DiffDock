@@ -1,0 +1,107 @@
+REMARK Selection '(segment A) and...d resnum `390`)'
+HETATM    1  PA  FDA C 390      66.127  46.511  15.348  1.00 15.52         A P  
+ANISOU    1  PA  FDA C 390        0      0      0      0      0      0     A P  
+HETATM    2  O1A FDA C 390      65.577  46.874  13.996  1.00 17.32         A O  
+ANISOU    2  O1A FDA C 390        0      0      0      0      0      0     A O  
+HETATM    3  O2A FDA C 390      66.729  47.565  16.244  1.00 13.27         A O  
+ANISOU    3  O2A FDA C 390        0      0      0      0      0      0     A O  
+HETATM    4  O5B FDA C 390      64.942  45.768  16.149  1.00 17.36         A O  
+ANISOU    4  O5B FDA C 390        0      0      0      0      0      0     A O  
+HETATM    5  C5B FDA C 390      64.860  45.744  17.578  1.00 16.31         A C  
+ANISOU    5  C5B FDA C 390        0      0      0      0      0      0     A C  
+HETATM    6  C4B FDA C 390      63.484  45.200  17.989  1.00 17.80         A C  
+ANISOU    6  C4B FDA C 390        0      0      0      0      0      0     A C  
+HETATM    7  O4B FDA C 390      62.450  46.110  17.597  1.00 15.47         A O  
+ANISOU    7  O4B FDA C 390        0      0      0      0      0      0     A O  
+HETATM    8  C3B FDA C 390      63.162  43.875  17.295  1.00 18.47         A C  
+ANISOU    8  C3B FDA C 390        0      0      0      0      0      0     A C  
+HETATM    9  O3B FDA C 390      62.372  43.090  18.199  1.00 16.11         A O  
+ANISOU    9  O3B FDA C 390        0      0      0      0      0      0     A O  
+HETATM   10  C2B FDA C 390      62.298  44.296  16.118  1.00 15.88         A C  
+ANISOU   10  C2B FDA C 390        0      0      0      0      0      0     A C  
+HETATM   11  O2B FDA C 390      61.412  43.262  15.679  1.00 17.47         A O  
+ANISOU   11  O2B FDA C 390        0      0      0      0      0      0     A O  
+HETATM   12  C1B FDA C 390      61.540  45.459  16.717  1.00 15.45         A C  
+ANISOU   12  C1B FDA C 390        0      0      0      0      0      0     A C  
+HETATM   13  N9A FDA C 390      60.993  46.372  15.693  1.00 16.39         A N  
+ANISOU   13  N9A FDA C 390        0      0      0      0      0      0     A N  
+HETATM   14  C8A FDA C 390      61.697  47.192  14.892  1.00 17.43         A C  
+ANISOU   14  C8A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   15  N7A FDA C 390      60.841  47.881  14.096  1.00 16.06         A N  
+ANISOU   15  N7A FDA C 390        0      0      0      0      0      0     A N  
+HETATM   16  C5A FDA C 390      59.581  47.483  14.399  1.00 17.68         A C  
+ANISOU   16  C5A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   17  C6A FDA C 390      58.313  47.834  13.907  1.00 17.05         A C  
+ANISOU   17  C6A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   18  N6A FDA C 390      58.191  48.756  12.902  1.00 14.68         A N  
+ANISOU   18  N6A FDA C 390        0      0      0      0      0      0     A N  
+HETATM   19  N1A FDA C 390      57.213  47.240  14.443  1.00 15.80         A N  
+ANISOU   19  N1A FDA C 390        0      0      0      0      0      0     A N  
+HETATM   20  C2A FDA C 390      57.358  46.322  15.425  1.00 17.50         A C  
+ANISOU   20  C2A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   21  N3A FDA C 390      58.561  45.963  15.928  1.00 14.46         A N  
+ANISOU   21  N3A FDA C 390        0      0      0      0      0      0     A N  
+HETATM   22  C4A FDA C 390      59.688  46.525  15.420  1.00 17.16         A C  
+ANISOU   22  C4A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   23  N1  FDA C 390      72.180  41.759   7.679  1.00 20.23         A N  
+ANISOU   23  N1  FDA C 390        0      0      0      0      0      0     A N  
+HETATM   24  C2  FDA C 390      72.853  41.838   6.490  1.00 21.96         A C  
+ANISOU   24  C2  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   25  O2  FDA C 390      72.844  42.892   5.799  1.00 22.56         A O  
+ANISOU   25  O2  FDA C 390        0      0      0      0      0      0     A O  
+HETATM   26  N3  FDA C 390      73.551  40.773   6.041  1.00 20.43         A N  
+ANISOU   26  N3  FDA C 390        0      0      0      0      0      0     A N  
+HETATM   27  C4  FDA C 390      73.591  39.622   6.750  1.00 19.27         A C  
+ANISOU   27  C4  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   28  O4  FDA C 390      74.264  38.687   6.284  1.00 17.75         A O  
+ANISOU   28  O4  FDA C 390        0      0      0      0      0      0     A O  
+HETATM   29  C4X FDA C 390      72.890  39.500   7.967  1.00 18.25         A C  
+ANISOU   29  C4X FDA C 390        0      0      0      0      0      0     A C  
+HETATM   30  N5  FDA C 390      73.010  38.406   8.746  1.00 16.86         A N  
+ANISOU   30  N5  FDA C 390        0      0      0      0      0      0     A N  
+HETATM   31  C5X FDA C 390      72.826  38.487  10.075  1.00 16.06         A C  
+ANISOU   31  C5X FDA C 390        0      0      0      0      0      0     A C  
+HETATM   32  C6  FDA C 390      73.418  37.563  10.948  1.00 16.75         A C  
+ANISOU   32  C6  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   33  C7  FDA C 390      73.276  37.717  12.339  1.00 16.64         A C  
+ANISOU   33  C7  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   34  C7M FDA C 390      73.906  36.716  13.284  1.00 16.08         A C  
+ANISOU   34  C7M FDA C 390        0      0      0      0      0      0     A C  
+HETATM   35  C8  FDA C 390      72.519  38.759  12.856  1.00 16.47         A C  
+ANISOU   35  C8  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   36  C8M FDA C 390      72.333  38.944  14.352  1.00 14.95         A C  
+ANISOU   36  C8M FDA C 390        0      0      0      0      0      0     A C  
+HETATM   37  C9  FDA C 390      71.927  39.663  11.994  1.00 14.95         A C  
+ANISOU   37  C9  FDA C 390        0      0      0      0      0      0     A C  
+HETATM   38  C9A FDA C 390      72.088  39.541  10.610  1.00 16.51         A C  
+ANISOU   38  C9A FDA C 390        0      0      0      0      0      0     A C  
+HETATM   39  N10 FDA C 390      71.695  40.597   9.760  1.00 16.94         A N  
+ANISOU   39  N10 FDA C 390        0      0      0      0      0      0     A N  
+HETATM   40  C10 FDA C 390      72.180  40.604   8.424  1.00 18.46         A C  
+ANISOU   40  C10 FDA C 390        0      0      0      0      0      0     A C  
+HETATM   41  C1' FDA C 390      71.018  41.772  10.312  1.00 15.76         A C  
+ANISOU   41  C1' FDA C 390        0      0      0      0      0      0     A C  
+HETATM   42  C2' FDA C 390      69.539  41.494  10.613  1.00 17.47         A C  
+ANISOU   42  C2' FDA C 390        0      0      0      0      0      0     A C  
+HETATM   43  O2' FDA C 390      68.725  41.390   9.423  1.00 19.49         A O  
+ANISOU   43  O2' FDA C 390        0      0      0      0      0      0     A O  
+HETATM   44  C3' FDA C 390      69.056  42.563  11.570  1.00 17.12         A C  
+ANISOU   44  C3' FDA C 390        0      0      0      0      0      0     A C  
+HETATM   45  O3' FDA C 390      69.567  42.245  12.889  1.00 15.07         A O  
+ANISOU   45  O3' FDA C 390        0      0      0      0      0      0     A O  
+HETATM   46  C4' FDA C 390      67.519  42.662  11.609  1.00 18.60         A C  
+ANISOU   46  C4' FDA C 390        0      0      0      0      0      0     A C  
+HETATM   47  O4' FDA C 390      67.026  43.221  10.389  1.00 21.74         A O  
+ANISOU   47  O4' FDA C 390        0      0      0      0      0      0     A O  
+HETATM   48  C5' FDA C 390      67.027  43.521  12.766  1.00 16.96         A C  
+ANISOU   48  C5' FDA C 390        0      0      0      0      0      0     A C  
+HETATM   49  O5' FDA C 390      67.771  44.746  12.805  1.00 18.76         A O  
+ANISOU   49  O5' FDA C 390        0      0      0      0      0      0     A O  
+HETATM   50  P   FDA C 390      68.432  45.207  14.198  1.00 17.77         A P  
+ANISOU   50  P   FDA C 390        0      0      0      0      0      0     A P  
+HETATM   51  O1P FDA C 390      69.314  44.083  14.681  1.00 19.89         A O  
+ANISOU   51  O1P FDA C 390        0      0      0      0      0      0     A O  
+HETATM   52  O2P FDA C 390      69.011  46.591  14.020  1.00 18.22         A O  
+ANISOU   52  O2P FDA C 390        0      0      0      0      0      0     A O  
+HETATM   53  O3P FDA C 390      67.176  45.261  15.207  1.00 15.51         A O  
+ANISOU   53  O3P FDA C 390        0      0      0      0      0      0     A O  

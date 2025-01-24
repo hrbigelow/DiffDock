@@ -1,0 +1,47 @@
+REMARK Selection '(segment A) and... resnum `1to2`)'
+HETATM    1  C1  GLC C   1     -28.529 -69.343 -17.971  1.00 25.41         A C  
+ANISOU    1  C1  GLC C   1     3231   3287   3133   -382   -185   -295     A C  
+HETATM    2  C2  GLC C   1     -28.275 -70.815 -17.710  1.00 27.27         A C  
+ANISOU    2  C2  GLC C   1     3106   3822   3431    174   -391    127     A C  
+HETATM    3  C3  GLC C   1     -29.153 -71.658 -18.630  1.00 26.78         A C  
+ANISOU    3  C3  GLC C   1     3640   3091   3442    371   -149   -390     A C  
+HETATM    4  C4  GLC C   1     -30.643 -71.261 -18.458  1.00 27.24         A C  
+ANISOU    4  C4  GLC C   1     3590   3224   3531   -359   -108    -84     A C  
+HETATM    5  C5  GLC C   1     -30.865 -69.751 -18.707  1.00 24.88         A C  
+ANISOU    5  C5  GLC C   1     3081   2980   3391    -32    -33    -45     A C  
+HETATM    6  C6  GLC C   1     -32.253 -69.334 -18.299  1.00 24.35         A C  
+ANISOU    6  C6  GLC C   1     3076   3023   3152    -55   -129    693     A C  
+HETATM    7  O1  GLC C   1     -28.112 -69.040 -19.347  1.00 23.26         A O  
+ANISOU    7  O1  GLC C   1     2307   3032   3498   1090    297    155     A O  
+HETATM    8  O2  GLC C   1     -26.887 -71.150 -17.948  1.00 24.74         A O  
+ANISOU    8  O2  GLC C   1     2625   4270   2505   -388   -985   -897     A O  
+HETATM    9  O3  GLC C   1     -29.034 -73.008 -18.229  1.00 27.58         A O  
+ANISOU    9  O3  GLC C   1     3987   4155   2336   1419   -195    641     A O  
+HETATM   10  O4  GLC C   1     -31.476 -72.086 -19.293  1.00 27.27         A O  
+ANISOU   10  O4  GLC C   1     2791   2902   4666   -529   -134     36     A O  
+HETATM   11  O5  GLC C   1     -29.961 -69.013 -17.759  1.00 27.18         A O  
+ANISOU   11  O5  GLC C   1     3610   3754   2962   -244    296   -603     A O  
+HETATM   12  O6  GLC C   1     -32.438 -69.747 -16.931  1.00 27.69         A O  
+ANISOU   12  O6  GLC C   1     3639   3919   2960    386    585    461     A O  
+HETATM   13  C2  BGC C   2     -34.033 -69.813 -15.100  1.00 28.14         A C  
+ANISOU   13  C2  BGC C   2     3725   3456   3511   -449    258    162     A C  
+HETATM   14  C3  BGC C   2     -35.174 -69.002 -14.415  1.00 27.60         A C  
+ANISOU   14  C3  BGC C   2     3745   2829   3911    -86    106    614     A C  
+HETATM   15  C4  BGC C   2     -34.604 -67.734 -13.833  1.00 25.60         A C  
+ANISOU   15  C4  BGC C   2     3197   3771   2756     47     42    -22     A C  
+HETATM   16  C5  BGC C   2     -33.763 -66.941 -14.882  1.00 25.80         A C  
+ANISOU   16  C5  BGC C   2     3195   3390   3217   -285   -155    -66     A C  
+HETATM   17  C6  BGC C   2     -33.016 -65.873 -14.162  1.00 22.76         A C  
+ANISOU   17  C6  BGC C   2     2887   2657   3104   -131    358    208     A C  
+HETATM   18  C1  BGC C   2     -33.407 -68.963 -16.232  1.00 26.75         A C  
+ANISOU   18  C1  BGC C   2     3873   3139   3148    -75    248   -151     A C  
+HETATM   19  O2  BGC C   2     -34.496 -71.097 -15.616  1.00 23.82         A O  
+ANISOU   19  O2  BGC C   2     2341   3945   2765   -267    122   -545     A O  
+HETATM   20  O3  BGC C   2     -35.837 -69.736 -13.322  1.00 34.35         A O  
+ANISOU   20  O3  BGC C   2     4909   5222   2919    125    573    679     A O  
+HETATM   21  O4  BGC C   2     -35.689 -66.936 -13.392  1.00 25.21         A O  
+ANISOU   21  O4  BGC C   2     2660   4011   2908    468   -911    348     A O  
+HETATM   22  O5  BGC C   2     -32.765 -67.811 -15.632  1.00 27.40         A O  
+ANISOU   22  O5  BGC C   2     2753   3479   4176   -541    307   -142     A O  
+HETATM   23  O6  BGC C   2     -32.524 -65.050 -15.225  1.00 18.58         A O  
+ANISOU   23  O6  BGC C   2     3387   1844   1827     68    260   -639     A O  

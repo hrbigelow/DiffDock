@@ -1,0 +1,8 @@
+REMARK Selection '(segment B) and... resnum `1179`)'
+HETATM    1  C1  TAU A1179       6.435  17.879  12.776  1.00 23.53         B C  
+HETATM    2  C2  TAU A1179       5.251  18.056  13.750  1.00 27.35         B C  
+HETATM    3  N1  TAU A1179       7.584  17.308  13.442  1.00 30.16         B N  
+HETATM    4  S   TAU A1179       3.908  18.766  12.798  1.00 34.44         B S  
+HETATM    5  O1  TAU A1179       4.234  20.098  12.376  1.00 38.33         B O  
+HETATM    6  O2  TAU A1179       2.736  18.948  13.699  1.00 37.89         B O  
+HETATM    7  O3  TAU A1179       3.440  17.811  11.841  1.00 45.89         B O  

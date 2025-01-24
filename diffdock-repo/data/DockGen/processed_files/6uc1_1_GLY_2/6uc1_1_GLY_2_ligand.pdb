@@ -1,0 +1,21 @@
+REMARK Selection '(segment A) and...d resnum `904`)'
+HETATM    1  N   GLY A 904      -9.192 -17.973 244.715  1.00 41.91         A N  
+ANISOU    1  N   GLY A 904     5142   5213   5568   -304     61     14     A N  
+HETATM    2  CA  GLY A 904      -8.770 -19.396 244.712  1.00 33.34         A C  
+ANISOU    2  CA  GLY A 904     3997   4180   4490   -297     44     18     A C  
+HETATM    3  C   GLY A 904      -7.412 -19.485 244.042  1.00 47.86         A C  
+ANISOU    3  C   GLY A 904     5812   6050   6324   -342     33      9     A C  
+HETATM    4  O   GLY A 904      -7.010 -18.552 243.343  1.00 45.71         A O  
+ANISOU    4  O   GLY A 904     5566   5755   6048   -376     44      5     A O  
+HETATM    5  OXT GLY A 904      -6.685 -20.469 244.180  1.00 63.31         A O  
+ANISOU    5  OXT GLY A 904     7722   8051   8280   -345     17      4     A O  
+HETATM    6  H1  GLY A 904     -10.042 -17.916 244.458  1.00 49.97         A H  
+ANISOU    6  H1  GLY A 904        0      0      0      0      0      0     A H  
+HETATM    7  H2  GLY A 904      -9.107 -17.641 245.537  1.00 49.97         A H  
+ANISOU    7  H2  GLY A 904        0      0      0      0      0      0     A H  
+HETATM    8  H3  GLY A 904      -8.680 -17.511 244.153  1.00 49.97         A H  
+ANISOU    8  H3  GLY A 904        0      0      0      0      0      0     A H  
+HETATM    9  HA2 GLY A 904      -8.706 -19.731 245.620  1.00 39.69         A H  
+ANISOU    9  HA2 GLY A 904        0      0      0      0      0      0     A H  
+HETATM   10  HA3 GLY A 904      -9.409 -19.936 244.221  1.00 39.69         A H  
+ANISOU   10  HA3 GLY A 904        0      0      0      0      0      0     A H  

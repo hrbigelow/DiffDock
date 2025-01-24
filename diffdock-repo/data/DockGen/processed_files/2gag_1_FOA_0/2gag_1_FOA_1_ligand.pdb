@@ -1,0 +1,9 @@
+REMARK Selection '(segment A) and...d resnum `503`)'
+HETATM    1  C1  FOA B 503     -25.020 -11.126 -14.722  1.00 29.83         A C  
+HETATM    2  C2  FOA B 503     -25.618 -10.140 -13.841  1.00 32.09         A C  
+HETATM    3  C3  FOA B 503     -26.781 -10.147 -13.177  1.00 21.02         A C  
+HETATM    4  C4  FOA B 503     -26.841  -8.942 -12.477  1.00 30.27         A C  
+HETATM    5  C5  FOA B 503     -25.720  -8.257 -12.740  1.00 30.69         A C  
+HETATM    6  O6  FOA B 503     -23.891 -10.874 -15.244  1.00 33.45         A O  
+HETATM    7  O7  FOA B 503     -25.662 -12.163 -14.905  1.00 31.01         A O  
+HETATM    8  O8  FOA B 503     -24.921  -8.966 -13.592  1.00 33.55         A O  

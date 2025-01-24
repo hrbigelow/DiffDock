@@ -1,0 +1,12 @@
+REMARK Selection '(segment A) and...d resnum `500`)'
+HETATM    1  C1  PML B 500       3.927 -16.908  -0.043  1.00 36.50         A C  
+HETATM    2  O11 PML B 500       4.682 -17.850   0.325  1.00 39.63         A O  
+HETATM    3  O12 PML B 500       3.517 -16.041   0.778  1.00 39.88         A O  
+HETATM    4  C2  PML B 500       3.535 -16.827  -1.506  1.00 29.96         A C  
+HETATM    5  C3  PML B 500       4.755 -16.537  -2.369  1.00 29.63         A C  
+HETATM    6  C4  PML B 500       5.042 -17.720  -3.275  1.00 29.77         A C  
+HETATM    7  C5  PML B 500       6.430 -17.644  -3.872  1.00 26.53         A C  
+HETATM    8  C6  PML B 500       6.420 -18.021  -5.338  1.00 30.21         A C  
+HETATM    9  C7  PML B 500       7.711 -18.725  -5.756  1.00 29.67         A C  
+HETATM   10  O71 PML B 500       7.665 -19.639  -6.624  1.00 30.78         A O  
+HETATM   11  O72 PML B 500       8.818 -18.390  -5.250  1.00 32.00         A O  

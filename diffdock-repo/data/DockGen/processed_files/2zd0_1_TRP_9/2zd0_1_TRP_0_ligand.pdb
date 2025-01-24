@@ -1,0 +1,16 @@
+REMARK Selection '(segment D) and...d resnum `100`)'
+HETATM    1  N   TRP A 100      66.878  26.393  24.010  1.00 21.19         D N  
+HETATM    2  CA  TRP A 100      65.924  25.904  22.985  1.00 21.88         D C  
+HETATM    3  C   TRP A 100      65.061  24.742  23.490  1.00 22.68         D C  
+HETATM    4  O   TRP A 100      65.542  23.750  24.056  1.00 23.95         D O  
+HETATM    5  CB  TRP A 100      66.646  25.543  21.673  1.00 21.34         D C  
+HETATM    6  CG  TRP A 100      65.681  25.357  20.513  1.00 21.46         D C  
+HETATM    7  CD1 TRP A 100      65.175  24.178  20.062  1.00 20.65         D C  
+HETATM    8  CD2 TRP A 100      65.098  26.387  19.685  1.00 20.43         D C  
+HETATM    9  NE1 TRP A 100      64.323  24.399  19.007  1.00 20.63         D N  
+HETATM   10  CE2 TRP A 100      64.248  25.743  18.759  1.00 20.05         D C  
+HETATM   11  CE3 TRP A 100      65.212  27.785  19.637  1.00 20.07         D C  
+HETATM   12  CZ2 TRP A 100      63.518  26.443  17.795  1.00 20.17         D C  
+HETATM   13  CZ3 TRP A 100      64.485  28.485  18.668  1.00 19.46         D C  
+HETATM   14  CH2 TRP A 100      63.658  27.809  17.760  1.00 19.72         D C  
+HETATM   15  OXT TRP A 100      63.835  24.768  23.354  1.00 23.19         D O  
