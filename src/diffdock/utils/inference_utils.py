@@ -2,6 +2,7 @@ import os
 from esm import FastaBatchedDataset, pretrained
 from rdkit.Chem import AddHs, MolFromSmiles
 from torch_geometric.data import Dataset, HeteroData
+from typing import List
 import numpy as np
 import torch
 import prody as pr
@@ -42,13 +43,10 @@ def set_nones(l):
     return [s if str(s) != 'nan' else None for s in l]
 
 
-def get_sequences(protein_files, protein_sequences):
+def get_sequences(protein_files):
     new_sequences = []
     for i in range(len(protein_files)):
-        if protein_files[i] is not None:
-            new_sequences.append(get_sequences_from_pdbfile(protein_files[i]))
-        else:
-            new_sequences.append(protein_sequences[i])
+        new_sequences.append(get_sequences_from_pdbfile(protein_files[i]))
     return new_sequences
 
 
@@ -116,13 +114,14 @@ def generate_ESM_structure(model, filename, sequence):
 
 
 class InferenceDataset(Dataset):
-    def __init__(self, out_dir, complex_names, protein_files, ligand_descriptions,
-                 protein_sequences, lm_embeddings, receptor_radius=30,
-                 c_alpha_max_neighbors=None, precomputed_lm_embeddings=None,
+    def __init__(self, out_dir, receptor_radius=30, c_alpha_max_neighbors=None,
                  remove_hs=False, all_atoms=False, atom_radius=5,
                  atom_max_neighbors=None, knn_only_graph=False):
 
         super(InferenceDataset, self).__init__()
+        self.lang_model = None
+
+        self.out_dir = out_dir
         self.receptor_radius = receptor_radius
         self.c_alpha_max_neighbors = c_alpha_max_neighbors
         self.remove_hs = remove_hs
@@ -130,39 +129,24 @@ class InferenceDataset(Dataset):
         self.atom_radius, self.atom_max_neighbors = atom_radius, atom_max_neighbors
         self.knn_only_graph = knn_only_graph
 
+        model, alphabet = pretrained.load_model_and_alphabet("esm2_t33_650M_UR50D")
+        model.eval()
+        if torch.cuda.is_available():
+            model = model.cuda()
+        self.lang_model = model
+        self.alphabet = alphabet
+
+    def initialize(self, 
+                   complex_names: List[str],
+                   protein_files: List[str],
+                   ligand_descriptions: List[str]):
+        """
+        Initialize the dataset with specific protein-ligand pairs
+        """
         self.complex_names = complex_names
         self.protein_files = protein_files
         self.ligand_descriptions = ligand_descriptions
-        self.protein_sequences = protein_sequences
-
-        # generate LM embeddings
-        if lm_embeddings and (precomputed_lm_embeddings is None or precomputed_lm_embeddings[0] is None):
-            print("Generating ESM language model embeddings")
-            model_location = "esm2_t33_650M_UR50D"
-            model, alphabet = pretrained.load_model_and_alphabet(model_location)
-            model.eval()
-            if torch.cuda.is_available():
-                model = model.cuda()
-
-            protein_sequences = get_sequences(protein_files, protein_sequences)
-            labels, sequences = [], []
-            for i in range(len(protein_sequences)):
-                s = protein_sequences[i].split(':')
-                sequences.extend(s)
-                labels.extend([complex_names[i] + '_chain_' + str(j) for j in range(len(s))])
-
-            lm_embeddings = compute_ESM_embeddings(model, alphabet, labels, sequences)
-
-            self.lm_embeddings = []
-            for i in range(len(protein_sequences)):
-                s = protein_sequences[i].split(':')
-                self.lm_embeddings.append([lm_embeddings[f'{complex_names[i]}_chain_{j}'] for j in range(len(s))])
-
-        elif not lm_embeddings:
-            self.lm_embeddings = [None] * len(self.complex_names)
-
-        else:
-            self.lm_embeddings = precomputed_lm_embeddings
+        self.lm_embeddings = [None] * len(self.complex_names)
 
         # generate structures with ESMFold
         if None in protein_files:
@@ -172,18 +156,37 @@ class InferenceDataset(Dataset):
 
             for i in range(len(protein_files)):
                 if protein_files[i] is None:
-                    self.protein_files[i] = f"{out_dir}/{complex_names[i]}/{complex_names[i]}_esmfold.pdb"
-                    if not os.path.exists(self.protein_files[i]):
-                        print("generating", self.protein_files[i])
-                        generate_ESM_structure(model, self.protein_files[i], protein_sequences[i])
+                    self.protein_files[i] = f"{self.out_dir}/{complex_names[i]}/{complex_names[i]}_esmfold.pdb"
+
+    def compute_lm_embeddings(self):
+        print("Generating ESM language model embeddings")
+
+        self.protein_sequences = get_sequences(self.protein_files)
+        labels, sequences = [], []
+        for i in range(len(self.protein_sequences)):
+            s = self.protein_sequences[i].split(':')
+            sequences.extend(s)
+            labels.extend([self.complex_names[i] + '_chain_' + str(j) for j in range(len(s))])
+
+        lm_embeddings = compute_ESM_embeddings(self.lang_model, self.alphabet, labels, sequences)
+
+        self.lm_embeddings = []
+        for i in range(len(self.protein_sequences)):
+            s = self.protein_sequences[i].split(':')
+            self.lm_embeddings.append(
+                    [lm_embeddings[f'{self.complex_names[i]}_chain_{j}'] for j in range(len(s))])
+
+    def set_lm_embeddings(self, lm_embeddings):
+        self.lm_embeddings = lm_embeddings 
+
 
     def len(self):
         return len(self.complex_names)
 
     def get(self, idx):
-
         name, protein_file, ligand_description, lm_embedding = \
-            self.complex_names[idx], self.protein_files[idx], self.ligand_descriptions[idx], self.lm_embeddings[idx]
+            (self.complex_names[idx], self.protein_files[idx],
+             self.ligand_descriptions[idx], self.lm_embeddings[idx])
 
         # build the pytorch geometric heterogeneous graph
         complex_graph = HeteroData()

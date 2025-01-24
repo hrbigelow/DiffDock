@@ -14,8 +14,20 @@ def handle_sigquit(signum, frame):
 
 # Register the handler
 signal.signal(signal.SIGQUIT, handle_sigquit)
+        
+def batch_inputs(inputs: List, batch_size: int):
+    inputs = [tuple(inputs[i:i+batch_size]) for i in range(0, len(inputs), batch_size)]
+    batched = []
+    for group in inputs:
+        entry = { k + 's': [] for k in group[0].keys() }
+        for ent in group:
+            for k, v in ent.items():
+                entry[k+'s'].append(v)
+        batched.append(entry)
+    return batched
 
 here = Path(__file__).parent
+
 
 app = modal.App()
 image = (
@@ -33,24 +45,59 @@ image = (
         # this allows `diffdock` package to be imported without pip install, 
         # since Modal adds /root to sys.path
         .add_local_dir(here / "src/diffdock", "/root/diffdock")
-        .add_local_file(here / "data/dockgen.json", "/root/")
-        .add_local_file(here / "data/hps.json", "/root/")
+        # .add_local_file(here / "data/dockgen.json", "/root/")
+        # .add_local_file(here / "data/hps.json", "/root/")
         )
-"""
-.run_commands(
-    "pip install "
-    '"DiffDock @ git+https://github.com/hrbigelow/DiffDock.git@modal-port" '
-    "--find-links 
-    # force_build = True
-    )
-"""
-        # )
+
+# global file paths
+# HPS_PATH = Path("/root/hps.json")
+# INPUTS_PATH = Path("/root/dockgen.json")
 
 volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
 MODEL_DIR = Path("/app")
 
-@app.function(gpu="H100", image=image, volumes={MODEL_DIR: volume},
-              concurrency_limit=10)
+@app.cls(gpu="H100", image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
+class Model:
+    @modal.enter()
+    def on_startup(self):
+        self.hps = json.loads(HPS_PATH.read_text())
+        os.chdir(MODEL_DIR)
+        from diffdock import inference
+        self.ddif = inference.Inference(**self.hps)
+
+    @modal.method()
+    def dock(self, input: dict):
+        """
+        input: dict with keys pointing to parallel lists:
+          - complex_names: List of string, arbitrary names
+          - protein_paths: List of string, local paths to pdb file
+          - ligand_descriptions: List of string, local paths to ligand .sdf file 
+        """
+        # help(inference)
+        print(f"Processing {input['complex_names']}...")
+        self.ddif.main(**input)
+        return input["complex_names"]
+
+@app.local_entrypoint()
+def main(hps: str, inputs: str, batch_size: int):
+    """
+    hps: JSON file with kwargs to inference.py::main function
+    inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
+    batch_size: number of protein-ligand pairs to submit for each job
+    """
+    inputs = json.loads(Path(inputs).read_text())
+    hps = json.loads(Path(hps).read_text())
+    batched = batch_inputs(inputs, batch_size)
+
+    # model = Model()
+    # outputs only written to volume (for now)
+    # for result in model.dock.map(batched, order_outputs=False):
+     #    print(result)
+
+
+
+@app.function(gpu="H100", image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
+# @app.function(image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
 def dock(input: dict, *, hps: dict):
     """
     hps: dict of hyperparameters 
@@ -61,24 +108,11 @@ def dock(input: dict, *, hps: dict):
     """
     os.chdir(MODEL_DIR)
     from diffdock import inference
+    ddif = inference.Inference(**hps)
     # help(inference)
     print(f"Processing {input['complex_names']}...")
-    inference.main(**hps, **input)
+    ddif.main(**input)
     return input["complex_names"]
-
-def batch_inputs(inputs: List, batch_size: int):
-    """
-    inputs: List of dicts of  
-    """
-    inputs = [tuple(inputs[i:i+batch_size]) for i in range(0, len(inputs), batch_size)]
-    batched = []
-    for group in inputs:
-        entry = { k + 's': [] for k in group[0].keys() }
-        for ent in group:
-            for k, v in ent.items():
-                entry[k+'s'].append(v)
-        batched.append(entry)
-    return batched
 
 def _leaktest():
     # run some ablation of dock function (ablating code in inference.py) to see
@@ -103,20 +137,3 @@ def _leaktest():
         dock.local(batch, hps=hps)
         usage = resource.getrusage(resource.RUSAGE_SELF)
         print(usage.ru_maxrss)
-        
-
-@app.local_entrypoint()
-def main(hps: str, inputs: str, batch_size: int):
-    """
-    hps: JSON file with kwargs to inference.py::main function
-    inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
-    batch_size: number of protein-ligand pairs to submit for each job
-    """
-    hps = json.loads(Path(hps).read_text())
-    inputs = json.loads(Path(inputs).read_text())
-    batched = batch_inputs(inputs, batch_size)
-
-    # outputs only written to volume (for now)
-    for result in dock.map(grouped, kwargs=dict(hps=hps), order_outputs=False):
-        print(result)
-
