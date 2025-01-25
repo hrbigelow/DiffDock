@@ -10,6 +10,7 @@ git checkout modal-port
 export VOLUME_NAME=diffdock-vol
 modal volume create $VOLUME_NAME
 modal volume put $VOLUME_NAME diffdock-repo/data/dockgen data
+modal volume put $VOLUME_NAME diffdock-repo/default_inference_args.yaml /
 modal run app.py::download_models
 modal run app.py::build_caches
 
