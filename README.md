@@ -28,6 +28,7 @@ modal run app.py::build_caches
 
 # run the model (molecular docking of a ligand against a protein)
 # batch-size is the number of protein-ligand pairs run for one method call 
+export CONCURRENCY_LIMIT=10
 modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10  
 ```
 

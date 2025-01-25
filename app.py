@@ -11,7 +11,8 @@ VOLUME_NAME = os.environ.get("VOLUME_NAME")
 
 if VOLUME_NAME is None:
     raise RuntimeError(f"Please set environment variable 'VOLUME_NAME'")
-CONCURRENCY_LIMIT=2
+
+CONCURRENCY_LIMIT = int(os.environ.get("CONCURRENCY_LIMIT", "2"))
 
 try:
     volume = modal.Volume.lookup(VOLUME_NAME)
