@@ -1,6 +1,7 @@
 # Installation
 
-    modal
+    modal run app.py::download_models
+    modal run app.py::build_caches
 
 
 # Porting DiffDock to Modal

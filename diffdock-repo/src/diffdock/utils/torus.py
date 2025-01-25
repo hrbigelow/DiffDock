@@ -1,14 +1,21 @@
+from pathlib import Path
 import numpy as np
 import tqdm
 import os
 
 """
-    Preprocessing for the SO(2)/torus sampling and score computations, truncated infinite series are computed and then
-    cached to memory, therefore the precomputation is only run the first time the repository is run on a machine
+Preprocessing for the SO(2)/torus sampling and score computations, truncated infinite
+series are computed and then cached to memory, therefore the precomputation is only
+run the first time the repository is run on a machine
 """
 
 
-def p(x, sigma, N=10):
+# Global numpy arrays
+p_ = None
+score_ = None
+score_norm_ = None
+
+def pre_p(x, sigma, N=10):
     p_ = 0
     for i in tqdm.trange(-N, N + 1):
         p_ += np.exp(-(x + 2 * np.pi * i) ** 2 / 2 / sigma ** 2)
@@ -28,17 +35,33 @@ SIGMA_MIN, SIGMA_MAX, SIGMA_N = 3e-3, 2, 5000  # relative to pi
 x = 10 ** np.linspace(np.log10(X_MIN), 0, X_N + 1) * np.pi
 sigma = 10 ** np.linspace(np.log10(SIGMA_MIN), np.log10(SIGMA_MAX), SIGMA_N + 1) * np.pi
 
-if os.path.exists('.p.npy'):
-    p_ = np.load('.p.npy')
-    score_ = np.load('.score.npy')
-else:
-    p_ = p(x, sigma[:, None], N=100)
-    np.save('.p.npy', p_)
+def build_cache(cache_dir):
+    path = Path(cache_dir)
+    if not path.exists():
+        raise RuntimeError(
+                f"Cache directory '{cache_dir}' doesn't exist.  "
+                f"Please create it first")
+    p_ = pre_p(x, sigma[:, None], N=100)
+    np.save(str(path / '.p.npy'), p_)
 
     eps = np.finfo(p_.dtype).eps
     score_ = grad(x, sigma[:, None], N=100) / (p_ + eps)
-    np.save('.score.npy', score_)
+    np.save(str(path / '.score.npy'), score_)
 
+def load_cache(cache_dir):
+    global p_, score_, score_norm_
+    path = Path(cache_dir)
+    if not os.path.exists(str(path / '.p.npy')):
+        raise RuntimeError(
+                f"SO(2)/torus Cache files do not exist at {path}. "
+                f"Please call utils.torus.build_cache() first")
+    p_ = np.load(str(path / '.p.npy'))
+    score_ = np.load(str(path / '.score.npy'))
+    score_norm_ = score(
+        sample(sigma[None].repeat(10000, 0).flatten()),
+        sigma[None].repeat(10000, 0).flatten()
+    ).reshape(10000, -1)
+    score_norm_ = (score_norm_ ** 2).mean(0)
 
 def score(x, sigma):
     x = (x + np.pi) % (2 * np.pi) - np.pi
@@ -67,13 +90,6 @@ def sample(sigma):
     out = sigma * np.random.randn(*sigma.shape)
     out = (out + np.pi) % (2 * np.pi) - np.pi
     return out
-
-
-score_norm_ = score(
-    sample(sigma[None].repeat(10000, 0).flatten()),
-    sigma[None].repeat(10000, 0).flatten()
-).reshape(10000, -1)
-score_norm_ = (score_norm_ ** 2).mean(0)
 
 
 def score_norm(sigma):

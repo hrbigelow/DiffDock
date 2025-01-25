@@ -26,39 +26,36 @@ def batch_inputs(inputs: List, batch_size: int):
         batched.append(entry)
     return batched
 
-here = Path(__file__).parent
+here = Path(__file__).parent / "diffdock-repo"
+VOLUME_DIR = Path("/app")
+CACHE_DIR = VOLUME_DIR / "cache"
 
-
+volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
 app = modal.App()
 image = (
         modal.Image.from_registry("pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel", 
                                   add_python="3.11")
         .apt_install("git")
-        .run_commands(
-            "pip install fair-esm[esmfold]==2.0.0 --no-deps"
-            )
+        .run_commands("pip install fair-esm[esmfold]==2.0.0 --no-deps")
         .pip_install_from_pyproject(
             here / "pyproject.toml", 
             find_links="https://data.pyg.org/whl/torch-2.4.0+cu121.html")
-        .env({'TORCH_HOME': "/app/cache"})
-        # must be last (to get nice mounting behavior)
-        # this allows `diffdock` package to be imported without pip install, 
-        # since Modal adds /root to sys.path
+        .env({'TORCH_HOME': str(CACHE_DIR)})
         .add_local_dir(here / "src/diffdock", "/root/diffdock")
         .add_local_file(here / "data/hps.json", "/root/hps.json")
         )
 
 
-volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
-MODEL_DIR = Path("/app")
 
-@app.cls(gpu="H100", image=image, volumes={MODEL_DIR: volume}, concurrency_limit=2)
+@app.cls(gpu="H100", image=image, volumes={VOLUME_DIR: volume}, concurrency_limit=2)
 class Model:
     @modal.enter()
     def on_startup(self):
         hps = json.loads(Path("/root/hps.json").read_text())
-        os.chdir(MODEL_DIR)
+        os.chdir(VOLUME_DIR)
         from diffdock import inference
+        from diffdock.prepare import load_caches
+        load_caches(CACHE_DIR)
         self.ddif = inference.Inference(**hps)
 
     @modal.method()
@@ -86,4 +83,15 @@ def main(inputs_json: str, batch_size: int):
     # outputs only written to volume (for now)
     for result in model.dock.map(batched, order_outputs=False):
         print(result)
+
+@app.function(image=image, volumes={VOLUME_DIR: volume}, concurrency_limit=1)
+def download_models():
+    from diffdock import prepare
+    # hps = json.loads(Path("/root/hps.json").read_text())
+    prepare.download_models(VOLUME_DIR)
+
+@app.function(image=image, volumes={VOLUME_DIR: volume}, concurrency_limit=1)
+def build_caches():
+    from diffdock import prepare
+    prepare.build_caches(str(CACHE_DIR))
 

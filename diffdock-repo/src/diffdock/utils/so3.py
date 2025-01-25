@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 import numpy as np
 import torch
@@ -7,8 +8,9 @@ MIN_EPS, MAX_EPS, N_EPS = 0.0005, 4, 2000
 X_N = 2000
 
 """
-    Preprocessing for the SO(3) sampling and score computations, truncated infinite series are computed and then
-    cached to memory, therefore the precomputation is only run the first time the repository is run on a machine
+Preprocessing for the SO(3) sampling and score computations, truncated infinite
+series are computed and then cached to memory, therefore the precomputation is only
+run the first time the repository is run on a machine
 """
 
 omegas = np.linspace(0, np.pi, X_N + 1)[1:]
@@ -41,13 +43,14 @@ def _score(exp, omega, eps, L=2000):  # score of density over SO(3)
     dSigma = ((2 * l_vec + 1) * np.exp(-l_vec * (l_vec + 1) * eps**2 / 2) * (lo * dhi - hi * dlo) / lo ** 2).sum(0)
     return dSigma / exp
 
+# Global Cache arrays
+_omegas_array = None
+_cdf_vals = None
+_score_norms = None
+_exp_score_norms = None
 
-if os.path.exists('.so3_omegas_array4.npy'):
-    _omegas_array = np.load('.so3_omegas_array4.npy')
-    _cdf_vals = np.load('.so3_cdf_vals4.npy')
-    _score_norms = np.load('.so3_score_norms4.npy')
-    _exp_score_norms = np.load('.so3_exp_score_norms4.npy')
-else:
+
+def build_cache(cache_dir):
     _eps_array = 10 ** np.linspace(np.log10(MIN_EPS), np.log10(MAX_EPS), N_EPS)
     _omegas_array = np.linspace(0, np.pi, X_N + 1)[1:]
 
@@ -57,12 +60,24 @@ else:
     _score_norms = np.asarray([_score(_exp_vals[i], _omegas_array, _eps_array[i]) for i in range(len(_eps_array))])
 
     _exp_score_norms = np.sqrt(np.sum(_score_norms**2 * _pdf_vals, axis=1) / np.sum(_pdf_vals, axis=1) / np.pi)
+    path = Path(cache_dir)
 
-    np.save('.so3_omegas_array4.npy', _omegas_array)
-    np.save('.so3_cdf_vals4.npy', _cdf_vals)
-    np.save('.so3_score_norms4.npy', _score_norms)
-    np.save('.so3_exp_score_norms4.npy', _exp_score_norms)
+    np.save(str(path / '.so3_omegas_array4.npy'), _omegas_array)
+    np.save(str(path / '.so3_cdf_vals4.npy'), _cdf_vals)
+    np.save(str(path / '.so3_score_norms4.npy'), _score_norms)
+    np.save(str(path / '.so3_exp_score_norms4.npy'), _exp_score_norms)
 
+def load_cache(cache_dir):
+    path = Path(cache_dir)
+    global _omegas_array, _cdf_vals, _score_norms, _exp_score_norms
+    if not os.path.exists(str(path / '.so3_omegas_array4.npy')):
+        raise RuntimeError(
+                f"SO3 Cache files do not exist at {path}. "
+                f"Please call so3.build_cache() first")
+    _omegas_array = np.load(str(path / '.so3_omegas_array4.npy'))
+    _cdf_vals = np.load(str(path / '.so3_cdf_vals4.npy'))
+    _score_norms = np.load(str(path / '.so3_score_norms4.npy'))
+    _exp_score_norms = np.load(str(path / '.so3_exp_score_norms4.npy'))
 
 def sample(eps):
     eps_idx = (np.log10(eps) - np.log10(MIN_EPS)) / (np.log10(MAX_EPS) - np.log10(MIN_EPS)) * N_EPS

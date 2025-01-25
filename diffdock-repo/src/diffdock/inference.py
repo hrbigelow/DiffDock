@@ -55,8 +55,6 @@ prody_logger = logging.getLogger(".prody")
 prody_logger.setLevel(logging.ERROR)
 
 REPOSITORY_URL = os.environ.get("REPOSITORY_URL", "https://github.com/gcorso/DiffDock")
-REMOTE_URLS = [f"{REPOSITORY_URL}/releases/latest/download/diffdock_models.zip",
-               f"{REPOSITORY_URL}/releases/download/v1.1/diffdock_models.zip"]
 
 class Inference:
     def __init__(
@@ -215,29 +213,12 @@ class Inference:
 
         # print(json.dumps(args.__dict__, indent=2))
 
-        # Download models if they don't exist locally
-        """
         if not os.path.exists(args.model_dir):
-            logger.info(f"Models not found. Downloading")
-            remote_urls = REMOTE_URLS
-            downloaded_successfully = False
-            for remote_url in remote_urls:
-                try:
-                    logger.info(f"Attempting download from {remote_url}")
-                    files_downloaded = download_and_extract(remote_url, os.path.dirname(args.model_dir))
-                    if not files_downloaded:
-                        logger.info(f"Download from {remote_url} failed.")
-                        continue
-                    logger.info(f"Downloaded and extracted {len(files_downloaded)} files from {remote_url}")
-                    downloaded_successfully = True
-                    # Once we have downloaded the models, we can break the loop
-                    break
-                except Exception as e:
-                    pass
-
-            if not downloaded_successfully:
-                raise Exception(f"Models not found locally and failed to download them from {remote_urls}")
-        """
+            raise RuntimeError(
+                    f"model_dir '{model_dir}' does not exist. "
+                    f"Please run python -m diffdock.prepare download for one-time setup"
+                    )
+        # Download models if they don't exist locally
 
         self.logger.info(f"DiffDock will run on {self.device}")
 
