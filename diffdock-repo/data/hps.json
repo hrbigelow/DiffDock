@@ -1,7 +1,7 @@
 {
   "config": "default_inference_args.yaml",
   "loglevel": "WARNING",
-  "out_dir": "results/user_predictions_small",
+  "out_dir": "results",
   "save_visualisation": false,
   "samples_per_complex": 10,
   "model_dir": "./score_model",

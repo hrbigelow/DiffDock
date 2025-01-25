@@ -142,6 +142,7 @@ class Inference:
         self.score_model_args = score_model_args
         self.confidence_args = confidence_args
         self.t_to_sigma = partial(t_to_sigma_compl, args=score_model_args)
+        self.model_dir = args.model_dir
 
         # preprocessing of complexes into geometric graphs
         self.test_dataset = InferenceDataset(
@@ -213,9 +214,9 @@ class Inference:
 
         # print(json.dumps(args.__dict__, indent=2))
 
-        if not os.path.exists(args.model_dir):
+        if not os.path.exists(self.model_dir):
             raise RuntimeError(
-                    f"model_dir '{model_dir}' does not exist. "
+                    f"model_dir '{self.model_dir}' does not exist. "
                     f"Please run python -m diffdock.prepare download for one-time setup"
                     )
         # Download models if they don't exist locally

@@ -8,12 +8,17 @@ repo = Path(__file__).parent / "diffdock-repo"
 VOLUME_DIR = Path("/app")
 CACHE_DIR = VOLUME_DIR / "cache"
 VOLUME_NAME = os.environ.get("VOLUME_NAME")
+
 if VOLUME_NAME is None:
     raise RuntimeError(f"Please set environment variable 'VOLUME_NAME'")
-
 CONCURRENCY_LIMIT=2
 
-volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
+try:
+    volume = modal.Volume.lookup(VOLUME_NAME)
+except modal.exception.NotFoundError as ex:
+    raise RuntimeError(
+            f"{ex}.  Please create manually with `modal volume create`")
+
 app = modal.App()
 image = (
         modal.Image.from_registry("pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel", 
@@ -23,7 +28,8 @@ image = (
         .pip_install_from_pyproject(
             repo / "pyproject.toml", 
             find_links="https://data.pyg.org/whl/torch-2.4.0+cu121.html")
-        .env({'TORCH_HOME': str(CACHE_DIR)})
+        .env({'TORCH_HOME': str(CACHE_DIR),
+              'VOLUME_NAME': VOLUME_NAME})
         .add_local_dir(repo / "src/diffdock", "/root/diffdock")
         .add_local_file(repo / "data/hps.json", "/root/hps.json")
         )
@@ -58,8 +64,9 @@ def main(inputs_json: str, batch_size: int):
     inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
     batch_size: number of protein-ligand pairs to submit for each job
     """
+    from diffdock import prepare
     inputs = json.loads(Path(inputs_json).read_text())
-    batched = batch_inputs(inputs, batch_size)
+    batched = prepare.batch_inputs(inputs, batch_size)
     model = Model()
     print("finished instantiating Model class")
     # outputs only written to volume (for now)
@@ -71,7 +78,7 @@ def download_models():
     from diffdock import prepare
     prepare.download_models(VOLUME_DIR)
 
-@app.function(image=image, volumes={VOLUME_DIR: volume}, concurrency_limit=1)
+@app.function(image=image, volumes={VOLUME_DIR: volume}, timeout=1000)
 def build_caches():
     from diffdock import prepare
     prepare.build_caches(str(CACHE_DIR))

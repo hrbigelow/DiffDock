@@ -75,12 +75,23 @@ def load_caches(cache_dir: str):
     so3.load_cache(cache_dir)
     torus.load_cache(cache_dir)
 
+def batch_inputs(inputs: list, batch_size: int):
+    """
+    inputs: List of dicts of  
+    """
+    inputs = [tuple(inputs[i:i+batch_size]) for i in range(0, len(inputs), batch_size)]
+    batched = []
+    for group in inputs:
+        entry = { k + 's': [] for k in group[0].keys() }
+        for ent in group:
+            for k, v in ent.items():
+                entry[k+'s'].append(v)
+        batched.append(entry)
+    return batched
+
+
 if __name__ == '__main__':
     cmds = dict(make_input=input_json, download=download_models)
     fire.Fire(cmds)
-
-
-
-
 
 

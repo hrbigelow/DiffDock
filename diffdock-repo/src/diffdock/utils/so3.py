@@ -51,6 +51,11 @@ _exp_score_norms = None
 
 
 def build_cache(cache_dir):
+    path = Path(cache_dir)
+    if not path.exists():
+        print(f"Creating cache directory {cache_dir}")
+        path.mkdir(parents=True, exist_ok=True)
+
     _eps_array = 10 ** np.linspace(np.log10(MIN_EPS), np.log10(MAX_EPS), N_EPS)
     _omegas_array = np.linspace(0, np.pi, X_N + 1)[1:]
 
@@ -60,7 +65,6 @@ def build_cache(cache_dir):
     _score_norms = np.asarray([_score(_exp_vals[i], _omegas_array, _eps_array[i]) for i in range(len(_eps_array))])
 
     _exp_score_norms = np.sqrt(np.sum(_score_norms**2 * _pdf_vals, axis=1) / np.sum(_pdf_vals, axis=1) / np.pi)
-    path = Path(cache_dir)
 
     np.save(str(path / '.so3_omegas_array4.npy'), _omegas_array)
     np.save(str(path / '.so3_cdf_vals4.npy'), _cdf_vals)
