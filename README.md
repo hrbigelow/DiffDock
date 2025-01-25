@@ -1,8 +1,16 @@
-# Installation
+# Quick Start 
 
+    # one-time endpoints for preparation
+    # one volume stores all persistent data (including prediction results)
+    export VOLUME_NAME=diffdock-vol
+    modal volume create $VOLUME_NAME
+    modal volume put $VOLUME_NAME diffdock-repo/data/dockgen data
     modal run app.py::download_models
     modal run app.py::build_caches
 
+    # run the model
+    # batch-size is the number of protein-ligand pairs to submit for each job 
+    modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10  
 
 # Porting DiffDock to Modal
 
@@ -19,9 +27,11 @@
   - use `-f https://data.pyg.org/whl/torch-2.4.0+cu121.html` for torch-scatter etc.
 
 
-## modal-app.py
+## app.py
   - uses `pip_install_from_pyproject` with DiffDock `pyproject.toml`
   - uses `add_local_dir` to add the DiffDock source directory
+  - uses `add_local_file` to add `data/hps.json` hyperparams file
+  - `TORCH_HOME` env is used by Pytorch to cache downloading of intermediate models
 
 
 ## Runs 
