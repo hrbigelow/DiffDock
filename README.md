@@ -34,6 +34,8 @@ modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10
   - fix broken import fair-esm[esmfold] (use --no-deps)
   - use `-f https://data.pyg.org/whl/torch-2.4.0+cu121.html` for torch-scatter etc.
 
+### Refactor to solve memory leak
+  - refactor inference.py, utils/inference_utils.py (see below)
 
 ## app.py
   - uses `pip_install_from_pyproject` with DiffDock `pyproject.toml`
