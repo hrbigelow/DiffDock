@@ -1,30 +1,7 @@
 import modal
 from pathlib import Path
-from typing import List, Dict
 import os
-import sys
-import signal
 import json
-
-def handle_sigquit(signum, frame):
-    print("Received SIGQUIT. Printing stack trace:")
-    import traceback
-    traceback.print_stack(frame)
-    sys.exit(1)
-
-# Register the handler
-signal.signal(signal.SIGQUIT, handle_sigquit)
-        
-def batch_inputs(inputs: List, batch_size: int):
-    inputs = [tuple(inputs[i:i+batch_size]) for i in range(0, len(inputs), batch_size)]
-    batched = []
-    for group in inputs:
-        entry = { k + 's': [] for k in group[0].keys() }
-        for ent in group:
-            for k, v in ent.items():
-                entry[k+'s'].append(v)
-        batched.append(entry)
-    return batched
 
 repo = Path(__file__).parent / "diffdock-repo"
 
@@ -35,7 +12,6 @@ if VOLUME_NAME is None:
     raise RuntimeError(f"Please set environment variable 'VOLUME_NAME'")
 
 CONCURRENCY_LIMIT=2
-
 
 volume = modal.Volume.from_name("diffdock-vol", create_if_missing=True)
 app = modal.App()
