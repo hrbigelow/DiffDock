@@ -241,7 +241,7 @@ sizes = [11521272, 11612920, 11736568, 11821816, 11914492, 11987964, 12096764]
 [91648, 123648, 85248, 92676, 73472, 108800]
 ```
 
-I concluded from this the leak was on a per-batch basis rather than per-batch.  I
+I concluded from this the leak was on a per-batch basis rather than per-problem.  I
 then did lots of ablation experiments to narrow it down further, testing on both CPU
 and GPU.  I finally isolated the problem to the fact that original DiffDock code was
 instantiating models and loading checkpoints for each inference.  I then made changes
