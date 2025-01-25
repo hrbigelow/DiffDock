@@ -1,3 +1,16 @@
+# Overview
+
+This is a Modal port of the inference functionality of
+[DiffDock](https://github.com/gcorso/DiffDock), a diffusion model that predicts
+conformations of protein-ligand pairs, given the individual protein and ligand
+structures in `.pdb` format.  In the context of virtual screening, there may be on
+the order of billions of such pairs to test.  
+
+Both kinds of screenings are used in industry - either searching for potential
+ligands that bind a protein of interest, or testing whether a given ligand binds
+other proteins.  The user may specify a set of protein-ligand pairs in the input as
+described below to perform either of these kinds of screens.
+
 # Quick Start 
 
 ```bash
@@ -18,9 +31,29 @@ modal run app.py::build_caches
 modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10  
 ```
 
-# Overview
+NOTES: 
 
-# Porting DiffDock to Modal
+during `build_caches` there is a warning:
+
+    /root/diffdock/utils/so3.py:67: RuntimeWarning: invalid value encountered in sqrt
+      _exp_score_norms = np.sqrt(np.sum(_score_norms**2 * _pdf_vals, axis=1) / np.sum(_pdf_vals, axis=1) / np.pi)
+
+I have not looked into this - it is present in the original work.  The prediction can
+proceed in spite of it.
+
+Also, the first time you run the main entrypoint, you will see two additional models
+being downloaded, with the lines (duplicated by app.py::CONCURRENCY_LIMIT)
+
+    Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t33_650M_UR50D.pt" to /app/cache/hub/checkpoints/esm2_t33_650M_UR50D.pt
+    Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t33_650M_UR50D.pt" to /app/cache/hub/checkpoints/esm2_t33_650M_UR50D.pt
+    Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t33_650M_UR50D-contact-regression.pt" to /app/cache/hub/checkpoints/esm2_t33_650M_UR50D-contact-regression.pt
+    Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t33_650M_UR50D-contact-regression.pt" to /app/cache/hub/checkpoints/esm2_t33_650M_UR50D-contact-regression.pt
+
+This occurs in
+[inference_utils.py](./diffdock-repo/src/diffdock/utils/inference_utils.py#L132) and
+should be surfaced to the `download_models` preparation step, but I did not get to
+it.  This is obviously pretty bad (technically a race condition), but somehow it
+doesn't seem to produce corrupted downloaded files.
 
 ## Initial preparation of DiffDock repo
 
@@ -35,13 +68,20 @@ modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10
   - use `-f https://data.pyg.org/whl/torch-2.4.0+cu121.html` for torch-scatter etc.
 
 ### Refactor to solve memory leak
-  - refactor inference.py, utils/inference_utils.py (see below)
 
-## app.py
-  - uses `pip_install_from_pyproject` with DiffDock `pyproject.toml`
-  - uses `add_local_dir` to add the DiffDock source directory
-  - uses `add_local_file` to add `data/hps.json` hyperparams file
+I refactored inference.py, utils/inference_utils.py (see section below detailing
+these experiments)
+
+## The main Modal app.py
+
+I adopted advice from Charles on how to minimize image rebuilds and manage
+hyperparameter and other inputs, and structure the overall project.
+
+  - used `pip_install_from_pyproject` with DiffDock `pyproject.toml`
+  - used `add_local_dir` to add the DiffDock source directory
+  - used `add_local_file` to add `data/hps.json` hyperparams file
   - `TORCH_HOME` env is used by Pytorch to cache downloading of intermediate models
+  - moved DiffDock repo code into subdirectory `diffdock-repo`
 
 # Input data
 
@@ -156,12 +196,13 @@ Despite the name, they actually use this as overrides, not defaults.  I left it
 as-is, but it probably should be looked into.  In general, I didn't have time to grok
 all of the parameters or figure out how one might set them for different inputs.
 
-The setup step `build_caches` (see Quick Start) takes ~10 minutes.  It computes
-a few 4M element tensors and saves them, but does so very inefficiently, in
-[so3.py](./diffdock-repo/src/diffdock/utils/so3.py).  I had originally
-implemented a more efficient version but there were slight numerical differences in
-one of the tensors, see [so3_new.py](./diffdock-repo/src/diffdock/utils/so3_new.py).
-For now I just left it in original form.
+The setup step `build_caches` (see Quick Start) takes ~10 minutes.  It computes a few
+4M element tensors and saves them, but does so very inefficiently, in
+[so3.py](./diffdock-repo/src/diffdock/utils/so3.py).  I had originally implemented a
+more efficient version that runs in ~20 seconds, but there were slight numerical
+differences in one of the tensors, see
+[so3_new.py](./diffdock-repo/src/diffdock/utils/so3_new.py).  For now I just left it
+in original form.
 
 ## Solving the memory leak
 

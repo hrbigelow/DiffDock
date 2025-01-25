@@ -54,7 +54,6 @@ class Model:
           - protein_paths: List of string, local paths to pdb file
           - ligand_descriptions: List of string, local paths to ligand .sdf file 
         """
-        print(f"Processing {input['complex_names']}...")
         self.ddif.main(**input)
         return input["complex_names"]
 
