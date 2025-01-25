@@ -1,16 +1,23 @@
 # Quick Start 
 
-    # one-time endpoints for preparation
-    # one volume stores all persistent data (including prediction results)
-    export VOLUME_NAME=diffdock-vol
-    modal volume create $VOLUME_NAME
-    modal volume put $VOLUME_NAME diffdock-repo/data/dockgen data
-    modal run app.py::download_models
-    modal run app.py::build_caches
+```bash
+git clone https://github.com/hrbigelow/DiffDock.git
+cd DiffDock
+git checkout modal-port
 
-    # run the model
-    # batch-size is the number of protein-ligand pairs to submit for each job 
-    modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10  
+# one-time endpoints for preparation
+# one volume stores all persistent data (including prediction results)
+export VOLUME_NAME=diffdock-vol
+modal volume create $VOLUME_NAME
+modal volume put $VOLUME_NAME diffdock-repo/data/dockgen data
+modal run app.py::download_models
+modal run app.py::build_caches
+
+# run the model
+# batch-size is the number of protein-ligand pairs to submit for each job 
+modal run app.py --inputs-json diffdock-repo/data/dockgen.json --batch-size 10  
+```
+
 
 # Porting DiffDock to Modal
 
