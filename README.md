@@ -121,8 +121,8 @@ structure of the original dataset.  For others, please see
 
 # Inputs file
 
-The inputs file is given in a JSON format as in `diffdock-repo/data/dockgen.json`
-produced by:
+The inputs file is given in a JSON format as in
+[data/dockgen.json](diffdock-repo/data/dockgen.json) produced by:
 
     python -m diffdock.prepare make_input SOURCE_ROOT_PATH DEST_REL_PATH OUT_FILE
         optional flags:        --protein_suffix | --ligand_suffix
@@ -164,14 +164,16 @@ become relative once mounted.  In this case, volume path `/data/dockgen` becomes
 
 # Results
 
-For each input item in `data/dockgen.json`, a corresponding entry is written to 
-`out_dir` as specified in `diffdock-repo/data/hps.json` in a subdirectory named with
+For each input item in [data/dockgen.json](./diffdock-repo/data/dockgen.json), a
+corresponding entry is written to `out_dir` as specified in
+[data/hps.json](./diffdock-repo/data/hps.json) in a subdirectory named with
 `complex_name` field.  Conceptually, DiffDock is using a diffusion model to define a
 posterior distribution over protein-ligand conformation space, and the reverse
 diffusion process produces a sample from this distribution.  DiffDock will produce up
 to `samples_per_complex` (default 10) samples (occasionally one may fail) and store
 them in [SDF](https://lifechemicals.com/order-and-supply/how-to-work-with-sd-files)
-format, with a confidence measure (higher is better) in the name of the file, for example:
+format, with a confidence measure (higher is better) in the name of the file, for
+example:
 
 
 ```
@@ -212,11 +214,11 @@ there is apparently a gradual CPU memory leak (and then something more sudden):
 
 <img src="./img/first_large_run.png"></img>
 
-Next was to add batched dispatch.  Each invocation of 
+Next was to add batched dispatch.  Each invocation of the endpoint (here, this was an
+`@app.function` before conversion to `@app.cls`) was running an inference for a batch
+of 10 protein-ligand pairs to test if the leak was per-problem or per-batch:
 
 <img src="./img/batch5_run1.png"></img>
-
-Memory leak
 
 ```
 >>> for batch in batched[:10]:
@@ -238,6 +240,13 @@ sizes = [11521272, 11612920, 11736568, 11821816, 11914492, 11987964, 12096764]
 >>> [s2 - s1 for s1, s2 in zip(sizes[:-1], sizes[1:])]
 [91648, 123648, 85248, 92676, 73472, 108800]
 ```
+
+I concluded from this the leak was on a per-batch basis rather than per-batch.  I
+then did lots of ablation experiments to narrow it down further, testing on both CPU
+and GPU.  I finally isolated the problem to the fact that original DiffDock code was
+instantiating models and loading checkpoints for each inference.  I then made changes
+to separate out these two so that all model instantiation would be performed exactly
+once at container startup.
 
 ### Changes to DiffDock code
 
