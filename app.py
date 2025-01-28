@@ -64,7 +64,7 @@ def main(inputs_json: str, batch_size: int):
     inputs: JSON file describing input protein-ligand pairs (see diffdock.prepare)
     batch_size: number of protein-ligand pairs to submit for each job
     """
-    from diffdock import prepare
+    import prepare
     inputs = json.loads(Path(inputs_json).read_text())
     batched = prepare.batch_inputs(inputs, batch_size)
     model = Model()
